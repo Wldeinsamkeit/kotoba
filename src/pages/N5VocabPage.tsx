@@ -66,8 +66,8 @@ function buildQuizQuestions(pool: MoatVocabEntry[], count: number): QuizQ[] {
 
 export function N5VocabPage() {
   const [tab, setTab] = useState<TabId>('review')
-  const [filter, setFilter] = useState<'all' | 'kanji' | 'kana' | 'kata'>('all')
   const [tick, setTick] = useState(0)
+  const [expandedCard, setExpandedCard] = useState<MoatVocabEntry | null>(null)
 
   useEffect(() => {
     const t = setInterval(() => setTick((n) => n + 1), 30000)
@@ -76,17 +76,9 @@ export function N5VocabPage() {
 
   const srs = useMemo(() => getSRS(), [tick])
 
-  const filtered = useMemo(() => n5MoatVocab.filter((e) => {
-    if (filter === 'kanji') return /[\u4e00-\u9fff]/.test(e.word)
-    if (filter === 'kana') return /^[\u3040-\u309f]+$/.test(e.word)
-    if (filter === 'kata') return /^[\u30a0-\u30ff]+$/.test(e.word)
-    return true
-  }), [filter])
-
-  const filteredIds = useMemo(() => filtered.map((e) => e.id), [filtered])
-
-  const dueIds = useMemo(() => srs.getDueCards(filteredIds), [srs, filteredIds])
-  const newIds = useMemo(() => filteredIds.filter((id) => srs.isNew(id)), [srs, filteredIds])
+  const allIds = useMemo(() => n5MoatVocab.map((e) => e.id), [])
+  const dueIds = useMemo(() => srs.getDueCards(allIds), [srs, allIds])
+  const newIds = useMemo(() => allIds.filter((id) => srs.isNew(id)), [srs, allIds])
   const stats = useMemo(() => srs.getStats(), [srs])
 
   const reviewCount = dueIds.length
@@ -97,7 +89,6 @@ export function N5VocabPage() {
       <header className="page-header moat-page-header">
         <Link to="/lessons/words" className="back-link">← 返回单词库</Link>
         <h1>N5 词汇</h1>
-        <StatsBar stats={stats} dueCount={reviewCount} newCount={newCount} />
       </header>
 
       <div className="word-moat-body">
@@ -168,32 +159,38 @@ export function N5VocabPage() {
         {tab === 'review' && (
           <FlashcardSession
             ids={dueIds}
-            vocabMap={Object.fromEntries(filtered.map((e) => [e.id, e]))}
-            filter={filter}
-            onFilterChange={(f) => { setFilter(f); }}
+            vocabMap={Object.fromEntries(n5MoatVocab.map((e) => [e.id, e]))}
             title="复习"
             onDone={() => setTick((n) => n + 1)}
+            onExpand={setExpandedCard}
           />
         )}
         {tab === 'new' && (
           <FlashcardSession
             ids={newIds}
-            vocabMap={Object.fromEntries(filtered.map((e) => [e.id, e]))}
-            filter={filter}
-            onFilterChange={(f) => { setFilter(f); }}
+            vocabMap={Object.fromEntries(n5MoatVocab.map((e) => [e.id, e]))}
             title="学新词"
             onDone={() => setTick((n) => n + 1)}
+            onExpand={setExpandedCard}
           />
         )}
-        {tab === 'quiz' && <QuizPanel pool={filtered} />}
-        {tab === 'stats' && <StatsPanel srs={srs} allIds={filteredIds} vocabMap={Object.fromEntries(n5MoatVocab.map((e) => [e.id, e]))} />}
+        {tab === 'quiz' && <QuizPanel pool={n5MoatVocab} />}
+        {tab === 'stats' && <StatsPanel srs={srs} allIds={allIds} vocabMap={Object.fromEntries(n5MoatVocab.map((e) => [e.id, e]))} />}
         </div>
       </div>
+
+      {/* 底部统计栏 */}
+      <StatsBar stats={stats} dueCount={reviewCount} newCount={newCount} />
+
+      {/* 卡片放大模态 */}
+      {expandedCard && (
+        <CardOverlay entry={expandedCard} onClose={() => setExpandedCard(null)} />
+      )}
     </div>
   )
 }
 
-/* ── Stats Bar ── */
+/* ── 底部统计栏 ── */
 
 function StatsBar({ stats, dueCount, newCount }: {
   stats: ReturnType<ReturnType<typeof getSRS>['getStats']>
@@ -201,7 +198,7 @@ function StatsBar({ stats, dueCount, newCount }: {
   newCount: number
 }) {
   return (
-    <div className="srs-top-bar">
+    <div className="srs-bottom-bar">
       <div className="srs-stat-chip">
         <span className="srs-stat-num">{dueCount}</span>
         <span className="srs-stat-label">待复习</span>
@@ -226,15 +223,68 @@ function StatsBar({ stats, dueCount, newCount }: {
   )
 }
 
+/* ── 卡片放大模态 ── */
+
+function CardOverlay({ entry, onClose }: { entry: MoatVocabEntry; onClose: () => void }) {
+  const [flipped, setFlipped] = useState(false)
+
+  return (
+    <div className="card-overlay-backdrop" onClick={onClose}>
+      <div className="card-overlay-content" onClick={(e) => e.stopPropagation()}>
+        <button className="card-overlay-close" onClick={onClose} aria-label="关闭">✕</button>
+        <button
+          className={`card-overlay-flip ${flipped ? 'is-flipped' : ''}`}
+          onClick={() => setFlipped((f) => !f)}
+        >
+          {!flipped ? (
+            <div className="card-overlay-face card-overlay-front">
+              <div className="card-overlay-word">{entry.word}</div>
+              <div className="card-overlay-reading">{entry.reading}</div>
+              <MiniSpeechButton word={entry.word} reading={entry.reading} />
+              <p className="card-overlay-hint">点击翻面查看释义</p>
+            </div>
+          ) : (
+            <div className="card-overlay-face card-overlay-back">
+              <div className="card-overlay-meaning">{entry.meaning}</div>
+              <ul className="card-overlay-elements">
+                {entry.elements.map((el) => (
+                  <li key={el.element + el.method}>
+                    <strong>{el.element}</strong>
+                    <span className="moat-el-method">{el.method}</span>
+                    <div className="moat-el-bridge">C：{el.bridgeC}</div>
+                  </li>
+                ))}
+              </ul>
+              <p className="card-overlay-scene">
+                <span className="moat-scene-title">合并场景</span>
+                {entry.mergedScene}
+              </p>
+              <p className="card-overlay-review">
+                <span className="moat-scene-title">复习要点</span>
+                {entry.reviewHint}
+              </p>
+              {entry.confusionNote && (
+                <p className="card-overlay-confusion">易混：{entry.confusionNote}</p>
+              )}
+              <div className="card-overlay-difficulty">
+                难度：{'⭐'.repeat(entry.difficultyStars)}
+              </div>
+            </div>
+          )}
+        </button>
+      </div>
+    </div>
+  )
+}
+
 /* ── Shared: Flashcard Session ── */
 
-function FlashcardSession({ ids, vocabMap, filter, onFilterChange, title, onDone }: {
+function FlashcardSession({ ids, vocabMap, title, onDone, onExpand }: {
   ids: string[]
   vocabMap: Record<string, MoatVocabEntry>
-  filter: string
-  onFilterChange: (f: 'all' | 'kanji' | 'kana' | 'kata') => void
   title: string
   onDone: () => void
+  onExpand: (entry: MoatVocabEntry) => void
 }) {
   const [idx, setIdx] = useState(0)
   const [flipped, setFlipped] = useState(false)
@@ -261,19 +311,7 @@ function FlashcardSession({ ids, vocabMap, filter, onFilterChange, title, onDone
         <div className="srs-session-complete">
           <div className="srs-complete-icon">✓</div>
           <h2>{title}</h2>
-          <p>当前没有需要处理的词{filter !== 'all' ? '（当前筛选）' : ''}</p>
-          <div className="moat-filter-group" style={{ marginTop: '1rem' }}>
-            {(['all', 'kanji', 'kana', 'kata'] as const).map((f) => (
-              <button
-                key={f}
-                type="button"
-                className={`moat-filter-btn ${filter === f ? 'active' : ''}`}
-                onClick={() => onFilterChange(f)}
-              >
-                {f === 'all' ? '全部' : f === 'kanji' ? '汉字' : f === 'kana' ? '平假名' : '片假名'}
-              </button>
-            ))}
-          </div>
+          <p>当前没有需要处理的词</p>
         </div>
       </section>
     )
@@ -307,18 +345,14 @@ function FlashcardSession({ ids, vocabMap, filter, onFilterChange, title, onDone
           <div className="srs-progress-bar-wrap">
             <div className="srs-progress-bar" style={{ width: `${((progress) / len) * 100}%` }} />
           </div>
-          <div className="moat-filter-group">
-            {(['all', 'kanji', 'kana', 'kata'] as const).map((f) => (
-              <button
-                key={f}
-                type="button"
-                className={`moat-filter-btn ${filter === f ? 'active' : ''}`}
-                onClick={() => onFilterChange(f)}
-              >
-                {f === 'all' ? '全部' : f === 'kanji' ? '汉字' : f === 'kana' ? '平假名' : '片假名'}
-              </button>
-            ))}
-          </div>
+          <button
+            type="button"
+            className="moat-expand-btn"
+            onClick={() => current && onExpand(current)}
+            title="放大查看"
+          >
+            ⛶
+          </button>
         </div>
 
         <button
@@ -366,6 +400,15 @@ function FlashcardSession({ ids, vocabMap, filter, onFilterChange, title, onDone
               </div>
             </div>
           )}
+        </button>
+
+        <button
+          type="button"
+          className="card-expand-btn"
+          onClick={() => current && onExpand(current)}
+          aria-label="放大查看"
+        >
+          ⛶ 放大
         </button>
 
         {flipped && (

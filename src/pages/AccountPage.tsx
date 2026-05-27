@@ -1,13 +1,20 @@
-import { useMemo, useState } from 'react'
-import { Link, useNavigate } from 'react-router-dom'
+import { useEffect, useMemo, useState } from 'react'
+import type { Session } from '@supabase/supabase-js'
+import { useNavigate } from 'react-router-dom'
 import { lessons } from '../data/lessons'
 import { useProgress } from '../context/ProgressContext'
 import { getUnlockedAchievements, getLockedAchievements, ACHIEVEMENTS } from '../lib/achievements'
 import { getLevelProgress, getXPToNextLevel, getLevelTitle } from '../lib/xpSystem'
+import { isSupabaseConfigured, supabase } from '../lib/supabase'
 
 type AchievementModal = {
   achievement: any
   onClose: () => void
+}
+
+type AuthMessage = {
+  type: 'info' | 'success' | 'error'
+  text: string
 }
 
 function AchievementModal({ achievement, onClose }: AchievementModal) {
@@ -34,6 +41,11 @@ export function AccountPage() {
   const navigate = useNavigate()
   const [selectedAchievement, setSelectedAchievement] = useState<any>(null)
   const [showLoginCard, setShowLoginCard] = useState(false)
+  const [session, setSession] = useState<Session | null>(null)
+  const [authEmail, setAuthEmail] = useState('')
+  const [authPassword, setAuthPassword] = useState('')
+  const [authLoading, setAuthLoading] = useState(false)
+  const [authMessage, setAuthMessage] = useState<AuthMessage | null>(null)
 
   const level = progress.level ?? 1
   const totalXP = progress.totalXP ?? 0
@@ -54,8 +66,73 @@ export function AccountPage() {
   const unlockedCount = unlockedAchievements.length
   const achievementPercent = Math.round((unlockedCount / totalAchievements) * 100)
 
+  useEffect(() => {
+    if (!supabase) return undefined
+
+    let isMounted = true
+    supabase.auth.getSession().then(({ data }) => {
+      if (isMounted) setSession(data.session)
+    })
+
+    const {
+      data: { subscription },
+    } = supabase.auth.onAuthStateChange((_event, nextSession) => {
+      setSession(nextSession)
+    })
+
+    return () => {
+      isMounted = false
+      subscription.unsubscribe()
+    }
+  }, [])
+
   const handleAchievementClick = (achievement: any) => {
     setSelectedAchievement(achievement)
+  }
+
+  const handleAuth = async (mode: 'signIn' | 'signUp') => {
+    if (!supabase) {
+      setAuthMessage({
+        type: 'error',
+        text: '还没有配置 Supabase 环境变量，先在 .env.local 或 Vercel 环境变量里填写 URL 和 publishable key。',
+      })
+      return
+    }
+
+    const email = authEmail.trim()
+    if (!email || authPassword.length < 6) {
+      setAuthMessage({
+        type: 'error',
+        text: '请输入邮箱和至少 6 位密码。',
+      })
+      return
+    }
+
+    setAuthLoading(true)
+    setAuthMessage(null)
+    const { error } =
+      mode === 'signIn'
+        ? await supabase.auth.signInWithPassword({ email, password: authPassword })
+        : await supabase.auth.signUp({ email, password: authPassword })
+    setAuthLoading(false)
+
+    if (error) {
+      setAuthMessage({ type: 'error', text: error.message })
+      return
+    }
+
+    setAuthMessage({
+      type: 'success',
+      text: mode === 'signIn' ? '登录成功，后续可以同步学习进度。' : '注册成功，请按 Supabase 邮箱策略完成确认。',
+    })
+  }
+
+  const handleSignOut = async () => {
+    if (!supabase) return
+    setAuthLoading(true)
+    const { error } = await supabase.auth.signOut()
+    setAuthLoading(false)
+    setAuthMessage(error ? { type: 'error', text: error.message } : { type: 'success', text: '已退出登录。' })
   }
 
   return (
@@ -198,14 +275,50 @@ export function AccountPage() {
         {showLoginCard && (
           <div className="login-card-content">
             <div className="login-form">
-              <h3>登录账户</h3>
-              <p className="login-subtitle">同步你的学习进度</p>
-              <input type="email" placeholder="邮箱地址" className="login-input" />
-              <input type="password" placeholder="密码" className="login-input" />
-              <button className="login-button">登录</button>
-              <p className="login-register-link">
-                还没有账户？<Link to="/register">立即注册</Link>
+              <h3>{session ? '账户已连接' : '登录账户'}</h3>
+              <p className="login-subtitle">
+                {isSupabaseConfigured ? 'Supabase 已配置，可用于同步学习进度' : '等待配置 Supabase 环境变量'}
               </p>
+              <div className={`supabase-status-pill ${isSupabaseConfigured ? 'ready' : 'missing'}`}>
+                {isSupabaseConfigured ? 'Supabase ready' : 'Supabase missing'}
+              </div>
+              {session ? (
+                <div className="login-session-card">
+                  <span>当前邮箱</span>
+                  <strong>{session.user.email ?? '已登录用户'}</strong>
+                  <button className="login-button secondary" onClick={handleSignOut} disabled={authLoading}>
+                    {authLoading ? '处理中...' : '退出登录'}
+                  </button>
+                </div>
+              ) : (
+                <>
+                  <input
+                    type="email"
+                    placeholder="邮箱地址"
+                    className="login-input"
+                    value={authEmail}
+                    onChange={(event) => setAuthEmail(event.target.value)}
+                  />
+                  <input
+                    type="password"
+                    placeholder="密码（至少 6 位）"
+                    className="login-input"
+                    value={authPassword}
+                    onChange={(event) => setAuthPassword(event.target.value)}
+                  />
+                  <div className="login-action-row">
+                    <button className="login-button" onClick={() => handleAuth('signIn')} disabled={authLoading}>
+                      {authLoading ? '处理中...' : '登录'}
+                    </button>
+                    <button className="login-button secondary" onClick={() => handleAuth('signUp')} disabled={authLoading}>
+                      注册
+                    </button>
+                  </div>
+                </>
+              )}
+              {authMessage && (
+                <p className={`login-message ${authMessage.type}`}>{authMessage.text}</p>
+              )}
             </div>
           </div>
         )}

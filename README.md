@@ -31,6 +31,8 @@ Vercel 项目配置：
 
 - `VITE_SITE_URL`: 正式站点域名，例如 `https://example.com`
 - `VITE_ENABLE_SUPERTONIC`: 默认 `false`；如果后续把 Supertonic 模型放到 LFS/CDN，再改成 `true`
+- `VITE_SUPABASE_URL`: Supabase Project URL
+- `VITE_SUPABASE_PUBLISHABLE_KEY`: Supabase publishable key
 
 如果绑定了正式域名，发布前生成 sitemap：
 
