@@ -156,6 +156,20 @@ function WebHome() {
         </div>
       </section>
 
+      {/* 单词背诵 - 移动端优先入口 */}
+      <section className="vocab-mvp-card" aria-label="单词背诵">
+        <Link to="/lessons/words/n5" className="vocab-mvp-link">
+          <div className="vocab-mvp-left">
+            <span className="vocab-mvp-icon">単</span>
+            <div>
+              <h2>单词背诵</h2>
+              <p>N5 → N4 → 高考，谐音联想记得牢</p>
+            </div>
+          </div>
+          <span className="vocab-mvp-arrow">→</span>
+        </Link>
+      </section>
+
       {/* 每日任务 */}
       <DailyTasksCard progress={progress} />
 

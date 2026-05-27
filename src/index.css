@@ -2337,67 +2337,102 @@ a:hover {
   display: flex;
   flex-direction: column;
 }
-.memory-filter-toggle {
-  gap: var(--space-2);
+.memory-level-selector {
+  gap: var(--space-3);
   display: flex;
-  margin-top: var(--space-3);
 }
-.filter-toggle-btn {
-  min-height: 36px;
+.level-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-4) var(--space-5);
   border: 1px solid var(--border-cream);
   border-radius: var(--radius-generous);
   background: var(--ivory);
-  color: var(--olive-gray);
-  padding: 6px 12px;
-  font-size: 0.85rem;
+  color: var(--charcoal-warm);
+  cursor: pointer;
   transition: all 0.2s;
 }
-.filter-toggle-btn:hover {
+.level-btn:hover {
   background: var(--parchment);
+  border-color: var(--ring-warm);
 }
-.filter-toggle-btn.active {
+.level-btn.active {
   background: var(--terracotta-brand);
   border-color: var(--terracotta-brand);
   color: var(--ivory);
 }
-.memory-batch-selector,
-.memory-controls {
-  gap: var(--space-3);
+.level-btn.active .level-sub {
+  color: rgba(255,255,255,0.75);
+}
+.level-icon {
+  font-size: 1.4rem;
+  font-weight: 700;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--parchment);
+  display: flex;
   align-items: center;
-  flex-wrap: wrap;
-  display: flex;
+  justify-content: center;
+  flex-shrink: 0;
 }
-.batch-buttons,
-.memory-action-buttons,
-.tab-buttons {
+.level-btn.active .level-icon {
+  background: rgba(255,255,255,0.2);
+}
+.level-info {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+.level-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.level-sub {
+  font-size: 0.8rem;
+  color: var(--stone-gray);
+}
+.memory-batch-selector {
+  overflow: hidden;
+}
+.batch-scroll {
+  display: flex;
   gap: var(--space-2);
-  flex-wrap: wrap;
-  display: flex;
+  overflow-x: auto;
+  padding: var(--space-2) 0;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
 }
-.batch-btn,
-.control-btn,
-.tab-btn {
-  min-height: 40px;
+.batch-scroll::-webkit-scrollbar {
+  height: 4px;
+}
+.batch-scroll::-webkit-scrollbar-thumb {
+  background: var(--ring-warm);
+  border-radius: 2px;
+}
+.batch-chip {
+  min-width: 40px;
+  height: 40px;
   border: 1px solid var(--border-cream);
-  border-radius: var(--radius-generous);
+  border-radius: 20px;
   background: var(--ivory);
   color: var(--olive-gray);
-  padding: 8px 14px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+  flex-shrink: 0;
 }
-.batch-btn.active,
-.tab-btn.active {
+.batch-chip:hover {
+  background: var(--parchment);
+  border-color: var(--ring-warm);
+}
+.batch-chip.active {
   background: var(--terracotta-brand);
   border-color: var(--terracotta-brand);
   color: var(--ivory);
-}
-.memory-search-input {
-  min-width: min(320px, 100%);
-  min-height: 44px;
-  border: 1px solid var(--border-cream);
-  border-radius: var(--radius-generous);
-  background: var(--ivory);
-  color: var(--anthropic-near-black);
-  padding: 10px 14px;
 }
 .memory-srs-stage {
   gap: var(--space-5);
@@ -3967,6 +4002,69 @@ a:hover {
 }
 .home-page {
   padding-top: var(--space-8);
+}
+
+/* 单词背诵 MVP 入口卡片 - 仅移动端显示 */
+.vocab-mvp-card {
+  display: none;
+}
+@media (max-width: 768px) {
+  .vocab-mvp-card {
+    display: block;
+    margin: 0 0 var(--space-4);
+  }
+  .vocab-mvp-link {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3);
+    padding: var(--space-4) var(--space-5);
+    background: linear-gradient(135deg, #c96442 0%, #e07850 100%);
+    color: #fff;
+    border-radius: 14px;
+    text-decoration: none;
+    box-shadow: 0 4px 16px rgba(201, 100, 66, 0.3);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .vocab-mvp-link:active {
+    transform: scale(0.97);
+    box-shadow: 0 2px 8px rgba(201, 100, 66, 0.2);
+  }
+  .vocab-mvp-left {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+  }
+  .vocab-mvp-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    font-family: var(--font-serif);
+    font-size: 1.5rem;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+  .vocab-mvp-link h2 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin: 0;
+    color: #fff;
+  }
+  .vocab-mvp-link p {
+    font-size: 0.82rem;
+    margin: 2px 0 0;
+    opacity: 0.9;
+    color: #fff;
+  }
+  .vocab-mvp-arrow {
+    font-size: 1.3rem;
+    flex-shrink: 0;
+    opacity: 0.8;
+  }
 }
 .ios-home-page {
   min-height: 100vh;

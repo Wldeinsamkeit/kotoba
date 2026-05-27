@@ -27,30 +27,31 @@ type MemoryMethodEntry = {
   }>
 }
 
-type TabId = 'list' | 'cards'
+type WordLevel = 'n5' | 'n4' | 'n3'
 
-// 读取 batch_12 记忆方法数据
-async function loadBatchMemoryMethods(batchNum: number): Promise<MemoryMethodEntry[]> {
+const WORD_LEVELS: Array<{
+  id: WordLevel
+  title: string
+  subtitle: string
+  icon: string
+  batchCount: number
+}> = [
+  { id: 'n5', title: 'N5 词汇', subtitle: '入门基础', icon: '五', batchCount: 17 },
+  { id: 'n4', title: 'N4 词汇', subtitle: '日常会话', icon: '四', batchCount: 30 },
+  { id: 'n3', title: 'N3 词汇', subtitle: '中级进阶', icon: '三', batchCount: 53 },
+]
+
+async function loadMemoryMethods(level: WordLevel, batchNum: number): Promise<MemoryMethodEntry[]> {
   try {
-    const response = await fetch(`/data/memory_methods/batch_${batchNum}_methods.json`)
+    const path = level === 'n5'
+      ? `/data/memory_methods/batch_${String(batchNum).padStart(2, '0')}_methods.json`
+      : `/data/memory_methods/${level}/batch_${String(batchNum).padStart(2, '0')}_methods.json`
+    const response = await fetch(path)
     if (!response.ok) throw new Error('Failed to load')
-    const data = await response.json()
-    return data
+    return await response.json()
   } catch {
     return []
   }
-}
-
-function StarRating({ stars }: { stars: number }) {
-  return (
-    <div className="difficulty-stars">
-      {[1, 2, 3].map((s) => (
-        <span key={s} className={s <= stars ? 'star-filled' : 'star-empty'}>
-          {s <= stars ? '★' : '☆'}
-        </span>
-      ))}
-    </div>
-  )
 }
 
 function PlayButton({ text, size = 'md' }: { text: string; size?: 'sm' | 'md' | 'lg' }) {
@@ -87,96 +88,67 @@ function PlayButton({ text, size = 'md' }: { text: string; size?: 'sm' | 'md' | 
 }
 
 export function N5MemoryMethodPage() {
-  const [batchNum, setBatchNum] = useState(12)
+  const [level, setLevel] = useState<WordLevel>('n5')
+  const [batchNum, setBatchNum] = useState(1)
   const [allWords, setAllWords] = useState<MemoryMethodEntry[]>([])
   const [loading, setLoading] = useState(true)
-  const [tab, setTab] = useState<TabId>('cards')
-  const [searchQuery, setSearchQuery] = useState('')
-  const [expandedCards, setExpandedCards] = useState<Set<string>>(new Set())
   const [currentCardIndex, setCurrentCardIndex] = useState(0)
   const [reviewFeedback, setReviewFeedback] = useState('先看日语，回忆意思，再选择你的掌握程度。')
-  const [showAll, setShowAll] = useState(false)
   const [tick, setTick] = useState(0)
 
   const srs = useMemo(() => getSRS(), [tick])
 
+  const currentLevel = WORD_LEVELS.find((l) => l.id === level)!
+
   // 加载批次数据
-  const loadBatch = useCallback(async (num: number) => {
+  const loadBatch = useCallback(async (lv: WordLevel, num: number) => {
     setLoading(true)
-    const data = await loadBatchMemoryMethods(num)
+    const data = await loadMemoryMethods(lv, num)
     setAllWords(data)
     setLoading(false)
   }, [])
 
   // 初始加载
   useEffect(() => {
-    loadBatch(batchNum)
-  }, [batchNum, loadBatch])
+    loadBatch(level, batchNum)
+  }, [level, batchNum, loadBatch])
 
   // 筛选需要背诵的单词
   const words = useMemo(() => {
-    if (showAll) return allWords
-
     const allIds = allWords.map((w) => w.word)
     const dueIds = srs.getDueCards(allIds)
     const newIds = allIds.filter((id) => srs.isNew(id))
     const dueSet = new Set([...dueIds, ...newIds])
 
-    return allWords.filter((w) => dueSet.has(w.word))
-  }, [allWords, showAll, srs])
-
-  // 搜索过滤
-  const filteredWords = useMemo(() => {
-    if (!searchQuery) return words
-    const q = searchQuery.toLowerCase()
-    return words.filter(
-      (w) =>
-        w.word.toLowerCase().includes(q) ||
-        w.reading.toLowerCase().includes(q) ||
-        w.meaning.toLowerCase().includes(q)
-    )
-  }, [words, searchQuery])
+    const filtered = allWords.filter((w) => dueSet.has(w.word))
+    return filtered.length > 0 ? filtered : allWords
+  }, [allWords, srs])
 
   const currentReviewWord =
-    filteredWords.length > 0
-      ? filteredWords[currentCardIndex % filteredWords.length]
+    words.length > 0
+      ? words[currentCardIndex % words.length]
       : null
 
   useEffect(() => {
-    if (currentCardIndex >= filteredWords.length) {
+    if (currentCardIndex >= words.length) {
       setCurrentCardIndex(0)
     }
-  }, [currentCardIndex, filteredWords.length])
+  }, [currentCardIndex, words.length])
 
   const handleSrsReview = useCallback((nextHint: string) => {
     setReviewFeedback(nextHint)
     setCurrentCardIndex((index) => {
-      if (filteredWords.length === 0) return 0
-      return (index + 1) % filteredWords.length
+      if (words.length === 0) return 0
+      return (index + 1) % words.length
     })
-  }, [filteredWords.length])
+  }, [words.length])
 
-  // 展开/收起卡片
-  const toggleCard = useCallback((word: string) => {
-    setExpandedCards((prev) => {
-      const next = new Set(prev)
-      if (next.has(word)) {
-        next.delete(word)
-      } else {
-        next.add(word)
-      }
-      return next
-    })
-  }, [])
-
-  // 全部展开/收起
-  const expandAll = useCallback(() => {
-    setExpandedCards(new Set(filteredWords.map((w) => w.word)))
-  }, [filteredWords])
-
-  const collapseAll = useCallback(() => {
-    setExpandedCards(new Set())
-  }, [])
+  const handleLevelChange = (lv: WordLevel) => {
+    setLevel(lv)
+    setBatchNum(1)
+    setCurrentCardIndex(0)
+    setTick((n) => n + 1)
+  }
 
   return (
     <div className="page memory-method-page">
@@ -184,86 +156,56 @@ export function N5MemoryMethodPage() {
         <Link to="/lessons/words" className="back-link">
           ← 返回单词库
         </Link>
-        <h1>单词记忆方法</h1>
-        <p className="page-sub">
-          带发音的N5单词记忆方法 - 批次 {batchNum} ({filteredWords.length} 词)
-        </p>
-        <div className="memory-filter-toggle">
-          <button
-            className={`filter-toggle-btn ${!showAll ? 'active' : ''}`}
-            onClick={() => { setShowAll(false); setTick((n) => n + 1) }}
-          >
-            只看背诵词
-          </button>
-          <button
-            className={`filter-toggle-btn ${showAll ? 'active' : ''}`}
-            onClick={() => { setShowAll(true); setTick((n) => n + 1) }}
-          >
-            查看全部
-          </button>
-        </div>
+        <h1>单词记忆复习</h1>
       </header>
+
+      {/* 单词库选择 */}
+      <section className="memory-level-selector">
+        {WORD_LEVELS.map((lv) => (
+          <button
+            key={lv.id}
+            className={`level-btn ${level === lv.id ? 'active' : ''}`}
+            onClick={() => handleLevelChange(lv.id)}
+          >
+            <span className="level-icon">{lv.icon}</span>
+            <div className="level-info">
+              <span className="level-title">{lv.title}</span>
+              <span className="level-sub">{lv.subtitle}</span>
+            </div>
+          </button>
+        ))}
+      </section>
 
       {/* 批次选择 */}
       <section className="memory-batch-selector">
-        <label>选择批次：</label>
-        <div className="batch-buttons">
-          {[12, 13, 14, 15, 16, 17].map((n) => (
+        <div className="batch-scroll">
+          {Array.from({ length: currentLevel.batchCount }, (_, i) => i + 1).map((n) => (
             <button
               key={n}
-              className={`batch-btn ${batchNum === n ? 'active' : ''}`}
+              className={`batch-chip ${batchNum === n ? 'active' : ''}`}
               onClick={() => {
                 setBatchNum(n)
-                loadBatch(n)
-                setExpandedCards(new Set())
+                setCurrentCardIndex(0)
+                setTick((t) => t + 1)
               }}
             >
-              批次 {n}
+              {n}
             </button>
           ))}
         </div>
       </section>
 
-      {/* 搜索和控制 */}
-      <section className="memory-controls">
-        <input
-          type="text"
-          className="memory-search-input"
-          placeholder="搜索单词、读音或含义..."
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-        />
-        <div className="memory-action-buttons">
-          <button className="control-btn" onClick={expandAll}>
-            全部展开
-          </button>
-          <button className="control-btn" onClick={collapseAll}>
-            全部收起
-          </button>
-        </div>
-        <div className="tab-buttons">
-          <button
-            className={`tab-btn ${tab === 'cards' ? 'active' : ''}`}
-            onClick={() => setTab('cards')}
-          >
-            卡片视图
-          </button>
-          <button
-            className={`tab-btn ${tab === 'list' ? 'active' : ''}`}
-            onClick={() => setTab('list')}
-          >
-            列表视图
-          </button>
-        </div>
-      </section>
+      {/* 加载状态 */}
+      {loading && <div className="memory-loading">加载中...</div>}
 
+      {/* SRS 复习卡 */}
       {!loading && currentReviewWord && (
         <section className="memory-srs-stage" aria-label="今日单词复习卡">
           <div className="memory-srs-card">
             <div className="memory-srs-top">
               <span className="tag">SRS 复习卡</span>
               <span className="meta">
-                {(currentCardIndex % filteredWords.length) + 1}/{filteredWords.length}
+                {(currentCardIndex % words.length) + 1}/{words.length}
               </span>
             </div>
             <div className="memory-srs-word">
@@ -311,125 +253,9 @@ export function N5MemoryMethodPage() {
         </section>
       )}
 
-      {/* 加载状态 */}
-      {loading && <div className="memory-loading">加载中...</div>}
-
-      {/* 卡片视图 */}
-      {!loading && tab === 'cards' && (
-        <div className="memory-cards-grid">
-          {filteredWords.map((entry) => {
-            const isExpanded = expandedCards.has(entry.word)
-            return (
-              <div
-                key={entry.word}
-                className={`memory-card ${isExpanded ? 'expanded' : ''}`}
-              >
-                {/* 卡片头部 */}
-                <div className="memory-card-header" onClick={() => toggleCard(entry.word)}>
-                  <div className="memory-word-main">
-                    <span className="memory-word-kanji">{entry.word}</span>
-                    <PlayButton text={entry.reading} size="sm" />
-                    <span className="memory-word-reading">{entry.reading}</span>
-                    <StarRating stars={entry.difficultyStars} />
-                  </div>
-                  <span className="memory-card-toggle">{isExpanded ? '▼' : '▶'}</span>
-                </div>
-
-                {/* 含义 */}
-                <div className="memory-meaning">{entry.meaning}</div>
-
-                {/* 展开内容 */}
-                {isExpanded && (
-                  <div className="memory-card-body">
-                    {/* 记忆点 */}
-                    <div className="memory-section">
-                      <h4>🧠 记忆点</h4>
-                      <ul className="memory-elements">
-                        {entry.elements.map((el, idx) => (
-                          <li key={idx}>
-                            <span className="element-method">[{el.method}]</span>
-                            <span className="element-target">{el.element}</span>
-                            <span className="element-bridge">{el.bridgeC}</span>
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-
-                    {/* 融合场景 */}
-                    <div className="memory-section">
-                      <h4>🎬 记忆场景</h4>
-                      <p className="memory-scene">{entry.mergedScene}</p>
-                    </div>
-
-                    {/* 复习提示 */}
-                    <div className="memory-section">
-                      <h4>💡 复习提示</h4>
-                      <p className="memory-tip">{entry.reviewTip}</p>
-                    </div>
-
-                    {/* 例句 */}
-                    {entry.exampleSentences && entry.exampleSentences.length > 0 && (
-                      <div className="memory-section">
-                        <h4>📝 例句</h4>
-                        <div className="memory-examples">
-                          {entry.exampleSentences.map((ex, idx) => (
-                            <div key={idx} className="memory-example-item">
-                              <div className="example-ja">
-                                    <PlayButton text={ex.ja} size="sm" />
-                                    <span>{ex.ja}</span>
-                              </div>
-                              <div className="example-zh">{ex.zh}</div>
-                            </div>
-                          ))}
-                        </div>
-                      </div>
-                    )}
-                  </div>
-                )}
-              </div>
-            )
-          })}
-        </div>
-      )}
-
-      {/* 列表视图 */}
-      {!loading && tab === 'list' && (
-        <div className="memory-list-view">
-          <table className="memory-table">
-            <thead>
-              <tr>
-                <th>单词</th>
-                <th>读音</th>
-                <th>含义</th>
-                <th>难度</th>
-                <th>记忆法</th>
-              </tr>
-            </thead>
-            <tbody>
-              {filteredWords.map((entry) => (
-                <tr key={entry.word}>
-                  <td className="list-word">{entry.word}</td>
-                  <td className="list-reading">
-                    <PlayButton text={entry.reading} size="sm" />
-                    {entry.reading}
-                  </td>
-                  <td className="list-meaning">{entry.meaning}</td>
-                  <td className="list-difficulty">
-                    <StarRating stars={entry.difficultyStars} />
-                  </td>
-                  <td className="list-tip">
-                    <div className="tip-preview">{entry.reviewTip.split('\n')[0]}</div>
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      )}
-
       {/* 空状态 */}
-      {!loading && filteredWords.length === 0 && (
-        <div className="memory-empty">没有找到匹配的单词</div>
+      {!loading && words.length === 0 && (
+        <div className="memory-empty">该批次暂无单词数据</div>
       )}
     </div>
   )
