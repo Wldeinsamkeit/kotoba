@@ -1,0 +1,275 @@
+[
+  {
+    "word": "背",
+    "reading": "せ",
+    "pos": "名",
+    "meaning": "个子，身高",
+    "meaning_en": ""
+  },
+  {
+    "word": "生徒",
+    "reading": "せいと",
+    "pos": "名",
+    "meaning": "学生",
+    "meaning_en": "student; pupil"
+  },
+  {
+    "word": "セーター",
+    "reading": "セーター",
+    "pos": "名",
+    "meaning": "毛衣",
+    "meaning_en": "sweater"
+  },
+  {
+    "word": "せっけん",
+    "reading": "せっけん",
+    "pos": "名",
+    "meaning": "肥皂",
+    "meaning_en": "soap"
+  },
+  {
+    "word": "背広",
+    "reading": "せびろ",
+    "pos": "名",
+    "meaning": "西服",
+    "meaning_en": "men's suit"
+  },
+  {
+    "word": "狭い",
+    "reading": "せまい",
+    "pos": "イ形",
+    "meaning": "窄的",
+    "meaning_en": "narrow; not spacious"
+  },
+  {
+    "word": "ゼロ",
+    "reading": "ゼロ",
+    "pos": "名",
+    "meaning": "零",
+    "meaning_en": "zero"
+  },
+  {
+    "word": "千",
+    "reading": "せん",
+    "pos": "名",
+    "meaning": "千",
+    "meaning_en": "thousand"
+  },
+  {
+    "word": "先月",
+    "reading": "せんげつ",
+    "pos": "名",
+    "meaning": "上个月",
+    "meaning_en": "last month"
+  },
+  {
+    "word": "先週",
+    "reading": "せんしゅう",
+    "pos": "名",
+    "meaning": "上周",
+    "meaning_en": "last week"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "pos": "名",
+    "meaning": "老师",
+    "meaning_en": "teacher, professor; master; doctor"
+  },
+  {
+    "word": "洗濯",
+    "reading": "せんたく",
+    "pos": "名・他動3",
+    "meaning": "洗衣服",
+    "meaning_en": "washing, laundry"
+  },
+  {
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "pos": "名・副",
+    "meaning": "全部",
+    "meaning_en": "all, entire, whole"
+  },
+  {
+    "word": "掃除",
+    "reading": "そうじする",
+    "pos": "名・動3",
+    "meaning": "打扫",
+    "meaning_en": ""
+  },
+  {
+    "word": "そうして",
+    "reading": "そうして",
+    "pos": "接続",
+    "meaning": "然后",
+    "meaning_en": ""
+  },
+  {
+    "word": "そこ",
+    "reading": "そこ",
+    "pos": "代",
+    "meaning": "那里",
+    "meaning_en": "that place, there; bottom, sole"
+  },
+  {
+    "word": "そちら",
+    "reading": "そちら",
+    "pos": "代",
+    "meaning": "那边（敬语）",
+    "meaning_en": "over there"
+  },
+  {
+    "word": "そっち",
+    "reading": "そっち",
+    "pos": "代",
+    "meaning": "那边",
+    "meaning_en": "over there"
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "pos": "名",
+    "meaning": "外面",
+    "meaning_en": "outside, exterior"
+  },
+  {
+    "word": "その",
+    "reading": "その",
+    "pos": "代",
+    "meaning": "那个",
+    "meaning_en": "that"
+  },
+  {
+    "word": "そば",
+    "reading": "そば",
+    "pos": "名",
+    "meaning": "旁边，附近",
+    "meaning_en": "near, close, beside; Japanese traditional buckwheat noodle"
+  },
+  {
+    "word": "空",
+    "reading": "そら",
+    "pos": "名",
+    "meaning": "天空",
+    "meaning_en": "sky"
+  },
+  {
+    "word": "それ",
+    "reading": "それ",
+    "pos": "代",
+    "meaning": "那个",
+    "meaning_en": "that one"
+  },
+  {
+    "word": "それから",
+    "reading": "それから",
+    "pos": "接続",
+    "meaning": "然后",
+    "meaning_en": "and then, after that"
+  },
+  {
+    "word": "それでは",
+    "reading": "それでは",
+    "pos": "接続",
+    "meaning": "那么",
+    "meaning_en": "in that situation, well then..."
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "pos": "名",
+    "meaning": "大学",
+    "meaning_en": "college; university"
+  },
+  {
+    "word": "大使館",
+    "reading": "たいしかん",
+    "pos": "名",
+    "meaning": "大使馆",
+    "meaning_en": "embassy"
+  },
+  {
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "pos": "名・ナ形",
+    "meaning": "没关系，没问题",
+    "meaning_en": "It's ok (all right); No need to worry; Everything is under control"
+  },
+  {
+    "word": "大好き",
+    "reading": "だいすき",
+    "pos": "ナ形",
+    "meaning": "非常喜欢",
+    "meaning_en": "very like-able, like very much"
+  },
+  {
+    "word": "大切",
+    "reading": "たいせつ",
+    "pos": "ナ形",
+    "meaning": "重要的",
+    "meaning_en": "important"
+  },
+  {
+    "word": "台所",
+    "reading": "だいどころ",
+    "pos": "名",
+    "meaning": "厨房",
+    "meaning_en": "kitchen"
+  },
+  {
+    "word": "たいへん",
+    "reading": "たいへん",
+    "pos": "ナ形・副",
+    "meaning": "非常，辛苦",
+    "meaning_en": "very; difficult, hard"
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "pos": "イ形",
+    "meaning": "高的，贵的",
+    "meaning_en": "tall, high; expensive"
+  },
+  {
+    "word": "たくさん",
+    "reading": "たくさん",
+    "pos": "副",
+    "meaning": "很多",
+    "meaning_en": "many, much"
+  },
+  {
+    "word": "タクシー",
+    "reading": "タクシー",
+    "pos": "名",
+    "meaning": "出租车",
+    "meaning_en": "taxi"
+  },
+  {
+    "word": "出す",
+    "reading": "だす",
+    "pos": "他動1",
+    "meaning": "拿出，取出",
+    "meaning_en": "to take (something) out; to hand in (something)"
+  },
+  {
+    "word": "立つ",
+    "reading": "たつ",
+    "pos": "自動1",
+    "meaning": "站",
+    "meaning_en": "to stand up"
+  },
+  {
+    "word": "たて",
+    "reading": "たて",
+    "pos": "名",
+    "meaning": "纵，竖",
+    "meaning_en": "length, height"
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "pos": "名",
+    "meaning": "建筑物",
+    "meaning_en": "building"
+  }
+]

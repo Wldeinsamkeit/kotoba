@@ -1,0 +1,1138 @@
+[
+  {
+    "word": "四つ",
+    "reading": "よっつ",
+    "meaning": "四个",
+    "elements": [
+      {
+        "element": "四",
+        "method": "固定读音",
+        "bridgeC": "四つ里四读よっ，表示四个"
+      },
+      {
+        "element": "つ",
+        "method": "语法记忆",
+        "bridgeC": "つ系列常用于数具体物品；一つ、二つ、三つ、四つ是一组"
+      },
+      {
+        "element": "よっつ",
+        "method": "TYPE B2",
+        "bridgeC": "よっつ→有刺；四个仙人掌都有刺"
+      }
+    ],
+    "mergedScene": "桌上摆着四个小仙人掌，每一个都有刺，你一碰就喊“有刺(よっつ)”。四つ就是四个。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "よっつ - 谐音“有刺” - 四个仙人掌每一个都有刺 - 四个。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "りんごを四つください。",
+        "zh": "请给我四个苹果。"
+      }
+    ]
+  },
+  {
+    "word": "呼ぶ",
+    "reading": "よぶ",
+    "meaning": "叫、呼唤",
+    "elements": [
+      {
+        "element": "呼",
+        "method": "TYPE A1",
+        "bridgeC": "呼=呼喊、呼唤；汉字直接提示意思"
+      },
+      {
+        "element": "よぶ",
+        "method": "TYPE B2",
+        "bridgeC": "よぶ→哟，不；看到朋友要走，喊“哟，不要走！”"
+      }
+    ],
+    "mergedScene": "朋友快走远了，你在后面大喊“哟，不要走！”这就是呼唤别人。呼ぶ=叫、呼唤。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "よぶ - 谐音“哟，不” - 朋友要走远，你喊“哟，不要走！” - 叫、呼唤。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "先生を呼びます。",
+        "zh": "叫老师。"
+      }
+    ]
+  },
+  {
+    "word": "読む",
+    "reading": "よむ",
+    "meaning": "读",
+    "elements": [
+      {
+        "element": "読",
+        "method": "TYPE A1",
+        "bridgeC": "読=读；汉字直接提示意思"
+      },
+      {
+        "element": "よむ",
+        "method": "TYPE B2",
+        "bridgeC": "よむ→要目；读书要用目/眼睛"
+      }
+    ],
+    "mergedScene": "你捧着书提醒自己：读书要用目(よむ)，眼睛盯着文字才能读。読む就是读。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "よむ - 谐音“要目” - 读书要用目/眼睛 - 读。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "本を読みます。",
+        "zh": "读书。"
+      }
+    ]
+  },
+  {
+    "word": "夜",
+    "reading": "よる",
+    "meaning": "晚上",
+    "elements": [
+      {
+        "element": "夜",
+        "method": "TYPE A1",
+        "bridgeC": "夜=晚上；中日汉字意思相通"
+      },
+      {
+        "element": "よる",
+        "method": "TYPE B2",
+        "bridgeC": "よる→夜路；晚上走夜路"
+      }
+    ],
+    "mergedScene": "晚上一个人走夜路，路灯很暗，马上能想起よる就是夜晚。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "よる - 谐音“夜路” - 晚上走夜路 - 晚上。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "夜、勉強します。",
+        "zh": "晚上学习。"
+      }
+    ]
+  },
+  {
+    "word": "弱い",
+    "reading": "よわい",
+    "meaning": "弱的",
+    "elements": [
+      {
+        "element": "弱",
+        "method": "TYPE A1",
+        "bridgeC": "弱=弱小、弱的"
+      },
+      {
+        "element": "よわい",
+        "method": "TYPE B2",
+        "bridgeC": "よわい→又歪；身体太弱，站着又歪了"
+      }
+    ],
+    "mergedScene": "一个人身体很弱，刚站起来又歪到一边。よわい就是弱的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "よわい - 谐音“又歪” - 身体太弱，站起来又歪了 - 弱的。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "体が弱いです。",
+        "zh": "身体弱。"
+      }
+    ]
+  },
+  {
+    "word": "来月",
+    "reading": "らいげつ",
+    "meaning": "下个月",
+    "elements": [
+      {
+        "element": "来",
+        "method": "固定读音",
+        "bridgeC": "来在来月、来週、来年里读らい，表示接下来、未来"
+      },
+      {
+        "element": "月",
+        "method": "固定读音",
+        "bridgeC": "月在月份相关词里常读げつ"
+      },
+      {
+        "element": "来月/今月/毎月",
+        "method": "关联记忆",
+        "bridgeC": "今月=这个月，毎月=每个月，来月=下个月"
+      }
+    ],
+    "mergedScene": "日历翻到未来的那个月，来=らい，月=げつ，合起来就是下个月。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "らいげつ - 来=らい，月=げつ - 未来来的那个月 - 下个月。关联：今月/毎月/来月。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "来月日本へ行きます。",
+        "zh": "下个月去日本。"
+      }
+    ]
+  },
+  {
+    "word": "来週",
+    "reading": "らいしゅう",
+    "meaning": "下周",
+    "elements": [
+      {
+        "element": "来",
+        "method": "固定读音",
+        "bridgeC": "来=らい，表示接下来、未来"
+      },
+      {
+        "element": "週",
+        "method": "固定读音",
+        "bridgeC": "週=しゅう，周、星期"
+      },
+      {
+        "element": "来月/来週/来年",
+        "method": "关联记忆",
+        "bridgeC": "来家族都表示下一个时间单位：下个月、下周、明年"
+      }
+    ],
+    "mergedScene": "计划表翻到下一周，来=らい，週=しゅう，合起来就是来週。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "らいしゅう - 来=らい，週=しゅう - 未来来的那一周 - 下周。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "来週テストがあります。",
+        "zh": "下周有考试。"
+      }
+    ]
+  },
+  {
+    "word": "来年",
+    "reading": "らいねん",
+    "meaning": "明年",
+    "elements": [
+      {
+        "element": "来",
+        "method": "固定读音",
+        "bridgeC": "来=らい，表示接下来、未来"
+      },
+      {
+        "element": "年",
+        "method": "固定读音",
+        "bridgeC": "年=ねん；前面已积累毎年/万年筆"
+      },
+      {
+        "element": "来年/今年/毎年",
+        "method": "关联记忆",
+        "bridgeC": "今年=ことし，毎年=まいねん，来年=らいねん"
+      }
+    ],
+    "mergedScene": "今年过完，未来来的那一年就是来年。来=らい，年=ねん。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "らいねん - 来=らい，年=ねん - 未来来的那一年 - 明年。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "来年大学へ行きます。",
+        "zh": "明年去大学。"
+      }
+    ]
+  },
+  {
+    "word": "ラジオ",
+    "reading": "ラジオ",
+    "meaning": "收音机",
+    "elements": [
+      {
+        "element": "ラジオ",
+        "method": "外来语",
+        "bridgeC": "ラジオ来自radio，表示收音机/广播"
+      }
+    ],
+    "mergedScene": "听radio广播，日语外来语就是ラジオ。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ラジオ - 外来语radio - 听radio广播 - 收音机。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ラジオを聞きます。",
+        "zh": "听收音机。"
+      }
+    ]
+  },
+  {
+    "word": "ラジカセ",
+    "reading": "ラジカセ",
+    "meaning": "收录机",
+    "elements": [
+      {
+        "element": "ラジ",
+        "method": "外来语",
+        "bridgeC": "ラジ来自ラジオ=radio"
+      },
+      {
+        "element": "カセ",
+        "method": "外来语",
+        "bridgeC": "カセ来自カセット=cassette"
+      },
+      {
+        "element": "ラジカセ/ラジオカセット",
+        "method": "关联记忆",
+        "bridgeC": "ラジカセ是ラジオカセット的缩略说法"
+      }
+    ],
+    "mergedScene": "一台机器既能听ラジオ，又能放カセット，缩短一说就是ラジカセ。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ラジカセ - ラジオ+カセット的缩略 - 既能收音又能放磁带的机器 - 收录机。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ラジカセで音楽を聞きます。",
+        "zh": "用收录机听音乐。"
+      }
+    ]
+  },
+  {
+    "word": "ラジオカセット",
+    "reading": "ラジオカセット",
+    "meaning": "收录机",
+    "elements": [
+      {
+        "element": "ラジオ",
+        "method": "外来语",
+        "bridgeC": "radio，收音机/广播"
+      },
+      {
+        "element": "カセット",
+        "method": "外来语",
+        "bridgeC": "cassette，磁带"
+      },
+      {
+        "element": "ラジカセ",
+        "method": "关联记忆",
+        "bridgeC": "ラジオカセット的短说法是ラジカセ"
+      }
+    ],
+    "mergedScene": "ラジオカセット就是radio cassette，能收音也能放磁带；说短一点就是ラジカセ。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ラジオカセット - 外来语radio+cassette - 收音机加磁带机 - 收录机。关联：ラジカセ是缩略。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ラジオカセットを買いました。",
+        "zh": "买了收录机。"
+      }
+    ]
+  },
+  {
+    "word": "りっぱ",
+    "reading": "りっぱ",
+    "meaning": "漂亮、出色",
+    "elements": [
+      {
+        "element": "りっぱ",
+        "method": "TYPE B2",
+        "bridgeC": "りっぱ→离谱啊；出色到离谱、漂亮到离谱"
+      },
+      {
+        "element": "立派",
+        "method": "关联记忆",
+        "bridgeC": "りっぱ常写作立派，表示出色、气派、漂亮"
+      }
+    ],
+    "mergedScene": "你看到一栋房子气派得离谱啊(りっぱ)，忍不住感叹：太出色、太漂亮了。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "りっぱ - 谐音“离谱啊” - 漂亮/出色到离谱啊 - 漂亮、出色。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "りっぱな家ですね。",
+        "zh": "真是漂亮的房子啊。"
+      }
+    ]
+  },
+  {
+    "word": "留学生",
+    "reading": "りゅうがくせい",
+    "meaning": "留学生",
+    "elements": [
+      {
+        "element": "留学",
+        "method": "TYPE A1",
+        "bridgeC": "留学=到国外学习；中日意思相通"
+      },
+      {
+        "element": "生",
+        "method": "固定读音",
+        "bridgeC": "生在学生/留学生中读せい"
+      },
+      {
+        "element": "りゅう",
+        "method": "TYPE B2",
+        "bridgeC": "りゅう可联想龙；一条龙出国留学"
+      }
+    ],
+    "mergedScene": "一条龙背着书包出国留学，变成留学生。留学=りゅうがく，生=せい。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "りゅうがくせい - 留学+生，生=せい - 一条龙出国留学当学生 - 留学生。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "私は留学生です。",
+        "zh": "我是留学生。"
+      }
+    ]
+  },
+  {
+    "word": "両親",
+    "reading": "りょうしん",
+    "meaning": "父母",
+    "elements": [
+      {
+        "element": "両",
+        "method": "TYPE A1",
+        "bridgeC": "両=两个、双方"
+      },
+      {
+        "element": "親",
+        "method": "TYPE A1",
+        "bridgeC": "親=亲人、父母"
+      },
+      {
+        "element": "りょうしん",
+        "method": "TYPE B2",
+        "bridgeC": "りょうしん→良心；父母用良心养你"
+      }
+    ],
+    "mergedScene": "父母两个人用良心照顾你、养你长大。両=双方，親=父母，両親就是父母。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "りょうしん - 谐音“良心” - 父母两个人用良心养你 - 父母。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "両親は元気です。",
+        "zh": "父母身体很好。"
+      }
+    ]
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "meaning": "料理、菜肴",
+    "elements": [
+      {
+        "element": "料",
+        "method": "TYPE A1",
+        "bridgeC": "料=材料"
+      },
+      {
+        "element": "理",
+        "method": "TYPE A1",
+        "bridgeC": "理=处理、整理"
+      },
+      {
+        "element": "料理",
+        "method": "关联记忆",
+        "bridgeC": "把材料处理好，就变成料理/菜肴"
+      }
+    ],
+    "mergedScene": "厨师把各种材料有条理地处理好，最后端出一盘菜。料理就是菜肴、做菜。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "りょうり - 料=材料，理=处理 - 把材料处理成菜 - 料理、菜肴。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "母は料理が上手です。",
+        "zh": "妈妈很会做菜。"
+      }
+    ]
+  },
+  {
+    "word": "旅行",
+    "reading": "りょこう",
+    "meaning": "旅行",
+    "elements": [
+      {
+        "element": "旅",
+        "method": "TYPE A1",
+        "bridgeC": "旅=旅行"
+      },
+      {
+        "element": "行",
+        "method": "TYPE A1",
+        "bridgeC": "行=去、走"
+      },
+      {
+        "element": "旅行",
+        "method": "关联记忆",
+        "bridgeC": "旅に行く，出去走就是旅行"
+      }
+    ],
+    "mergedScene": "背上包去远方走一走，旅+行就是旅行。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "りょこう - 旅=旅行，行=去/走 - 出去走一趟旅 - 旅行。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "京都へ旅行に行きます。",
+        "zh": "去京都旅行。"
+      }
+    ]
+  },
+  {
+    "word": "零",
+    "reading": "れい",
+    "meaning": "零",
+    "elements": [
+      {
+        "element": "零",
+        "method": "TYPE A1",
+        "bridgeC": "零=0；中日汉字意思相通"
+      },
+      {
+        "element": "れい",
+        "method": "TYPE B2",
+        "bridgeC": "れい→累；数到零时终于累倒"
+      }
+    ],
+    "mergedScene": "倒计时从十数到零，大家终于累倒在地。零就是れい。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "れい - 汉字零直接提示；也可谐音“累” - 倒计时到零终于累倒 - 零。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "答えは零です。",
+        "zh": "答案是零。"
+      }
+    ]
+  },
+  {
+    "word": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "meaning": "冰箱",
+    "elements": [
+      {
+        "element": "冷",
+        "method": "固定读音",
+        "bridgeC": "冷=れい，冷的"
+      },
+      {
+        "element": "蔵",
+        "method": "固定读音",
+        "bridgeC": "蔵=ぞう，储藏"
+      },
+      {
+        "element": "庫",
+        "method": "固定读音",
+        "bridgeC": "庫=こ，仓库、库"
+      },
+      {
+        "element": "冷蔵庫",
+        "method": "TYPE A1",
+        "bridgeC": "冷藏库就是冰箱"
+      }
+    ],
+    "mergedScene": "把食物放进一个冷的储藏库里保鲜，这个小冷藏库就是冰箱。冷=れい，蔵=ぞう，庫=こ。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "れいぞうこ - 冷=れい，蔵=ぞう，庫=こ - 小型冷藏库 - 冰箱。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "冷蔵庫に水があります。",
+        "zh": "冰箱里有水。"
+      }
+    ]
+  },
+  {
+    "word": "レコード",
+    "reading": "レコード",
+    "meaning": "唱片",
+    "elements": [
+      {
+        "element": "レコード",
+        "method": "外来语",
+        "bridgeC": "レコード来自record，表示唱片/录音记录"
+      }
+    ],
+    "mergedScene": "老唱机上放一张record，针一落下就开始播放。レコード就是唱片。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "レコード - 外来语record - 老唱机播放record - 唱片。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "レコードを聞きます。",
+        "zh": "听唱片。"
+      }
+    ]
+  },
+  {
+    "word": "レストラン",
+    "reading": "レストラン",
+    "meaning": "餐厅",
+    "elements": [
+      {
+        "element": "レストラン",
+        "method": "外来语",
+        "bridgeC": "レストラン来自restaurant，表示餐厅"
+      }
+    ],
+    "mergedScene": "去restaurant吃饭，日语外来语就是レストラン。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "レストラン - 外来语restaurant - 去restaurant吃饭 - 餐厅。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "レストランで食べます。",
+        "zh": "在餐厅吃饭。"
+      }
+    ]
+  },
+  {
+    "word": "練習",
+    "reading": "れんしゅうする",
+    "meaning": "练习",
+    "elements": [
+      {
+        "element": "練",
+        "method": "TYPE A1",
+        "bridgeC": "練=训练、练"
+      },
+      {
+        "element": "習",
+        "method": "TYPE A1",
+        "bridgeC": "習=学习、反复习得"
+      },
+      {
+        "element": "れんしゅう",
+        "method": "TYPE B2",
+        "bridgeC": "れんしゅう→练熟；反复练到熟"
+      },
+      {
+        "element": "する",
+        "method": "语法记忆",
+        "bridgeC": "練習する是“练习”这个动作"
+      }
+    ],
+    "mergedScene": "你把同一句日语反复练，练到非常熟。練習する就是练习。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "れんしゅうする - 谐音“练熟” - 反复练到熟 - 练习。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "毎日練習します。",
+        "zh": "每天练习。"
+      }
+    ]
+  },
+  {
+    "word": "廊下",
+    "reading": "ろうか",
+    "meaning": "走廊",
+    "elements": [
+      {
+        "element": "廊",
+        "method": "TYPE A1",
+        "bridgeC": "廊=走廊、长廊"
+      },
+      {
+        "element": "下",
+        "method": "多读音",
+        "bridgeC": "下在廊下中读か；下在其他词里读法很多，要单独积累"
+      },
+      {
+        "element": "ろうか",
+        "method": "TYPE B2",
+        "bridgeC": "ろうか→楼卡；楼下走廊要刷卡"
+      }
+    ],
+    "mergedScene": "宿舍楼下有一条长走廊，进出都要刷楼卡(ろうか)。廊下就是走廊。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ろうか - 谐音“楼卡” - 楼下走廊进出要刷卡 - 走廊。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "廊下を歩きます。",
+        "zh": "在走廊走。"
+      }
+    ]
+  },
+  {
+    "word": "六",
+    "reading": "ろく",
+    "meaning": "六",
+    "elements": [
+      {
+        "element": "六",
+        "method": "TYPE A1",
+        "bridgeC": "六=6；中日汉字意思相通"
+      },
+      {
+        "element": "ろく",
+        "method": "TYPE B2",
+        "bridgeC": "ろく→落；六面骰子落在桌上"
+      }
+    ],
+    "mergedScene": "一个六面骰子落(ろく)在桌上，朝上的数字正好是六。六就是ろく。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ろく - 谐音“落” - 六面骰子落在桌上，显示六 - 六。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "六時に起きます。",
+        "zh": "六点起床。"
+      }
+    ]
+  },
+  {
+    "word": "ワイシャツ",
+    "reading": "ワイシャツ",
+    "meaning": "衬衫",
+    "elements": [
+      {
+        "element": "ワイシャツ",
+        "method": "外来语",
+        "bridgeC": "ワイシャツ来自white shirt，常指衬衫"
+      },
+      {
+        "element": "white shirt",
+        "method": "关联记忆",
+        "bridgeC": "白衬衫最典型，所以从white shirt记ワイシャツ"
+      }
+    ],
+    "mergedScene": "上班穿的白衬衫来自white shirt，日语说成ワイシャツ。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ワイシャツ - 外来语white shirt - 上班常穿的白衬衫 - 衬衫。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ワイシャツを着ます。",
+        "zh": "穿衬衫。"
+      }
+    ]
+  },
+  {
+    "word": "若い",
+    "reading": "わかい",
+    "meaning": "年轻的",
+    "elements": [
+      {
+        "element": "若",
+        "method": "TYPE A1",
+        "bridgeC": "若=年轻"
+      },
+      {
+        "element": "わかい",
+        "method": "TYPE B2",
+        "bridgeC": "わかい→娃可爱；年轻的小娃很可爱"
+      },
+      {
+        "element": "若い/分かる",
+        "method": "对比记忆",
+        "bridgeC": "若い=娃可爱所以年轻；分かる=挖开了所以明白"
+      }
+    ],
+    "mergedScene": "一个年轻的小娃非常可爱，大家都说“娃可爱(わかい)”。若い就是年轻的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わかい - 谐音“娃可爱” - 年轻的小娃很可爱 - 年轻的。关联：分かる=挖开了就明白。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "彼は若いです。",
+        "zh": "他很年轻。"
+      }
+    ]
+  },
+  {
+    "word": "分かる",
+    "reading": "わかる",
+    "meaning": "明白、懂",
+    "elements": [
+      {
+        "element": "分",
+        "method": "TYPE A1",
+        "bridgeC": "分=分辨、分开；分清楚就懂了"
+      },
+      {
+        "element": "わかる",
+        "method": "TYPE B2",
+        "bridgeC": "わかる→挖开了；把问题挖开看清楚就明白"
+      },
+      {
+        "element": "若い/分かる",
+        "method": "对比记忆",
+        "bridgeC": "同样わか开头，若い是娃可爱，分かる是挖开了"
+      }
+    ],
+    "mergedScene": "遇到难题时，把它一点点挖开，里面结构看清楚了，就明白了。分かる就是懂。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わかる - 谐音“挖开了” - 把问题挖开看清楚，就明白了 - 明白、懂。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "日本語が分かります。",
+        "zh": "懂日语。"
+      }
+    ]
+  },
+  {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "meaning": "忘记",
+    "elements": [
+      {
+        "element": "忘",
+        "method": "TYPE A1",
+        "bridgeC": "忘=忘记"
+      },
+      {
+        "element": "わすれる",
+        "method": "TYPE B2",
+        "bridgeC": "わすれる→哇输了噜；考试忘了答案，哇，输了"
+      }
+    ],
+    "mergedScene": "考试时突然忘了答案，只能在心里喊“哇，输了噜(わすれる)”。忘れる就是忘记。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わすれる - 拆成“哇+输了噜” - 考试忘了答案，哇，输了 - 忘记。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "名前を忘れました。",
+        "zh": "忘记了名字。"
+      }
+    ]
+  },
+  {
+    "word": "私",
+    "reading": "わたくし",
+    "meaning": "我（正式）",
+    "elements": [
+      {
+        "element": "私",
+        "method": "TYPE A1",
+        "bridgeC": "私=我"
+      },
+      {
+        "element": "わたし/わたくし",
+        "method": "礼貌对比",
+        "bridgeC": "わたくし比わたし更正式；中间多く，像多扣一颗礼貌扣子"
+      }
+    ],
+    "mergedScene": "普通说わたし；正式场合像穿西装一样多扣一颗く的礼貌扣子，变成わたくし。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わたくし - 私=我；比わたし更正式 - 中间多く，像多扣一颗礼貌扣子 - 我（正式）。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "わたくしは田中です。",
+        "zh": "我是田中。"
+      }
+    ]
+  },
+  {
+    "word": "渡す",
+    "reading": "わたす",
+    "meaning": "递给",
+    "elements": [
+      {
+        "element": "渡",
+        "method": "TYPE A1",
+        "bridgeC": "渡=渡过去、传过去"
+      },
+      {
+        "element": "す",
+        "method": "语法记忆",
+        "bridgeC": "す像手伸出去，把东西递给别人"
+      },
+      {
+        "element": "渡す/渡る",
+        "method": "对比记忆",
+        "bridgeC": "渡す=把东西渡过去给别人；渡る=自己渡过去/穿过"
+      }
+    ],
+    "mergedScene": "你把书从自己这边渡过去，手伸出去递给朋友。渡す就是递给。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わたす - 渡=渡过去，す像手伸出去 - 把东西渡过去给别人 - 递给。关联：渡る=自己穿过。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "友達に本を渡します。",
+        "zh": "把书递给朋友。"
+      }
+    ]
+  },
+  {
+    "word": "渡る",
+    "reading": "わたる",
+    "meaning": "穿过",
+    "elements": [
+      {
+        "element": "渡",
+        "method": "TYPE A1",
+        "bridgeC": "渡=渡过、穿过"
+      },
+      {
+        "element": "る",
+        "method": "语法记忆",
+        "bridgeC": "る像一个人绕过去，自己完成穿过动作"
+      },
+      {
+        "element": "渡す/渡る",
+        "method": "对比记忆",
+        "bridgeC": "渡す=递给别人，动作落在别人身上；渡る=自己穿过桥/路"
+      }
+    ],
+    "mergedScene": "你自己走过桥，整个人从这边渡到那边。渡る就是穿过。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わたる - 渡=渡过，る像人自己绕过去 - 自己渡过/穿过桥或路 - 穿过。关联：渡す=递给。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "橋を渡ります。",
+        "zh": "过桥。"
+      }
+    ]
+  },
+  {
+    "word": "悪い",
+    "reading": "わるい",
+    "meaning": "坏的",
+    "elements": [
+      {
+        "element": "悪",
+        "method": "TYPE A1",
+        "bridgeC": "悪=坏、恶；汉字直接提示意思"
+      },
+      {
+        "element": "わるい",
+        "method": "联想记忆",
+        "bridgeC": "这个词不硬凑谐音，看到恶字直接记坏的；日常也常表示不好/抱歉"
+      }
+    ],
+    "mergedScene": "看到悪这个字就先想到恶、坏。东西不好、天气不好、行为不好都可以用悪い。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "悪い - 悪=坏、恶 - 不硬凑谐音，看到恶字直接记 - 坏的。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "天気が悪いです。",
+        "zh": "天气不好。"
+      }
+    ]
+  },
+  {
+    "word": "より",
+    "reading": "より",
+    "meaning": "从",
+    "elements": [
+      {
+        "element": "より",
+        "method": "TYPE B2",
+        "bridgeC": "より→由里；从里面、由这里开始"
+      },
+      {
+        "element": "より",
+        "method": "语法记忆",
+        "bridgeC": "より可表示从某个时间/地点/范围开始，也常表示比较的“比”"
+      }
+    ],
+    "mergedScene": "活动由这里开始、从这里开始，嘴里念“由里(より)”。より可以表示从。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "より - 谐音“由里” - 由这里开始，也就是从这里开始 - 从。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "九時より始まります。",
+        "zh": "从九点开始。"
+      }
+    ]
+  },
+  {
+    "word": "ほう",
+    "reading": "ほう",
+    "meaning": "方向",
+    "elements": [
+      {
+        "element": "方",
+        "method": "多读音",
+        "bridgeC": "方表示方向时读ほう；前面夕方中读がた，要记录多读音"
+      },
+      {
+        "element": "ほう",
+        "method": "TYPE B2",
+        "bridgeC": "ほう→吼；朝某个方向吼一声"
+      }
+    ],
+    "mergedScene": "你在路口不知道往哪边走，就朝一个方向吼了一声。方=方向时读ほう。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ほう - 方表示方向时读ほう；谐音“吼” - 朝某个方向吼一声 - 方向。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "右のほうへ行きます。",
+        "zh": "往右边方向走。"
+      }
+    ]
+  }
+]

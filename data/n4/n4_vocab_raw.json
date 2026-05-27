@@ -1,0 +1,8542 @@
+[
+  {
+    "index": 1,
+    "sourceIndex": 1,
+    "reading": "あう",
+    "word": "合う",
+    "meaningRaw": "[自动·五段] 合适，适合；相称，谐合；一致，相同,符合；对，准；合算，不吃 亏；（接动词连用形后）聚合；互相一块儿……，一同……；互相……"
+  },
+  {
+    "index": 2,
+    "sourceIndex": 2,
+    "reading": "すべる",
+    "word": "滑る",
+    "meaningRaw": "[自动·五段] （在物体表面）滑行滑动；站不住脚打滑，滑溜；不及格没考上；下 跌跌落；说漏嘴"
+  },
+  {
+    "index": 3,
+    "sourceIndex": 3,
+    "reading": "きせつ",
+    "word": "季節",
+    "meaningRaw": "[名] 季节"
+  },
+  {
+    "index": 4,
+    "sourceIndex": 4,
+    "reading": "ちゅうしょく",
+    "word": "昼食",
+    "meaningRaw": "[名] 午饭；午餐"
+  },
+  {
+    "index": 5,
+    "sourceIndex": 5,
+    "reading": "ちがい",
+    "word": "違い",
+    "meaningRaw": "[名] 差，差异，差别，区别，分别，不同；差错，错误"
+  },
+  {
+    "index": 6,
+    "sourceIndex": 6,
+    "reading": "おいでになる",
+    "word": "おいでになる",
+    "meaningRaw": "[动] 去，来，在，光临，驾临。"
+  },
+  {
+    "index": 7,
+    "sourceIndex": 7,
+    "reading": "はんにん",
+    "word": "犯人",
+    "meaningRaw": "[名] 犯人，罪人。"
+  },
+  {
+    "index": 8,
+    "sourceIndex": 8,
+    "reading": "せいこう",
+    "word": "成功",
+    "meaningRaw": "[名·自动·サ变] 成功、达到目的；成就；胜利；功成名就；成功立业"
+  },
+  {
+    "index": 9,
+    "sourceIndex": 9,
+    "reading": "とちゅう",
+    "word": "途中",
+    "meaningRaw": "[名·副词] 途中，路上；（事情的）中途"
+  },
+  {
+    "index": 10,
+    "sourceIndex": 10,
+    "reading": "もれる",
+    "word": "漏れる",
+    "meaningRaw": "[自动·一段] （表示液体、光等）漏，漏出，透出；泄漏，泄露，走漏；遗漏，漏 掉；被除外，被淘汰；流露，说出"
+  },
+  {
+    "index": 11,
+    "sourceIndex": 11,
+    "reading": "てん",
+    "word": "点",
+    "meaningRaw": "[名] 物体表面上看不清的小东西点；表示圆的中心或线的交点等位置点；在文章的 断句处，为了好读而点的符号逗号，标点；得分，评分，分数；点，论点，观点； 事情，方面，部分；分，件"
+  },
+  {
+    "index": 12,
+    "sourceIndex": 12,
+    "reading": "～はじめる",
+    "word": "～始める",
+    "meaningRaw": "[接尾] 开始……（动词连用形＋始める）"
+  },
+  {
+    "index": 13,
+    "sourceIndex": 13,
+    "reading": "まなー",
+    "word": "マナー",
+    "meaningRaw": "[名] manner(s)礼貌；规矩符合礼仪的举止和态度"
+  },
+  {
+    "index": 14,
+    "sourceIndex": 14,
+    "reading": "すみ",
+    "word": "隅",
+    "meaningRaw": "[名] 角落；边缘、角落、不起眼的地方"
+  },
+  {
+    "index": 15,
+    "sourceIndex": 15,
+    "reading": "おかげ",
+    "word": "御陰",
+    "meaningRaw": "[名] （神佛的）保佑，庇护；帮助，恩惠；托……的福，沾……的光，幸亏……， 归功于……；由于……缘故；亏得，怪，多亏"
+  },
+  {
+    "index": 16,
+    "sourceIndex": 16,
+    "reading": "せなか",
+    "word": "背中",
+    "meaningRaw": "[名] 背，脊背；脊梁；背后，背面"
+  },
+  {
+    "index": 17,
+    "sourceIndex": 17,
+    "reading": "さか",
+    "word": "坂",
+    "meaningRaw": "[名] 坡，坡道；斜坡，坡形；陡坡，大关"
+  },
+  {
+    "index": 18,
+    "sourceIndex": 18,
+    "reading": "のぞく",
+    "word": "除く",
+    "meaningRaw": "[他动·五段] 消除，去掉，除去；取消；铲除；删除；除了……，……除外；杀 死，干掉"
+  },
+  {
+    "index": 19,
+    "sourceIndex": 19,
+    "reading": "わかれる",
+    "word": "分かれる",
+    "meaningRaw": "[自动·一段] 分开，分手；分歧；区分，划分，分歧，区别"
+  },
+  {
+    "index": 20,
+    "sourceIndex": 20,
+    "reading": "ゆび",
+    "word": "指",
+    "meaningRaw": "[名] 指,手指,指头；趾,脚趾,趾头,脚指头『口』；［动物的］趾；拉钩约定"
+  },
+  {
+    "index": 21,
+    "sourceIndex": 21,
+    "reading": "～ばんち",
+    "word": "～番地",
+    "meaningRaw": "[名] （表示行政区域的地址）门牌（号）。（居住地を明示するために、町村など の区域内を細分してつけた番号。）"
+  },
+  {
+    "index": 22,
+    "sourceIndex": 22,
+    "reading": "えんりょ",
+    "word": "遠慮",
+    "meaningRaw": "[名·他动·サ变] 远虑，深谋远虑；客气；回避；谦辞；谢绝；毫不客气地"
+  },
+  {
+    "index": 23,
+    "sourceIndex": 23,
+    "reading": "ところで",
+    "word": "ところで",
+    "meaningRaw": "[接续] 话说回来，转移话题时用。（話題を変えて話しはじめる時に用いる。）； 即便，即使，纵令。以不起作用或毫无结果的事情为前提，表示假定的转折条件。 （逆接条件を表す。前の事柄が無益なものに、また、好ましくない状態になりそ うだという予想のもとで、後に結びつける。）"
+  },
+  {
+    "index": 24,
+    "sourceIndex": 24,
+    "reading": "とっきゅう",
+    "word": "特急",
+    "meaningRaw": "[名] 特快，特别快车；火速，赶快"
+  },
+  {
+    "index": 25,
+    "sourceIndex": 25,
+    "reading": "ぎんいろ",
+    "word": "銀色",
+    "meaningRaw": "[名] 银色，银白色"
+  },
+  {
+    "index": 26,
+    "sourceIndex": 26,
+    "reading": "がくねん",
+    "word": "学年",
+    "meaningRaw": "[名] 学年，学校的年度〔年度〕；年级〔年次〕"
+  },
+  {
+    "index": 27,
+    "sourceIndex": 27,
+    "reading": "みそ",
+    "word": "味噌",
+    "meaningRaw": "[名] 酱，黄酱，大酱，豆酱，味增；酱；得意之处，自夸；好坏不分鱼龙混杂 『成』；不分青红皂白"
+  },
+  {
+    "index": 28,
+    "sourceIndex": 28,
+    "reading": "がむ",
+    "word": "ガム",
+    "meaningRaw": "[名] gum橡皮；口香糖"
+  },
+  {
+    "index": 29,
+    "sourceIndex": 29,
+    "reading": "かなしがる",
+    "word": "悲しがる",
+    "meaningRaw": "[自动·五段] （他人看来）悲痛，露出难过的表情"
+  },
+  {
+    "index": 30,
+    "sourceIndex": 30,
+    "reading": "ゆうえんち",
+    "word": "遊園地",
+    "meaningRaw": "[名] 游园地，娱乐场地为了游览、娱乐而设置了各种乘坐物或设备的设施"
+  },
+  {
+    "index": 31,
+    "sourceIndex": 31,
+    "reading": "こん",
+    "word": "今～",
+    "meaningRaw": "[接头] 现……，本……"
+  },
+  {
+    "index": 32,
+    "sourceIndex": 32,
+    "reading": "しゃかい",
+    "word": "社会",
+    "meaningRaw": "[名] 社会，世间；（某）界，领域"
+  },
+  {
+    "index": 33,
+    "sourceIndex": 33,
+    "reading": "はじめる",
+    "word": "始める",
+    "meaningRaw": "[他动·一段] 开始；开创，创办；起来，开始；犯（老毛病）；开始；犯（老毛 病）；开创"
+  },
+  {
+    "index": 34,
+    "sourceIndex": 34,
+    "reading": "ちかごろ",
+    "word": "近頃",
+    "meaningRaw": "[名·副词] 近来，近日，最近；这些日子"
+  },
+  {
+    "index": 35,
+    "sourceIndex": 35,
+    "reading": "りょうほう",
+    "word": "両方",
+    "meaningRaw": "[名] 双方，两者，两方；两边，两方两个方面，两个方向"
+  },
+  {
+    "index": 36,
+    "sourceIndex": 36,
+    "reading": "だまる",
+    "word": "黙る",
+    "meaningRaw": "[自动·五段] 不说话，不作声，沉默；缄默；不理；不问不管"
+  },
+  {
+    "index": 37,
+    "sourceIndex": 37,
+    "reading": "どこか",
+    "word": "何処か",
+    "meaningRaw": "[代名] (表示不确定的)哪里，哪儿；某处什么地方；总觉得,好像"
+  },
+  {
+    "index": 38,
+    "sourceIndex": 38,
+    "reading": "いたす",
+    "word": "致す",
+    "meaningRaw": "[他动·五段] 做，为，办「する」的谦语常接在表示动作的汉语名词或动词连用形 后；致，达，及；引起，招致，致；带来，招来，造成；尽力，致力，贡献"
+  },
+  {
+    "index": 39,
+    "sourceIndex": 39,
+    "reading": "てきとう",
+    "word": "適当",
+    "meaningRaw": "[名·形动·自动·サ变] 适当，适合，恰当，适宜；正好，恰当，适度；酌情，随 意，随便，马虎敷衍"
+  },
+  {
+    "index": 40,
+    "sourceIndex": 40,
+    "reading": "とうとう",
+    "word": "到頭",
+    "meaningRaw": "[副词] 终于，到底，终究"
+  },
+  {
+    "index": 41,
+    "sourceIndex": 41,
+    "reading": "びる",
+    "word": "ビル",
+    "meaningRaw": "[名] ビルディング（building）的缩写大楼，高楼，大厦"
+  },
+  {
+    "index": 42,
+    "sourceIndex": 42,
+    "reading": "まんなか",
+    "word": "真ん中",
+    "meaningRaw": "[名] 正中，正中间，正当中；是「まなか」添加鼻音（拨音）后的形式"
+  },
+  {
+    "index": 43,
+    "sourceIndex": 43,
+    "reading": "かいいん",
+    "word": "会員",
+    "meaningRaw": "[名] 会员"
+  },
+  {
+    "index": 44,
+    "sourceIndex": 44,
+    "reading": "すな",
+    "word": "砂",
+    "meaningRaw": "[名] 沙子"
+  },
+  {
+    "index": 45,
+    "sourceIndex": 45,
+    "reading": "まんが",
+    "word": "漫画",
+    "meaningRaw": "[名] 漫画；连环画；动画片"
+  },
+  {
+    "index": 46,
+    "sourceIndex": 46,
+    "reading": "わかす",
+    "word": "沸かす",
+    "meaningRaw": "[他动·五段] 烧开，烧热；使……沸腾，使……狂热使……兴高采烈"
+  },
+  {
+    "index": 47,
+    "sourceIndex": 47,
+    "reading": "れもん",
+    "word": "レモン",
+    "meaningRaw": "[名] lemon〈植〉柠檬"
+  },
+  {
+    "index": 48,
+    "sourceIndex": 48,
+    "reading": "じてん",
+    "word": "辞典",
+    "meaningRaw": "[名] 词典，辞典；辞书"
+  },
+  {
+    "index": 49,
+    "sourceIndex": 49,
+    "reading": "かいだん",
+    "word": "階段",
+    "meaningRaw": "[名] 台阶，楼梯，阶梯；等级，阶段"
+  },
+  {
+    "index": 50,
+    "sourceIndex": 50,
+    "reading": "ほど",
+    "word": "程",
+    "meaningRaw": "[名] 程度，分寸；限度，分寸；（距离、时间的）程度；表示越...越；（表示大致 的程度、范围）大概……；情况"
+  },
+  {
+    "index": 51,
+    "sourceIndex": 51,
+    "reading": "じょせい",
+    "word": "女性",
+    "meaningRaw": "[名] 女性妇女；阴性"
+  },
+  {
+    "index": 52,
+    "sourceIndex": 52,
+    "reading": "しらせ",
+    "word": "知らせ",
+    "meaningRaw": "[名] 通知，告示；信，信息，消息；预兆，前兆"
+  },
+  {
+    "index": 53,
+    "sourceIndex": 53,
+    "reading": "べる",
+    "word": "ベル",
+    "meaningRaw": "[名] (英) bell; 铃，电铃；钟"
+  },
+  {
+    "index": 54,
+    "sourceIndex": 54,
+    "reading": "かんこくご",
+    "word": "韓国語",
+    "meaningRaw": "[名] 韩语"
+  },
+  {
+    "index": 55,
+    "sourceIndex": 55,
+    "reading": "おこなう",
+    "word": "行う",
+    "meaningRaw": "[他动·五段] 行，做，办。；实行，进行，施行，执行，履行。；举行。"
+  },
+  {
+    "index": 56,
+    "sourceIndex": 56,
+    "reading": "みーてぃんぐ",
+    "word": "ミーティング",
+    "meaningRaw": "[名] meeting 会议，回合，集会"
+  },
+  {
+    "index": 57,
+    "sourceIndex": 57,
+    "reading": "あのよう",
+    "word": "あの様",
+    "meaningRaw": "[形动] 那样，那般"
+  },
+  {
+    "index": 58,
+    "sourceIndex": 58,
+    "reading": "あめりか",
+    "word": "アメリカ",
+    "meaningRaw": "[名] America美洲，美洲大陆。"
+  },
+  {
+    "index": 59,
+    "sourceIndex": 59,
+    "reading": "した",
+    "word": "舌",
+    "meaningRaw": "[名] 舌；舌头；话，说话；舌状物"
+  },
+  {
+    "index": 60,
+    "sourceIndex": 60,
+    "reading": "おまえ",
+    "word": "お前",
+    "meaningRaw": "[名] （男性用语）（对同辈或晚辈的称呼）你；神前，佛前；贵人面前"
+  },
+  {
+    "index": 61,
+    "sourceIndex": 61,
+    "reading": "りーだー",
+    "word": "リーダー",
+    "meaningRaw": "[名] reader读本，课本；读者；leader指导者；干部；先驱；报纸等的社论"
+  },
+  {
+    "index": 62,
+    "sourceIndex": 62,
+    "reading": "かれーらいす",
+    "word": "カレーライス",
+    "meaningRaw": "[名] curry rice；curried rice咖哩饭。把炒好的肉、蔬菜拌上咖喱粉和面粉煮成汁 浇在米饭上的食物"
+  },
+  {
+    "index": 63,
+    "sourceIndex": 63,
+    "reading": "むだ",
+    "word": "無駄",
+    "meaningRaw": "[名·形动] 徒劳，无用，无益，白搭；浪费，白费"
+  },
+  {
+    "index": 64,
+    "sourceIndex": 64,
+    "reading": "うつす",
+    "word": "写す",
+    "meaningRaw": "[他动·五段] 抄，誊，摹；拍照；描写,描绘"
+  },
+  {
+    "index": 65,
+    "sourceIndex": 65,
+    "reading": "かっこう",
+    "word": "格好",
+    "meaningRaw": "[名·形动] （人或物的）样子，外形，形状；姿态，姿势；装束，打扮；情况；合 适；大约，差不多"
+  },
+  {
+    "index": 66,
+    "sourceIndex": 66,
+    "reading": "たのしみ",
+    "word": "楽しみ",
+    "meaningRaw": "[名·形动] 乐，愉快，乐趣；消遣，安慰，兴趣；希望，期望；期待，期盼"
+  },
+  {
+    "index": 67,
+    "sourceIndex": 67,
+    "reading": "おと",
+    "word": "音",
+    "meaningRaw": "[名] （人和动物以外发出的）音，声，声音；音响，响儿；音信,消息"
+  },
+  {
+    "index": 68,
+    "sourceIndex": 68,
+    "reading": "さいきん",
+    "word": "最近",
+    "meaningRaw": "[名·副词] 最近，近来"
+  },
+  {
+    "index": 69,
+    "sourceIndex": 69,
+    "reading": "こくない",
+    "word": "国内",
+    "meaningRaw": "[名] 国内"
+  },
+  {
+    "index": 70,
+    "sourceIndex": 70,
+    "reading": "にがい",
+    "word": "苦い",
+    "meaningRaw": "[形] （味道）苦的，苦味的；痛苦的，难受的；不愉快，不高兴"
+  },
+  {
+    "index": 71,
+    "sourceIndex": 71,
+    "reading": "ぶんぽう",
+    "word": "文法",
+    "meaningRaw": "[名] 文法，语法；语法理论，语法学说"
+  },
+  {
+    "index": 72,
+    "sourceIndex": 72,
+    "reading": "すてーき",
+    "word": "ステーキ",
+    "meaningRaw": "[名] 〈料理〉steak牛排，烤肉，烤牛排"
+  },
+  {
+    "index": 73,
+    "sourceIndex": 73,
+    "reading": "ばか",
+    "word": "馬鹿",
+    "meaningRaw": "[名·形动] 愚蠢，傻子，糊涂，笨蛋；非常专注某事不顾其他[的人]，傻认真，有 傻劲；荒唐事，瞎胡扯；无聊，无价值；不好使，不中用；程度悬殊，格外，非 常，特别"
+  },
+  {
+    "index": 74,
+    "sourceIndex": 74,
+    "reading": "さくら",
+    "word": "桜",
+    "meaningRaw": "[名] 樱花色，淡红色；〈植〉樱花；樱花树；马肉；托儿"
+  },
+  {
+    "index": 75,
+    "sourceIndex": 75,
+    "reading": "やくにたつ",
+    "word": "役に立つ",
+    "meaningRaw": "[惯用] 有用处，有益处，有利，起作用；帮得上忙"
+  },
+  {
+    "index": 76,
+    "sourceIndex": 76,
+    "reading": "ゆらす",
+    "word": "揺らす",
+    "meaningRaw": "[他动·五段] 摇晃，晃动"
+  },
+  {
+    "index": 77,
+    "sourceIndex": 77,
+    "reading": "ぬすむ",
+    "word": "盗む",
+    "meaningRaw": "[他动·五段] 偷盗，盗窃；背着……；偷空，偷闲；挤"
+  },
+  {
+    "index": 78,
+    "sourceIndex": 78,
+    "reading": "いちど",
+    "word": "一度",
+    "meaningRaw": "[名] 一回，一次，一遍；一次，一下，随时；一旦"
+  },
+  {
+    "index": 79,
+    "sourceIndex": 79,
+    "reading": "あんしん",
+    "word": "安心",
+    "meaningRaw": "[名·形动·自动·サ变] 放心，安心，无忧无虑"
+  },
+  {
+    "index": 80,
+    "sourceIndex": 80,
+    "reading": "はっぴー",
+    "word": "ハッピー",
+    "meaningRaw": "[形动] happy幸福的，幸运的，快乐的"
+  },
+  {
+    "index": 81,
+    "sourceIndex": 81,
+    "reading": "ふとん",
+    "word": "布団",
+    "meaningRaw": "[名] 被子，褥子，被褥，铺盖"
+  },
+  {
+    "index": 82,
+    "sourceIndex": 82,
+    "reading": "そう",
+    "word": "そう",
+    "meaningRaw": "[副词] 那样，那么"
+  },
+  {
+    "index": 83,
+    "sourceIndex": 83,
+    "reading": "～せんち",
+    "word": "～センチ",
+    "meaningRaw": "[名] centi.……公分，……厘米。"
+  },
+  {
+    "index": 84,
+    "sourceIndex": 84,
+    "reading": "いぜん",
+    "word": "以前",
+    "meaningRaw": "[名·副词] 从前；过去从前；不足，算不上，没有达到某个阶段；以前，之前"
+  },
+  {
+    "index": 85,
+    "sourceIndex": 85,
+    "reading": "きもの",
+    "word": "着物",
+    "meaningRaw": "[名] 和服；衣服"
+  },
+  {
+    "index": 86,
+    "sourceIndex": 86,
+    "reading": "こうはい",
+    "word": "後輩",
+    "meaningRaw": "[名] 公司的后辈；后进；后生，晚辈；低年级同学，下班生，学弟，学妹"
+  },
+  {
+    "index": 87,
+    "sourceIndex": 87,
+    "reading": "おしいれ",
+    "word": "押し入れ",
+    "meaningRaw": "[名] 壁橱，壁柜。在日式房间中设计制作的放被褥等物品的场所。推入式壁橱，和 式房中放寝具等的壁橱。"
+  },
+  {
+    "index": 88,
+    "sourceIndex": 88,
+    "reading": "たからくじ",
+    "word": "宝くじ",
+    "meaningRaw": "[名] 彩票"
+  },
+  {
+    "index": 89,
+    "sourceIndex": 89,
+    "reading": "ばしょ",
+    "word": "場所",
+    "meaningRaw": "[名] 地方场所空间位置现场所在地；席位座位；（相扑比赛的）地点和赛期"
+  },
+  {
+    "index": 90,
+    "sourceIndex": 90,
+    "reading": "ほし",
+    "word": "星",
+    "meaningRaw": "[名] 星，星斗，星星；星标，星徽；小点，斑点；靶心，鹄；目标；嫌疑犯；犯 人；〈相撲〉（表示胜负分数的）点；（比赛的）得分"
+  },
+  {
+    "index": 91,
+    "sourceIndex": 91,
+    "reading": "すいえい",
+    "word": "水泳",
+    "meaningRaw": "[名·サ变] 游泳，泅水"
+  },
+  {
+    "index": 92,
+    "sourceIndex": 92,
+    "reading": "そこで",
+    "word": "其処で",
+    "meaningRaw": "[接续] 于是，因此，所以；（表转移话题）那么，可是"
+  },
+  {
+    "index": 93,
+    "sourceIndex": 93,
+    "reading": "ひろう",
+    "word": "拾う",
+    "meaningRaw": "[他动·五段] 拾，捡；挑选，挑出，选出，拣出；弄到手，意外地得到，接；拦车"
+  },
+  {
+    "index": 94,
+    "sourceIndex": 94,
+    "reading": "こう",
+    "word": "斯う",
+    "meaningRaw": "[副词] 如此，这样，这么；啊，嗯，这个"
+  },
+  {
+    "index": 95,
+    "sourceIndex": 95,
+    "reading": "ごしゅじん",
+    "word": "ご主人",
+    "meaningRaw": "[名] （称呼别人丈夫时候的尊敬表达）您丈夫，您先生"
+  },
+  {
+    "index": 96,
+    "sourceIndex": 96,
+    "reading": "いじめる",
+    "word": "苛める",
+    "meaningRaw": "[他动·一段] 欺负；虐待；捉弄；折磨"
+  },
+  {
+    "index": 97,
+    "sourceIndex": 97,
+    "reading": "くれる",
+    "word": "暮れる",
+    "meaningRaw": "[自动·一段] 日暮，天黑，入夜； （时间，季节）接近尾声、临近结束，岁末； 长时间地处于……中；不知如何是好"
+  },
+  {
+    "index": 98,
+    "sourceIndex": 98,
+    "reading": "たのしむ",
+    "word": "楽しむ",
+    "meaningRaw": "[他动·五段] 乐，快乐；享受，欣赏；喜欢；以……为消遣，使快活；期待，以愉 快的心情盼望"
+  },
+  {
+    "index": 99,
+    "sourceIndex": 99,
+    "reading": "くろじ",
+    "word": "黒字",
+    "meaningRaw": "[名] 黑色的字；盈余,赚钱"
+  },
+  {
+    "index": 100,
+    "sourceIndex": 100,
+    "reading": "きづく",
+    "word": "気づく",
+    "meaningRaw": "[自动·五段] 注意到，察觉，发觉，意识到，认识到"
+  },
+  {
+    "index": 101,
+    "sourceIndex": 101,
+    "reading": "そうさ",
+    "word": "操作",
+    "meaningRaw": "[名·他动·サ变] 操纵（机器等）操作驾驶；设法安排筹措窜改（帐簿）"
+  },
+  {
+    "index": 102,
+    "sourceIndex": 102,
+    "reading": "げつよう",
+    "word": "月曜",
+    "meaningRaw": "[名·副词] 星期一"
+  },
+  {
+    "index": 103,
+    "sourceIndex": 103,
+    "reading": "にげる",
+    "word": "逃げる",
+    "meaningRaw": "[自动·一段] 逃跑，逃走；逃避，推卸；偏离；领先"
+  },
+  {
+    "index": 104,
+    "sourceIndex": 104,
+    "reading": "かんがえだす",
+    "word": "考え出す",
+    "meaningRaw": "[他动·五段] 想起来，想出来；开始思考"
+  },
+  {
+    "index": 105,
+    "sourceIndex": 105,
+    "reading": "ずいぶん",
+    "word": "随分",
+    "meaningRaw": "[副词·形动] 相当，非常；超越一般程度的样子，比想象的更加；残酷，无情，不 像话，过分"
+  },
+  {
+    "index": 106,
+    "sourceIndex": 106,
+    "reading": "おんど",
+    "word": "温度",
+    "meaningRaw": "[名] 温度，热度"
+  },
+  {
+    "index": 107,
+    "sourceIndex": 107,
+    "reading": "けいさつ",
+    "word": "警察",
+    "meaningRaw": "[名] 警察；公安局，警察署的略称"
+  },
+  {
+    "index": 108,
+    "sourceIndex": 108,
+    "reading": "かんがえる",
+    "word": "考える",
+    "meaningRaw": "[他动·一段] 想，思，思维，思索；考虑；持……意见,有……看法；研究，探 讨，系统分析"
+  },
+  {
+    "index": 109,
+    "sourceIndex": 109,
+    "reading": "あんぜん",
+    "word": "安全",
+    "meaningRaw": "[名·形动] 剩余风险被判定为可接受的状态。；安全，保险；平安"
+  },
+  {
+    "index": 110,
+    "sourceIndex": 110,
+    "reading": "おじょうさん",
+    "word": "お嬢さん",
+    "meaningRaw": "[名] 令爱,（您的）女儿；千金；小姐，姑娘；女青年；娇生惯养的小姐"
+  },
+  {
+    "index": 111,
+    "sourceIndex": 111,
+    "reading": "たんご",
+    "word": "単語",
+    "meaningRaw": "[名] 词；词汇，单词，单字"
+  },
+  {
+    "index": 112,
+    "sourceIndex": 112,
+    "reading": "りょうがわ",
+    "word": "両側",
+    "meaningRaw": "[名] 两侧，两边，两方面"
+  },
+  {
+    "index": 113,
+    "sourceIndex": 113,
+    "reading": "どのよう",
+    "word": "何の様",
+    "meaningRaw": "[名·形动] 怎么样的；如何，怎样"
+  },
+  {
+    "index": 114,
+    "sourceIndex": 114,
+    "reading": "かわりに",
+    "word": "代わりに",
+    "meaningRaw": "[副词·接续] 代替；取代"
+  },
+  {
+    "index": 115,
+    "sourceIndex": 115,
+    "reading": "しょうがつ",
+    "word": "正月",
+    "meaningRaw": "[名] 正月，新年；过年似的热闹愉快"
+  },
+  {
+    "index": 116,
+    "sourceIndex": 116,
+    "reading": "そぼ",
+    "word": "祖母",
+    "meaningRaw": "[名] 祖母; 外祖母；奶奶，祖母；姥姥，外祖母"
+  },
+  {
+    "index": 117,
+    "sourceIndex": 117,
+    "reading": "しなもの",
+    "word": "品物",
+    "meaningRaw": "[名] 物品，东西；实物；商品，货物"
+  },
+  {
+    "index": 118,
+    "sourceIndex": 118,
+    "reading": "もちろん",
+    "word": "もちろん",
+    "meaningRaw": "[副词] 当然；不用说；不待言"
+  },
+  {
+    "index": 119,
+    "sourceIndex": 119,
+    "reading": "たしか",
+    "word": "確か",
+    "meaningRaw": "[副词·形动] 确实，确切；正确，准确；可靠，信得过；保险；大概，也许；好 像，似乎"
+  },
+  {
+    "index": 120,
+    "sourceIndex": 120,
+    "reading": "しらべる",
+    "word": "調べる",
+    "meaningRaw": "[他动·一段] 调查；查阅；检查，核对，对照；查找；查验；审问，审讯；搜查； 调音；奏乐，演奏（乐器）"
+  },
+  {
+    "index": 121,
+    "sourceIndex": 121,
+    "reading": "みかん",
+    "word": "蜜柑",
+    "meaningRaw": "[名] 橘子；柑橘"
+  },
+  {
+    "index": 122,
+    "sourceIndex": 122,
+    "reading": "だいたい",
+    "word": "大体",
+    "meaningRaw": "[名·副词] 概要，大概，大略；大致，大体上，差不多；本来，原本，根本"
+  },
+  {
+    "index": 123,
+    "sourceIndex": 123,
+    "reading": "じゅうよう",
+    "word": "重要",
+    "meaningRaw": "[名·形动] 重要，要紧；重要的，要紧的"
+  },
+  {
+    "index": 124,
+    "sourceIndex": 124,
+    "reading": "れんらく",
+    "word": "連絡",
+    "meaningRaw": "[名·自他动·サ变] 联络联系彼此关联通讯联系；通知通报；（交通工具）联运连 接联合"
+  },
+  {
+    "index": 125,
+    "sourceIndex": 125,
+    "reading": "～め",
+    "word": "～目",
+    "meaningRaw": "[接尾] （顺序的数法）第……个；第……。"
+  },
+  {
+    "index": 126,
+    "sourceIndex": 126,
+    "reading": "どうぶつえん",
+    "word": "動物園",
+    "meaningRaw": "[名] 动物园"
+  },
+  {
+    "index": 127,
+    "sourceIndex": 127,
+    "reading": "かぞえる",
+    "word": "数える",
+    "meaningRaw": "[他动·一段] 算得上，数得着确认为某一范围之内的事物；计算，数；列举，枚举"
+  },
+  {
+    "index": 128,
+    "sourceIndex": 128,
+    "reading": "はつげん",
+    "word": "発言",
+    "meaningRaw": "[名·サ变] 发言；发言"
+  },
+  {
+    "index": 129,
+    "sourceIndex": 129,
+    "reading": "かたづく",
+    "word": "片付く",
+    "meaningRaw": "[自动·五段] 收拾整齐，整理好；得到解决；处理好；做完；卖掉；出嫁，嫁人"
+  },
+  {
+    "index": 130,
+    "sourceIndex": 130,
+    "reading": "ばっぐ",
+    "word": "バッグ",
+    "meaningRaw": "[名] （bag）袋子；皮包"
+  },
+  {
+    "index": 131,
+    "sourceIndex": 131,
+    "reading": "じゅうぶん",
+    "word": "十分",
+    "meaningRaw": "[副词·形动] 十分，充分，充足，足够，充裕"
+  },
+  {
+    "index": 132,
+    "sourceIndex": 132,
+    "reading": "もうす",
+    "word": "申す",
+    "meaningRaw": "[他动·五段] （「言う」的自谦语）说；讲，告诉，叫做；する的谦让语"
+  },
+  {
+    "index": 133,
+    "sourceIndex": 133,
+    "reading": "ひ",
+    "word": "火",
+    "meaningRaw": "[名] 火；火焰；炭火，炉火"
+  },
+  {
+    "index": 134,
+    "sourceIndex": 134,
+    "reading": "ふね",
+    "word": "船",
+    "meaningRaw": "[名] 船，舟；槽，盆长方形容器；棺，柩"
+  },
+  {
+    "index": 135,
+    "sourceIndex": 135,
+    "reading": "やさしい",
+    "word": "優しい",
+    "meaningRaw": "[形] 优美，柔和，优雅；亲切，和蔼；和气；和善；温和，温顺，温柔；恳切；殷 恳；慈祥；温情；体贴"
+  },
+  {
+    "index": 136,
+    "sourceIndex": 136,
+    "reading": "びっくり",
+    "word": "びっくり",
+    "meaningRaw": "[名·副词·自动·サ变] 吃惊，受惊，吓一跳因意外，突然地事而感到惊讶的样子"
+  },
+  {
+    "index": 137,
+    "sourceIndex": 137,
+    "reading": "だんぼう",
+    "word": "暖房",
+    "meaningRaw": "[名·他动·サ变] 供暖；暖气（设备）"
+  },
+  {
+    "index": 138,
+    "sourceIndex": 138,
+    "reading": "～おわる",
+    "word": "～終わる",
+    "meaningRaw": "[文法] ……完。"
+  },
+  {
+    "index": 139,
+    "sourceIndex": 139,
+    "reading": "すばらしい",
+    "word": "素晴らしい",
+    "meaningRaw": "[形] 出色的，优秀的，了不起的，极好的，绝佳的"
+  },
+  {
+    "index": 140,
+    "sourceIndex": 140,
+    "reading": "ちぇっく",
+    "word": "チェック",
+    "meaningRaw": "[名·サ变] check核对，检查核对；支票；方格花纹，格子，花格；检验（记 号），核对（记号）；打记号；牵制；阻止；抑制；<国际象棋>将军将；帅"
+  },
+  {
+    "index": 141,
+    "sourceIndex": 141,
+    "reading": "ぐらす",
+    "word": "グラス",
+    "meaningRaw": "[名] glass玻璃杯；玻璃；眼镜"
+  },
+  {
+    "index": 142,
+    "sourceIndex": 142,
+    "reading": "がんたん",
+    "word": "元旦",
+    "meaningRaw": "[名] 元旦，新年"
+  },
+  {
+    "index": 143,
+    "sourceIndex": 143,
+    "reading": "わがまま",
+    "word": "わがまま",
+    "meaningRaw": "[名·形动] 任性；恣意；放肆"
+  },
+  {
+    "index": 144,
+    "sourceIndex": 144,
+    "reading": "かよう",
+    "word": "火曜",
+    "meaningRaw": "[名·副词] 星期二"
+  },
+  {
+    "index": 145,
+    "sourceIndex": 145,
+    "reading": "ゆるす",
+    "word": "許す",
+    "meaningRaw": "[他动·五段] 允许，准许，许可，批准；原谅，饶恕，宽恕；免，免除；容许；承 认，公认"
+  },
+  {
+    "index": 146,
+    "sourceIndex": 146,
+    "reading": "しらせる",
+    "word": "知らせる",
+    "meaningRaw": "[他动·一段] 通知"
+  },
+  {
+    "index": 147,
+    "sourceIndex": 147,
+    "reading": "まんごー",
+    "word": "マンゴー",
+    "meaningRaw": "[名] 芒果。（ウルシ科の常緑高木。南アジア原産。果樹として栽培。果実は長さ 10～20センチメートルの卵形で、黄色に熟し大形の種子が一個ある。果肉は多 汁で甘酸っぱく、独特の香りがあって美味。生食のほか、ジャムやシロップ漬 け、ジュースにする。 ［季］ 夏。 〔「檬果」とも書く〕）"
+  },
+  {
+    "index": 148,
+    "sourceIndex": 148,
+    "reading": "かみ",
+    "word": "髪",
+    "meaningRaw": "[名] 发，头发；发型；发，头发"
+  },
+  {
+    "index": 149,
+    "sourceIndex": 149,
+    "reading": "わる",
+    "word": "割る",
+    "meaningRaw": "[他动·五段] 分，切，割，劈，打破，打坏；把一物分成几部分，分，分隔，分 配；除，除以；使分开；分开；挤开；推开；稀释，兑；毫不隐瞒地说出来；敞 开；亮出；挑明；坦白；数量降到某一基准点以下；低于；降到…以下；打破；相 扑比赛时，被摔出圈外；出（圈儿）"
+  },
+  {
+    "index": 150,
+    "sourceIndex": 150,
+    "reading": "ぜひ",
+    "word": "是非",
+    "meaningRaw": "[名·副词] 是非；正确与错误，对与不对；善恶，好与坏；务必，必须；一定；无 论如何；非……不可"
+  },
+  {
+    "index": 151,
+    "sourceIndex": 151,
+    "reading": "かれ",
+    "word": "彼",
+    "meaningRaw": "[名] 他；彼；情人，男朋友，对象"
+  },
+  {
+    "index": 152,
+    "sourceIndex": 152,
+    "reading": "くっきー",
+    "word": "クッキー",
+    "meaningRaw": "[名] cookie.家常小甜饼，小酥饼，曲奇饼"
+  },
+  {
+    "index": 153,
+    "sourceIndex": 153,
+    "reading": "らーめん",
+    "word": "ラーメン",
+    "meaningRaw": "[名] 拉面，中式汤面"
+  },
+  {
+    "index": 154,
+    "sourceIndex": 154,
+    "reading": "ぞんずる",
+    "word": "存ずる",
+    "meaningRaw": "[他动·サ变] 想，打算，认为；知道，认识"
+  },
+  {
+    "index": 155,
+    "sourceIndex": 155,
+    "reading": "がんこ",
+    "word": "頑固",
+    "meaningRaw": "[名·形动] 顽固；固执；久治不愈的病，痼疾"
+  },
+  {
+    "index": 156,
+    "sourceIndex": 156,
+    "reading": "こうそくどうろ",
+    "word": "高速道路",
+    "meaningRaw": "[名] 高速公路"
+  },
+  {
+    "index": 157,
+    "sourceIndex": 157,
+    "reading": "ちから",
+    "word": "力",
+    "meaningRaw": "[名] 力，力量，力气；劲，劲头『口』，体力；力；重力；引力；压力；权力；势 力；威力；暴力；实力；努力，尽力；能力"
+  },
+  {
+    "index": 158,
+    "sourceIndex": 158,
+    "reading": "きょういく",
+    "word": "教育",
+    "meaningRaw": "[名·他动·サ变] 学校教育（学校の教育）；教养（広義の教養）；文化程度（学 力）"
+  },
+  {
+    "index": 159,
+    "sourceIndex": 159,
+    "reading": "しんせき",
+    "word": "親戚",
+    "meaningRaw": "[名] 亲属，亲戚"
+  },
+  {
+    "index": 160,
+    "sourceIndex": 160,
+    "reading": "いんたーねっと",
+    "word": "インターネット",
+    "meaningRaw": "[名] Internet因特网"
+  },
+  {
+    "index": 161,
+    "sourceIndex": 161,
+    "reading": "うれる",
+    "word": "売れる",
+    "meaningRaw": "[自动·一段] （商品）畅销，好卖；能卖，卖出去，脱手，卖成钱；驰名，出名"
+  },
+  {
+    "index": 162,
+    "sourceIndex": 162,
+    "reading": "ほら",
+    "word": "ほら",
+    "meaningRaw": "[感动] （用于提醒）喏，瞧，喂"
+  },
+  {
+    "index": 163,
+    "sourceIndex": 163,
+    "reading": "いける",
+    "word": "行ける",
+    "meaningRaw": "[自动·一段] 能去，能走；会，行，能搞；很好，不坏；好吃；好喝；能喝酒，海 量"
+  },
+  {
+    "index": 164,
+    "sourceIndex": 164,
+    "reading": "きゅうに",
+    "word": "急に",
+    "meaningRaw": "[副词] 忽然，突然，骤然，急忙，紧急"
+  },
+  {
+    "index": 165,
+    "sourceIndex": 165,
+    "reading": "かちょう",
+    "word": "課長",
+    "meaningRaw": "[名] 科长"
+  },
+  {
+    "index": 166,
+    "sourceIndex": 166,
+    "reading": "しんぱい",
+    "word": "心配",
+    "meaningRaw": "[名·形动·自他动·サ变] 担心，挂心，挂念，牵挂，惦记，挂虑，惦念；害怕， 不安，忧虑，操心，张罗；操心，费心；关照；张罗，介绍；担心；不安；操心"
+  },
+  {
+    "index": 167,
+    "sourceIndex": 167,
+    "reading": "あれ",
+    "word": "あれ",
+    "meaningRaw": "[惯用] （表示惊讶、奇怪时）哎呀！（＝あれ）"
+  },
+  {
+    "index": 168,
+    "sourceIndex": 168,
+    "reading": "ようい",
+    "word": "用意",
+    "meaningRaw": "[名·自他动·サ变] 准备，预备；注意，警惕，防备"
+  },
+  {
+    "index": 169,
+    "sourceIndex": 169,
+    "reading": "たとえば",
+    "word": "例えば",
+    "meaningRaw": "[副词] 譬如，比如，例如，假设；譬如，比如，例如，假设"
+  },
+  {
+    "index": 170,
+    "sourceIndex": 170,
+    "reading": "さーくる",
+    "word": "サークル",
+    "meaningRaw": "[名] 圆，圆周，圆阵；circle 社团，团体，小组，研究班"
+  },
+  {
+    "index": 171,
+    "sourceIndex": 171,
+    "reading": "かんごし",
+    "word": "看護士",
+    "meaningRaw": "[名] 男看护，男护士具有护理伤病者等疗养或辅助诊疗资格的男子"
+  },
+  {
+    "index": 172,
+    "sourceIndex": 172,
+    "reading": "かたち",
+    "word": "形",
+    "meaningRaw": "[名] 外形，形状，样子；姿态，容貌，服饰；形式上的，表面上的；形式，体裁； 使成形"
+  },
+  {
+    "index": 173,
+    "sourceIndex": 173,
+    "reading": "または",
+    "word": "又は",
+    "meaningRaw": "[接续] 或，或者，或是"
+  },
+  {
+    "index": 174,
+    "sourceIndex": 174,
+    "reading": "だから",
+    "word": "だから",
+    "meaningRaw": "[接续] 因此，所以"
+  },
+  {
+    "index": 175,
+    "sourceIndex": 175,
+    "reading": "どくしょ",
+    "word": "読書",
+    "meaningRaw": "[名·自动·サ变] 看书，读书"
+  },
+  {
+    "index": 176,
+    "sourceIndex": 176,
+    "reading": "こうこう",
+    "word": "高校",
+    "meaningRaw": "[名] 高中"
+  },
+  {
+    "index": 177,
+    "sourceIndex": 177,
+    "reading": "うま",
+    "word": "馬",
+    "meaningRaw": "[名] 马；脚凳子；马；木马，鞍马"
+  },
+  {
+    "index": 178,
+    "sourceIndex": 178,
+    "reading": "ほうそう",
+    "word": "放送",
+    "meaningRaw": "[名·他动·サ变] 广播，播出；播放；播送；传播传布（消息）"
+  },
+  {
+    "index": 179,
+    "sourceIndex": 179,
+    "reading": "しつれい",
+    "word": "失礼",
+    "meaningRaw": "[名·形动·自动·サ变] 失礼，无礼，不礼貌，失敬（無礼）；对不起；失礼，请 原谅；离开，退席；失礼，无礼，不礼貌，失敬"
+  },
+  {
+    "index": 180,
+    "sourceIndex": 180,
+    "reading": "ひきだし",
+    "word": "引き出し",
+    "meaningRaw": "[名] 抽出，提取；抽屉"
+  },
+  {
+    "index": 181,
+    "sourceIndex": 181,
+    "reading": "さらだ",
+    "word": "サラダ",
+    "meaningRaw": "[名] salad 色拉，沙拉，凉拌菜"
+  },
+  {
+    "index": 182,
+    "sourceIndex": 182,
+    "reading": "しっかり",
+    "word": "確り",
+    "meaningRaw": "[副词] 稳固，结实，牢固，牢靠确，明确基础或结构坚固，不易动摇或倒塌的状 态；（身体）健壮，结实清醒，坚实头脑和肉体等健全，能充分发挥其功能；（性 格）坚强，刚强，高明坚定，可靠人的性格、见识等踏实而无风险；用力地，好好 地（动作、行为）扎实，稳健；坚固，牢实，靠紧紧靠在一起使之不分离；（经 济）行情看涨，坚挺行情处于上升趋势"
+  },
+  {
+    "index": 183,
+    "sourceIndex": 183,
+    "reading": "にちよう",
+    "word": "日曜",
+    "meaningRaw": "[名·副词] 星期日，礼拜天"
+  },
+  {
+    "index": 184,
+    "sourceIndex": 184,
+    "reading": "かんごふ",
+    "word": "看護婦",
+    "meaningRaw": "[名] 护士，女护士经国家护士资格考试合格，获准看护伤员病员的女性；过去日语 中常用「看護婦」指女性护士，「看護士」指男性护士，但自 2001 年起根据法律 改正，性别区分被废除，官方统一用「看護師」指代所有护士。"
+  },
+  {
+    "index": 185,
+    "sourceIndex": 185,
+    "reading": "いただく",
+    "word": "いただく",
+    "meaningRaw": "[他动·五段] 领受，拜领，蒙……赐给；要（「もらう」的自谦语）；请……； 顶，戴，顶在头上；顶在上面；拥戴；吃；喝；抽"
+  },
+  {
+    "index": 186,
+    "sourceIndex": 186,
+    "reading": "むし",
+    "word": "虫",
+    "meaningRaw": "[名] 热衷于某一件事的人；虫，虫子，昆虫；蛔虫；害虫；蛆；抽风；疳积；心寄 宿于体内引起意识感情变化的思想；怒气，气愤；郁闷"
+  },
+  {
+    "index": 187,
+    "sourceIndex": 187,
+    "reading": "まちがう",
+    "word": "間違う",
+    "meaningRaw": "[自他动·五段] （他）弄错，搞错；不对；（自）误，错"
+  },
+  {
+    "index": 188,
+    "sourceIndex": 188,
+    "reading": "のり",
+    "word": "海苔",
+    "meaningRaw": "[名] 紫菜红藻类、蓝藻类的海藻中，可供食用的藻类的总称；甘紫菜把红藻类的紫 菜（尤其是浅草甘紫菜）抄制成像纸一样然后晒干的食品"
+  },
+  {
+    "index": 189,
+    "sourceIndex": 189,
+    "reading": "たてる",
+    "word": "建てる",
+    "meaningRaw": "[他动·一段] 盖，修建，建造；创立，建立，树立，创办"
+  },
+  {
+    "index": 190,
+    "sourceIndex": 190,
+    "reading": "かんがえ",
+    "word": "考え",
+    "meaningRaw": "[名] 指思考，也指思考的事情；思想，想法；意见；念头，观念，信念；心思，意 图，意思；考虑，思虑；思考"
+  },
+  {
+    "index": 191,
+    "sourceIndex": 191,
+    "reading": "いん",
+    "word": "～員",
+    "meaningRaw": "[接尾] （接在名词后）表示……（组织）中的人。"
+  },
+  {
+    "index": 192,
+    "sourceIndex": 192,
+    "reading": "さすが",
+    "word": "流石",
+    "meaningRaw": "[副词] 真不愧，到底是，还是，的确，果然（是）；就连，甚至；但是，不过还是"
+  },
+  {
+    "index": 193,
+    "sourceIndex": 193,
+    "reading": "けしき",
+    "word": "景色",
+    "meaningRaw": "[名] 景色；风景；风光；（日本茶道指陶瓷器等茶具上的）精彩之处"
+  },
+  {
+    "index": 194,
+    "sourceIndex": 194,
+    "reading": "うりば",
+    "word": "売り場",
+    "meaningRaw": "[名] 出售处，售品处，柜台；出售的好时机"
+  },
+  {
+    "index": 195,
+    "sourceIndex": 195,
+    "reading": "むかえる",
+    "word": "迎える",
+    "meaningRaw": "[他动·一段] 迎，迎接；欢迎；接待；请，聘请，接；娶；招；迎合；迎击，应 战，对敌；来到，遇到"
+  },
+  {
+    "index": 196,
+    "sourceIndex": 196,
+    "reading": "やくす",
+    "word": "訳す",
+    "meaningRaw": "[他动·五段] 译，翻，翻译；解释"
+  },
+  {
+    "index": 197,
+    "sourceIndex": 197,
+    "reading": "けいたいでんわ",
+    "word": "携帯電話",
+    "meaningRaw": "[名] 手机移动电话，便携式电话"
+  },
+  {
+    "index": 198,
+    "sourceIndex": 198,
+    "reading": "～りっとる",
+    "word": "～リットル",
+    "meaningRaw": "[名] litre。……升，……公升"
+  },
+  {
+    "index": 199,
+    "sourceIndex": 199,
+    "reading": "わけ",
+    "word": "訳",
+    "meaningRaw": "[名] 意义，意思；理由，原因，情由，缘故，情形成为这种状态结果的理由；当 然，怪不得作为结果当然是这样，亦指安排使其那样；道理，条理，常识；麻烦， 费事；情况，情形含糊地指事物状态"
+  },
+  {
+    "index": 200,
+    "sourceIndex": 200,
+    "reading": "かわく",
+    "word": "乾く",
+    "meaningRaw": "[自动·五段] 干燥；冷淡无感情"
+  },
+  {
+    "index": 201,
+    "sourceIndex": 201,
+    "reading": "わける",
+    "word": "分ける",
+    "meaningRaw": "[他动·一段] 分配，分派；分，分开，划分；分类，区别；调停，仲裁，排解； [向左右]拨开，分开；辨明是非，判断对错；分清是非后说话"
+  },
+  {
+    "index": 202,
+    "sourceIndex": 202,
+    "reading": "とめる",
+    "word": "止める",
+    "meaningRaw": "[他动·一段] 使（交通工具等）停，止，停止；止住；堵住；憋住，屏住；关，关 闭；戒掉，让其停止"
+  },
+  {
+    "index": 203,
+    "sourceIndex": 203,
+    "reading": "かいし",
+    "word": "開始",
+    "meaningRaw": "[名·自他动·サ变] 开始"
+  },
+  {
+    "index": 204,
+    "sourceIndex": 204,
+    "reading": "おとす",
+    "word": "落とす",
+    "meaningRaw": "[他动·五段] 使降落，弄下，往下投，摔下；弄丢，遗失，失落"
+  },
+  {
+    "index": 205,
+    "sourceIndex": 205,
+    "reading": "せん～",
+    "word": "先～",
+    "meaningRaw": "[接头] 此前的……，上……；前面的……。"
+  },
+  {
+    "index": 206,
+    "sourceIndex": 206,
+    "reading": "おーとばい",
+    "word": "オートバイ",
+    "meaningRaw": "[名] autobicycle摩托车"
+  },
+  {
+    "index": 207,
+    "sourceIndex": 207,
+    "reading": "れぽーと",
+    "word": "レポート",
+    "meaningRaw": "[名·サ变] report报告；新闻报道，通讯；报告书；学术研究报告"
+  },
+  {
+    "index": 208,
+    "sourceIndex": 208,
+    "reading": "わん",
+    "word": "碗",
+    "meaningRaw": "[名] 盛东西用的碗；助数词"
+  },
+  {
+    "index": 209,
+    "sourceIndex": 209,
+    "reading": "だい～",
+    "word": "第～",
+    "meaningRaw": "[] 第……。（数を表す語に付いて、ものの順序を表すのに用いる。）"
+  },
+  {
+    "index": 210,
+    "sourceIndex": 210,
+    "reading": "かわり",
+    "word": "代わり",
+    "meaningRaw": "[名] 代替；代理；补偿；报答；再来一碗"
+  },
+  {
+    "index": 211,
+    "sourceIndex": 211,
+    "reading": "あんない",
+    "word": "案内",
+    "meaningRaw": "[名·サ变] 引导，向导；导游，陪同游览；传达；通知，通告；邀请；了解，熟 悉；邀请"
+  },
+  {
+    "index": 212,
+    "sourceIndex": 212,
+    "reading": "けいざい",
+    "word": "経済",
+    "meaningRaw": "[名] 物资的生产、流通、交换、分配及其消费、积累的整个过程以及在以上过程中 所形成的社会各种关系的总体；指关于金钱的收入支出；少花费用或工夫"
+  },
+  {
+    "index": 213,
+    "sourceIndex": 213,
+    "reading": "あてる",
+    "word": "当てる",
+    "meaningRaw": "[他动·一段] 打，碰，撞，触打；贴上，放上；淋；烤；晒；铺上，垫上；填上； 猜，推测"
+  },
+  {
+    "index": 214,
+    "sourceIndex": 214,
+    "reading": "そんなに",
+    "word": "そんなに",
+    "meaningRaw": "[副词] 那样地，那么地；那么"
+  },
+  {
+    "index": 215,
+    "sourceIndex": 215,
+    "reading": "はいけん",
+    "word": "拝見",
+    "meaningRaw": "[名·他动·サ变] （「見る」的自谦语）拜读；瞻仰，看（文などを読む）"
+  },
+  {
+    "index": 216,
+    "sourceIndex": 216,
+    "reading": "きまる",
+    "word": "決まる",
+    "meaningRaw": "[自动·五段] 决定胜负；决定，规定；得体，符合；一定是"
+  },
+  {
+    "index": 217,
+    "sourceIndex": 217,
+    "reading": "えいきょう",
+    "word": "影響",
+    "meaningRaw": "[名·サ变] 影响"
+  },
+  {
+    "index": 218,
+    "sourceIndex": 218,
+    "reading": "かない",
+    "word": "家内",
+    "meaningRaw": "[名] 家内，家庭，全家；我老婆，妻子，内人，爱人（男性对自己妻子的谦称）"
+  },
+  {
+    "index": 219,
+    "sourceIndex": 219,
+    "reading": "とうさん",
+    "word": "倒産",
+    "meaningRaw": "[名·サ变] 倒闭，破产"
+  },
+  {
+    "index": 220,
+    "sourceIndex": 220,
+    "reading": "さそう",
+    "word": "誘う",
+    "meaningRaw": "[他动·五段] 约，劝诱，邀请；促使，引发，引起，引诱，诱惑"
+  },
+  {
+    "index": 221,
+    "sourceIndex": 221,
+    "reading": "れきし",
+    "word": "歴史",
+    "meaningRaw": "[名] 历史；来历；历史"
+  },
+  {
+    "index": 222,
+    "sourceIndex": 222,
+    "reading": "もめん",
+    "word": "木綿",
+    "meaningRaw": "[名] 棉花，从棉桃种子上轧取的纤维。；棉织品，棉纱、棉布，棉线"
+  },
+  {
+    "index": 223,
+    "sourceIndex": 223,
+    "reading": "ぜんぜん",
+    "word": "全然",
+    "meaningRaw": "[副词] （俗语）非常，很；完全（不）……,根本（不）……；简直,丝毫,一点儿 （也没有）"
+  },
+  {
+    "index": 224,
+    "sourceIndex": 224,
+    "reading": "あんな",
+    "word": "あんな",
+    "meaningRaw": "[连体词] （连体词）那样的"
+  },
+  {
+    "index": 225,
+    "sourceIndex": 225,
+    "reading": "ぶんぼうぐ",
+    "word": "文房具",
+    "meaningRaw": "[名] 文具"
+  },
+  {
+    "index": 226,
+    "sourceIndex": 226,
+    "reading": "しぜん",
+    "word": "自然",
+    "meaningRaw": "[名·形动] 大自然，自然界 人类的制造物以外的一切物质，也指这些物质构成的 世界尤其指山川草木等；自然的状态未经过人工的，事物本来的状态自然；本来面 目，毫不造作的样子自然，质朴；不故意造作也不经人工的样子在进展上顺其自然 自然"
+  },
+  {
+    "index": 227,
+    "sourceIndex": 227,
+    "reading": "ふむ",
+    "word": "踏む",
+    "meaningRaw": "[他动·五段] 踏，踩，践踏；跺脚；走上，踏上；实践，经验；估价，估计，评 价；遵守；经历，经过"
+  },
+  {
+    "index": 228,
+    "sourceIndex": 228,
+    "reading": "しょくじ",
+    "word": "食事",
+    "meaningRaw": "[名·自动·サ变] 饭，餐，食物；吃饭，进餐『書』"
+  },
+  {
+    "index": 229,
+    "sourceIndex": 229,
+    "reading": "じこ",
+    "word": "事故",
+    "meaningRaw": "[名] （意外的）事故；事由"
+  },
+  {
+    "index": 230,
+    "sourceIndex": 230,
+    "reading": "つき",
+    "word": "月",
+    "meaningRaw": "[名] 月亮；月光；月份；妊娠期"
+  },
+  {
+    "index": 231,
+    "sourceIndex": 231,
+    "reading": "きもち",
+    "word": "気持ち",
+    "meaningRaw": "[名] 感，感觉，感受；心情，心绪，情绪；心地，心境；精神状态；胸怀，襟怀； 心神；小意思，心意对于自己的用心表示谦逊时使用的自谦语；点点；稍微，略略"
+  },
+  {
+    "index": 232,
+    "sourceIndex": 232,
+    "reading": "もうしあげる",
+    "word": "申し上げる",
+    "meaningRaw": "[他动·一段] （「言う」的自谦语）说，讲，提及，说起，陈述；表谦逊"
+  },
+  {
+    "index": 233,
+    "sourceIndex": 233,
+    "reading": "こうこうせい",
+    "word": "高校生",
+    "meaningRaw": "[名] 高中生"
+  },
+  {
+    "index": 234,
+    "sourceIndex": 234,
+    "reading": "ひつよう",
+    "word": "必要",
+    "meaningRaw": "[名·形动] 必要,必需,必须,非……不可；反：不要"
+  },
+  {
+    "index": 235,
+    "sourceIndex": 235,
+    "reading": "～びょう",
+    "word": "～秒",
+    "meaningRaw": "[接尾] ……秒。"
+  },
+  {
+    "index": 236,
+    "sourceIndex": 236,
+    "reading": "へえ",
+    "word": "へえ",
+    "meaningRaw": "[助词] 啊，欸，嘿，哎呀，哎哟；是，是的"
+  },
+  {
+    "index": 237,
+    "sourceIndex": 237,
+    "reading": "そのまま",
+    "word": "其の儘",
+    "meaningRaw": "[副词] 就那样，就照原样，一模一样，原原本本，原封不动"
+  },
+  {
+    "index": 238,
+    "sourceIndex": 238,
+    "reading": "さんぎょう",
+    "word": "産業",
+    "meaningRaw": "[名] 产业，生产事业，实业，工商等企业，工业"
+  },
+  {
+    "index": 239,
+    "sourceIndex": 239,
+    "reading": "すむ",
+    "word": "済む",
+    "meaningRaw": "[自动·五段] 完（了），终了，结束；过得去，没问题；足够；（问题）解决， （事情）了结；（良心上）过得去，对得起"
+  },
+  {
+    "index": 240,
+    "sourceIndex": 240,
+    "reading": "きこう",
+    "word": "気候",
+    "meaningRaw": "[名] 气候"
+  },
+  {
+    "index": 241,
+    "sourceIndex": 241,
+    "reading": "これから",
+    "word": "此れから",
+    "meaningRaw": "[接续] 从现在起，今后，从这里起，从今以后"
+  },
+  {
+    "index": 242,
+    "sourceIndex": 242,
+    "reading": "がいらいご",
+    "word": "外来語",
+    "meaningRaw": "[名] 外来语"
+  },
+  {
+    "index": 243,
+    "sourceIndex": 243,
+    "reading": "そこ",
+    "word": "底",
+    "meaningRaw": "[名] 底，底部，底儿，底子；最低处，限度；最底下；到头，边际；内心；真的"
+  },
+  {
+    "index": 244,
+    "sourceIndex": 244,
+    "reading": "かえる",
+    "word": "換える",
+    "meaningRaw": "[他动·一段] 改换，交换；变换"
+  },
+  {
+    "index": 245,
+    "sourceIndex": 245,
+    "reading": "まーく",
+    "word": "マーク",
+    "meaningRaw": "[名·サ变] mark（划）记号，符号，（打）印记，（做）标记.；商标；标签，标 志（レッテル）徽章；（体育竞赛中）创造记录；特别留意，盯人，看人，尾随"
+  },
+  {
+    "index": 246,
+    "sourceIndex": 246,
+    "reading": "それなら",
+    "word": "それなら",
+    "meaningRaw": "[接续] 如果那样，要是那样，那么。"
+  },
+  {
+    "index": 247,
+    "sourceIndex": 247,
+    "reading": "き",
+    "word": "気",
+    "meaningRaw": "[名] 节气，节序；香气，香味，风味；气，空气，大气；气息，呼吸；气氛；气 度，气宇，气量，器量，胸襟；气质，性质，性情，性体，天性，禀性，脾性，脾 气；心情，情绪；意志，知觉"
+  },
+  {
+    "index": 248,
+    "sourceIndex": 248,
+    "reading": "だっく",
+    "word": "ダック",
+    "meaningRaw": "[名] duck 鸭"
+  },
+  {
+    "index": 249,
+    "sourceIndex": 249,
+    "reading": "ふくしゅう",
+    "word": "復習",
+    "meaningRaw": "[名·他动·サ变] 复习"
+  },
+  {
+    "index": 250,
+    "sourceIndex": 250,
+    "reading": "こうじょうちょう",
+    "word": "工場長",
+    "meaningRaw": "[名] 工人的头头厂长"
+  },
+  {
+    "index": 251,
+    "sourceIndex": 251,
+    "reading": "つく",
+    "word": "付く",
+    "meaningRaw": "[自动·五段] 附上；附着，粘附，沾上；生，长；长进，增添，提高；跟随，伴 同；跟着；服侍，照料，护理，保卫；（火源或电源）开，着"
+  },
+  {
+    "index": 252,
+    "sourceIndex": 252,
+    "reading": "はなみ",
+    "word": "花見",
+    "meaningRaw": "[名] 看花，观樱，赏（樱）花"
+  },
+  {
+    "index": 253,
+    "sourceIndex": 253,
+    "reading": "こうがく",
+    "word": "工学",
+    "meaningRaw": "[名] 工学"
+  },
+  {
+    "index": 254,
+    "sourceIndex": 254,
+    "reading": "このあいだ",
+    "word": "この間",
+    "meaningRaw": "[副词] 最近；前几天，不久以前，前些时候"
+  },
+  {
+    "index": 255,
+    "sourceIndex": 255,
+    "reading": "せんしゅ",
+    "word": "選手",
+    "meaningRaw": "[名] 选手；（具有比赛资格的）运动员"
+  },
+  {
+    "index": 256,
+    "sourceIndex": 256,
+    "reading": "しゅっせき",
+    "word": "出席",
+    "meaningRaw": "[名·自动·サ变] 出席；参加"
+  },
+  {
+    "index": 257,
+    "sourceIndex": 257,
+    "reading": "ぱそこん",
+    "word": "パソコン",
+    "meaningRaw": "[名] Personal Computer个人电脑，计算机"
+  },
+  {
+    "index": 258,
+    "sourceIndex": 258,
+    "reading": "ぶんけい",
+    "word": "文型",
+    "meaningRaw": "[名] 句型"
+  },
+  {
+    "index": 259,
+    "sourceIndex": 259,
+    "reading": "ちゅうしん",
+    "word": "中心",
+    "meaningRaw": "[名] 中心，当中；事物集中的场所重要之处；重心；中心，圆心"
+  },
+  {
+    "index": 260,
+    "sourceIndex": 260,
+    "reading": "ごちそう",
+    "word": "御馳走",
+    "meaningRaw": "[惯用·他动] 款待，请客，宴请；饭菜，美味佳肴；丰盛的酒菜，酒宴"
+  },
+  {
+    "index": 261,
+    "sourceIndex": 261,
+    "reading": "やっと",
+    "word": "やっと",
+    "meaningRaw": "[副词] 好不容易，终于，才；勉勉强强；好容易；好歹；勉强"
+  },
+  {
+    "index": 262,
+    "sourceIndex": 262,
+    "reading": "てがる",
+    "word": "手軽",
+    "meaningRaw": "[形动] 简单，简便，轻易"
+  },
+  {
+    "index": 263,
+    "sourceIndex": 263,
+    "reading": "せき",
+    "word": "咳",
+    "meaningRaw": "[名] 咳嗽"
+  },
+  {
+    "index": 264,
+    "sourceIndex": 264,
+    "reading": "ちぇっくいん",
+    "word": "チェックイン",
+    "meaningRaw": "[名·サ变] checkin（酒店，宾馆等住宿的）办理登记手续，入住；（机场）办理 登机手续"
+  },
+  {
+    "index": 265,
+    "sourceIndex": 265,
+    "reading": "まじめ",
+    "word": "真面目",
+    "meaningRaw": "[名·形动] 认真老实踏实严肃；诚实正派正经"
+  },
+  {
+    "index": 266,
+    "sourceIndex": 266,
+    "reading": "しゃかいじん",
+    "word": "社会人",
+    "meaningRaw": "[名] 社会成员，社会一员，参加工作的人；社会人"
+  },
+  {
+    "index": 267,
+    "sourceIndex": 267,
+    "reading": "まもる",
+    "word": "守る",
+    "meaningRaw": "[他动·五段] 保卫；守卫；防守，保护；维护；遵守；恪守；维持，保持"
+  },
+  {
+    "index": 268,
+    "sourceIndex": 268,
+    "reading": "すーつ",
+    "word": "スーツ",
+    "meaningRaw": "[名] suits套装，成套服装，成套西服"
+  },
+  {
+    "index": 269,
+    "sourceIndex": 269,
+    "reading": "しょうせつ",
+    "word": "小説",
+    "meaningRaw": "[名] 小说"
+  },
+  {
+    "index": 270,
+    "sourceIndex": 270,
+    "reading": "りゆう",
+    "word": "理由",
+    "meaningRaw": "[名] 理由，缘故；借口"
+  },
+  {
+    "index": 271,
+    "sourceIndex": 271,
+    "reading": "あした",
+    "word": "明日",
+    "meaningRaw": "[名·副词] 明天；（最近的）将来；明天；将来"
+  },
+  {
+    "index": 272,
+    "sourceIndex": 272,
+    "reading": "あす",
+    "word": "明日",
+    "meaningRaw": "[名] 明天；将来；惯用语"
+  },
+  {
+    "index": 273,
+    "sourceIndex": 273,
+    "reading": "ぐっすり",
+    "word": "ぐっすり",
+    "meaningRaw": "[副词] 酣然，熟睡的样子；香甜；坚实地；完全地"
+  },
+  {
+    "index": 274,
+    "sourceIndex": 274,
+    "reading": "きんよう",
+    "word": "金曜",
+    "meaningRaw": "[名·副词] 星期五，礼拜五"
+  },
+  {
+    "index": 275,
+    "sourceIndex": 275,
+    "reading": "あら",
+    "word": "あら",
+    "meaningRaw": "[感动] 唉呀！哎哟！"
+  },
+  {
+    "index": 276,
+    "sourceIndex": 276,
+    "reading": "ぴあの",
+    "word": "ピアノ",
+    "meaningRaw": "[名] （piano）钢琴；〈楽〉微弱地，轻奏"
+  },
+  {
+    "index": 277,
+    "sourceIndex": 277,
+    "reading": "ばら",
+    "word": "薔薇",
+    "meaningRaw": "[名] 〈植〉蔷薇花，玫瑰花"
+  },
+  {
+    "index": 278,
+    "sourceIndex": 278,
+    "reading": "みこむ",
+    "word": "見込む",
+    "meaningRaw": "[他动·五段] 预料，预想，估计；估计在内，计算在内；相信，信赖；期待，认为 有希望；盯上；纠缠住"
+  },
+  {
+    "index": 279,
+    "sourceIndex": 279,
+    "reading": "～だて",
+    "word": "～建て",
+    "meaningRaw": "[接尾] （表示房屋的样式）……层楼；楼房的层。 （建物の構造や階数を表す語 について、そのような建て方のものであることを表す。）；用某种货币支付。 （通貨名について、その通貨で支払われることを表す。）"
+  },
+  {
+    "index": 280,
+    "sourceIndex": 280,
+    "reading": "あげる",
+    "word": "挙げる",
+    "meaningRaw": "[他动·一段] 举例，列举；举行（仪式）；举证，检举；逮捕；扬名出名；尽力全 拿出来；开始战争"
+  },
+  {
+    "index": 281,
+    "sourceIndex": 281,
+    "reading": "じんこう",
+    "word": "人口",
+    "meaningRaw": "[名] 人口"
+  },
+  {
+    "index": 282,
+    "sourceIndex": 282,
+    "reading": "かいがん",
+    "word": "海岸",
+    "meaningRaw": "[名] 海岸，海滨，海边。陆地与海洋相连接的地带"
+  },
+  {
+    "index": 283,
+    "sourceIndex": 283,
+    "reading": "しまう",
+    "word": "仕舞う",
+    "meaningRaw": "[他动·五段] 整理，收拾起来，放起来把东西收放到该放的地方；做完，搞完，干 完，亦指结束终了，完了；「～てしまう」完了，光了，尽了 （补助动词）表示 该动作全部结束或该状态完成往往表示某事的非志愿发生；关闭，停业"
+  },
+  {
+    "index": 284,
+    "sourceIndex": 284,
+    "reading": "じんじ",
+    "word": "人事",
+    "meaningRaw": "[名] 世间的事，世事；（人类能做到的事）人事；（职务）人事；人事；人事工作"
+  },
+  {
+    "index": 285,
+    "sourceIndex": 285,
+    "reading": "～すぎる",
+    "word": "～過ぎる",
+    "meaningRaw": "[文法] 过于……，过度……；太……"
+  },
+  {
+    "index": 286,
+    "sourceIndex": 286,
+    "reading": "びでお",
+    "word": "ビデオ",
+    "meaningRaw": "[名] video影像，录像，视频；录像带，摄像机，录像机"
+  },
+  {
+    "index": 287,
+    "sourceIndex": 287,
+    "reading": "こわれる",
+    "word": "壊れる",
+    "meaningRaw": "[自动·一段] 坏，破碎，毁，坍塌物体失去固有的形状或七零八落；坏，出故障失 去正常功能或发生故障；（计划等）失败，落空，毁掉，破裂计划或约定告吹"
+  },
+  {
+    "index": 288,
+    "sourceIndex": 288,
+    "reading": "さんだる",
+    "word": "サンダル",
+    "meaningRaw": "[名] 草鞋式的皮鞋；凉鞋；拖鞋"
+  },
+  {
+    "index": 289,
+    "sourceIndex": 289,
+    "reading": "しあわせ",
+    "word": "幸せ",
+    "meaningRaw": "[名·形动] 运气，侥幸；幸福，幸运；过于天真，过于乐观"
+  },
+  {
+    "index": 290,
+    "sourceIndex": 290,
+    "reading": "へんか",
+    "word": "変化",
+    "meaningRaw": "[名·サ变] 变化，变更；词尾的变化；变化"
+  },
+  {
+    "index": 291,
+    "sourceIndex": 291,
+    "reading": "いんしょくてん",
+    "word": "飲食店",
+    "meaningRaw": "[名] 餐馆，饭店"
+  },
+  {
+    "index": 292,
+    "sourceIndex": 292,
+    "reading": "むぎ",
+    "word": "麦",
+    "meaningRaw": "[名] 麦，麦子，小麦"
+  },
+  {
+    "index": 293,
+    "sourceIndex": 293,
+    "reading": "たけ",
+    "word": "竹",
+    "meaningRaw": "[名] 竹（子）；竹制乐器"
+  },
+  {
+    "index": 294,
+    "sourceIndex": 294,
+    "reading": "こうじょう",
+    "word": "工場",
+    "meaningRaw": "[名] 工厂，工场"
+  },
+  {
+    "index": 295,
+    "sourceIndex": 295,
+    "reading": "もどる",
+    "word": "戻る",
+    "meaningRaw": "[自动·五段] 回去，返回，回到；倒退；折回；回家，回来；归还；退回"
+  },
+  {
+    "index": 296,
+    "sourceIndex": 296,
+    "reading": "かつ",
+    "word": "勝つ",
+    "meaningRaw": "[自动·五段] 胜，赢；超过，与他人相比，优于他人；胜过，这种元素或趋势比其 他更强；（克服）努力抑制做某事的冲动"
+  },
+  {
+    "index": 297,
+    "sourceIndex": 297,
+    "reading": "むかし",
+    "word": "昔",
+    "meaningRaw": "[名·副词] 从前，很早以前，古时候，往昔，昔日，过去；十年"
+  },
+  {
+    "index": 298,
+    "sourceIndex": 298,
+    "reading": "けっきょく",
+    "word": "結局",
+    "meaningRaw": "[名·副词] 最后，结果，结尾；到底，到末了，终究，归根到底"
+  },
+  {
+    "index": 299,
+    "sourceIndex": 299,
+    "reading": "しかく",
+    "word": "四角",
+    "meaningRaw": "[名·形动] 四角形，方形，四方形；四角形，方形，四方形；生硬，端正，方正， 郑重其事，一本正经"
+  },
+  {
+    "index": 300,
+    "sourceIndex": 300,
+    "reading": "けっして",
+    "word": "決して",
+    "meaningRaw": "[副词] （后接否定）决（不）……，绝对（不）……，断然（不）……"
+  },
+  {
+    "index": 301,
+    "sourceIndex": 301,
+    "reading": "むすめ",
+    "word": "娘",
+    "meaningRaw": "[名] 女儿，闺女，女孩子；姑娘，少女"
+  },
+  {
+    "index": 302,
+    "sourceIndex": 302,
+    "reading": "おどろく",
+    "word": "驚く",
+    "meaningRaw": "[自动·五段] 惊恐；惊惧；害怕，吃惊；吓了一跳；惊讶；惊奇；惊叹，意想不 到，感到意外"
+  },
+  {
+    "index": 303,
+    "sourceIndex": 303,
+    "reading": "つづける",
+    "word": "続ける",
+    "meaningRaw": "[他动·一段] 继续，连续，接连不断；连上，连接起来；继续起来"
+  },
+  {
+    "index": 304,
+    "sourceIndex": 304,
+    "reading": "さかん",
+    "word": "盛ん",
+    "meaningRaw": "[形动] 热烈，热心积极；（气势）盛、旺盛；繁荣，昌盛，兴盛"
+  },
+  {
+    "index": 305,
+    "sourceIndex": 305,
+    "reading": "～がかり",
+    "word": "～係",
+    "meaningRaw": "[接尾] ……（的）主管人，负责……（的）人员。（特定の仕事·役目を受け持つ 人。）"
+  },
+  {
+    "index": 306,
+    "sourceIndex": 306,
+    "reading": "そだてる",
+    "word": "育てる",
+    "meaningRaw": "[他动·一段] 培育，抚育；抚养；教育，培养；发展，使发展"
+  },
+  {
+    "index": 307,
+    "sourceIndex": 307,
+    "reading": "もも",
+    "word": "桃",
+    "meaningRaw": "[名] 〈植〉桃树；桃子"
+  },
+  {
+    "index": 308,
+    "sourceIndex": 308,
+    "reading": "こんぴゅーた",
+    "word": "コンピュータ",
+    "meaningRaw": "[名] 电脑，计算机。（電子計算機。）"
+  },
+  {
+    "index": 309,
+    "sourceIndex": 309,
+    "reading": "～あたり",
+    "word": "～辺り",
+    "meaningRaw": "[接尾] 附近；周围。；大约，上下，左右，差不多那样，……之流，……之类。"
+  },
+  {
+    "index": 310,
+    "sourceIndex": 310,
+    "reading": "～しき",
+    "word": "～式",
+    "meaningRaw": "[接尾] ……典礼，……仪式。；……形式，……方式，……类型。；……算 式，……公式。"
+  },
+  {
+    "index": 311,
+    "sourceIndex": 311,
+    "reading": "そのころ",
+    "word": "その頃",
+    "meaningRaw": "[名·副词] 当时，那时"
+  },
+  {
+    "index": 312,
+    "sourceIndex": 312,
+    "reading": "あつい",
+    "word": "暑い",
+    "meaningRaw": "[形] 热"
+  },
+  {
+    "index": 313,
+    "sourceIndex": 313,
+    "reading": "れい",
+    "word": "例",
+    "meaningRaw": "[名] 常例，惯例，定例；先例，前例；例，例子，事例；例，往常；那个，某"
+  },
+  {
+    "index": 314,
+    "sourceIndex": 314,
+    "reading": "ある",
+    "word": "或る",
+    "meaningRaw": "[连体词] 某；有"
+  },
+  {
+    "index": 315,
+    "sourceIndex": 315,
+    "reading": "かじ",
+    "word": "火事",
+    "meaningRaw": "[名] 火灾，失火，走火"
+  },
+  {
+    "index": 316,
+    "sourceIndex": 316,
+    "reading": "げーむ",
+    "word": "ゲーム",
+    "meaningRaw": "[名] game竞技，比赛；游戏；游艺；娱乐；场；局，盘"
+  },
+  {
+    "index": 317,
+    "sourceIndex": 317,
+    "reading": "いのち",
+    "word": "命",
+    "meaningRaw": "[名] 寿命；生命；命；命根子；最宝贵的东西"
+  },
+  {
+    "index": 318,
+    "sourceIndex": 318,
+    "reading": "おおどおり",
+    "word": "大通り",
+    "meaningRaw": "[名] 大道，大路，大街，（大）马路；主要街道；（个别地方）商业街，购物街"
+  },
+  {
+    "index": 319,
+    "sourceIndex": 319,
+    "reading": "さきおととい",
+    "word": "一昨々日",
+    "meaningRaw": "[名] 大前天，前天的前一天。"
+  },
+  {
+    "index": 320,
+    "sourceIndex": 320,
+    "reading": "しょうかい",
+    "word": "紹介",
+    "meaningRaw": "[名·他动·サ变] 介绍；介绍"
+  },
+  {
+    "index": 321,
+    "sourceIndex": 321,
+    "reading": "こたえ",
+    "word": "答え",
+    "meaningRaw": "[名] 回答，回复，答复，答应；解答，答案"
+  },
+  {
+    "index": 322,
+    "sourceIndex": 322,
+    "reading": "きがつく",
+    "word": "気が付く",
+    "meaningRaw": "[惯用] 意识到，注意到，发觉；细心周到，无微不至；恢复神志，意识苏醒"
+  },
+  {
+    "index": 323,
+    "sourceIndex": 323,
+    "reading": "びん",
+    "word": "瓶",
+    "meaningRaw": "[名] 瓶子"
+  },
+  {
+    "index": 324,
+    "sourceIndex": 324,
+    "reading": "～だす",
+    "word": "～出す",
+    "meaningRaw": "[文法] 开始……，……起来；……出来。"
+  },
+  {
+    "index": 325,
+    "sourceIndex": 325,
+    "reading": "ええと",
+    "word": "ええと",
+    "meaningRaw": "[感动] 啊，嗯"
+  },
+  {
+    "index": 326,
+    "sourceIndex": 326,
+    "reading": "しけん",
+    "word": "試験",
+    "meaningRaw": "[名] 试验，检验，化验；考试，测验；考试，测验"
+  },
+  {
+    "index": 327,
+    "sourceIndex": 327,
+    "reading": "かんしん",
+    "word": "感心",
+    "meaningRaw": "[名·サ变] 钦佩，赞佩，佩服；值得赞美，应该夸奖；令人吃惊"
+  },
+  {
+    "index": 328,
+    "sourceIndex": 328,
+    "reading": "しかた",
+    "word": "仕方",
+    "meaningRaw": "[名] 做法，做的方法；办法；手势，动作"
+  },
+  {
+    "index": 329,
+    "sourceIndex": 329,
+    "reading": "け",
+    "word": "毛",
+    "meaningRaw": "[名] 毛，毛发。哺乳动物身体表面生长的细毛，头发，鸟类的羽毛；毛，植物叶、 茎等表皮上毛状物的总称；毛兽毛，尤指羊毛纺成的纤维；毛，露出物体表面的丝 状物；毫毛，比喻微小"
+  },
+  {
+    "index": 330,
+    "sourceIndex": 330,
+    "reading": "こと",
+    "word": "事",
+    "meaningRaw": "[名] 事，事情，事实；事务，工作；大事件，变故，事端"
+  },
+  {
+    "index": 331,
+    "sourceIndex": 331,
+    "reading": "ひさしぶり",
+    "word": "久しぶり",
+    "meaningRaw": "[名·形动] (隔了)好久，许久久违，（见面打招呼）好久不见"
+  },
+  {
+    "index": 332,
+    "sourceIndex": 332,
+    "reading": "すり",
+    "word": "すり",
+    "meaningRaw": "[名] 扒手，小偷"
+  },
+  {
+    "index": 333,
+    "sourceIndex": 333,
+    "reading": "わかれる",
+    "word": "別れる",
+    "meaningRaw": "[自动·一段] 离别，分手；离婚；分散，离散；死别"
+  },
+  {
+    "index": 334,
+    "sourceIndex": 334,
+    "reading": "あつまる",
+    "word": "集まる",
+    "meaningRaw": "[自动·五段] 聚集"
+  },
+  {
+    "index": 335,
+    "sourceIndex": 335,
+    "reading": "すくなくとも",
+    "word": "少なくとも",
+    "meaningRaw": "[副词] 少说也要，保守估计也要…；至少，最起码（ほかの物事はともかくとして せめて）"
+  },
+  {
+    "index": 336,
+    "sourceIndex": 336,
+    "reading": "あらーむ",
+    "word": "アラーム",
+    "meaningRaw": "[名] alarm警报；警铃；闹钟"
+  },
+  {
+    "index": 337,
+    "sourceIndex": 337,
+    "reading": "だいぶぶん",
+    "word": "大部分",
+    "meaningRaw": "[惯用] 大部分，大致，多半"
+  },
+  {
+    "index": 338,
+    "sourceIndex": 338,
+    "reading": "せんぷうき",
+    "word": "扇風機",
+    "meaningRaw": "[名] 风扇，电扇"
+  },
+  {
+    "index": 339,
+    "sourceIndex": 339,
+    "reading": "おくる",
+    "word": "送る",
+    "meaningRaw": "[他动·五段] 度过（某一段时间）；送；寄，邮寄；汇寄；派，派遣，打发；送 （人），送行，送走；伴送；传送；传递；依次挪动；用假名标写，给汉字标上假 名"
+  },
+  {
+    "index": 340,
+    "sourceIndex": 340,
+    "reading": "りようしゃ",
+    "word": "利用者",
+    "meaningRaw": "[名] 使用者，使用的人。"
+  },
+  {
+    "index": 341,
+    "sourceIndex": 341,
+    "reading": "みやげ",
+    "word": "土産",
+    "meaningRaw": "[名] 特产，土产；（赠给人的）礼品，礼物"
+  },
+  {
+    "index": 342,
+    "sourceIndex": 342,
+    "reading": "ひかる",
+    "word": "光る",
+    "meaningRaw": "[自动·五段] 发光，发亮；出众，出类拔萃；监视，盯视"
+  },
+  {
+    "index": 343,
+    "sourceIndex": 343,
+    "reading": "やく",
+    "word": "焼く",
+    "meaningRaw": "[他动·五段] 烤，烙；照顾；烧，焚；（被太阳等）晒黑；烧制；照片冲印；烧 灼；嫉妒"
+  },
+  {
+    "index": 344,
+    "sourceIndex": 344,
+    "reading": "こめ",
+    "word": "米",
+    "meaningRaw": "[名] 稻米，大米"
+  },
+  {
+    "index": 345,
+    "sourceIndex": 345,
+    "reading": "よる",
+    "word": "寄る",
+    "meaningRaw": "[自动·五段] 聚集、集中；靠近、挨近；偏倾向于；顺便去顺路到；增多加重；凭 靠；（相扑）跟对方扭在一起往前推搡；（交易所）开盘（当日首次交易）成立"
+  },
+  {
+    "index": 346,
+    "sourceIndex": 346,
+    "reading": "のりもの",
+    "word": "乗り物",
+    "meaningRaw": "[名] 乘坐物，交通工具"
+  },
+  {
+    "index": 347,
+    "sourceIndex": 347,
+    "reading": "ひかり",
+    "word": "光",
+    "meaningRaw": "[名] 光，光亮，光线；光明,希望；威力，威势，威望光荣"
+  },
+  {
+    "index": 348,
+    "sourceIndex": 348,
+    "reading": "これでは",
+    "word": "これでは",
+    "meaningRaw": "[接续] 这样的话，这样一来。"
+  },
+  {
+    "index": 349,
+    "sourceIndex": 349,
+    "reading": "～かい",
+    "word": "～会",
+    "meaningRaw": "[接尾] （表示组织或活动）……会"
+  },
+  {
+    "index": 350,
+    "sourceIndex": 350,
+    "reading": "やせる",
+    "word": "痩せる",
+    "meaningRaw": "[自动·一段] 瘠薄，贫瘠；瘦，变瘦"
+  },
+  {
+    "index": 351,
+    "sourceIndex": 351,
+    "reading": "～ちょう",
+    "word": "～町",
+    "meaningRaw": "[接尾] （表示行政区域）……町。"
+  },
+  {
+    "index": 352,
+    "sourceIndex": 352,
+    "reading": "せわ",
+    "word": "世話",
+    "meaningRaw": "[名·サ变] 帮助，帮忙，援助；照料，照顾，照应，照看，照管；推荐，周旋，斡 旋，介绍"
+  },
+  {
+    "index": 353,
+    "sourceIndex": 353,
+    "reading": "ゆれる",
+    "word": "揺れる",
+    "meaningRaw": "[自动·一段] 摇晃，摇摆，摆动，摇荡；晃荡，颠簸；动摇，不稳定"
+  },
+  {
+    "index": 354,
+    "sourceIndex": 354,
+    "reading": "こわがる",
+    "word": "怖がる",
+    "meaningRaw": "[他动·五段] 害怕，恐惧"
+  },
+  {
+    "index": 355,
+    "sourceIndex": 355,
+    "reading": "だけど",
+    "word": "だけど",
+    "meaningRaw": "[接续] 但是，可是，然而转折性的接续词"
+  },
+  {
+    "index": 356,
+    "sourceIndex": 356,
+    "reading": "かたい",
+    "word": "硬い",
+    "meaningRaw": "[形] 硬；坚实，坚固；坚定；坚决；紧；用力；可靠；正派；说话算数；生硬；顽 固；拘谨，僵硬；严厉；(想象)无差，(确信)无疑"
+  },
+  {
+    "index": 357,
+    "sourceIndex": 357,
+    "reading": "こうじ",
+    "word": "工事",
+    "meaningRaw": "[名·自动·サ变] 工程；工事施工从事土木，建筑等作业，亦指其作业"
+  },
+  {
+    "index": 358,
+    "sourceIndex": 358,
+    "reading": "もっとも",
+    "word": "最も",
+    "meaningRaw": "[副词] 最，顶……，不过无以伦比程度最高的"
+  },
+  {
+    "index": 359,
+    "sourceIndex": 359,
+    "reading": "おこさん",
+    "word": "お子さん",
+    "meaningRaw": "[名] （您的）孩子，令郎，令爱"
+  },
+  {
+    "index": 360,
+    "sourceIndex": 360,
+    "reading": "ごみばこ",
+    "word": "ゴミ箱",
+    "meaningRaw": "[名] 垃圾箱"
+  },
+  {
+    "index": 361,
+    "sourceIndex": 361,
+    "reading": "こむ",
+    "word": "混む",
+    "meaningRaw": "[自动·五段] 拥挤，混杂，混乱"
+  },
+  {
+    "index": 362,
+    "sourceIndex": 362,
+    "reading": "かんじ",
+    "word": "感じ",
+    "meaningRaw": "[名] 感觉；知觉，感；印象，感觉；情感，感情"
+  },
+  {
+    "index": 363,
+    "sourceIndex": 363,
+    "reading": "～りょう",
+    "word": "～料",
+    "meaningRaw": "[接尾] ……费。；……材料，……料。"
+  },
+  {
+    "index": 364,
+    "sourceIndex": 364,
+    "reading": "がくしゅうしゃ",
+    "word": "学習者",
+    "meaningRaw": "[名] 学习者"
+  },
+  {
+    "index": 365,
+    "sourceIndex": 365,
+    "reading": "せいじ",
+    "word": "政治",
+    "meaningRaw": "[名] 政治"
+  },
+  {
+    "index": 366,
+    "sourceIndex": 366,
+    "reading": "しょくぶつ",
+    "word": "植物",
+    "meaningRaw": "[名] 植物"
+  },
+  {
+    "index": 367,
+    "sourceIndex": 367,
+    "reading": "くさい",
+    "word": "臭い",
+    "meaningRaw": "[形] 臭的；可疑的；做作的；有……气味的；…的样子；强化语意"
+  },
+  {
+    "index": 368,
+    "sourceIndex": 368,
+    "reading": "おとな",
+    "word": "大人",
+    "meaningRaw": "[名] 大人；成人，成年人；老实；听话，顺从；乖；老成"
+  },
+  {
+    "index": 369,
+    "sourceIndex": 369,
+    "reading": "ひじょうに",
+    "word": "非常に",
+    "meaningRaw": "[副词] 非常（地）"
+  },
+  {
+    "index": 370,
+    "sourceIndex": 370,
+    "reading": "はこぶ",
+    "word": "運ぶ",
+    "meaningRaw": "[自他动·五段] 运送，搬运；移步；前往；运笔；运针；开展，推进；（事物）进 展"
+  },
+  {
+    "index": 371,
+    "sourceIndex": 371,
+    "reading": "りよう",
+    "word": "利用",
+    "meaningRaw": "[名·他动·サ变] 利用，使用"
+  },
+  {
+    "index": 372,
+    "sourceIndex": 372,
+    "reading": "にんぎょう",
+    "word": "人形",
+    "meaningRaw": "[名] 偶人，木偶，用纸、木、泥等做成的人，古时用于附着灾厄邪秽后放入水中流 走或作为神灵的化身，也当做诅咒的对象等，后成为儿童喜爱的玩具，做成各种样 式；木偶，傀儡比喻不能按照自己的意志行事，对他人唯命是从的人"
+  },
+  {
+    "index": 373,
+    "sourceIndex": 373,
+    "reading": "ろうじん",
+    "word": "老人",
+    "meaningRaw": "[名] 老人，老年人"
+  },
+  {
+    "index": 374,
+    "sourceIndex": 374,
+    "reading": "やめる",
+    "word": "止める",
+    "meaningRaw": "[他动·一段] 停止，中止；放弃；取消，作罢；戒，忌"
+  },
+  {
+    "index": 375,
+    "sourceIndex": 375,
+    "reading": "てきすと",
+    "word": "テキスト",
+    "meaningRaw": "[名] 教科书，教材，课本，讲义；text原文；文本，底本"
+  },
+  {
+    "index": 376,
+    "sourceIndex": 376,
+    "reading": "～めーとる",
+    "word": "～メートル",
+    "meaningRaw": "[接尾] ……米"
+  },
+  {
+    "index": 377,
+    "sourceIndex": 377,
+    "reading": "うっとり",
+    "word": "うっとり",
+    "meaningRaw": "[副词·形动] 发呆;陶醉;入迷"
+  },
+  {
+    "index": 378,
+    "sourceIndex": 378,
+    "reading": "せんそう",
+    "word": "戦争",
+    "meaningRaw": "[名·サ变] 战争，战事；会战；打仗；如战争般的竞争、混乱等"
+  },
+  {
+    "index": 379,
+    "sourceIndex": 379,
+    "reading": "ぜんこく",
+    "word": "全国",
+    "meaningRaw": "[名] 全国（各地）；整个国家"
+  },
+  {
+    "index": 380,
+    "sourceIndex": 380,
+    "reading": "いつでも",
+    "word": "何時でも",
+    "meaningRaw": "[副词] 无论什么时候，随时，经常，总是"
+  },
+  {
+    "index": 381,
+    "sourceIndex": 381,
+    "reading": "きゅうりょう",
+    "word": "給料",
+    "meaningRaw": "[名] 工资，薪金，薪水"
+  },
+  {
+    "index": 382,
+    "sourceIndex": 382,
+    "reading": "あにめ",
+    "word": "アニメ",
+    "meaningRaw": "[名] 动画片，卡通"
+  },
+  {
+    "index": 383,
+    "sourceIndex": 383,
+    "reading": "ながねぎ",
+    "word": "長ネギ",
+    "meaningRaw": "[名] 大葱"
+  },
+  {
+    "index": 384,
+    "sourceIndex": 384,
+    "reading": "えねるぎー",
+    "word": "エネルギー",
+    "meaningRaw": "[名] 能量；精力，气力"
+  },
+  {
+    "index": 385,
+    "sourceIndex": 385,
+    "reading": "あるばいと",
+    "word": "アルバイト",
+    "meaningRaw": "[名·サ变] [德]Arbeit打工。一边进行学业或从事本职工作一边做副业劳动，亦指 这样的劳动者；学术成就，学术成果，学问上的业绩"
+  },
+  {
+    "index": 386,
+    "sourceIndex": 386,
+    "reading": "～ちょうめ",
+    "word": "～丁目",
+    "meaningRaw": "[接尾·名] 第……街，第……巷，第……弄。日本的城镇的区划单位，大于门牌 号。（町の区分けの単位で、番地より大きいもの。）"
+  },
+  {
+    "index": 387,
+    "sourceIndex": 387,
+    "reading": "ゆ",
+    "word": "湯",
+    "meaningRaw": "[名] 开水，热水；洗澡水；浴池，澡堂；温泉；融化的液体金属"
+  },
+  {
+    "index": 388,
+    "sourceIndex": 388,
+    "reading": "きぼう",
+    "word": "希望",
+    "meaningRaw": "[名·他动·サ变] 希望，期望，愿望；希望寄予将来的期望"
+  },
+  {
+    "index": 389,
+    "sourceIndex": 389,
+    "reading": "おつり",
+    "word": "お釣り",
+    "meaningRaw": "[名] 有剩余；找零，找头"
+  },
+  {
+    "index": 390,
+    "sourceIndex": 390,
+    "reading": "はやく",
+    "word": "早く",
+    "meaningRaw": "[副词] 早早；早，早就；快，迅速"
+  },
+  {
+    "index": 391,
+    "sourceIndex": 391,
+    "reading": "うつくしい",
+    "word": "美しい",
+    "meaningRaw": "[形] 美，美丽，好看，漂亮；美好，优美"
+  },
+  {
+    "index": 392,
+    "sourceIndex": 392,
+    "reading": "つづく",
+    "word": "続く",
+    "meaningRaw": "[自动·五段] 继续；连续；连绵；接连发生；继……之后，接着，跟着；连着，通 到；接得上，够用；后继，跟上，沿袭"
+  },
+  {
+    "index": 393,
+    "sourceIndex": 393,
+    "reading": "まいる",
+    "word": "参る",
+    "meaningRaw": "[自动·五段] 去，来（「行く」「来る」的自谦语，表示对对方的敬意）；参拜； 认输，败；受不了，吃不消；叫人为难；不堪，累垮"
+  },
+  {
+    "index": 394,
+    "sourceIndex": 394,
+    "reading": "さしあげる",
+    "word": "差し上げる",
+    "meaningRaw": "[他动·一段] 举，举起；（「上げる」「やる」「与える」的自谦语）敬献，呈 送；（补助动词「～て差し上げる」）给您…"
+  },
+  {
+    "index": 395,
+    "sourceIndex": 395,
+    "reading": "きゅうり",
+    "word": "胡瓜",
+    "meaningRaw": "[名] 黄瓜葫芦科一年生草本植物"
+  },
+  {
+    "index": 396,
+    "sourceIndex": 396,
+    "reading": "しゅっぱつ",
+    "word": "出発",
+    "meaningRaw": "[名·サ变] 出发，动身，启程朝目的地地方向进发；开头，开始做……事物的开端"
+  },
+  {
+    "index": 397,
+    "sourceIndex": 397,
+    "reading": "てんらんかい",
+    "word": "展覧会",
+    "meaningRaw": "[名] 展览会"
+  },
+  {
+    "index": 398,
+    "sourceIndex": 398,
+    "reading": "しま",
+    "word": "島",
+    "meaningRaw": "[名] 岛屿，岛子，岛"
+  },
+  {
+    "index": 399,
+    "sourceIndex": 399,
+    "reading": "そうしたら",
+    "word": "そうしたら",
+    "meaningRaw": "[副词] 这样一来，要是那样的话，如果那样"
+  },
+  {
+    "index": 400,
+    "sourceIndex": 400,
+    "reading": "なれる",
+    "word": "慣れる",
+    "meaningRaw": "[自动·一段] 习惯，习以为常；熟练；惯，合；味道恰到好处；亲近"
+  },
+  {
+    "index": 401,
+    "sourceIndex": 401,
+    "reading": "ちきゅう",
+    "word": "地球",
+    "meaningRaw": "[名] 地球"
+  },
+  {
+    "index": 402,
+    "sourceIndex": 402,
+    "reading": "ひっこす",
+    "word": "引っ越す",
+    "meaningRaw": "[自动·五段] 搬家，搬迁，迁居"
+  },
+  {
+    "index": 403,
+    "sourceIndex": 403,
+    "reading": "いそぐ",
+    "word": "急ぐ",
+    "meaningRaw": "[自他动·五段] 赶路；快，急，加快，赶紧，着急"
+  },
+  {
+    "index": 404,
+    "sourceIndex": 404,
+    "reading": "じゅんび",
+    "word": "準備",
+    "meaningRaw": "[名·サ变] 准备，预备；筹备"
+  },
+  {
+    "index": 405,
+    "sourceIndex": 405,
+    "reading": "おおがた",
+    "word": "大型",
+    "meaningRaw": "[名·形动] 在同类物品中形状大大型；形状或规模大的东西大型"
+  },
+  {
+    "index": 406,
+    "sourceIndex": 406,
+    "reading": "こうつう",
+    "word": "交通",
+    "meaningRaw": "[名·自动·サ变] 交通；通信，往来"
+  },
+  {
+    "index": 407,
+    "sourceIndex": 407,
+    "reading": "えび",
+    "word": "蝦",
+    "meaningRaw": "[名] 虾"
+  },
+  {
+    "index": 408,
+    "sourceIndex": 408,
+    "reading": "あたえる",
+    "word": "与える",
+    "meaningRaw": "[他动·一段] 给与，给予，供给；授予；分配派定，布置；使蒙受，使遭到"
+  },
+  {
+    "index": 409,
+    "sourceIndex": 409,
+    "reading": "すてる",
+    "word": "捨てる",
+    "meaningRaw": "[他动·一段] 置之不理，不顾不理；（将无用的东西、无价值的东西）扔掉抛弃； 抛弃，放弃，遗弃，丢弃；抛弃（俗世）出家；下（车）；（接动词连用形后）弃 之不管，搁置不管"
+  },
+  {
+    "index": 410,
+    "sourceIndex": 410,
+    "reading": "かかり",
+    "word": "係り",
+    "meaningRaw": "[名] 负责人"
+  },
+  {
+    "index": 411,
+    "sourceIndex": 411,
+    "reading": "こんさーと",
+    "word": "コンサート",
+    "meaningRaw": "[名] 音乐会，演奏会"
+  },
+  {
+    "index": 412,
+    "sourceIndex": 412,
+    "reading": "おぼえる",
+    "word": "覚える",
+    "meaningRaw": "[他动·一段] 记，记住，记得，记忆；学会；领会，掌握，懂得；感觉，感到，觉 得"
+  },
+  {
+    "index": 413,
+    "sourceIndex": 413,
+    "reading": "ぶどう",
+    "word": "葡萄",
+    "meaningRaw": "[名] 葡萄，紫红色"
+  },
+  {
+    "index": 414,
+    "sourceIndex": 414,
+    "reading": "だるい",
+    "word": "怠い",
+    "meaningRaw": "[形] 懒倦的，慵懒的，发酸的，又懒又乏的"
+  },
+  {
+    "index": 415,
+    "sourceIndex": 415,
+    "reading": "かなしい",
+    "word": "悲しい",
+    "meaningRaw": "[形] 悲哀的，悲伤的，悲愁的，可悲的，遗憾的。"
+  },
+  {
+    "index": 416,
+    "sourceIndex": 416,
+    "reading": "かたづける",
+    "word": "片付ける",
+    "meaningRaw": "[他动·一段] 整理，收拾，拾掇；解决，处理；嫁给；除掉，消灭；杀死"
+  },
+  {
+    "index": 417,
+    "sourceIndex": 417,
+    "reading": "じっさい",
+    "word": "実際",
+    "meaningRaw": "[名·副词] 实际；事实；原来（是）；实际上；的确，真的"
+  },
+  {
+    "index": 418,
+    "sourceIndex": 418,
+    "reading": "つける",
+    "word": "漬ける",
+    "meaningRaw": "[他动·一段] 腌，泡（菜等）"
+  },
+  {
+    "index": 419,
+    "sourceIndex": 419,
+    "reading": "ふしんせつ",
+    "word": "不親切",
+    "meaningRaw": "[惯用] 不亲切；不热情；冷淡；不周到"
+  },
+  {
+    "index": 420,
+    "sourceIndex": 420,
+    "reading": "さかや",
+    "word": "酒屋",
+    "meaningRaw": "[名] 酒铺，卖酒的（人）；酿酒厂，酒坊"
+  },
+  {
+    "index": 421,
+    "sourceIndex": 421,
+    "reading": "さんせい",
+    "word": "賛成",
+    "meaningRaw": "[名·サ变] 赞成，赞同；同意；赞成，赞同；同意"
+  },
+  {
+    "index": 422,
+    "sourceIndex": 422,
+    "reading": "めにはいる",
+    "word": "目に入る",
+    "meaningRaw": "[惯用] 看到，映入眼帘"
+  },
+  {
+    "index": 423,
+    "sourceIndex": 423,
+    "reading": "どろ",
+    "word": "泥",
+    "meaningRaw": "[名] 泥土，泥巴；小偷"
+  },
+  {
+    "index": 424,
+    "sourceIndex": 424,
+    "reading": "こまかい",
+    "word": "細かい",
+    "meaningRaw": "[形] 小，细，细小，零碎；详细，微细，入微，精密，仔细；吝啬，花钱精打细算"
+  },
+  {
+    "index": 425,
+    "sourceIndex": 425,
+    "reading": "およぎ",
+    "word": "泳ぎ",
+    "meaningRaw": "[名] 游泳"
+  },
+  {
+    "index": 426,
+    "sourceIndex": 426,
+    "reading": "おうだん",
+    "word": "横断",
+    "meaningRaw": "[名·他动·サ变] 横断；横渡，横穿"
+  },
+  {
+    "index": 427,
+    "sourceIndex": 427,
+    "reading": "ねむい",
+    "word": "眠い",
+    "meaningRaw": "[形] 有睡意的，犯困的；困，困倦，想睡觉"
+  },
+  {
+    "index": 428,
+    "sourceIndex": 428,
+    "reading": "えんそう",
+    "word": "演奏",
+    "meaningRaw": "[名·他动·サ变] 演奏"
+  },
+  {
+    "index": 429,
+    "sourceIndex": 429,
+    "reading": "おこる",
+    "word": "起こる",
+    "meaningRaw": "[自动·五段] 起，发生，闹；发作"
+  },
+  {
+    "index": 430,
+    "sourceIndex": 430,
+    "reading": "もえる",
+    "word": "燃える",
+    "meaningRaw": "[自动·一段] 燃烧，着火；热情洋溢；火红"
+  },
+  {
+    "index": 431,
+    "sourceIndex": 431,
+    "reading": "たまに",
+    "word": "偶に",
+    "meaningRaw": "[副词] 有时，偶尔"
+  },
+  {
+    "index": 432,
+    "sourceIndex": 432,
+    "reading": "あく",
+    "word": "空く",
+    "meaningRaw": "[自动·五段] 出现空隙或者空隙变大；职位等出现空缺；有空，有空闲；原本在某 处的人或者物消失不见，某处变空；容器中的东西完全被使用掉了空了"
+  },
+  {
+    "index": 433,
+    "sourceIndex": 433,
+    "reading": "たずねる",
+    "word": "訪ねる",
+    "meaningRaw": "[他动·一段] 访问，拜访"
+  },
+  {
+    "index": 434,
+    "sourceIndex": 434,
+    "reading": "よろこぶ",
+    "word": "喜ぶ",
+    "meaningRaw": "[自他动·五段] 欢喜，高兴，喜悦；欣然接受，欢迎；值得庆贺"
+  },
+  {
+    "index": 435,
+    "sourceIndex": 435,
+    "reading": "くちにあう",
+    "word": "口に合う",
+    "meaningRaw": "[惯用] （食物等）合口味，对胃口"
+  },
+  {
+    "index": 436,
+    "sourceIndex": 436,
+    "reading": "きぬ",
+    "word": "絹",
+    "meaningRaw": "[名] 丝绸，绸子，丝织品；（蚕）丝"
+  },
+  {
+    "index": 437,
+    "sourceIndex": 437,
+    "reading": "せいちょう",
+    "word": "成長",
+    "meaningRaw": "[名·自动·サ变] 增长；发展；成长，发育；生长"
+  },
+  {
+    "index": 438,
+    "sourceIndex": 438,
+    "reading": "やってくる",
+    "word": "やって来る",
+    "meaningRaw": "[惯用] 来，到来"
+  },
+  {
+    "index": 439,
+    "sourceIndex": 439,
+    "reading": "しょうらい",
+    "word": "将来",
+    "meaningRaw": "[名·副词·サ变] 将来，未来，前途；拿来,带来，招致；在将来，在未来"
+  },
+  {
+    "index": 440,
+    "sourceIndex": 440,
+    "reading": "おもいだす",
+    "word": "思い出す",
+    "meaningRaw": "[他动·五段] 记起回忆起"
+  },
+  {
+    "index": 441,
+    "sourceIndex": 441,
+    "reading": "きつえん",
+    "word": "喫煙",
+    "meaningRaw": "[名·自动·サ变] 吸烟，抽烟"
+  },
+  {
+    "index": 442,
+    "sourceIndex": 442,
+    "reading": "そつぎょう",
+    "word": "卒業",
+    "meaningRaw": "[名·自他动·サ变] 毕业；体验过，过时，过了阶段；毕业，对原本喜欢的偶像或 角色脱粉；毕业，对原本喜欢的偶像或角色脱粉"
+  },
+  {
+    "index": 443,
+    "sourceIndex": 443,
+    "reading": "おれる",
+    "word": "折れる",
+    "meaningRaw": "[自动·一段] 折断；折叠；拐弯；屈服"
+  },
+  {
+    "index": 444,
+    "sourceIndex": 444,
+    "reading": "たいそう",
+    "word": "体操",
+    "meaningRaw": "[名·サ变] （旧）体育课；体操；体操比赛项目"
+  },
+  {
+    "index": 445,
+    "sourceIndex": 445,
+    "reading": "かがく",
+    "word": "科学",
+    "meaningRaw": "[名·サ变] 科学"
+  },
+  {
+    "index": 446,
+    "sourceIndex": 446,
+    "reading": "きけん",
+    "word": "危険",
+    "meaningRaw": "[名·形动] 危险；危险"
+  },
+  {
+    "index": 447,
+    "sourceIndex": 447,
+    "reading": "かえり",
+    "word": "帰り",
+    "meaningRaw": "[名] 回来，回去，归；回程、归途；回来时；回去的方式"
+  },
+  {
+    "index": 448,
+    "sourceIndex": 448,
+    "reading": "わらわせる",
+    "word": "笑わせる",
+    "meaningRaw": "[他动·一段] 逗人笑；嘲笑"
+  },
+  {
+    "index": 449,
+    "sourceIndex": 449,
+    "reading": "きゅう",
+    "word": "急",
+    "meaningRaw": "[名·形动] 急，急迫；急速，赶紧；紧急，危急〔危急〕；突然，忽然一下子，事 物发生无前兆，变化突然；急，陡倾斜程度大，险峻；急日本“艺能”的理论用 语“序破急”的第三部分"
+  },
+  {
+    "index": 450,
+    "sourceIndex": 450,
+    "reading": "みな",
+    "word": "皆",
+    "meaningRaw": "[名·副词] 全体，大家，诸位；全部，都，皆，一切"
+  },
+  {
+    "index": 451,
+    "sourceIndex": 451,
+    "reading": "ほとんど",
+    "word": "殆ど",
+    "meaningRaw": "[名·副词] 大部分，大致，大体；几乎，差一点"
+  },
+  {
+    "index": 452,
+    "sourceIndex": 452,
+    "reading": "～ちょう",
+    "word": "～兆",
+    "meaningRaw": "[接尾] ……兆，……万亿。"
+  },
+  {
+    "index": 453,
+    "sourceIndex": 453,
+    "reading": "かいわ",
+    "word": "会話",
+    "meaningRaw": "[名·自动·サ变] 会话谈话，对话（两人及以上的口头交流)"
+  },
+  {
+    "index": 454,
+    "sourceIndex": 454,
+    "reading": "くらすめーと",
+    "word": "クラスメート",
+    "meaningRaw": "[名] classmate同班生，同班同学，同学"
+  },
+  {
+    "index": 455,
+    "sourceIndex": 455,
+    "reading": "おまつり",
+    "word": "お祭り",
+    "meaningRaw": "[名] 祭祀，庙会"
+  },
+  {
+    "index": 456,
+    "sourceIndex": 456,
+    "reading": "のりかえる",
+    "word": "乗り換える",
+    "meaningRaw": "[自他动·一段] 换车，倒车〔船〕，换乘，改乘；倒换；改变，改行"
+  },
+  {
+    "index": 457,
+    "sourceIndex": 457,
+    "reading": "おる",
+    "word": "折る",
+    "meaningRaw": "[他动·五段] 折断；折叠；叠纸；中断；封笔；（使）伤心"
+  },
+  {
+    "index": 458,
+    "sourceIndex": 458,
+    "reading": "ふべん",
+    "word": "不便",
+    "meaningRaw": "[名·形动] 不便，不方便，不便利；不便，不方便，不便利"
+  },
+  {
+    "index": 459,
+    "sourceIndex": 459,
+    "reading": "さつじん",
+    "word": "殺人",
+    "meaningRaw": "[名] 杀人"
+  },
+  {
+    "index": 460,
+    "sourceIndex": 460,
+    "reading": "けいえい",
+    "word": "経営",
+    "meaningRaw": "[名·サ变] 经营，运营"
+  },
+  {
+    "index": 461,
+    "sourceIndex": 461,
+    "reading": "あじあ",
+    "word": "アジア",
+    "meaningRaw": "[名] 除欧洲以外的欧亚大陆地区及邻近岛国。；亚洲；亚细亚"
+  },
+  {
+    "index": 462,
+    "sourceIndex": 462,
+    "reading": "こくさい",
+    "word": "国際",
+    "meaningRaw": "[名] 国际"
+  },
+  {
+    "index": 463,
+    "sourceIndex": 463,
+    "reading": "ばんぐみ",
+    "word": "番組",
+    "meaningRaw": "[名] (电视，广播，演剧，比赛等的)节目"
+  },
+  {
+    "index": 464,
+    "sourceIndex": 464,
+    "reading": "ゆしゅつ",
+    "word": "輸出",
+    "meaningRaw": "[名·サ变] 输出，出口"
+  },
+  {
+    "index": 465,
+    "sourceIndex": 465,
+    "reading": "いたる",
+    "word": "至る",
+    "meaningRaw": "[自动·五段] 至，到；到来，来临；达，及，到达；成为，完成（结果）；多项事 物中强调一项；（多用否定形）照顾不周，不周到"
+  },
+  {
+    "index": 466,
+    "sourceIndex": 466,
+    "reading": "しん～",
+    "word": "新～",
+    "meaningRaw": "[接头] 新……。 接名词前，添加“新的”含义。〔名詞に付いて、「新しい」の 意を添える。〕"
+  },
+  {
+    "index": 467,
+    "sourceIndex": 467,
+    "reading": "えすかれーたー",
+    "word": "エスカレーター",
+    "meaningRaw": "[名] escalator自动扶梯；能自动升学、晋级的机制"
+  },
+  {
+    "index": 468,
+    "sourceIndex": 468,
+    "reading": "れいきん",
+    "word": "礼金",
+    "meaningRaw": "[名] 酬谢金"
+  },
+  {
+    "index": 469,
+    "sourceIndex": 469,
+    "reading": "ほうこく",
+    "word": "報告",
+    "meaningRaw": "[名·他动·サ变] 报告；汇报；告知"
+  },
+  {
+    "index": 470,
+    "sourceIndex": 470,
+    "reading": "いつまでも",
+    "word": "何時までも",
+    "meaningRaw": "[副词] 不管到什么时候，永远，始终；到底，毕竟，始终"
+  },
+  {
+    "index": 471,
+    "sourceIndex": 471,
+    "reading": "さいず",
+    "word": "サイズ",
+    "meaningRaw": "[名] size大小；尺寸；尺码；号码；身材"
+  },
+  {
+    "index": 472,
+    "sourceIndex": 472,
+    "reading": "いまにも",
+    "word": "今にも",
+    "meaningRaw": "[副词] 马上，不久，眼看很快就要成为那样的状态"
+  },
+  {
+    "index": 473,
+    "sourceIndex": 473,
+    "reading": "かいぎ",
+    "word": "会議",
+    "meaningRaw": "[名] 会议，会（ 多人有明确目的的集中交流）"
+  },
+  {
+    "index": 474,
+    "sourceIndex": 474,
+    "reading": "やける",
+    "word": "焼ける",
+    "meaningRaw": "[自动·一段] 着火，燃烧；被加热后越来越热；（被太阳等）晒黑，晒褪色由于光 或热而使东西变色；胃酸过多，烧心燥热难受；发红，变红天空或云变成红色；操 心，添麻烦；烧热，烤热，炽热，烧红加热后呈高温，亦指经如此加温后东西做熟 或完成"
+  },
+  {
+    "index": 475,
+    "sourceIndex": 475,
+    "reading": "したぎ",
+    "word": "下着",
+    "meaningRaw": "[名] 贴身衣服，内衣，衬衣"
+  },
+  {
+    "index": 476,
+    "sourceIndex": 476,
+    "reading": "みつける",
+    "word": "見つける",
+    "meaningRaw": "[他动·一段] 看到，找到，发现；察觉；注意到"
+  },
+  {
+    "index": 477,
+    "sourceIndex": 477,
+    "reading": "かべ",
+    "word": "壁",
+    "meaningRaw": "[名] 墙，壁；障碍（物）（障害）；隔阂；峭壁；（已婚妇女用语）豆腐"
+  },
+  {
+    "index": 478,
+    "sourceIndex": 478,
+    "reading": "たもつ",
+    "word": "保つ",
+    "meaningRaw": "[自他动·五段] 保存；保持，维持；保护，保住；支持；保持不变；保存住"
+  },
+  {
+    "index": 479,
+    "sourceIndex": 479,
+    "reading": "かいじょう",
+    "word": "会場",
+    "meaningRaw": "[名] 会场，承载会议等集体活动的物理地点。"
+  },
+  {
+    "index": 480,
+    "sourceIndex": 480,
+    "reading": "みるく",
+    "word": "ミルク",
+    "meaningRaw": "[名] （milk）牛乳，牛奶；奶粉；炼乳"
+  },
+  {
+    "index": 481,
+    "sourceIndex": 481,
+    "reading": "おそろしい",
+    "word": "恐ろしい",
+    "meaningRaw": "[形] 可怕；惊人，非常，厉害"
+  },
+  {
+    "index": 482,
+    "sourceIndex": 482,
+    "reading": "しっぱい",
+    "word": "失敗",
+    "meaningRaw": "[名·自动·サ变] 失败"
+  },
+  {
+    "index": 483,
+    "sourceIndex": 483,
+    "reading": "こくご",
+    "word": "国語",
+    "meaningRaw": "[名] 语言；本国语言，母语；国语（课），语文（课）；标准语，普通话"
+  },
+  {
+    "index": 484,
+    "sourceIndex": 484,
+    "reading": "がらす",
+    "word": "ガラス",
+    "meaningRaw": "[名] 玻璃；光玻璃。"
+  },
+  {
+    "index": 485,
+    "sourceIndex": 485,
+    "reading": "ふだん",
+    "word": "普段",
+    "meaningRaw": "[名·副词] 平素，平时，平常，平日，日常"
+  },
+  {
+    "index": 486,
+    "sourceIndex": 486,
+    "reading": "けんきゅうじょ",
+    "word": "研究所",
+    "meaningRaw": "[名] 也读作「けんきゅうしょ」，研究室"
+  },
+  {
+    "index": 487,
+    "sourceIndex": 487,
+    "reading": "おれい",
+    "word": "お礼",
+    "meaningRaw": "[名] 感谢，谢意；回敬，回礼，还礼，答礼谢礼，报酬，酬谢"
+  },
+  {
+    "index": 488,
+    "sourceIndex": 488,
+    "reading": "おたく",
+    "word": "お宅",
+    "meaningRaw": "[名] 您，您那里，贵处；您的家，贵府，府上；宅男（女）；贵公司"
+  },
+  {
+    "index": 489,
+    "sourceIndex": 489,
+    "reading": "～じかんめ",
+    "word": "～時間目",
+    "meaningRaw": "[接尾] 第……节课。"
+  },
+  {
+    "index": 490,
+    "sourceIndex": 490,
+    "reading": "ひろさ",
+    "word": "広さ",
+    "meaningRaw": "[名] 面积；宽度，宽窄，幅度；广博"
+  },
+  {
+    "index": 491,
+    "sourceIndex": 491,
+    "reading": "ち",
+    "word": "血",
+    "meaningRaw": "[名] 血，血液；血缘，血脉、血统"
+  },
+  {
+    "index": 492,
+    "sourceIndex": 492,
+    "reading": "きめる",
+    "word": "決める",
+    "meaningRaw": "[他动·一段] 定，决定，决心，规定；指定；选定；约定；商定；（独自）断定； 认定；（自己）作主"
+  },
+  {
+    "index": 493,
+    "sourceIndex": 493,
+    "reading": "らい～",
+    "word": "来～",
+    "meaningRaw": "[] 来……，下一……，下次……。（時などのを表す名詞の上について、次の、の 意を表す。）；来到。（xxへ来ること）"
+  },
+  {
+    "index": 494,
+    "sourceIndex": 494,
+    "reading": "あいだ",
+    "word": "間",
+    "meaningRaw": "[名] 间隔，空档，缝隙；间，中间；期间，时候，工夫；关系；开间，空隙，缝隙"
+  },
+  {
+    "index": 495,
+    "sourceIndex": 495,
+    "reading": "げしゅく",
+    "word": "下宿",
+    "meaningRaw": "[名·サ变] 供膳宿的公寓；寄宿在别人家中的房间里，租房间住，住公寓"
+  },
+  {
+    "index": 496,
+    "sourceIndex": 496,
+    "reading": "もうすぐ",
+    "word": "もうすぐ",
+    "meaningRaw": "[副词] 马上就要，将要，快要"
+  },
+  {
+    "index": 497,
+    "sourceIndex": 497,
+    "reading": "すーつけーす",
+    "word": "スーツケース",
+    "meaningRaw": "[名] (英) suitcase;旅行箱，旅行用（手提式）衣箱"
+  },
+  {
+    "index": 498,
+    "sourceIndex": 498,
+    "reading": "みとめる",
+    "word": "認める",
+    "meaningRaw": "[他动·一段] 看见，看到；认识，赏识，重视；承认；断定，认为；准许，同意"
+  },
+  {
+    "index": 499,
+    "sourceIndex": 499,
+    "reading": "くらし",
+    "word": "暮らし",
+    "meaningRaw": "[名] 生活；度日；家境，家道；生计，家计『書』，糊口之道"
+  },
+  {
+    "index": 500,
+    "sourceIndex": 500,
+    "reading": "てぶくろ",
+    "word": "手袋",
+    "meaningRaw": "[名] 手套"
+  },
+  {
+    "index": 501,
+    "sourceIndex": 501,
+    "reading": "あちらこちら",
+    "word": "あちらこちら",
+    "meaningRaw": "[名] 到处，各处。"
+  },
+  {
+    "index": 502,
+    "sourceIndex": 502,
+    "reading": "もじ",
+    "word": "文字",
+    "meaningRaw": "[名] 文字，文章；字；字迹；字数"
+  },
+  {
+    "index": 503,
+    "sourceIndex": 503,
+    "reading": "さげる",
+    "word": "下げる",
+    "meaningRaw": "[他动·一段] 降低，降下；放低；吊；悬；挂；佩带提，挎；后退，使后退，向后 移动；撤下，收拾"
+  },
+  {
+    "index": 504,
+    "sourceIndex": 504,
+    "reading": "と",
+    "word": "都",
+    "meaningRaw": "[名] 京城；都市规模大的城镇；（表示行政区域的）都东京都"
+  },
+  {
+    "index": 505,
+    "sourceIndex": 505,
+    "reading": "いなか",
+    "word": "田舎",
+    "meaningRaw": "[名] 乡下，农村；故乡，家乡，老家"
+  },
+  {
+    "index": 506,
+    "sourceIndex": 506,
+    "reading": "おりんぴっく",
+    "word": "オリンピック",
+    "meaningRaw": "[名] Olympic奥林匹克运动会，奥运会"
+  },
+  {
+    "index": 507,
+    "sourceIndex": 507,
+    "reading": "うえる",
+    "word": "植える",
+    "meaningRaw": "[他动·一段] 栽植；嵌入；接种培育"
+  },
+  {
+    "index": 508,
+    "sourceIndex": 508,
+    "reading": "まんいん",
+    "word": "満員",
+    "meaningRaw": "[名] 名额已满；满员；满座；载满乘客；满座，挤满观众"
+  },
+  {
+    "index": 509,
+    "sourceIndex": 509,
+    "reading": "きょうそう",
+    "word": "競争",
+    "meaningRaw": "[名·自他动·サ变] 竞争，竞赛，比赛"
+  },
+  {
+    "index": 510,
+    "sourceIndex": 510,
+    "reading": "それなのに",
+    "word": "それなのに",
+    "meaningRaw": "[接续] 尽管那样，虽然那样"
+  },
+  {
+    "index": 511,
+    "sourceIndex": 511,
+    "reading": "あなうんさー",
+    "word": "アナウンサー",
+    "meaningRaw": "[名] announcer广播员；报告员〔电台〕播音员，播送员"
+  },
+  {
+    "index": 512,
+    "sourceIndex": 512,
+    "reading": "～けん",
+    "word": "～県",
+    "meaningRaw": "[接尾] （表示行政区域的）……县。"
+  },
+  {
+    "index": 513,
+    "sourceIndex": 513,
+    "reading": "きし",
+    "word": "岸",
+    "meaningRaw": "[名] 岸，岸边，滨陆地与水相接之处；崖，悬崖，绝壁土地的峭立处"
+  },
+  {
+    "index": 514,
+    "sourceIndex": 514,
+    "reading": "てにすこーと",
+    "word": "テニスコート",
+    "meaningRaw": "[名] tenniscourt网球场"
+  },
+  {
+    "index": 515,
+    "sourceIndex": 515,
+    "reading": "かがみ",
+    "word": "鏡",
+    "meaningRaw": "[名] 模范，榜样；镜子；酒桶的盖；「鏡饼」的略称。一种扁平的圆形年糕。作为 祭品用于供奉；人贵自知。"
+  },
+  {
+    "index": 516,
+    "sourceIndex": 516,
+    "reading": "れい",
+    "word": "礼",
+    "meaningRaw": "[名] 礼,礼貌；礼法；礼节；礼仪；敬礼,行礼；鞠躬；道谢,致谢；谢词；感谢,谢"
+  },
+  {
+    "index": 517,
+    "sourceIndex": 517,
+    "reading": "でんしじしょ",
+    "word": "電子辞書",
+    "meaningRaw": "[名] 电子词典"
+  },
+  {
+    "index": 518,
+    "sourceIndex": 518,
+    "reading": "したく",
+    "word": "支度",
+    "meaningRaw": "[名·サ变] （日常琐事的）准备，预备；打扮，整理穿戴；外出服"
+  },
+  {
+    "index": 519,
+    "sourceIndex": 519,
+    "reading": "じゃま",
+    "word": "邪魔",
+    "meaningRaw": "[名·サ变] （佛教语）邪魔，妨碍修行的恶魔；妨碍，阻碍，碍事，障碍；干扰， 打扰，搅扰，打搅，累赘；访问，拜访，添麻烦"
+  },
+  {
+    "index": 520,
+    "sourceIndex": 520,
+    "reading": "たずねる",
+    "word": "尋ねる",
+    "meaningRaw": "[他动·一段] 寻，找，寻找；问；询问；打听；探求，探索，寻求，查明"
+  },
+  {
+    "index": 521,
+    "sourceIndex": 521,
+    "reading": "こうくうけん",
+    "word": "航空券",
+    "meaningRaw": "[名] 机票，飞机票 证明旅客就其本人及手提行李的登机旅行事宜已与航空公司签 定合同的文件"
+  },
+  {
+    "index": 522,
+    "sourceIndex": 522,
+    "reading": "おおごえ",
+    "word": "大声",
+    "meaningRaw": "[名] 大声，高声"
+  },
+  {
+    "index": 523,
+    "sourceIndex": 523,
+    "reading": "けしごむ",
+    "word": "消しゴム",
+    "meaningRaw": "[名] 橡皮擦，橡皮能擦掉铅笔等书写痕迹的文具"
+  },
+  {
+    "index": 524,
+    "sourceIndex": 524,
+    "reading": "さいご",
+    "word": "最後",
+    "meaningRaw": "[名] 最后，最终，最末；（一旦……）就完了，就没有办法了"
+  },
+  {
+    "index": 525,
+    "sourceIndex": 525,
+    "reading": "とまと",
+    "word": "トマト",
+    "meaningRaw": "[名] tomato西红柿，番茄"
+  },
+  {
+    "index": 526,
+    "sourceIndex": 526,
+    "reading": "ごらんになる",
+    "word": "ご覧になる",
+    "meaningRaw": "[惯用] 「ご覧になる」是「見る」的敬语，用以表述尊敬对象的“看”“观赏”行 为。"
+  },
+  {
+    "index": 527,
+    "sourceIndex": 527,
+    "reading": "まわり",
+    "word": "周り",
+    "meaningRaw": "[名] 附近；周围，四周；圈比较物体周边的大小时所用的量词"
+  },
+  {
+    "index": 528,
+    "sourceIndex": 528,
+    "reading": "おかゆ",
+    "word": "お粥",
+    "meaningRaw": "[名] 粥，稀饭"
+  },
+  {
+    "index": 529,
+    "sourceIndex": 529,
+    "reading": "わりあい",
+    "word": "割合",
+    "meaningRaw": "[名·形动] 比例；分摊额，分配量；比起，比；比较"
+  },
+  {
+    "index": 530,
+    "sourceIndex": 530,
+    "reading": "しききん",
+    "word": "敷金",
+    "meaningRaw": "[名] 押金，保证金"
+  },
+  {
+    "index": 531,
+    "sourceIndex": 531,
+    "reading": "あどれす",
+    "word": "アドレス",
+    "meaningRaw": "[名] address 住址；（计算机用语）位址；用于识别数据在储存装置的位置的数 字。；瞄准击球；网络邮箱地址"
+  },
+  {
+    "index": 532,
+    "sourceIndex": 532,
+    "reading": "くも",
+    "word": "雲",
+    "meaningRaw": "[名] 云，云彩"
+  },
+  {
+    "index": 533,
+    "sourceIndex": 533,
+    "reading": "かぼちゃ",
+    "word": "カボチャ",
+    "meaningRaw": "[名] 南瓜，倭瓜"
+  },
+  {
+    "index": 534,
+    "sourceIndex": 534,
+    "reading": "しあい",
+    "word": "試合",
+    "meaningRaw": "[名·サ变] （武艺、体育等的）比赛"
+  },
+  {
+    "index": 535,
+    "sourceIndex": 535,
+    "reading": "なおる",
+    "word": "直る",
+    "meaningRaw": "[自动·五段] 改正过来，矫正过来；改成；复原；修理好"
+  },
+  {
+    "index": 536,
+    "sourceIndex": 536,
+    "reading": "しゃーぷぺんしる",
+    "word": "シャープペンシル",
+    "meaningRaw": "[名] sharppencil 活心铅笔，自动铅笔"
+  },
+  {
+    "index": 537,
+    "sourceIndex": 537,
+    "reading": "あかんぼう",
+    "word": "赤ん坊",
+    "meaningRaw": "[名] 婴儿，乳儿，小宝宝，小宝贝，小娃娃；幼稚，不懂事"
+  },
+  {
+    "index": 538,
+    "sourceIndex": 538,
+    "reading": "きっと",
+    "word": "きっと",
+    "meaningRaw": "[副词] 一定，必定；严峻，严厉；锐利；是「きと」的促音添加形式「屹度」「急 度」是别字（音译字）"
+  },
+  {
+    "index": 539,
+    "sourceIndex": 539,
+    "reading": "いくら",
+    "word": "幾ら",
+    "meaningRaw": "[名] 无论怎么……（也）；多少"
+  },
+  {
+    "index": 540,
+    "sourceIndex": 540,
+    "reading": "ぼうえき",
+    "word": "貿易",
+    "meaningRaw": "[名·サ变] （进出口）贸易"
+  },
+  {
+    "index": 541,
+    "sourceIndex": 541,
+    "reading": "じょうし",
+    "word": "上司",
+    "meaningRaw": "[名] 上司，上级"
+  },
+  {
+    "index": 542,
+    "sourceIndex": 542,
+    "reading": "でいりぐち",
+    "word": "出入り口",
+    "meaningRaw": "[名] 出入口"
+  },
+  {
+    "index": 543,
+    "sourceIndex": 543,
+    "reading": "うつる",
+    "word": "移る",
+    "meaningRaw": "[自动·五段] 移动，搬家；变心；染上（香味或颜色）；（疾病、火势等）蔓延， 感染；时光流逝；转移，改变"
+  },
+  {
+    "index": 544,
+    "sourceIndex": 544,
+    "reading": "もくてき",
+    "word": "目的",
+    "meaningRaw": "[名] 目的，目标"
+  },
+  {
+    "index": 545,
+    "sourceIndex": 545,
+    "reading": "わく",
+    "word": "沸く",
+    "meaningRaw": "[自动·五段] 沸腾，烧开，烧热；激动，兴奋；熔化；哄闹，吵嚷"
+  },
+  {
+    "index": 546,
+    "sourceIndex": 546,
+    "reading": "しょうがくせい",
+    "word": "小学生",
+    "meaningRaw": "[名] 小学生"
+  },
+  {
+    "index": 547,
+    "sourceIndex": 547,
+    "reading": "ゆしゅつにゅう",
+    "word": "輸出入",
+    "meaningRaw": "[名·サ变] 进出口进口和出口"
+  },
+  {
+    "index": 548,
+    "sourceIndex": 548,
+    "reading": "こうちょう",
+    "word": "校長",
+    "meaningRaw": "[名] （中小学的）校长"
+  },
+  {
+    "index": 549,
+    "sourceIndex": 549,
+    "reading": "いんく",
+    "word": "インク",
+    "meaningRaw": "[名] 墨水"
+  },
+  {
+    "index": 550,
+    "sourceIndex": 550,
+    "reading": "そろそろ",
+    "word": "そろそろ",
+    "meaningRaw": "[副词] 就要，快要，不久；慢慢地，徐徐地；渐渐，逐渐"
+  },
+  {
+    "index": 551,
+    "sourceIndex": 551,
+    "reading": "さっき",
+    "word": "さっき",
+    "meaningRaw": "[名·副词] 刚才，方才先前稍前的一些时候"
+  },
+  {
+    "index": 552,
+    "sourceIndex": 552,
+    "reading": "いのる",
+    "word": "祈る",
+    "meaningRaw": "[他动·五段] 祈祷，祷告；祝愿，希望"
+  },
+  {
+    "index": 553,
+    "sourceIndex": 553,
+    "reading": "がくしゅう",
+    "word": "学習",
+    "meaningRaw": "[名·サ变] 学习；学习心理学上指以过去的经验为基础，掌握行为和适应的方法； 学习"
+  },
+  {
+    "index": 554,
+    "sourceIndex": 554,
+    "reading": "ちゅうしゃ",
+    "word": "注射",
+    "meaningRaw": "[名·サ变] 注射，打针；注视；注射，打针"
+  },
+  {
+    "index": 555,
+    "sourceIndex": 555,
+    "reading": "か",
+    "word": "～家",
+    "meaningRaw": "[接尾] ……家；做……的（人）。（その人がある職業に従事していることを表 す。…をする人間。）；爱……的人；很有……的人。（そうした性向の強い人、 また、そういう状態にいる人であることを表す。）；……家。（芸能と学術上の 一派。）；同：家（け）、家（うち）、家（いえ）"
+  },
+  {
+    "index": 556,
+    "sourceIndex": 556,
+    "reading": "めのまえ",
+    "word": "目の前",
+    "meaningRaw": "[名] 眼前，面前；迫在目前，迫在眉睫，最近"
+  },
+  {
+    "index": 557,
+    "sourceIndex": 557,
+    "reading": "ねむる",
+    "word": "眠る",
+    "meaningRaw": "[自动·五段] 睡觉。强调已经入眠，睡着后的状态。；搁置不用；死"
+  },
+  {
+    "index": 558,
+    "sourceIndex": 558,
+    "reading": "ご～",
+    "word": "御～",
+    "meaningRaw": "[接头] （一般用在汉语词之前）表示对对方的尊敬。（尊敬の意を表す）；表示自 谦。（謙譲語）；表示礼貌之意。（丁寧）"
+  },
+  {
+    "index": 559,
+    "sourceIndex": 559,
+    "reading": "ごぞんじ",
+    "word": "ご存知",
+    "meaningRaw": "[名] 您知道，您认识相识；熟人；朋友"
+  },
+  {
+    "index": 560,
+    "sourceIndex": 560,
+    "reading": "か",
+    "word": "科",
+    "meaningRaw": "[名] 专业，系；科；生物分类"
+  },
+  {
+    "index": 561,
+    "sourceIndex": 561,
+    "reading": "やりかた",
+    "word": "やり方",
+    "meaningRaw": "[名] 做法，方法。做某事时的态度"
+  },
+  {
+    "index": 562,
+    "sourceIndex": 562,
+    "reading": "しんぶんしゃ",
+    "word": "新聞社",
+    "meaningRaw": "[名] 报社，报馆"
+  },
+  {
+    "index": 563,
+    "sourceIndex": 563,
+    "reading": "ほうこう",
+    "word": "方向",
+    "meaningRaw": "[名] 方向；方针"
+  },
+  {
+    "index": 564,
+    "sourceIndex": 564,
+    "reading": "はんたい",
+    "word": "反対",
+    "meaningRaw": "[名·自动·サ变] 反对；相反；反，倒，颠倒"
+  },
+  {
+    "index": 565,
+    "sourceIndex": 565,
+    "reading": "したしい",
+    "word": "親しい",
+    "meaningRaw": "[形] （血缘）近；亲近，亲密，亲切，亲昵；熟悉，不生疏，不稀奇"
+  },
+  {
+    "index": 566,
+    "sourceIndex": 566,
+    "reading": "いますぐ",
+    "word": "今すぐ",
+    "meaningRaw": "[副词] 现在立即，现在立刻，现在马上。"
+  },
+  {
+    "index": 567,
+    "sourceIndex": 567,
+    "reading": "すたっふ",
+    "word": "スタッフ",
+    "meaningRaw": "[名] staff（各部门）负责干部，干部，职员,班底；（协助演出、舞台照明等的） 工作人员"
+  },
+  {
+    "index": 568,
+    "sourceIndex": 568,
+    "reading": "新入社員",
+    "word": "[名]",
+    "meaningRaw": "しんにゅうしゃい 新职员，新员工 ん"
+  },
+  {
+    "index": 569,
+    "sourceIndex": 569,
+    "reading": "かしだし",
+    "word": "貸出",
+    "meaningRaw": "[名·他动·サ变] 放款，贷款；出借，出租"
+  },
+  {
+    "index": 570,
+    "sourceIndex": 570,
+    "reading": "たりる",
+    "word": "足りる",
+    "meaningRaw": "[自动·一段] 足以，可以，将就；值得；足，足够"
+  },
+  {
+    "index": 571,
+    "sourceIndex": 571,
+    "reading": "ねだん",
+    "word": "値段",
+    "meaningRaw": "[名] 价格，价钱"
+  },
+  {
+    "index": 572,
+    "sourceIndex": 572,
+    "reading": "ひげ",
+    "word": "髭",
+    "meaningRaw": "[名] 尤指男人嘴周围和下颌等上生的毛。 胡须/胡子（泛指长在男性面部的毛 发），髭须（上唇胡），髯须（腮边胡）。；（动物的）须，触须动物嘴周围上的 长毛或毛状突起，亦指昆虫触角；鲸须须鲸亚目动物由上颌垂下的梳状器官"
+  },
+  {
+    "index": 573,
+    "sourceIndex": 573,
+    "reading": "たつ",
+    "word": "建つ",
+    "meaningRaw": "[自动·五段] 建，盖"
+  },
+  {
+    "index": 574,
+    "sourceIndex": 574,
+    "reading": "あちこち",
+    "word": "あちこち",
+    "meaningRaw": "[名] 颠倒，相反。事物的前后左右或顺序错位。多以「あちこちになる」的形式出 现。"
+  },
+  {
+    "index": 575,
+    "sourceIndex": 575,
+    "reading": "まわる",
+    "word": "回る",
+    "meaningRaw": "[自动·五段] 转，旋转，回转，转动；转，转动；绕着转，拐；巡回；巡视；周 游，遍历；绕弯，绕道，迂回；转移，转递，传递，轮流；营利；到处移动，四处 转"
+  },
+  {
+    "index": 576,
+    "sourceIndex": 576,
+    "reading": "だめ",
+    "word": "駄目",
+    "meaningRaw": "[名·形动] 白费，无用，徒劳；无望；不行，不许，不可以；不好，坏；不行，不 可能"
+  },
+  {
+    "index": 577,
+    "sourceIndex": 577,
+    "reading": "～ご",
+    "word": "～後",
+    "meaningRaw": "[接尾] ……之后。"
+  },
+  {
+    "index": 578,
+    "sourceIndex": 578,
+    "reading": "じだい",
+    "word": "時代",
+    "meaningRaw": "[名] 时代，时期；当代，现代；朝代；古色古香，古老风味；显得古老"
+  },
+  {
+    "index": 579,
+    "sourceIndex": 579,
+    "reading": "あいさつ",
+    "word": "挨拶",
+    "meaningRaw": "[名·自动·サ变] 寒暄语与人见面或分别等时的寒暄及其礼貌动作打招呼；（仪式 等的）贺辞或谢辞；回答，回话；对对方的态度表示无可奈何时讥讽的说法；（对 争议的）仲裁调解斡旋；惯用语"
+  },
+  {
+    "index": 580,
+    "sourceIndex": 580,
+    "reading": "わあ",
+    "word": "わあ",
+    "meaningRaw": "[感动] 感到惊讶，感动时发出的声音哇，哎呀；（哇的一声）突然哭出来的声音； 很多人一起喊"
+  },
+  {
+    "index": 581,
+    "sourceIndex": 581,
+    "reading": "さがす",
+    "word": "探す",
+    "meaningRaw": "[他动·五段] 查找，寻找，找搜索"
+  },
+  {
+    "index": 582,
+    "sourceIndex": 582,
+    "reading": "いっしょう",
+    "word": "一生",
+    "meaningRaw": "[名·副词] 一生，终生，一辈子；结束一生"
+  },
+  {
+    "index": 583,
+    "sourceIndex": 583,
+    "reading": "しゅうかん",
+    "word": "習慣",
+    "meaningRaw": "[名] 个人习惯；国家地区风俗习惯"
+  },
+  {
+    "index": 584,
+    "sourceIndex": 584,
+    "reading": "さす",
+    "word": "指す",
+    "meaningRaw": "[他动·五段] 指名，点名；（用手、箭头等）指；指向，朝向，朝着；指代；下将 棋"
+  },
+  {
+    "index": 585,
+    "sourceIndex": 585,
+    "reading": "わらう",
+    "word": "笑う",
+    "meaningRaw": "[自他动·五段] 笑；花开，开绽；嘲笑"
+  },
+  {
+    "index": 586,
+    "sourceIndex": 586,
+    "reading": "しょうしょう",
+    "word": "少々",
+    "meaningRaw": "[名·副词] 少许，一点，一些，稍微，稍稍，些微"
+  },
+  {
+    "index": 587,
+    "sourceIndex": 587,
+    "reading": "めにゅー",
+    "word": "メニュー",
+    "meaningRaw": "[名] menu 菜单，菜谱"
+  },
+  {
+    "index": 588,
+    "sourceIndex": 588,
+    "reading": "いまでも",
+    "word": "今でも",
+    "meaningRaw": "[副词] 現在の状態が過去と同じであるさま。今においても。"
+  },
+  {
+    "index": 589,
+    "sourceIndex": 589,
+    "reading": "けいけん",
+    "word": "経験",
+    "meaningRaw": "[名·サ变] 经验，经历"
+  },
+  {
+    "index": 590,
+    "sourceIndex": 590,
+    "reading": "くらべる",
+    "word": "比べる",
+    "meaningRaw": "[他动·一段] 比，比较；对比，对照；比，比赛，竞赛，较量，比试"
+  },
+  {
+    "index": 591,
+    "sourceIndex": 591,
+    "reading": "なく",
+    "word": "鳴く",
+    "meaningRaw": "[自动·五段] 啼，鸣叫"
+  },
+  {
+    "index": 592,
+    "sourceIndex": 592,
+    "reading": "できたら",
+    "word": "出来たら",
+    "meaningRaw": "[接尾] 如果可以的话……"
+  },
+  {
+    "index": 593,
+    "sourceIndex": 593,
+    "reading": "かーてん",
+    "word": "カーテン",
+    "meaningRaw": "[名] 幕；帘子；屏障；舞台の幕；障碍"
+  },
+  {
+    "index": 594,
+    "sourceIndex": 594,
+    "reading": "たす",
+    "word": "足す",
+    "meaningRaw": "[他动·五段] 加；添；续；补上；办事，办完"
+  },
+  {
+    "index": 595,
+    "sourceIndex": 595,
+    "reading": "たすける",
+    "word": "助ける",
+    "meaningRaw": "[他动·一段] 助，帮助，帮忙，援助；救，救助；搭救；拯救；救命，饶命；饶 恕；辅佐；救济；资助"
+  },
+  {
+    "index": 596,
+    "sourceIndex": 596,
+    "reading": "らんぼう",
+    "word": "乱暴",
+    "meaningRaw": "[名·形动·サ变] 粗暴；蛮横，胡乱；粗糙，粗鲁，草率"
+  },
+  {
+    "index": 597,
+    "sourceIndex": 597,
+    "reading": "きねん",
+    "word": "記念",
+    "meaningRaw": "[名·他动·サ变] 纪念，留念为今后唤起回忆而把某物保存下来；纪念举行某种活 动以对往事表示怀念"
+  },
+  {
+    "index": 598,
+    "sourceIndex": 598,
+    "reading": "わすれもの",
+    "word": "忘れ物",
+    "meaningRaw": "[名] 遗忘的东西，遗失品"
+  },
+  {
+    "index": 599,
+    "sourceIndex": 599,
+    "reading": "たいへん",
+    "word": "大変",
+    "meaningRaw": "[副词·形动] 重大，严重，厉害，不得了，了不得；非常，相当，很，太；够呛， 够受的，太费劲；大事变，大事故，大变动"
+  },
+  {
+    "index": 600,
+    "sourceIndex": 600,
+    "reading": "ゆうりょう",
+    "word": "有料",
+    "meaningRaw": "[名] 收费"
+  },
+  {
+    "index": 601,
+    "sourceIndex": 601,
+    "reading": "せいかい",
+    "word": "正解",
+    "meaningRaw": "[名·他动·サ变] 正确的解释，正解；正确的解答"
+  },
+  {
+    "index": 602,
+    "sourceIndex": 602,
+    "reading": "かざる",
+    "word": "飾る",
+    "meaningRaw": "[他动·五段] 粉饰、使自己表面上看起来很好；装饰，装点；打扮自己；排列 （得整齐漂亮）；润色，增光，生色"
+  },
+  {
+    "index": 603,
+    "sourceIndex": 603,
+    "reading": "いくつか",
+    "word": "幾つか",
+    "meaningRaw": "[副词] （表示不确定的数量）几个，一些；一点不是很多；附在一个数后面，表示 零数"
+  },
+  {
+    "index": 604,
+    "sourceIndex": 604,
+    "reading": "あう",
+    "word": "合う",
+    "meaningRaw": "[自动·五段] 合适，适合；相称，谐合；一致，相同,符合；对，准；合算，不吃 亏；（接动词连用形后）聚合；互相一块儿……，一同……；互相……"
+  },
+  {
+    "index": 605,
+    "sourceIndex": 605,
+    "reading": "きょうかしょ",
+    "word": "教科書",
+    "meaningRaw": "[名] 教科书，教材，课本"
+  },
+  {
+    "index": 606,
+    "sourceIndex": 606,
+    "reading": "ひこうじょう",
+    "word": "飛行場",
+    "meaningRaw": "[名] 机场"
+  },
+  {
+    "index": 607,
+    "sourceIndex": 607,
+    "reading": "でんとう",
+    "word": "電灯",
+    "meaningRaw": "[名] 电灯依靠电能发光的灯"
+  },
+  {
+    "index": 608,
+    "sourceIndex": 608,
+    "reading": "ほうほう",
+    "word": "方法",
+    "meaningRaw": "[名] 方法，法子；办法"
+  },
+  {
+    "index": 609,
+    "sourceIndex": 609,
+    "reading": "おかしい",
+    "word": "可笑しい",
+    "meaningRaw": "[形] 可笑的，滑稽的，奇怪的，可疑的"
+  },
+  {
+    "index": 610,
+    "sourceIndex": 610,
+    "reading": "～けん",
+    "word": "～軒",
+    "meaningRaw": "[接尾] （表示房屋）……所，……座，……栋"
+  },
+  {
+    "index": 611,
+    "sourceIndex": 611,
+    "reading": "せいしん",
+    "word": "精神",
+    "meaningRaw": "[名] 精神，心灵；精力，毅力；精神，思想；精神，意识"
+  },
+  {
+    "index": 612,
+    "sourceIndex": 612,
+    "reading": "うまい",
+    "word": "うまい",
+    "meaningRaw": "[形] 美味的；可口的；巧妙的；高明的；进展顺利的；幸运的"
+  },
+  {
+    "index": 613,
+    "sourceIndex": 613,
+    "reading": "いらっしゃる",
+    "word": "いらっしゃる",
+    "meaningRaw": "[动·五段] 「行く·来る·いる·ある」等的尊敬语；「ている·てある」的尊敬 语"
+  },
+  {
+    "index": 614,
+    "sourceIndex": 614,
+    "reading": "じしん",
+    "word": "自信",
+    "meaningRaw": "[名·サ变] 信心，把握，自信"
+  },
+  {
+    "index": 615,
+    "sourceIndex": 615,
+    "reading": "つる",
+    "word": "釣る",
+    "meaningRaw": "[他动·五段] 钓（鱼等）；勾引，引诱，诱骗；偶像会通过催促粉丝参加特典会、 购买周边，或在演出中给予特别回应等方式与宅粉互动。而宅粉则总是渴望“上 钩”，期待偶像的特别关注。"
+  },
+  {
+    "index": 616,
+    "sourceIndex": 616,
+    "reading": "こんじき",
+    "word": "金色",
+    "meaningRaw": "[名·形动] 金色，金黄色"
+  },
+  {
+    "index": 617,
+    "sourceIndex": 617,
+    "reading": "ぎじゅつ",
+    "word": "技術",
+    "meaningRaw": "[名] 技术；工艺"
+  },
+  {
+    "index": 618,
+    "sourceIndex": 618,
+    "reading": "さつまいも",
+    "word": "サツマイモ",
+    "meaningRaw": "[名] 番薯，红薯，地瓜"
+  },
+  {
+    "index": 619,
+    "sourceIndex": 619,
+    "reading": "がくぶ",
+    "word": "学部",
+    "meaningRaw": "[名] （大学）系，学院"
+  },
+  {
+    "index": 620,
+    "sourceIndex": 620,
+    "reading": "まず",
+    "word": "先ず",
+    "meaningRaw": "[副词] 先，首先最初，开头；大概，大致大体，差不多；姑且，暂且，不管怎样， 总之"
+  },
+  {
+    "index": 621,
+    "sourceIndex": 621,
+    "reading": "さくひん",
+    "word": "作品",
+    "meaningRaw": "[名] 作品，创作，著作，艺术制品"
+  },
+  {
+    "index": 622,
+    "sourceIndex": 622,
+    "reading": "すとれす",
+    "word": "ストレス",
+    "meaningRaw": "[名] 应激反应，（精神）压力，紧张状态由常见的精神紧张、操心劳累、痛苦、寒 冷、感染等刺激引起的机体功能性变化一般指精神上、身体上的刺激或状况；给物 体施加的压力"
+  },
+  {
+    "index": 623,
+    "sourceIndex": 623,
+    "reading": "じゃむ",
+    "word": "ジャム",
+    "meaningRaw": "[名] (英)jam 果（子）酱"
+  },
+  {
+    "index": 624,
+    "sourceIndex": 624,
+    "reading": "なさる",
+    "word": "為さる",
+    "meaningRaw": "[他动·五段] （“なす”、“する”的尊他语）为，做，干；接在动词连用形后表 示尊敬之意"
+  },
+  {
+    "index": 625,
+    "sourceIndex": 625,
+    "reading": "ちっとも",
+    "word": "些とも",
+    "meaningRaw": "[副词] (下接否定语)一点(也不)毫(无)"
+  },
+  {
+    "index": 626,
+    "sourceIndex": 626,
+    "reading": "ざんねん",
+    "word": "残念",
+    "meaningRaw": "[形动] 遗憾，可惜，对不起，抱歉。；懊悔，悔恨，懊恼。"
+  },
+  {
+    "index": 627,
+    "sourceIndex": 627,
+    "reading": "だいじ",
+    "word": "大事",
+    "meaningRaw": "[名·形动] 重要，要紧，宝贵，保重；爱惜，爱护，珍惜；小心，慎重；大祸；大 事，重大问题，大事件"
+  },
+  {
+    "index": 628,
+    "sourceIndex": 628,
+    "reading": "こんかい",
+    "word": "今回",
+    "meaningRaw": "[名·副词] 此次，此番，这次，这回"
+  },
+  {
+    "index": 629,
+    "sourceIndex": 629,
+    "reading": "えんじん",
+    "word": "エンジン",
+    "meaningRaw": "[名] engine发动机，引擎"
+  },
+  {
+    "index": 630,
+    "sourceIndex": 630,
+    "reading": "しぜんに",
+    "word": "自然に",
+    "meaningRaw": "[副词] 自动地，自然而然地"
+  },
+  {
+    "index": 631,
+    "sourceIndex": 631,
+    "reading": "さわやか",
+    "word": "爽やか",
+    "meaningRaw": "[形动] ［天气］清爽，爽朗；［心情］爽快；［口齿］爽利；清楚，［嗓音］嘹 亮，鲜明"
+  },
+  {
+    "index": 632,
+    "sourceIndex": 632,
+    "reading": "あい",
+    "word": "愛",
+    "meaningRaw": "[名] 爱，爱情；友爱，恩爱；爱好，热爱；爱戴"
+  },
+  {
+    "index": 633,
+    "sourceIndex": 633,
+    "reading": "しゃーぺん",
+    "word": "シャーペン",
+    "meaningRaw": "[名] sharppencil 自动铅笔，「シャープペンシル」的简称"
+  },
+  {
+    "index": 634,
+    "sourceIndex": 634,
+    "reading": "なくなる",
+    "word": "無くなる",
+    "meaningRaw": "[自动·五段] 消失，遗失，没了，丢了，用光了"
+  },
+  {
+    "index": 635,
+    "sourceIndex": 635,
+    "reading": "そのほか",
+    "word": "その他",
+    "meaningRaw": "[惯用] 除此之外，另外。"
+  },
+  {
+    "index": 636,
+    "sourceIndex": 636,
+    "reading": "べつ",
+    "word": "別",
+    "meaningRaw": "[名·形动] 分别，区别；别，另外；〔除外〕除外，例外；特别；分别；区别； 别；外；除外；例外；特别按……"
+  },
+  {
+    "index": 637,
+    "sourceIndex": 637,
+    "reading": "みそしる",
+    "word": "味噌汁",
+    "meaningRaw": "[名] 酱汤，大酱汤，味增汤汤汁中溶入豆酱，再放些青菜、豆腐、肉等材料做成的 汤"
+  },
+  {
+    "index": 638,
+    "sourceIndex": 638,
+    "reading": "こ",
+    "word": "子",
+    "meaningRaw": "[名] 尚未独立的人，年少的男女；接在女性名字后，表示这是女孩；接在名词后 面，表示具有那种状态·性质的孩子；人或动物所生之物。刚刚诞生的东西。；喜 欢的人，感到亲近的人；接在女性的动作后，指这个人是年轻女性；接在名词和动 词连用形后，指从事该工作的人；父母所生的人。 此外，因收养而获得与父母所 生子女相同的供养的人。；（亲切的语气）年轻女性；指出生成长在某个场所或时 代的人"
+  },
+  {
+    "index": 639,
+    "sourceIndex": 639,
+    "reading": "のりかえ",
+    "word": "乗り換え",
+    "meaningRaw": "[名] 改乘，换乘；为了在途中使用而事前准备好的交通工具；交叉生殖细胞减数分 裂时，同源染色体的局部交换，出现遗传基因重组交换亦见于体细胞分裂"
+  },
+  {
+    "index": 640,
+    "sourceIndex": 640,
+    "reading": "せいさん",
+    "word": "生産",
+    "meaningRaw": "[名·サ变] 生产，制作出生活必需品生业，生计生产，养殖以农业、工业、水产业 为首，产生财富的各种经济活动的总称；生产"
+  },
+  {
+    "index": 641,
+    "sourceIndex": 641,
+    "reading": "たいてい",
+    "word": "大抵",
+    "meaningRaw": "[名·副词] 适度，不过分；大抵，大都，大部分，差不多，大约，一般；（表示推 测）大概，多半；一般，普通，容易；几乎，多少不管怎么说"
+  },
+  {
+    "index": 642,
+    "sourceIndex": 642,
+    "reading": "ようし",
+    "word": "用紙",
+    "meaningRaw": "[名] （特定用途的）纸张，专用纸，表格"
+  },
+  {
+    "index": 643,
+    "sourceIndex": 643,
+    "reading": "ちゅうい",
+    "word": "注意",
+    "meaningRaw": "[名·自动·サ变] 注意，留神；当心，小心；仔细；谨慎，给建议、忠告"
+  },
+  {
+    "index": 644,
+    "sourceIndex": 644,
+    "reading": "おく",
+    "word": "億",
+    "meaningRaw": "[名] 亿，万万；指数目非常多"
+  },
+  {
+    "index": 645,
+    "sourceIndex": 645,
+    "reading": "いる",
+    "word": "要る",
+    "meaningRaw": "[自动·五段] 要，需要，必要。"
+  },
+  {
+    "index": 646,
+    "sourceIndex": 646,
+    "reading": "ちり",
+    "word": "地理",
+    "meaningRaw": "[名] 地理；地理情况"
+  },
+  {
+    "index": 647,
+    "sourceIndex": 647,
+    "reading": "うらやましい",
+    "word": "羨ましい",
+    "meaningRaw": "[形] 羡慕的，眼红的"
+  },
+  {
+    "index": 648,
+    "sourceIndex": 648,
+    "reading": "しょうち",
+    "word": "承知",
+    "meaningRaw": "[名·他动·サ变] 原谅，饶恕；知道，了解；同意，答应，许可，允许"
+  },
+  {
+    "index": 649,
+    "sourceIndex": 649,
+    "reading": "できれば",
+    "word": "出来れば",
+    "meaningRaw": "[接续] 宁可，宁愿，较好；如果能行的话，如果可以的話。"
+  },
+  {
+    "index": 650,
+    "sourceIndex": 650,
+    "reading": "さわぐ",
+    "word": "騒ぐ",
+    "meaningRaw": "[自动·五段] 吵，吵闹；吵嚷；骚动，骚乱，闹事，显出不稳；慌张，着忙，不 安；激动，兴奋不安；极力称赞；哄嚷；吹捧"
+  },
+  {
+    "index": 651,
+    "sourceIndex": 651,
+    "reading": "れじ",
+    "word": "レジ",
+    "meaningRaw": "[名] register登记，注册；登记簿，注册簿；收银机；收银台 自动记录器，寄存 器，现金出纳机；现金出纳员，收款员"
+  },
+  {
+    "index": 652,
+    "sourceIndex": 652,
+    "reading": "ちゅうがっこう",
+    "word": "中学校",
+    "meaningRaw": "[名] 初级中学，初中"
+  },
+  {
+    "index": 653,
+    "sourceIndex": 653,
+    "reading": "やはり",
+    "word": "矢張り",
+    "meaningRaw": "[副词] 果然；仍然，依然，还是，照旧；也，同样，又；毕竟还是，归根结底； （虽然）……但仍，（尽管）……还是"
+  },
+  {
+    "index": 654,
+    "sourceIndex": 654,
+    "reading": "おおはば",
+    "word": "大幅",
+    "meaningRaw": "[名·形动] 宽幅；大幅度，广泛，间距大"
+  },
+  {
+    "index": 655,
+    "sourceIndex": 655,
+    "reading": "うさぎ",
+    "word": "兎",
+    "meaningRaw": "[名] 兔，兔子"
+  },
+  {
+    "index": 656,
+    "sourceIndex": 656,
+    "reading": "ねつ",
+    "word": "熱",
+    "meaningRaw": "[名] 热，热度；发烧，体温高；热情，干劲"
+  },
+  {
+    "index": 657,
+    "sourceIndex": 657,
+    "reading": "かえる",
+    "word": "変える",
+    "meaningRaw": "[他动·一段] 改变，变更；变动"
+  },
+  {
+    "index": 658,
+    "sourceIndex": 658,
+    "reading": "やあ",
+    "word": "やあ",
+    "meaningRaw": "[助动] 呀、哎呀、哎哟；喂，呀，啊；回答，回应"
+  },
+  {
+    "index": 659,
+    "sourceIndex": 659,
+    "reading": "しまる",
+    "word": "締まる",
+    "meaningRaw": "[自动·五段] 被压紧，被勒紧紧张，被紧紧的压住或缠住而喘不过气来；紧张的气 氛，状态；生活态度变得认真；节约，节俭"
+  },
+  {
+    "index": 660,
+    "sourceIndex": 660,
+    "reading": "しゅみ",
+    "word": "趣味",
+    "meaningRaw": "[名] 兴趣，爱好，喜好；嗜尚；趣味；风趣；情趣；趣味，美的感覚。"
+  },
+  {
+    "index": 661,
+    "sourceIndex": 661,
+    "reading": "うで",
+    "word": "腕",
+    "meaningRaw": "[名] 前臂；胳膊，臂；上臂；本事，本领，技能，能耐『口』；腕力，膂力，力气 〔腕力力〕；支架，托架；扶手；电唱头臂"
+  },
+  {
+    "index": 662,
+    "sourceIndex": 662,
+    "reading": "がす",
+    "word": "ガス",
+    "meaningRaw": "[名] 煤气，瓦斯。"
+  },
+  {
+    "index": 663,
+    "sourceIndex": 663,
+    "reading": "おもちゃ",
+    "word": "玩具",
+    "meaningRaw": "[名] 玩具，玩意儿；玩物，玩弄品"
+  },
+  {
+    "index": 664,
+    "sourceIndex": 664,
+    "reading": "まるで",
+    "word": "丸で",
+    "meaningRaw": "[副词] 简直，好像，宛如，仿佛；（后接否定）完全，全然"
+  },
+  {
+    "index": 665,
+    "sourceIndex": 665,
+    "reading": "さびしい",
+    "word": "寂しい",
+    "meaningRaw": "[形] 寂寞，孤寂，孤单，凄凉，孤苦，无聊；荒凉，凄寂，冷清，空寂；觉得不满 足，空虚"
+  },
+  {
+    "index": 666,
+    "sourceIndex": 666,
+    "reading": "ちゃいろい",
+    "word": "茶色い",
+    "meaningRaw": "[形] 茶色的，褐色的"
+  },
+  {
+    "index": 667,
+    "sourceIndex": 667,
+    "reading": "めしあがる",
+    "word": "召し上がる",
+    "meaningRaw": "[他动·五段] 吃，喝，吸烟"
+  },
+  {
+    "index": 668,
+    "sourceIndex": 668,
+    "reading": "～あう",
+    "word": "～合う",
+    "meaningRaw": "[接尾] （接动词连用形后）聚合；互相。一块儿……，一同……；互相……。〔た がいに…する〕"
+  },
+  {
+    "index": 669,
+    "sourceIndex": 669,
+    "reading": "さいこ",
+    "word": "最古",
+    "meaningRaw": "[名] 最古，最早，最古老，最旧"
+  },
+  {
+    "index": 670,
+    "sourceIndex": 670,
+    "reading": "すうがく",
+    "word": "数学",
+    "meaningRaw": "[名] 数学"
+  },
+  {
+    "index": 671,
+    "sourceIndex": 671,
+    "reading": "やわらかい",
+    "word": "柔らかい",
+    "meaningRaw": "[形] 柔软的；柔和的；温柔，温和；灵活"
+  },
+  {
+    "index": 672,
+    "sourceIndex": 672,
+    "reading": "にる",
+    "word": "似る",
+    "meaningRaw": "[自动·一段] 像，相似"
+  },
+  {
+    "index": 673,
+    "sourceIndex": 673,
+    "reading": "どうりょう",
+    "word": "同僚",
+    "meaningRaw": "[名] 同僚，同事"
+  },
+  {
+    "index": 674,
+    "sourceIndex": 674,
+    "reading": "みなと",
+    "word": "港",
+    "meaningRaw": "[名] 港，港口；码头"
+  },
+  {
+    "index": 675,
+    "sourceIndex": 675,
+    "reading": "じっさいに",
+    "word": "実際に",
+    "meaningRaw": "[副词] 其实，实际上；亲自，实地（强调真实行动，而非想象或传闻）"
+  },
+  {
+    "index": 676,
+    "sourceIndex": 676,
+    "reading": "つごう",
+    "word": "都合",
+    "meaningRaw": "[名] （某种）情况，关系理由，原因；〔状況〕方便合适（与否）；机会凑巧，顺 利（与否）；障碍；准备安排设法通融挪用调度；（注意：读音为2）总共总计"
+  },
+  {
+    "index": 677,
+    "sourceIndex": 677,
+    "reading": "しんにゅうせい",
+    "word": "新入生",
+    "meaningRaw": "[名] （学校）新生，新入学的学生"
+  },
+  {
+    "index": 678,
+    "sourceIndex": 678,
+    "reading": "りょうきん",
+    "word": "料金",
+    "meaningRaw": "[名] 费用；使用费；手续费"
+  },
+  {
+    "index": 679,
+    "sourceIndex": 679,
+    "reading": "ぼく",
+    "word": "僕",
+    "meaningRaw": "[名] 我。第一人称代词。现在主要用于男性对平辈以下的自称。；男仆。"
+  },
+  {
+    "index": 680,
+    "sourceIndex": 680,
+    "reading": "はあ",
+    "word": "はあ",
+    "meaningRaw": "[感动] （郑重应答或随声附和时）是，欸；（表示惊讶、感叹）嗬，嘿；（表示反 问）啊"
+  },
+  {
+    "index": 681,
+    "sourceIndex": 681,
+    "reading": "かんじゃ",
+    "word": "患者",
+    "meaningRaw": "[名] 病人，患者；病号"
+  },
+  {
+    "index": 682,
+    "sourceIndex": 682,
+    "reading": "すすむ",
+    "word": "進む",
+    "meaningRaw": "[自动·五段] 进展顺利；进，前进；进步，先进；主动做来劲儿；上升，晋升"
+  },
+  {
+    "index": 683,
+    "sourceIndex": 683,
+    "reading": "ぴんく",
+    "word": "ピンク",
+    "meaningRaw": "[名] pink粉红色，桃红色，桃色；黄色色情"
+  },
+  {
+    "index": 684,
+    "sourceIndex": 684,
+    "reading": "おる",
+    "word": "居る",
+    "meaningRaw": "[自动·五段] 在，有；居住；停留；生存，生长，生活；正在……，……着；（动 作完成）了；在"
+  },
+  {
+    "index": 685,
+    "sourceIndex": 685,
+    "reading": "いし",
+    "word": "石",
+    "meaningRaw": "[名] 石头；岩石；围棋子；石板；钻石；墓石；划拳时的石头；结石；坚硬"
+  },
+  {
+    "index": 686,
+    "sourceIndex": 686,
+    "reading": "さま",
+    "word": "様",
+    "meaningRaw": "[名] 樣子，景況，狀態，情況，情形（物事の様子や狀態。ありさま）。"
+  },
+  {
+    "index": 687,
+    "sourceIndex": 687,
+    "reading": "ぐっと",
+    "word": "ぐっと",
+    "meaningRaw": "[副词] 使劲儿,一（口）气地……；更加，……得多，非常；哑口无言；深受感动"
+  },
+  {
+    "index": 688,
+    "sourceIndex": 688,
+    "reading": "きかい",
+    "word": "機会",
+    "meaningRaw": "[名] 机会"
+  },
+  {
+    "index": 689,
+    "sourceIndex": 689,
+    "reading": "れんらくさき",
+    "word": "連絡先",
+    "meaningRaw": "[名] 联系地址，联系方式"
+  },
+  {
+    "index": 690,
+    "sourceIndex": 690,
+    "reading": "こえる",
+    "word": "超える",
+    "meaningRaw": "[自他动·一段] 超过，超越，穿过；超过，超出，多出"
+  },
+  {
+    "index": 691,
+    "sourceIndex": 691,
+    "reading": "ひえる",
+    "word": "冷える",
+    "meaningRaw": "[自动·一段] 变冷，变凉，放凉；觉得冷，觉得凉；（关系）冷淡下来，变冷淡"
+  },
+  {
+    "index": 692,
+    "sourceIndex": 692,
+    "reading": "よてい",
+    "word": "予定",
+    "meaningRaw": "[名·他动·サ变] 预定，计划。"
+  },
+  {
+    "index": 693,
+    "sourceIndex": 693,
+    "reading": "とおる",
+    "word": "通る",
+    "meaningRaw": "[自动·五段] 通过，走过；穿过；通；通畅；传遍四方； 通过（考试、审查 等）；（意见、主张等）被认可、被接受、通过"
+  },
+  {
+    "index": 694,
+    "sourceIndex": 694,
+    "reading": "うけつけ",
+    "word": "受付",
+    "meaningRaw": "[名·サ变] 受理，接受；接待员，传达员；传达室，接待处；（医院）挂号处"
+  },
+  {
+    "index": 695,
+    "sourceIndex": 695,
+    "reading": "せつめい",
+    "word": "説明",
+    "meaningRaw": "[名·他动·サ变] 说明；解释；讲解"
+  },
+  {
+    "index": 696,
+    "sourceIndex": 696,
+    "reading": "かかりいん",
+    "word": "係員",
+    "meaningRaw": "[名] 负责人，担任……（的）人员，主管人员"
+  },
+  {
+    "index": 697,
+    "sourceIndex": 697,
+    "reading": "いがい",
+    "word": "以外",
+    "meaningRaw": "[名·副词] 以外；（除了……）以外，之外（除いて）；此外"
+  },
+  {
+    "index": 698,
+    "sourceIndex": 698,
+    "reading": "やぶれる",
+    "word": "破れる",
+    "meaningRaw": "[自动·一段] 撕，撕破，破；打破，破；决裂；灭亡"
+  },
+  {
+    "index": 699,
+    "sourceIndex": 699,
+    "reading": "はやし",
+    "word": "林",
+    "meaningRaw": "[名] 林，树林，树丛；林，林立；林(姓氏)"
+  },
+  {
+    "index": 700,
+    "sourceIndex": 700,
+    "reading": "せん",
+    "word": "もん",
+    "meaningRaw": "専門 [名] 专业；专长"
+  },
+  {
+    "index": 701,
+    "sourceIndex": 701,
+    "reading": "こくど",
+    "word": "国土",
+    "meaningRaw": "[名] 国土，领土，国家的土地；土地，大地；故乡，家乡，乡土"
+  },
+  {
+    "index": 702,
+    "sourceIndex": 702,
+    "reading": "おわり",
+    "word": "終わり",
+    "meaningRaw": "[名] 终，终了，末尾，末了，结束，结局，终点，尽头；末期"
+  },
+  {
+    "index": 703,
+    "sourceIndex": 703,
+    "reading": "たいど",
+    "word": "態度",
+    "meaningRaw": "[名] 态度，表示，举止"
+  },
+  {
+    "index": 704,
+    "sourceIndex": 704,
+    "reading": "こんぴゅーたー",
+    "word": "コンピューター",
+    "meaningRaw": "[名] computer（电子）计算机，电脑"
+  },
+  {
+    "index": 705,
+    "sourceIndex": 705,
+    "reading": "かれら",
+    "word": "彼ら",
+    "meaningRaw": "[代名] 他们，那伙人，那些人"
+  },
+  {
+    "index": 706,
+    "sourceIndex": 706,
+    "reading": "おおあめ",
+    "word": "大雨",
+    "meaningRaw": "[名] 大雨，豪雨"
+  },
+  {
+    "index": 707,
+    "sourceIndex": 707,
+    "reading": "あみもの",
+    "word": "編み物",
+    "meaningRaw": "[名] 编织物品"
+  },
+  {
+    "index": 708,
+    "sourceIndex": 708,
+    "reading": "えらい",
+    "word": "偉い",
+    "meaningRaw": "[形] 伟大，卓越，了不起；高，高贵；严重，厉害，不得了；吃力，累人，劳累"
+  },
+  {
+    "index": 709,
+    "sourceIndex": 709,
+    "reading": "くださる",
+    "word": "下さる",
+    "meaningRaw": "[他动·五段] 送，给；补助动词，跟在动词连用形后面，表对动作人的敬意。"
+  },
+  {
+    "index": 710,
+    "sourceIndex": 710,
+    "reading": "くび",
+    "word": "首",
+    "meaningRaw": "[名] 脖子，颈部；头部，脑袋；职位，饭碗；撤职，解雇，开除"
+  },
+  {
+    "index": 711,
+    "sourceIndex": 711,
+    "reading": "へんじ",
+    "word": "返事",
+    "meaningRaw": "[名·サ变] 答应，回答，回话；回信，复信；回电"
+  },
+  {
+    "index": 712,
+    "sourceIndex": 712,
+    "reading": "ようす",
+    "word": "様子",
+    "meaningRaw": "[名] 情况，动向；仪表，风度，姿态；样子，神情；迹象；缘故，根由；文章"
+  },
+  {
+    "index": 713,
+    "sourceIndex": 713,
+    "reading": "あんぜんべると",
+    "word": "安全ベルト",
+    "meaningRaw": "[名] 安全带，安全绳；安全绳；安全带"
+  },
+  {
+    "index": 714,
+    "sourceIndex": 714,
+    "reading": "それで",
+    "word": "それで",
+    "meaningRaw": "[接续] 因此，所以。用以承上启下。；那么，后来。催促对方继续说下去的用 语。；因此，因而，所以。"
+  },
+  {
+    "index": 715,
+    "sourceIndex": 715,
+    "reading": "すいよう",
+    "word": "水曜",
+    "meaningRaw": "[名·副词] 星期三"
+  },
+  {
+    "index": 716,
+    "sourceIndex": 716,
+    "reading": "こうむいん",
+    "word": "公務員",
+    "meaningRaw": "[名] 公务员担任国家或地方公共团体的职务并为全体国民服务的人，分国家公务员 和地方公务员"
+  },
+  {
+    "index": 717,
+    "sourceIndex": 717,
+    "reading": "し",
+    "word": "市",
+    "meaningRaw": "[名] 城市，都市；（表示行政区域）……市"
+  },
+  {
+    "index": 718,
+    "sourceIndex": 718,
+    "reading": "つま",
+    "word": "妻",
+    "meaningRaw": "[名] 妻子；山墙；配菜；配偶（指代男方女方都可）"
+  },
+  {
+    "index": 719,
+    "sourceIndex": 719,
+    "reading": "しみん",
+    "word": "市民",
+    "meaningRaw": "[名] 市民，城市居民；公民；资产阶级"
+  },
+  {
+    "index": 720,
+    "sourceIndex": 720,
+    "reading": "じしん",
+    "word": "地震",
+    "meaningRaw": "[名] 地震，地动『口』地球内部的特定部位蓄积的应变达到某一极限并暂时释放而 产生弹性波的现象，以及由此引起的地表的震动"
+  },
+  {
+    "index": 721,
+    "sourceIndex": 721,
+    "reading": "あ",
+    "word": "あ",
+    "meaningRaw": "[感动] 喂!；是.；呀!哎呀!啊"
+  },
+  {
+    "index": 722,
+    "sourceIndex": 722,
+    "reading": "なかなか",
+    "word": "中々",
+    "meaningRaw": "[副词] 颇，很；（后常接否定）（不）简单，（不）容易；『古』反而；『古』 （后接否定）绝不，无论如何也不"
+  },
+  {
+    "index": 723,
+    "sourceIndex": 723,
+    "reading": "～ばんせん",
+    "word": "～番線",
+    "meaningRaw": "[接尾] （表示电车等的）……号线。；（表示电车等的）……号站台。"
+  },
+  {
+    "index": 724,
+    "sourceIndex": 724,
+    "reading": "しんせつ",
+    "word": "親切",
+    "meaningRaw": "[名·形动] 亲切，热情，恳切，好心；亲切，热情，恳切，好心"
+  },
+  {
+    "index": 725,
+    "sourceIndex": 725,
+    "reading": "ことり",
+    "word": "小鳥",
+    "meaningRaw": "[名] 小鸟"
+  },
+  {
+    "index": 726,
+    "sourceIndex": 726,
+    "reading": "きこえる",
+    "word": "聞こえる",
+    "meaningRaw": "[自动·一段] 听得见，能听见，听到，听得到，能听到；听起来觉得……，听来似 乎是……；闻名，出名，著名"
+  },
+  {
+    "index": 727,
+    "sourceIndex": 727,
+    "reading": "こうぎ",
+    "word": "講義",
+    "meaningRaw": "[名·サ变] 讲义，讲解；大学课程；讲义，讲解"
+  },
+  {
+    "index": 728,
+    "sourceIndex": 728,
+    "reading": "いかが",
+    "word": "如何",
+    "meaningRaw": "[副词] （表示质疑）如何。；（表示邀请）怎么样。；如何。；（表示质疑）怎么 样，如何。"
+  },
+  {
+    "index": 729,
+    "sourceIndex": 729,
+    "reading": "それぞれ",
+    "word": "其れ其れ",
+    "meaningRaw": "[名·副词] 各，分别，每个"
+  },
+  {
+    "index": 730,
+    "sourceIndex": 730,
+    "reading": "きかせる",
+    "word": "聞かせる",
+    "meaningRaw": "[他动·一段] 使...听到，让...听；中听，好听言语、歌、音乐动听；讲清讲给对方 听，使其理解、明白"
+  },
+  {
+    "index": 731,
+    "sourceIndex": 731,
+    "reading": "れっしゃ",
+    "word": "列車",
+    "meaningRaw": "[名] 列车，火车"
+  },
+  {
+    "index": 732,
+    "sourceIndex": 732,
+    "reading": "おどり",
+    "word": "踊り",
+    "meaningRaw": "[名] 舞，舞蹈，跳舞"
+  },
+  {
+    "index": 733,
+    "sourceIndex": 733,
+    "reading": "うごく",
+    "word": "動く",
+    "meaningRaw": "[自动·五段] 物体位置移动；摇动，摆动；开动，发动，动员，转动；动摇心情， 想法发生变化；变动，变更状态或情况发生变化；确凿无疑（下接否定）确实而不 可改变；调动，调转，离开向新的场所或地方迁移"
+  },
+  {
+    "index": 734,
+    "sourceIndex": 734,
+    "reading": "ぬる",
+    "word": "塗る",
+    "meaningRaw": "[他动·五段] 涂（颜料），擦，抹；厚厚地擦粉；转嫁（罪责）"
+  },
+  {
+    "index": 735,
+    "sourceIndex": 735,
+    "reading": "おみまい",
+    "word": "お見舞い",
+    "meaningRaw": "[名] 探望；看望。"
+  },
+  {
+    "index": 736,
+    "sourceIndex": 736,
+    "reading": "れいだんぼう",
+    "word": "冷暖房",
+    "meaningRaw": "[名] 冷气和暖气，冷暖气设备"
+  },
+  {
+    "index": 737,
+    "sourceIndex": 737,
+    "reading": "みり",
+    "word": "ミリ",
+    "meaningRaw": "[名] milli 毫，千分之一；……毫米"
+  },
+  {
+    "index": 738,
+    "sourceIndex": 738,
+    "reading": "いっしょうけんめい",
+    "word": "一生懸命",
+    "meaningRaw": "[名·形动] 拼命地，努力，一心，专心；把命悬于一处。日本封建时代，拼命保住 自己的领地并赖之以生活"
+  },
+  {
+    "index": 739,
+    "sourceIndex": 739,
+    "reading": "すごい",
+    "word": "凄い",
+    "meaningRaw": "[形] 了不起的，好得很的；非常的厉害的；可怕的，骇人的；阴森可怕的"
+  },
+  {
+    "index": 740,
+    "sourceIndex": 740,
+    "reading": "あれ",
+    "word": "あれ",
+    "meaningRaw": "[代名] 那，那个；那时；那儿，那里；那件事"
+  },
+  {
+    "index": 741,
+    "sourceIndex": 741,
+    "reading": "さんか",
+    "word": "参加",
+    "meaningRaw": "[名·自动·サ变] 参加；加入（团体或组织）"
+  },
+  {
+    "index": 742,
+    "sourceIndex": 742,
+    "reading": "てにす",
+    "word": "テニス",
+    "meaningRaw": "[名] tennis网球"
+  },
+  {
+    "index": 743,
+    "sourceIndex": 743,
+    "reading": "どんなに",
+    "word": "どんなに",
+    "meaningRaw": "[副词] 多么，如何，何等；（后接「ても」「でも」）无论怎么样，无论如何…… 也，即使怎么……也……；不拘怎样……也……"
+  },
+  {
+    "index": 744,
+    "sourceIndex": 744,
+    "reading": "よのなか",
+    "word": "世の中",
+    "meaningRaw": "[名] 世间，世上，社会；时代；世俗，人情世故"
+  },
+  {
+    "index": 745,
+    "sourceIndex": 745,
+    "reading": "とこや",
+    "word": "床屋",
+    "meaningRaw": "[名] 理发店"
+  },
+  {
+    "index": 746,
+    "sourceIndex": 746,
+    "reading": "おかず",
+    "word": "おかず",
+    "meaningRaw": "[名] 菜，菜肴［备齐多种东西之意，原为女性用语］"
+  },
+  {
+    "index": 747,
+    "sourceIndex": 747,
+    "reading": "じょうだん",
+    "word": "冗談",
+    "meaningRaw": "[名] 玩笑，戏言，笑话"
+  },
+  {
+    "index": 748,
+    "sourceIndex": 748,
+    "reading": "いか",
+    "word": "以下",
+    "meaningRaw": "[名] 以下；在……以下；代表以下。；（从此）以下，以后"
+  },
+  {
+    "index": 749,
+    "sourceIndex": 749,
+    "reading": "た",
+    "word": "田",
+    "meaningRaw": "[名] 田；稻田，水田"
+  },
+  {
+    "index": 750,
+    "sourceIndex": 750,
+    "reading": "あわい",
+    "word": "淡い",
+    "meaningRaw": "[形] 浅，淡；些微；清淡；淡泊"
+  },
+  {
+    "index": 751,
+    "sourceIndex": 751,
+    "reading": "こうどう",
+    "word": "講堂",
+    "meaningRaw": "[名] 礼堂，大厅；〈仏〉讲经堂"
+  },
+  {
+    "index": 752,
+    "sourceIndex": 752,
+    "reading": "むり",
+    "word": "無理",
+    "meaningRaw": "[名·形动] 无理，不讲理，不合理；难以办到勉强不合适；强制硬要硬逼强迫；过 分过度，不量力"
+  },
+  {
+    "index": 753,
+    "sourceIndex": 753,
+    "reading": "ざあざあ",
+    "word": "ざあざあ",
+    "meaningRaw": "[副词] 哗啦哗啦雨猛烈降落的声音（或状态）水剧烈流动的声音（或状态）"
+  },
+  {
+    "index": 754,
+    "sourceIndex": 754,
+    "reading": "こんや",
+    "word": "今夜",
+    "meaningRaw": "[名·副词] 今夜，今晚，今天晚上，今儿晚上"
+  },
+  {
+    "index": 755,
+    "sourceIndex": 755,
+    "reading": "かよう",
+    "word": "通う",
+    "meaningRaw": "[自动·五段] 往来，来往；通行；上学，走读；上班，通勤；通，流通；循环；通 晓；相印，心意相通；相似，有相同之处"
+  },
+  {
+    "index": 756,
+    "sourceIndex": 756,
+    "reading": "ふじゆう",
+    "word": "不自由",
+    "meaningRaw": "[名·形动] 不自由，不随便，不如意；不充裕；不好使，不听用；不方便"
+  },
+  {
+    "index": 757,
+    "sourceIndex": 757,
+    "reading": "かむ",
+    "word": "噛む",
+    "meaningRaw": "[他动·五段] 咬合；击岸，拍岸；冲击（岩石）；冲刷；咬；嚼，咀嚼；有关；口 误"
+  },
+  {
+    "index": 758,
+    "sourceIndex": 758,
+    "reading": "わふく",
+    "word": "和服",
+    "meaningRaw": "[名] 和服，日本式衣服"
+  },
+  {
+    "index": 759,
+    "sourceIndex": 759,
+    "reading": "～おきに",
+    "word": "～おきに",
+    "meaningRaw": "[文法] 每隔……。"
+  },
+  {
+    "index": 760,
+    "sourceIndex": 760,
+    "reading": "けんか",
+    "word": "喧嘩",
+    "meaningRaw": "[名·自动·サ变] 吵嘴，口角，吵闹，吵架；喧嚷，打架"
+  },
+  {
+    "index": 761,
+    "sourceIndex": 761,
+    "reading": "いっぱい",
+    "word": "いっぱい",
+    "meaningRaw": "[名·副词] 一碗，一杯，一盅（一つのさかずきや茶碗に満ちる分量）写作「一 杯」；满，充满；全占满，全都用上"
+  },
+  {
+    "index": 762,
+    "sourceIndex": 762,
+    "reading": "もらう",
+    "word": "貰う",
+    "meaningRaw": "[他动·五段] 领到，收受，得到；受到；承担接受；娶，收养；传上感染上；请 求；拿下来；买"
+  },
+  {
+    "index": 763,
+    "sourceIndex": 763,
+    "reading": "あふりか",
+    "word": "アフリカ",
+    "meaningRaw": "[名] 非洲。"
+  },
+  {
+    "index": 764,
+    "sourceIndex": 764,
+    "reading": "きぶん",
+    "word": "気分",
+    "meaningRaw": "[名] （短暂的）心情；情绪；心绪；心境；气氛，空气；身体状况；脾气，性格"
+  },
+  {
+    "index": 765,
+    "sourceIndex": 765,
+    "reading": "それら",
+    "word": "それら",
+    "meaningRaw": "[名] 那些（人或物）。「それ」的复数表达。"
+  },
+  {
+    "index": 766,
+    "sourceIndex": 766,
+    "reading": "やくそく",
+    "word": "約束",
+    "meaningRaw": "[名·他动·サ变] 约，约定，商定，约会；规定规则"
+  },
+  {
+    "index": 767,
+    "sourceIndex": 767,
+    "reading": "しばらく",
+    "word": "暫く",
+    "meaningRaw": "[副词] 暂时，片刻，且慢，不久，一会儿 虽不太长但亦非很短的时间；很久，许 久 时间要经过得稍长一点的；暂且，姑且，暂时 不管将来如何，指是眼前时刻"
+  },
+  {
+    "index": 768,
+    "sourceIndex": 768,
+    "reading": "～か",
+    "word": "～科",
+    "meaningRaw": "[接尾] （大学专业）……学科，……专业；（医院）……科"
+  },
+  {
+    "index": 769,
+    "sourceIndex": 769,
+    "reading": "てんいん",
+    "word": "店員",
+    "meaningRaw": "[名] 店员，售货员"
+  },
+  {
+    "index": 770,
+    "sourceIndex": 770,
+    "reading": "くれる",
+    "word": "くれる",
+    "meaningRaw": "[动·一段] 给我做事。（他者がこちら側の利益となることをする意を表す。）； 给（我）。（他者がこちら側へ物を寄越す。）；（含有鄙意地）给；［施す］施 舍。（他者に物を与える。蔑んだ言い方。）"
+  },
+  {
+    "index": 771,
+    "sourceIndex": 771,
+    "reading": "かわる",
+    "word": "変わる",
+    "meaningRaw": "[自动·五段] 变，变化；改变，转变；不同，与众不同；奇怪，出奇；改变时间； 改变地点，迁居，迁移"
+  },
+  {
+    "index": 772,
+    "sourceIndex": 772,
+    "reading": "ながれる",
+    "word": "流れる",
+    "meaningRaw": "[自动·一段] 流动，流淌；流动，漂动；（流言等）传播，传开；流逝；人的移动 流浪漂泊；流向……（意想不到的地方）；中止停止；流产；（典当物）断赎当 死；电视图像乱码错乱；播放，播报"
+  },
+  {
+    "index": 773,
+    "sourceIndex": 773,
+    "reading": "かたい",
+    "word": "堅い",
+    "meaningRaw": "[形] 硬，坚硬，坚固即使用力也不易改变形态；坚挺，稳健坚实，靠得住；可靠， 可信有信用；死板，拘谨，僵硬，庄严，太严肃一本正经，没有风趣"
+  },
+  {
+    "index": 774,
+    "sourceIndex": 774,
+    "reading": "なげる",
+    "word": "投げる",
+    "meaningRaw": "[他动·一段] 投，抛，扔，掷；摔；提供；投射；投；放弃；不认真搞，潦草从事"
+  },
+  {
+    "index": 775,
+    "sourceIndex": 775,
+    "reading": "こうかん",
+    "word": "交換",
+    "meaningRaw": "[名·他动·サ变] 交换；交易"
+  },
+  {
+    "index": 776,
+    "sourceIndex": 776,
+    "reading": "かんじ",
+    "word": "漢字",
+    "meaningRaw": "[名] 汉字"
+  },
+  {
+    "index": 777,
+    "sourceIndex": 777,
+    "reading": "じゅうしょ",
+    "word": "住所",
+    "meaningRaw": "[名] 住址，地址；住所"
+  },
+  {
+    "index": 778,
+    "sourceIndex": 778,
+    "reading": "できる",
+    "word": "出来る",
+    "meaningRaw": "[自动·一段] 做好，做完；做出，建成；形成，出现；产，发生，有；出产；出 色、有修养、有才能、成绩好；能够（做某事）"
+  },
+  {
+    "index": 779,
+    "sourceIndex": 779,
+    "reading": "あたる",
+    "word": "当たる",
+    "meaningRaw": "[自动·五段] 碰上，撞上；命中，猜中；合适，恰当；相当于；合；晒，照；摸情 况，探查情况；分配分派指定指派；发泄愤怒，或做出过分的行为"
+  },
+  {
+    "index": 780,
+    "sourceIndex": 780,
+    "reading": "ぜんぶ",
+    "word": "全部",
+    "meaningRaw": "[名·副词] 全部，都；整套书籍"
+  },
+  {
+    "index": 781,
+    "sourceIndex": 781,
+    "reading": "あれえ",
+    "word": "あれえ",
+    "meaningRaw": "[惯用] （表示惊讶、奇怪时）哎呀！（＝あれ）"
+  },
+  {
+    "index": 782,
+    "sourceIndex": 782,
+    "reading": "つけもの",
+    "word": "漬物",
+    "meaningRaw": "[名] 腌制品，盐渍，腌菜，咸菜，酱菜腌渍在盐、醋、酱、曲子等里面的储藏食品 的总称，尤指把蔬菜腌渍在盐或米糠酱等中制成的食品"
+  },
+  {
+    "index": 783,
+    "sourceIndex": 783,
+    "reading": "こくばん",
+    "word": "黒板",
+    "meaningRaw": "[名] 黑板"
+  },
+  {
+    "index": 784,
+    "sourceIndex": 784,
+    "reading": "へん",
+    "word": "変",
+    "meaningRaw": "[名·形动] 事变，意外；奇怪，古怪，反常，异常，不同寻常；降半音，降半音符 号"
+  },
+  {
+    "index": 785,
+    "sourceIndex": 785,
+    "reading": "よやく",
+    "word": "予約",
+    "meaningRaw": "[名·他动·サ变] 预约；预定"
+  },
+  {
+    "index": 786,
+    "sourceIndex": 786,
+    "reading": "あつい",
+    "word": "厚い",
+    "meaningRaw": "[形] 厚；深厚，优厚"
+  },
+  {
+    "index": 787,
+    "sourceIndex": 787,
+    "reading": "いっさくねん",
+    "word": "一昨年",
+    "meaningRaw": "[名] 前年"
+  },
+  {
+    "index": 788,
+    "sourceIndex": 788,
+    "reading": "かかる",
+    "word": "掛かる",
+    "meaningRaw": "[自动·五段] 覆盖；（机器等）发动；垂挂，悬挂，挂上；陷入，落在……（的） 手中；着手，从事；正在进行；眼看就要，即将；花费（时间、金钱、劳动力、体 力等）"
+  },
+  {
+    "index": 789,
+    "sourceIndex": 789,
+    "reading": "あかじ",
+    "word": "赤字",
+    "meaningRaw": "[名] 红字,校正的字；入不敷出，亏空，赤字"
+  },
+  {
+    "index": 790,
+    "sourceIndex": 790,
+    "reading": "れいぼう",
+    "word": "冷房",
+    "meaningRaw": "[名·サ变] 制冷设备，冷气设备；冷气使室内变凉爽的设备；制冷，开冷气"
+  },
+  {
+    "index": 791,
+    "sourceIndex": 791,
+    "reading": "たな",
+    "word": "棚",
+    "meaningRaw": "[名] 搁板，架子；棚，架"
+  },
+  {
+    "index": 792,
+    "sourceIndex": 792,
+    "reading": "どんどん",
+    "word": "どんどん",
+    "meaningRaw": "[副词] 轰隆；咚咚，强烈的敲门声；连续不断，接二连三，一个劲儿；（表示事物 的）进展顺利，顺当；旺盛，旺，热火朝天；茁壮"
+  },
+  {
+    "index": 793,
+    "sourceIndex": 793,
+    "reading": "さんかく",
+    "word": "三角",
+    "meaningRaw": "[名·形动] 三角形"
+  },
+  {
+    "index": 794,
+    "sourceIndex": 794,
+    "reading": "きかい",
+    "word": "機械",
+    "meaningRaw": "[名] 机器，机械"
+  },
+  {
+    "index": 795,
+    "sourceIndex": 795,
+    "reading": "まことに",
+    "word": "誠に",
+    "meaningRaw": "[副词] ［感］話の間に気づいたことを言い出すとき、忘れていたのを思い出した とき、別の話題に転じるときなどに発する語。ほんとうにまあ。そうそう。まこ とや。；实在，真，确实"
+  },
+  {
+    "index": 796,
+    "sourceIndex": 796,
+    "reading": "かたい",
+    "word": "固い",
+    "meaningRaw": "[形] 硬，凝固内部不松软，不易改变形态；结实紧而不宜分离；人的意志、态 度“坚定、坚决”；（规则、约定、时间等）严厉，严肃严格的，严重；执拗，固 执，顽固；可靠，有把握的一定会的，确实"
+  },
+  {
+    "index": 797,
+    "sourceIndex": 797,
+    "reading": "そういえば",
+    "word": "そう言えば",
+    "meaningRaw": "[副词] 说起来，对了；附带；顺便说"
+  },
+  {
+    "index": 798,
+    "sourceIndex": 798,
+    "reading": "ばい",
+    "word": "倍",
+    "meaningRaw": "[名] 两倍。加倍。；（接尾词）倍。倍增。"
+  },
+  {
+    "index": 799,
+    "sourceIndex": 799,
+    "reading": "おめにかかる",
+    "word": "お目にかかる",
+    "meaningRaw": "[惯用] 见到「会う」的自谦语"
+  },
+  {
+    "index": 800,
+    "sourceIndex": 800,
+    "reading": "[名]",
+    "word": "supermarket超级市场自选商场",
+    "meaningRaw": "すーぱーまーけっ スーパーマーケッ と ト"
+  },
+  {
+    "index": 801,
+    "sourceIndex": 801,
+    "reading": "は",
+    "word": "葉",
+    "meaningRaw": "[名] 叶，叶子"
+  },
+  {
+    "index": 802,
+    "sourceIndex": 802,
+    "reading": "こころ",
+    "word": "心",
+    "meaningRaw": "[名] 心，心里；心地，心田，心肠；居心；心术；度量，心胸，胸怀，气度；精 神；灵魂，心灵；衷心，内心；心思，想法，意愿；念头；兴致，情趣；爱好；意 义，含意，意境；感情；关怀"
+  },
+  {
+    "index": 803,
+    "sourceIndex": 803,
+    "reading": "わん",
+    "word": "椀",
+    "meaningRaw": "[名] 碗；木碗；(助数词用法)碗。（食べ物を盛る木や瀬戸物や金属の入れ物。）"
+  },
+  {
+    "index": 804,
+    "sourceIndex": 804,
+    "reading": "むね",
+    "word": "胸",
+    "meaningRaw": "[名] 胸，胸部，胸膛，胸脯；心,心脏；心里，内心，心胸；女性的乳房"
+  },
+  {
+    "index": 805,
+    "sourceIndex": 805,
+    "reading": "あおぞら",
+    "word": "青空",
+    "meaningRaw": "[名] 蓝天，青天，青空"
+  },
+  {
+    "index": 806,
+    "sourceIndex": 806,
+    "reading": "ざいこ",
+    "word": "在庫",
+    "meaningRaw": "[名·自动·サ变] 库存；存货"
+  },
+  {
+    "index": 807,
+    "sourceIndex": 807,
+    "reading": "あう",
+    "word": "遭う",
+    "meaningRaw": "[自动·五段] 偶遇，碰见；遭遇，碰上不愉快的事情"
+  },
+  {
+    "index": 808,
+    "sourceIndex": 808,
+    "reading": "こむ",
+    "word": "込む",
+    "meaningRaw": "[自动·五段] 人多，拥挤；混杂；费事，费工夫；精致，精巧；复杂；…… 进，……进去；彻底；深；表示进入的意思；表示深入或持续到底"
+  },
+  {
+    "index": 809,
+    "sourceIndex": 809,
+    "reading": "ただしい",
+    "word": "正しい",
+    "meaningRaw": "[形] 正确，对确切，合理；正，正当，正直；端正，周正，整体，雅正；正，正统 合情合理，来理清楚"
+  },
+  {
+    "index": 810,
+    "sourceIndex": 810,
+    "reading": "しょうたい",
+    "word": "招待",
+    "meaningRaw": "[名·他动·サ变] 招待，邀请"
+  },
+  {
+    "index": 811,
+    "sourceIndex": 811,
+    "reading": "むかう",
+    "word": "向かう",
+    "meaningRaw": "[自动·五段] 相对；面对着；朝着；对着；面向，相对（某人）；出门，前往； 往……去，朝……去；趋向，接近，临近；反抗，抗拒"
+  },
+  {
+    "index": 812,
+    "sourceIndex": 812,
+    "reading": "くさ",
+    "word": "草",
+    "meaningRaw": "[名] 草；杂草；牧草；稻草；非正规的非专业的；网络缩略语，笑，开怀大笑"
+  },
+  {
+    "index": 813,
+    "sourceIndex": 813,
+    "reading": "らっきー",
+    "word": "ラッキー",
+    "meaningRaw": "[名·形动] lucky幸运，走运，侥幸"
+  },
+  {
+    "index": 814,
+    "sourceIndex": 814,
+    "reading": "いさん",
+    "word": "遺産",
+    "meaningRaw": "[名] 遗产法律上指人死亡时所持有的所有权、债权、债务等全部财产；遗产前代人 留下来的业绩"
+  },
+  {
+    "index": 815,
+    "sourceIndex": 815,
+    "reading": "にゅういん",
+    "word": "入院",
+    "meaningRaw": "[名·サ变] 住（医）院"
+  },
+  {
+    "index": 816,
+    "sourceIndex": 816,
+    "reading": "ふとる",
+    "word": "太る",
+    "meaningRaw": "[自动·五段] 胖，发福；肥；发财，增加"
+  },
+  {
+    "index": 817,
+    "sourceIndex": 817,
+    "reading": "こわす",
+    "word": "壊す",
+    "meaningRaw": "[他动·五段] 弄坏，毁坏，弄碎；损害，伤害，损伤；拆开，毁掉；破坏"
+  },
+  {
+    "index": 818,
+    "sourceIndex": 818,
+    "reading": "てんきよほう",
+    "word": "天気予報",
+    "meaningRaw": "[名] 天气预报"
+  },
+  {
+    "index": 819,
+    "sourceIndex": 819,
+    "reading": "おどる",
+    "word": "踊る",
+    "meaningRaw": "[自动·五段] 跳舞，舞蹈；活跃，行动；不平稳，不平整"
+  },
+  {
+    "index": 820,
+    "sourceIndex": 820,
+    "reading": "かなり",
+    "word": "かなり",
+    "meaningRaw": "[副词·形动] 表示出乎意料的程度。；颇，颇为；相当。"
+  },
+  {
+    "index": 821,
+    "sourceIndex": 821,
+    "reading": "おーばー",
+    "word": "オーバー",
+    "meaningRaw": "[名·サ变] 超过，越过；夸张，夸大；超过，结束"
+  },
+  {
+    "index": 822,
+    "sourceIndex": 822,
+    "reading": "～はこ",
+    "word": "～箱",
+    "meaningRaw": "[接尾] ……箱，……盒。"
+  },
+  {
+    "index": 823,
+    "sourceIndex": 823,
+    "reading": "まにあう",
+    "word": "間に合う",
+    "meaningRaw": "[自动·五段] 赶得上，来得及；有用，顶用，起作用；够用，过得去，能对付；在 期限之前做好万全的准备"
+  },
+  {
+    "index": 824,
+    "sourceIndex": 824,
+    "reading": "そんな",
+    "word": "そんな",
+    "meaningRaw": "[连体词] 那样的，那种；哪里，不会"
+  },
+  {
+    "index": 825,
+    "sourceIndex": 825,
+    "reading": "おっしゃる",
+    "word": "仰る",
+    "meaningRaw": "[自动·五段] 尊敬语，用于对长辈、上级等需表示尊重的人，表达其 “说话” 的 行为 。"
+  },
+  {
+    "index": 826,
+    "sourceIndex": 826,
+    "reading": "いみ",
+    "word": "意味",
+    "meaningRaw": "[名·サ变] 意思，意义；意图，动机，用意，含意；意义，价值；意图，动机，用 意，含意"
+  },
+  {
+    "index": 827,
+    "sourceIndex": 827,
+    "reading": "けが",
+    "word": "怪我",
+    "meaningRaw": "[名·自他动·サ变] 伤，受伤，负伤；过错，过失"
+  },
+  {
+    "index": 828,
+    "sourceIndex": 828,
+    "reading": "かならず",
+    "word": "必ず",
+    "meaningRaw": "[副词] 一定，必定，必然，注定，准"
+  },
+  {
+    "index": 829,
+    "sourceIndex": 829,
+    "reading": "だいとかい",
+    "word": "大都会",
+    "meaningRaw": "[名] 大城市"
+  },
+  {
+    "index": 830,
+    "sourceIndex": 830,
+    "reading": "あがる",
+    "word": "上がる",
+    "meaningRaw": "[自动·五段] 上，登；上学；登陆；举，抬；举，抬；升起，飞扬放（烟花等）； 提高，长进；高涨；上升；抬起；晋；提（薪）；取得（成绩），有（效果）；发 出；死；枯死；被找到（发现）；被抓住；完，了，完成；停，住，停止；满， 和；收到（利益），得到；怯场，失掉镇静，紧张；（钱）够用，够开支；被列 出，被点出，被推举；供上；往北走；（蚕）上蔟，开始作茧；（敬语）去，到； （敬语）吃，喝，吸；……完"
+  },
+  {
+    "index": 831,
+    "sourceIndex": 831,
+    "reading": "おもう",
+    "word": "思う",
+    "meaningRaw": "[他动·五段] 想，思索，思量，思考；相信，确信；预想，预料，推想，推测，估 计，想象，猜想；感觉，觉得；希望，期待"
+  },
+  {
+    "index": 832,
+    "sourceIndex": 832,
+    "reading": "ほんやく",
+    "word": "翻訳",
+    "meaningRaw": "[名·他动·サ变] 翻译；笔译；翻译的东西,译本"
+  },
+  {
+    "index": 833,
+    "sourceIndex": 833,
+    "reading": "おこる",
+    "word": "怒る",
+    "meaningRaw": "[自动·五段] 怒，恼怒，生气，发火；申斥，怒责"
+  },
+  {
+    "index": 834,
+    "sourceIndex": 834,
+    "reading": "あんなに",
+    "word": "あんなに",
+    "meaningRaw": "[副词] 那么，那样地"
+  },
+  {
+    "index": 835,
+    "sourceIndex": 835,
+    "reading": "ぱんだ",
+    "word": "パンダ",
+    "meaningRaw": "[名] panda熊猫"
+  },
+  {
+    "index": 836,
+    "sourceIndex": 836,
+    "reading": "ごうかく",
+    "word": "合格",
+    "meaningRaw": "[名·自动·サ变] 及格，考上；合格；及格，考上"
+  },
+  {
+    "index": 837,
+    "sourceIndex": 837,
+    "reading": "ふつう",
+    "word": "普通",
+    "meaningRaw": "[名·形动] 没有特别异常之处的事物。寻常之物。；一般，普通；通常，平常，往 常，寻常；正常"
+  },
+  {
+    "index": 838,
+    "sourceIndex": 838,
+    "reading": "うつす",
+    "word": "移す",
+    "meaningRaw": "[他动·五段] 移；挪；搬；迁；转移，改变；度，度过；调动，变动；薰染，染上 颜色、香味；（病）传染；开始，着手"
+  },
+  {
+    "index": 839,
+    "sourceIndex": 839,
+    "reading": "しゅふ",
+    "word": "主婦",
+    "meaningRaw": "[名] 家庭主妇，家庭妇女作为妻子对家庭生活的安排及管理负有责任的女性"
+  },
+  {
+    "index": 840,
+    "sourceIndex": 840,
+    "reading": "のこり",
+    "word": "残り",
+    "meaningRaw": "[名] 残余，剩余"
+  },
+  {
+    "index": 841,
+    "sourceIndex": 841,
+    "reading": "わーぷろ",
+    "word": "ワープロ",
+    "meaningRaw": "[名] 文字处理机，语言处理机"
+  },
+  {
+    "index": 842,
+    "sourceIndex": 842,
+    "reading": "なんで",
+    "word": "何で",
+    "meaningRaw": "[副词] 何故；为什么"
+  },
+  {
+    "index": 843,
+    "sourceIndex": 843,
+    "reading": "ぎたー",
+    "word": "ギター",
+    "meaningRaw": "[名] guitar吉他，六弦琴"
+  },
+  {
+    "index": 844,
+    "sourceIndex": 844,
+    "reading": "こうそくばす",
+    "word": "高速バス",
+    "meaningRaw": "[名] 高速大巴，长途大巴。"
+  },
+  {
+    "index": 845,
+    "sourceIndex": 845,
+    "reading": "ひらく",
+    "word": "開く",
+    "meaningRaw": "[自他动·五段] 敞开；开放；开始，开张；加大、拉开（数量、距离、价格等的差 距）；开朗、开阔；开拓，开辟；举办，开设；开导，教导"
+  },
+  {
+    "index": 846,
+    "sourceIndex": 846,
+    "reading": "ゆか",
+    "word": "床",
+    "meaningRaw": "[名] 地板，地上；（歌舞伎）净琉璃太夫等人坐的地方"
+  },
+  {
+    "index": 847,
+    "sourceIndex": 847,
+    "reading": "ばれーぼーる",
+    "word": "バレーボール",
+    "meaningRaw": "[名] Volleyball，排球，排球运动"
+  },
+  {
+    "index": 848,
+    "sourceIndex": 848,
+    "reading": "けんぶつにん",
+    "word": "見物人",
+    "meaningRaw": "[名] 游客，观众"
+  },
+  {
+    "index": 849,
+    "sourceIndex": 849,
+    "reading": "あにめーしょん",
+    "word": "アニメーション",
+    "meaningRaw": "[名] animation动画片，动画"
+  },
+  {
+    "index": 850,
+    "sourceIndex": 850,
+    "reading": "あたためる",
+    "word": "暖める",
+    "meaningRaw": "[他动·一段] 温；热；烫；恢复；悄悄地据为己有"
+  },
+  {
+    "index": 851,
+    "sourceIndex": 851,
+    "reading": "とりかえる",
+    "word": "取り替える",
+    "meaningRaw": "[他动·一段] 交换，互换；换，更换，调换，换成新的"
+  },
+  {
+    "index": 852,
+    "sourceIndex": 852,
+    "reading": "ぼーる",
+    "word": "ボール",
+    "meaningRaw": "[名] ball球；球状物；[棒球]坏球"
+  },
+  {
+    "index": 853,
+    "sourceIndex": 853,
+    "reading": "とまる",
+    "word": "泊まる",
+    "meaningRaw": "[自动·五段] （船）靠岸，停泊；住下，投宿，住宿，过夜；值宿，值夜班"
+  },
+  {
+    "index": 854,
+    "sourceIndex": 854,
+    "reading": "なおる",
+    "word": "治る",
+    "meaningRaw": "[自动·五段] 病医好，痊愈"
+  },
+  {
+    "index": 855,
+    "sourceIndex": 855,
+    "reading": "おきる",
+    "word": "起きる",
+    "meaningRaw": "[自动·一段] 起，起来，立起来；坐起来；起床；不睡；发生"
+  },
+  {
+    "index": 856,
+    "sourceIndex": 856,
+    "reading": "まかせる",
+    "word": "任せる",
+    "meaningRaw": "[他动·一段] 委托；托付；交给；听任；任凭，一任；尽力，尽量；随心"
+  },
+  {
+    "index": 857,
+    "sourceIndex": 857,
+    "reading": "うけつけがかり",
+    "word": "受付係",
+    "meaningRaw": "[名] 旅馆、事务所等雇用的)接待员，受理员"
+  },
+  {
+    "index": 858,
+    "sourceIndex": 858,
+    "reading": "じこう",
+    "word": "事項",
+    "meaningRaw": "[名] 事项，项目"
+  },
+  {
+    "index": 859,
+    "sourceIndex": 859,
+    "reading": "かんたん",
+    "word": "簡単",
+    "meaningRaw": "[名·形动] 简单；简易，容易；轻易；简便"
+  },
+  {
+    "index": 860,
+    "sourceIndex": 860,
+    "reading": "おふぃす",
+    "word": "オフィス",
+    "meaningRaw": "[名] office办公室；办事处；事务所；营业所；公司"
+  },
+  {
+    "index": 861,
+    "sourceIndex": 861,
+    "reading": "つつむ",
+    "word": "包む",
+    "meaningRaw": "[他动·五段] （用纸或布等）包；裹；包上；穿上；笼罩，覆盖；隐没；沉浸；藏 在心里，隐藏；隐瞒"
+  },
+  {
+    "index": 862,
+    "sourceIndex": 862,
+    "reading": "みえる",
+    "word": "見える",
+    "meaningRaw": "[自动·一段] 看见，看得见，能看见；好象是，看起来是，似乎；看来，看起来； 看（得）到，找到；来；光临"
+  },
+  {
+    "index": 863,
+    "sourceIndex": 863,
+    "reading": "かんがえかた",
+    "word": "考え方",
+    "meaningRaw": "[名] 想法，看法，见解，观点"
+  },
+  {
+    "index": 864,
+    "sourceIndex": 864,
+    "reading": "てつだう",
+    "word": "手伝う",
+    "meaningRaw": "[他动·五段] 帮忙，帮助；（与……有关系）加上，还由于"
+  },
+  {
+    "index": 865,
+    "sourceIndex": 865,
+    "reading": "まえに",
+    "word": "前に",
+    "meaningRaw": "[文法] ……的前面、……前；……之前、……前；面对……、面临……"
+  },
+  {
+    "index": 866,
+    "sourceIndex": 866,
+    "reading": "うち",
+    "word": "内",
+    "meaningRaw": "[名] 内部，里面，里边，里头；内；中；时候；期间；以前；趁；内，中；我，我 们；我"
+  },
+  {
+    "index": 867,
+    "sourceIndex": 867,
+    "reading": "ほうれんそう",
+    "word": "ほうれん草",
+    "meaningRaw": "[名] 菠菜；（公司团队合作三大法宝的简称）报告、联系、商讨"
+  },
+  {
+    "index": 868,
+    "sourceIndex": 868,
+    "reading": "ちゅうし",
+    "word": "中止",
+    "meaningRaw": "[名·他动·サ变] 中止，中途停止或取消预定计划的行动"
+  },
+  {
+    "index": 869,
+    "sourceIndex": 869,
+    "reading": "どろぼう",
+    "word": "泥棒",
+    "meaningRaw": "[名] 小偷"
+  },
+  {
+    "index": 870,
+    "sourceIndex": 870,
+    "reading": "しずか",
+    "word": "静か",
+    "meaningRaw": "[形动] 静，寂静，沉寂，肃静，静悄悄，清静，平静；平静，安静，沉静，文静； 轻轻，慢慢；静止，不动"
+  },
+  {
+    "index": 871,
+    "sourceIndex": 871,
+    "reading": "かじ",
+    "word": "家事",
+    "meaningRaw": "[名·サ变] 家务，家政；家庭内发生的事情"
+  },
+  {
+    "index": 872,
+    "sourceIndex": 872,
+    "reading": "ほうりつ",
+    "word": "法律",
+    "meaningRaw": "[名] 法律"
+  },
+  {
+    "index": 873,
+    "sourceIndex": 873,
+    "reading": "せいかく",
+    "word": "性格",
+    "meaningRaw": "[名] 性格，性情；脾气；性质；特性"
+  },
+  {
+    "index": 874,
+    "sourceIndex": 874,
+    "reading": "できるだけ",
+    "word": "出来るだけ",
+    "meaningRaw": "[副词] 尽量地；尽可能地"
+  },
+  {
+    "index": 875,
+    "sourceIndex": 875,
+    "reading": "なくなる",
+    "word": "亡くなる",
+    "meaningRaw": "[自动·五段] 死；杀；灭亡；亡故，去世"
+  },
+  {
+    "index": 876,
+    "sourceIndex": 876,
+    "reading": "ぬれる",
+    "word": "濡れる",
+    "meaningRaw": "[自动·一段] 淋湿，弄湿，湿润，渗入水分；偷情"
+  },
+  {
+    "index": 877,
+    "sourceIndex": 877,
+    "reading": "いがく",
+    "word": "医学",
+    "meaningRaw": "[名] 医学"
+  },
+  {
+    "index": 878,
+    "sourceIndex": 878,
+    "reading": "どうぐ",
+    "word": "道具",
+    "meaningRaw": "[名] 工具；器具，工具家庭生活用具；家具；（演剧的）道具；（脸或身体的）零 件，部件"
+  },
+  {
+    "index": 879,
+    "sourceIndex": 879,
+    "reading": "それに",
+    "word": "それに",
+    "meaningRaw": "[接续] 而且，再加上；还，还要"
+  },
+  {
+    "index": 880,
+    "sourceIndex": 880,
+    "reading": "せん",
+    "word": "線",
+    "meaningRaw": "[名] 线，线条；路线；界限；人品；铁路线；交通线"
+  },
+  {
+    "index": 881,
+    "sourceIndex": 881,
+    "reading": "～くん",
+    "word": "～君",
+    "meaningRaw": "[接尾] （用于同辈或下级男性姓名后）君，同志。（友達や目下の人の名や姓、ま たは姓名などに付けて、親しみや軽い敬意を表す。主に男性が用いる。）"
+  },
+  {
+    "index": 882,
+    "sourceIndex": 882,
+    "reading": "いけん",
+    "word": "意見",
+    "meaningRaw": "[名·自他动·サ变] 意见，见解；劝告，规劝，提意见"
+  },
+  {
+    "index": 883,
+    "sourceIndex": 883,
+    "reading": "これら",
+    "word": "これら",
+    "meaningRaw": "[名] 这些。指属说话人方的人或事物。"
+  },
+  {
+    "index": 884,
+    "sourceIndex": 884,
+    "reading": "むすこ",
+    "word": "息子",
+    "meaningRaw": "[名] 儿子，男孩儿"
+  },
+  {
+    "index": 885,
+    "sourceIndex": 885,
+    "reading": "きみ",
+    "word": "君",
+    "meaningRaw": "[名] 主人，主公；国君，帝王，国王；（敬称）君；您；（男性用语）（对同辈或 晚辈的称呼）你"
+  },
+  {
+    "index": 886,
+    "sourceIndex": 886,
+    "reading": "ゆたか",
+    "word": "豊か",
+    "meaningRaw": "[形动] 物质上丰富；富裕，充裕，宽裕；充实，精神上的丰富；丰盈，丰满；足 够，十足"
+  },
+  {
+    "index": 887,
+    "sourceIndex": 887,
+    "reading": "ふかい",
+    "word": "深い",
+    "meaningRaw": "[形] （深度）深的；浓厚，（颜色）深的；深，距离开始的时间很久；（密度、程 度）大的；深厚；茂密，深邃"
+  },
+  {
+    "index": 888,
+    "sourceIndex": 888,
+    "reading": "ぶちょう",
+    "word": "部長",
+    "meaningRaw": "[名] 部长在官厅或公司等中管理一个部的事物并监督其部下的职务名称；部长负责 全权处理俱乐部或球队事务的人"
+  },
+  {
+    "index": 889,
+    "sourceIndex": 889,
+    "reading": "てつだい",
+    "word": "手伝い",
+    "meaningRaw": "[名] 帮忙，帮助；家庭助理，女佣人"
+  },
+  {
+    "index": 890,
+    "sourceIndex": 890,
+    "reading": "あかちゃん",
+    "word": "赤ちゃん",
+    "meaningRaw": "[名] 小宝宝，小宝贝，小娃娃，婴儿"
+  },
+  {
+    "index": 891,
+    "sourceIndex": 891,
+    "reading": "こうずい",
+    "word": "洪水",
+    "meaningRaw": "[名] 洪水，发大水，涨大水；洪流"
+  },
+  {
+    "index": 892,
+    "sourceIndex": 892,
+    "reading": "うら",
+    "word": "裏",
+    "meaningRaw": "[名] 里儿，里子，底子；内部，里（面）；背后；内幕，幕后；背面；后（面）， 后边"
+  },
+  {
+    "index": 893,
+    "sourceIndex": 893,
+    "reading": "そふと",
+    "word": "ソフト",
+    "meaningRaw": "[名·形动] soft温和，柔软性格温柔；不含酒精；计算机软件；呢子礼帽，软礼 帽；垒球"
+  },
+  {
+    "index": 894,
+    "sourceIndex": 894,
+    "reading": "はさみ",
+    "word": "鋏",
+    "meaningRaw": "[名] 剪刀，剪子；剪票钳；螯足，螃蟹夹子；剪子，在猜拳的时候"
+  },
+  {
+    "index": 895,
+    "sourceIndex": 895,
+    "reading": "ゆにゅう",
+    "word": "輸入",
+    "meaningRaw": "[名·サ变] 进口，输入"
+  },
+  {
+    "index": 896,
+    "sourceIndex": 896,
+    "reading": "おや",
+    "word": "おや",
+    "meaningRaw": "[感动] 哎，唷，噢。突然发现某事、感到惊讶或疑惑时发出的感叹"
+  },
+  {
+    "index": 897,
+    "sourceIndex": 897,
+    "reading": "きびしい",
+    "word": "厳しい",
+    "meaningRaw": "[形] 严；严格；严厉；严峻；严肃；严重，厉害，很甚，难熬；严酷，残酷，毫不 留情"
+  },
+  {
+    "index": 898,
+    "sourceIndex": 898,
+    "reading": "あじ",
+    "word": "味",
+    "meaningRaw": "[名] 味，味道；趣味；妙处；滋味；甜头便宜"
+  },
+  {
+    "index": 899,
+    "sourceIndex": 899,
+    "reading": "ばいと",
+    "word": "バイト",
+    "meaningRaw": "[名·自动·サ变] 打工，临时工；兼差；字节，位组"
+  },
+  {
+    "index": 900,
+    "sourceIndex": 900,
+    "reading": "かいぎしつ",
+    "word": "会議室",
+    "meaningRaw": "[名] 会议室"
+  },
+  {
+    "index": 901,
+    "sourceIndex": 901,
+    "reading": "くばる",
+    "word": "配る",
+    "meaningRaw": "[他动·五段] 分配，分给，分送；多方注意，多方留神，用心周到使（注意等）留 心各处，亦指观察到各处；配置，部署，分派，分放"
+  },
+  {
+    "index": 902,
+    "sourceIndex": 902,
+    "reading": "おおぜい",
+    "word": "大勢",
+    "meaningRaw": "[名·副词] 大批（的人），众多（的人），一群人"
+  },
+  {
+    "index": 903,
+    "sourceIndex": 903,
+    "reading": "しゅうにゅう",
+    "word": "収入",
+    "meaningRaw": "[名] 收入，所得"
+  },
+  {
+    "index": 904,
+    "sourceIndex": 904,
+    "reading": "だんじょ",
+    "word": "男女",
+    "meaningRaw": "[名] 男女，男性和女性"
+  },
+  {
+    "index": 905,
+    "sourceIndex": 905,
+    "reading": "りょう",
+    "word": "寮",
+    "meaningRaw": "[名] 宿舍；茶室；别墅"
+  },
+  {
+    "index": 906,
+    "sourceIndex": 906,
+    "reading": "くねくね",
+    "word": "くねくね",
+    "meaningRaw": "[副词] 弯弯曲曲，蜿蜒；忸怩作态"
+  },
+  {
+    "index": 907,
+    "sourceIndex": 907,
+    "reading": "する",
+    "word": "する",
+    "meaningRaw": "[自他动·サ变] 感觉到声、色、形、味等，有……的感觉；经过……时间；做， 干，办"
+  },
+  {
+    "index": 908,
+    "sourceIndex": 908,
+    "reading": "こんなに",
+    "word": "こんなに",
+    "meaningRaw": "[副词] 这样，这么，如此"
+  },
+  {
+    "index": 909,
+    "sourceIndex": 909,
+    "reading": "いくらでも",
+    "word": "幾らでも",
+    "meaningRaw": "[副词] 不论多少，很多"
+  },
+  {
+    "index": 910,
+    "sourceIndex": 910,
+    "reading": "うそ",
+    "word": "嘘",
+    "meaningRaw": "[名] 谎言，假话；不正确，错误；不恰当，不应该，不对头；吃亏"
+  },
+  {
+    "index": 911,
+    "sourceIndex": 911,
+    "reading": "ひどい",
+    "word": "酷い",
+    "meaningRaw": "[形] 残酷的，无情的，过分的；激烈的，凶猛的，厉害的，严重的"
+  },
+  {
+    "index": 912,
+    "sourceIndex": 912,
+    "reading": "けんきゅうしつ",
+    "word": "研究室",
+    "meaningRaw": "[名] 研究室"
+  },
+  {
+    "index": 913,
+    "sourceIndex": 913,
+    "reading": "とら",
+    "word": "虎",
+    "meaningRaw": "[名] 虎，老虎；醉汉，醉鬼"
+  },
+  {
+    "index": 914,
+    "sourceIndex": 914,
+    "reading": "しゃちょう",
+    "word": "社長",
+    "meaningRaw": "[名] 社长，公司经理，总经理，董事长"
+  },
+  {
+    "index": 915,
+    "sourceIndex": 915,
+    "reading": "ようじ",
+    "word": "用事",
+    "meaningRaw": "[名] 事，事情"
+  },
+  {
+    "index": 916,
+    "sourceIndex": 916,
+    "reading": "もうすこしで",
+    "word": "もう少しで",
+    "meaningRaw": "[副词] 差一点就（发生了不该发生的事情）"
+  },
+  {
+    "index": 917,
+    "sourceIndex": 917,
+    "reading": "ああ",
+    "word": "ああ",
+    "meaningRaw": "[感动] 那样；那么；啊；是；嗯"
+  },
+  {
+    "index": 918,
+    "sourceIndex": 918,
+    "reading": "きょうみ",
+    "word": "興味",
+    "meaningRaw": "[名] 兴趣，兴味，兴致；兴头；兴会"
+  },
+  {
+    "index": 919,
+    "sourceIndex": 919,
+    "reading": "だいがくせい",
+    "word": "大学生",
+    "meaningRaw": "[名] 大学生"
+  },
+  {
+    "index": 920,
+    "sourceIndex": 920,
+    "reading": "そうすれば",
+    "word": "そうすれば",
+    "meaningRaw": "[惯用] 这样一来，那样的话。"
+  },
+  {
+    "index": 921,
+    "sourceIndex": 921,
+    "reading": "あやまる",
+    "word": "謝る",
+    "meaningRaw": "[自他动·五段] 道歉，赔礼，谢罪；认输，折服，服，没有办法；谢绝，辞退"
+  },
+  {
+    "index": 922,
+    "sourceIndex": 922,
+    "reading": "おみやげ",
+    "word": "お土産",
+    "meaningRaw": "[名] 特产，土特产，礼物"
+  },
+  {
+    "index": 923,
+    "sourceIndex": 923,
+    "reading": "～いない",
+    "word": "～以内",
+    "meaningRaw": "[接尾] 时间、距离、数量、等级等基准在内并小于这一数量的范围"
+  },
+  {
+    "index": 924,
+    "sourceIndex": 924,
+    "reading": "しょくりょうひん",
+    "word": "食料品",
+    "meaningRaw": "[名] （除主食以外的）食品"
+  },
+  {
+    "index": 925,
+    "sourceIndex": 925,
+    "reading": "なるほど",
+    "word": "なるほど",
+    "meaningRaw": "[副词·感动] 诚然，的确；果然；怪不得；诚然的确可不是表示同意，赞同之意也 可用于表示附和"
+  },
+  {
+    "index": 926,
+    "sourceIndex": 926,
+    "reading": "さしみ",
+    "word": "刺身",
+    "meaningRaw": "[名] 生鱼片，生肉片"
+  },
+  {
+    "index": 927,
+    "sourceIndex": 927,
+    "reading": "しりあい",
+    "word": "知り合い",
+    "meaningRaw": "[名] 相识；结识，认识；相识的人；熟人，熟识；朋友"
+  },
+  {
+    "index": 928,
+    "sourceIndex": 928,
+    "reading": "ごい",
+    "word": "語彙",
+    "meaningRaw": "[名] 词汇，语汇"
+  },
+  {
+    "index": 929,
+    "sourceIndex": 929,
+    "reading": "はなれる",
+    "word": "離れる",
+    "meaningRaw": "[自动·一段] 离，分离，离开；离去；距离，相隔；脱离，背离；离婚；离职；除 开，除外；产生隔阂，（心理上）有距离；距离，相隔"
+  },
+  {
+    "index": 930,
+    "sourceIndex": 930,
+    "reading": "ふどうさん",
+    "word": "不動産",
+    "meaningRaw": "[名] 不动产，房地产"
+  },
+  {
+    "index": 931,
+    "sourceIndex": 931,
+    "reading": "きゅうじつ",
+    "word": "休日",
+    "meaningRaw": "[名·副词] 休息日，假日"
+  },
+  {
+    "index": 932,
+    "sourceIndex": 932,
+    "reading": "けんきゅう",
+    "word": "研究",
+    "meaningRaw": "[名·他动·サ变] 研究；钻研"
+  },
+  {
+    "index": 933,
+    "sourceIndex": 933,
+    "reading": "はってん",
+    "word": "発展",
+    "meaningRaw": "[名·サ变] 发展，扩展，伸展。；发展，进步。；活跃，活动。；（俗语）沉湎 （于酒色等）放荡"
+  },
+  {
+    "index": 934,
+    "sourceIndex": 934,
+    "reading": "おいわい",
+    "word": "お祝い",
+    "meaningRaw": "[名] 祝贺，庆祝；祝贺的礼品"
+  },
+  {
+    "index": 935,
+    "sourceIndex": 935,
+    "reading": "する",
+    "word": "掏る",
+    "meaningRaw": "[他动·五段] 扒窃，掏摸"
+  },
+  {
+    "index": 936,
+    "sourceIndex": 936,
+    "reading": "～だい",
+    "word": "～代",
+    "meaningRaw": "[接尾] （表示费用）……费。；……多岁，……来岁。；……时代，……年代。"
+  },
+  {
+    "index": 937,
+    "sourceIndex": 937,
+    "reading": "あたためる",
+    "word": "温める",
+    "meaningRaw": "[他动·一段] 温，热，烫，加热；恢复，重温使之回到昔日令人满意的状态；悄悄 地据为己有"
+  },
+  {
+    "index": 938,
+    "sourceIndex": 938,
+    "reading": "～がくねん",
+    "word": "～学年",
+    "meaningRaw": "[接尾] ……年级，……学年"
+  },
+  {
+    "index": 939,
+    "sourceIndex": 939,
+    "reading": "めずらしい",
+    "word": "珍しい",
+    "meaningRaw": "[形] 新奇，新颖；珍奇，稀奇；少有，罕见；非常好，珍贵"
+  },
+  {
+    "index": 940,
+    "sourceIndex": 940,
+    "reading": "もし",
+    "word": "若し",
+    "meaningRaw": "[副词] 要，要是，如果，假如；假设，倘若"
+  },
+  {
+    "index": 941,
+    "sourceIndex": 941,
+    "reading": "じんみんげん",
+    "word": "人民元",
+    "meaningRaw": "[名] 人民币"
+  },
+  {
+    "index": 942,
+    "sourceIndex": 942,
+    "reading": "はんばーがー",
+    "word": "ハンバーガー",
+    "meaningRaw": "[名] hamburger汉堡包"
+  },
+  {
+    "index": 943,
+    "sourceIndex": 943,
+    "reading": "～せい",
+    "word": "～製",
+    "meaningRaw": "[名] 制造，制品，产品。（作られたものであること。作。）"
+  },
+  {
+    "index": 944,
+    "sourceIndex": 944,
+    "reading": "けっせき",
+    "word": "欠席",
+    "meaningRaw": "[名·自动·サ变] 缺席；缺课"
+  },
+  {
+    "index": 945,
+    "sourceIndex": 945,
+    "reading": "じゆう",
+    "word": "自由",
+    "meaningRaw": "[名·形动] 自由；随意；随便；任意"
+  },
+  {
+    "index": 946,
+    "sourceIndex": 946,
+    "reading": "こしょう",
+    "word": "故障",
+    "meaningRaw": "[名·自动·サ变] 故障，事故（事故）；障碍（さしさわり）；毛病；异议，反对 意见"
+  },
+  {
+    "index": 947,
+    "sourceIndex": 947,
+    "reading": "じんじゃ",
+    "word": "神社",
+    "meaningRaw": "[名] 神社，庙"
+  },
+  {
+    "index": 948,
+    "sourceIndex": 948,
+    "reading": "かのじょ",
+    "word": "彼女",
+    "meaningRaw": "[名] 她；她，女朋友，对象，情妇；女朋友，女情人，对象"
+  },
+  {
+    "index": 949,
+    "sourceIndex": 949,
+    "reading": "なべ",
+    "word": "鍋",
+    "meaningRaw": "[名] 锅；火锅"
+  },
+  {
+    "index": 950,
+    "sourceIndex": 950,
+    "reading": "はっきり",
+    "word": "はっきり",
+    "meaningRaw": "[副词·形动] 明白，明确，清楚；（头脑、身体状态等）清晰，清爽，痛痛快快； 清楚，鲜明而能与其他东西明显分开；斩钉截铁『成』，直截了当『成』"
+  },
+  {
+    "index": 951,
+    "sourceIndex": 951,
+    "reading": "こうがい",
+    "word": "郊外",
+    "meaningRaw": "[名] 郊外，城外"
+  },
+  {
+    "index": 952,
+    "sourceIndex": 952,
+    "reading": "しょくたく",
+    "word": "食卓",
+    "meaningRaw": "[名] 饭桌，餐桌，食案"
+  },
+  {
+    "index": 953,
+    "sourceIndex": 953,
+    "reading": "じゅうどう",
+    "word": "柔道",
+    "meaningRaw": "[名] 柔道，柔术"
+  },
+  {
+    "index": 954,
+    "sourceIndex": 954,
+    "reading": "おっと",
+    "word": "夫",
+    "meaningRaw": "[名] 丈夫，夫；爱人"
+  },
+  {
+    "index": 955,
+    "sourceIndex": 955,
+    "reading": "なおす",
+    "word": "直す",
+    "meaningRaw": "[他动·五段] 接在动词连用形之后表示“再做一次”，再，重；改正；修改，订 正；矫正；修理，恢复，复原；换算，折合"
+  },
+  {
+    "index": 956,
+    "sourceIndex": 956,
+    "reading": "さきおととし",
+    "word": "一昨昨年",
+    "meaningRaw": "[名] 大前年，前年的前一年；三年前，前三年"
+  },
+  {
+    "index": 957,
+    "sourceIndex": 957,
+    "reading": "しゅんせつ",
+    "word": "春節",
+    "meaningRaw": "[名] （中国）春节，农历新年，大年初一"
+  },
+  {
+    "index": 958,
+    "sourceIndex": 958,
+    "reading": "さわぎ",
+    "word": "騒ぎ",
+    "meaningRaw": "[名] 吵闹；嘈杂声；喧哗，大哗，喧嚣；混乱，骚乱；闹事；事件；纠纷；忙得乱 哄哄的，忙乱；…程度的问题上接“どころの”，下加否定词哪里谈得到，远不是 那种程度的小问题；远远谈不到；岂止"
+  },
+  {
+    "index": 959,
+    "sourceIndex": 959,
+    "reading": "たいふう",
+    "word": "台風",
+    "meaningRaw": "[名] 台风"
+  },
+  {
+    "index": 960,
+    "sourceIndex": 960,
+    "reading": "おこす",
+    "word": "起こす",
+    "meaningRaw": "[他动·五段] 唤起，唤醒，叫醒；扶起；立起；起；生起；引起；惹起；振起"
+  },
+  {
+    "index": 961,
+    "sourceIndex": 961,
+    "reading": "いれる",
+    "word": "入れる",
+    "meaningRaw": "[他动·一段] 装进，放入；送进，收容；包含，算上，计算进去；点灯，开电门点 火；承认，认可；听从，采纳，容纳；添，加，补足；请入，让进；镶，嵌；加入 (多余的东西)，插入；投票；送到；交，缴纳；用；花费；倒入热水冲泡饮料"
+  },
+  {
+    "index": 962,
+    "sourceIndex": 962,
+    "reading": "しき",
+    "word": "四季",
+    "meaningRaw": "[名] 四季"
+  },
+  {
+    "index": 963,
+    "sourceIndex": 963,
+    "reading": "なるべく",
+    "word": "なるべく",
+    "meaningRaw": "[副词] 尽可能"
+  },
+  {
+    "index": 964,
+    "sourceIndex": 964,
+    "reading": "ぶん",
+    "word": "文",
+    "meaningRaw": "[名] 文章，作文，论文；文学；句，句子"
+  },
+  {
+    "index": 965,
+    "sourceIndex": 965,
+    "reading": "よろしい",
+    "word": "宜しい",
+    "meaningRaw": "[形] 好；恰好；适当；没关系，行，可以不用；“よい”的郑重语"
+  },
+  {
+    "index": 966,
+    "sourceIndex": 966,
+    "reading": "まめ",
+    "word": "豆",
+    "meaningRaw": "[名] 豆子，豆类；大豆，黄豆；腰子，肾；小的，小型的"
+  },
+  {
+    "index": 967,
+    "sourceIndex": 967,
+    "reading": "ねっしん",
+    "word": "熱心",
+    "meaningRaw": "[名·形动] ［对人或事物］热心；热诚；热情"
+  },
+  {
+    "index": 968,
+    "sourceIndex": 968,
+    "reading": "ふぁっくす",
+    "word": "ファックス",
+    "meaningRaw": "[名·サ变] 传真"
+  },
+  {
+    "index": 969,
+    "sourceIndex": 969,
+    "reading": "たたみ",
+    "word": "畳",
+    "meaningRaw": "[名] 草席；草垫；草衬垫"
+  },
+  {
+    "index": 970,
+    "sourceIndex": 970,
+    "reading": "たいぷ",
+    "word": "タイプ",
+    "meaningRaw": "[名] type 型，型式，类型；打字，打字机，打印；类型计算机中的数据类型，如 整形，浮点型等数据类型"
+  },
+  {
+    "index": 971,
+    "sourceIndex": 971,
+    "reading": "びじゅつかん",
+    "word": "美術館",
+    "meaningRaw": "[名] 美术馆"
+  },
+  {
+    "index": 972,
+    "sourceIndex": 972,
+    "reading": "なぐる",
+    "word": "殴る",
+    "meaningRaw": "[他动·五段] 殴打；打，揍"
+  },
+  {
+    "index": 973,
+    "sourceIndex": 973,
+    "reading": "とくべつ",
+    "word": "特別",
+    "meaningRaw": "[名·形动] 特别，格外"
+  },
+  {
+    "index": 974,
+    "sourceIndex": 974,
+    "reading": "はじめ",
+    "word": "初め",
+    "meaningRaw": "[名·副词] 开始；开头；第一；起因，起源；前者；最初，起初，当初；原先"
+  },
+  {
+    "index": 975,
+    "sourceIndex": 975,
+    "reading": "しょうがく",
+    "word": "小学",
+    "meaningRaw": "[名] 小学（校）"
+  },
+  {
+    "index": 976,
+    "sourceIndex": 976,
+    "reading": "きんじょ",
+    "word": "近所",
+    "meaningRaw": "[名] 附近，近处，左近；近邻，邻居，街坊，四邻"
+  },
+  {
+    "index": 977,
+    "sourceIndex": 977,
+    "reading": "ぐあい",
+    "word": "具合",
+    "meaningRaw": "[名] （事物/机械运转的）情况，状态，情形，样子；（健康的）状况；状态；方 便，合适；方法，样子"
+  },
+  {
+    "index": 978,
+    "sourceIndex": 978,
+    "reading": "まちがえる",
+    "word": "間違える",
+    "meaningRaw": "[他动·一段] 弄错，搞错；弄坏，失败"
+  },
+  {
+    "index": 979,
+    "sourceIndex": 979,
+    "reading": "うんてん",
+    "word": "運転",
+    "meaningRaw": "[名·自他动·サ变] 开，驾驶，运转操作机械使其工作，亦指机械转动；周转，营 运，流动，运转筹措资金有效地活用；运转日月、时节等往复循环"
+  },
+  {
+    "index": 980,
+    "sourceIndex": 980,
+    "reading": "ていえん",
+    "word": "庭園",
+    "meaningRaw": "[名] 庭园，花园，园林配置有树木、花草、假山、泉水等，供休闲观景的场所"
+  },
+  {
+    "index": 981,
+    "sourceIndex": 981,
+    "reading": "おれんじ",
+    "word": "オレンジ",
+    "meaningRaw": "[名] orange橙子；橘黄色，橙黄色"
+  },
+  {
+    "index": 982,
+    "sourceIndex": 982,
+    "reading": "はつおん",
+    "word": "発音",
+    "meaningRaw": "[名·他动·サ变] 发音"
+  },
+  {
+    "index": 983,
+    "sourceIndex": 983,
+    "reading": "ししゃ",
+    "word": "支社",
+    "meaningRaw": "[名] 分部，分公司，分行；支公司；支行；支店，分号，分店；支社"
+  },
+  {
+    "index": 984,
+    "sourceIndex": 984,
+    "reading": "けれども",
+    "word": "けれども",
+    "meaningRaw": "[助词] 表示认可前文的内容，并表示其与后述的内容并存；表示后项内容与预想的 前项内容应该产生的结果不一致；用说半截子话的形式，表示委婉的叙述"
+  },
+  {
+    "index": 985,
+    "sourceIndex": 985,
+    "reading": "めし",
+    "word": "飯",
+    "meaningRaw": "[名] 饭；吃饭，开饭；饭碗，生活，生计"
+  },
+  {
+    "index": 986,
+    "sourceIndex": 986,
+    "reading": "ひっこし",
+    "word": "引越し",
+    "meaningRaw": "[名·自动·サ变] 迁居，搬家"
+  },
+  {
+    "index": 987,
+    "sourceIndex": 987,
+    "reading": "けーき",
+    "word": "ケーキ",
+    "meaningRaw": "[名] cake蛋糕，洋点心，西洋糕点"
+  },
+  {
+    "index": 988,
+    "sourceIndex": 988,
+    "reading": "とおり",
+    "word": "通り",
+    "meaningRaw": "[名] 大街，马路。（道路、通路など、人や車などが通るための、街中の道。）； 来往，通行。（往来。ゆきき。通行、通過。）；（风、水等）流通，通。（つき ぬけること。通じること。達すること。）；通顺；［声が］响亮。（届くことを 表す。）；了解，理解，领会；［評判になる］人缘，声誉；［よく知られてい る］众所周知『成』，通用。（世間に行われること。通用、流通のこと。受け入 れられること。了解されること。）；正如上文所言。（それと同じ経過をたど る、また同じ状態にあること。それと同様なこと。）；〔種類〕种类，种。（方 法·様式の種類を数える語。）；〔組〕套，组。（計数のために数える語。）"
+  },
+  {
+    "index": 989,
+    "sourceIndex": 989,
+    "reading": "まだまだ",
+    "word": "未だ未だ",
+    "meaningRaw": "[副词] 还，仍，尚；（现在）还，未；还算，还是；还会，还要，还，仍，尚"
+  },
+  {
+    "index": 990,
+    "sourceIndex": 990,
+    "reading": "きゅうこう",
+    "word": "急行",
+    "meaningRaw": "[名·自动·サ变] 急往，急趋，急赴，急忙赶去；快车"
+  },
+  {
+    "index": 991,
+    "sourceIndex": 991,
+    "reading": "きょうかい",
+    "word": "教会",
+    "meaningRaw": "[名] 教会，教堂"
+  },
+  {
+    "index": 992,
+    "sourceIndex": 992,
+    "reading": "よごれ",
+    "word": "汚れ",
+    "meaningRaw": "[名] 污垢；污渍；脏"
+  },
+  {
+    "index": 993,
+    "sourceIndex": 993,
+    "reading": "すぎる",
+    "word": "過ぎる",
+    "meaningRaw": "[自动·一段] 过，经过；时间流逝，过，过去，逝去；消逝；超过；过度；过分； 开外；仅仅，只不过；过度；过分；过多；太，过"
+  },
+  {
+    "index": 994,
+    "sourceIndex": 994,
+    "reading": "おんだんか",
+    "word": "温暖化",
+    "meaningRaw": "[名] 温室效应"
+  },
+  {
+    "index": 995,
+    "sourceIndex": 995,
+    "reading": "なる",
+    "word": "鳴る",
+    "meaningRaw": "[自动·五段] （非生物）鸣，响；著名，驰名，闻名"
+  },
+  {
+    "index": 996,
+    "sourceIndex": 996,
+    "reading": "かみのけ",
+    "word": "髪の毛",
+    "meaningRaw": "[名] 头发"
+  },
+  {
+    "index": 997,
+    "sourceIndex": 997,
+    "reading": "じゅうたい",
+    "word": "渋滞",
+    "meaningRaw": "[名·自动·サ变] 堵车，进展不顺利，停滞不前"
+  },
+  {
+    "index": 998,
+    "sourceIndex": 998,
+    "reading": "すると",
+    "word": "すると",
+    "meaningRaw": "[接续] 于是，于是就，于是乎；那，那么，那么说来，这么说来"
+  },
+  {
+    "index": 999,
+    "sourceIndex": 999,
+    "reading": "げんいん",
+    "word": "原因",
+    "meaningRaw": "[名·サ变] 原因"
+  },
+  {
+    "index": 1000,
+    "sourceIndex": 1000,
+    "reading": "ざいりょう",
+    "word": "材料",
+    "meaningRaw": "[名] （制造物品的）材料，原料；素材；行情涨落的因素"
+  },
+  {
+    "index": 1001,
+    "sourceIndex": 1,
+    "reading": "だいえっと",
+    "word": "ダイエット",
+    "meaningRaw": "[名·自动·サ变] （通过控制饮食）减肥，减重。"
+  },
+  {
+    "index": 1002,
+    "sourceIndex": 2,
+    "reading": "しかる",
+    "word": "叱る",
+    "meaningRaw": "[他动·五段] 责备，批评；训斥，责骂"
+  },
+  {
+    "index": 1003,
+    "sourceIndex": 3,
+    "reading": "うける",
+    "word": "受ける",
+    "meaningRaw": "[他动·一段] 认为，理解；受欢迎；承接；承蒙，受到；接到；得到；奉；遭受； 接受，答应，承认；应，考；继承，接续；稟承，享受"
+  },
+  {
+    "index": 1004,
+    "sourceIndex": 4,
+    "reading": "はいしゃ",
+    "word": "歯医者",
+    "meaningRaw": "[名] 牙医，牙科医生"
+  },
+  {
+    "index": 1005,
+    "sourceIndex": 5,
+    "reading": "あぶら",
+    "word": "油",
+    "meaningRaw": "[名] 油；发油;发蜡"
+  },
+  {
+    "index": 1006,
+    "sourceIndex": 6,
+    "reading": "ゆびわ",
+    "word": "指輪",
+    "meaningRaw": "[名] 戒指，指环"
+  },
+  {
+    "index": 1007,
+    "sourceIndex": 7,
+    "reading": "はじめ",
+    "word": "始め",
+    "meaningRaw": "[名·副词] 初，始初始；开头，初，始，起先刚开始不久的阶段，时候，也用作副 词；初，始起源，起因，亦指先例；头一个，老大，前者，初，始许多中的第一 个，亦指前面的东西；以…为首表示具有代表性的例子"
+  },
+  {
+    "index": 1008,
+    "sourceIndex": 8,
+    "reading": "かまう",
+    "word": "構う",
+    "meaningRaw": "[自他动·五段] 关心；在意；有关系（多用于否定形式，表示“不在意/不关 心”）；管；顾；介意；理睬；干预（多用于否定形式，表“不管”)；照顾，照 料；招待；调戏，逗弄"
+  },
+  {
+    "index": 1009,
+    "sourceIndex": 9,
+    "reading": "～く",
+    "word": "～区",
+    "meaningRaw": "[接尾·名] （表示行政区域）……区。；地区，区域。（小さく区切られた地域。 区画。ブロック。）；区。（地方自治法で定められた行政上の区画。）"
+  },
+  {
+    "index": 1010,
+    "sourceIndex": 10,
+    "reading": "さまざま",
+    "word": "様様",
+    "meaningRaw": "[名·形动] 种种；各种各样；形形色色"
+  },
+  {
+    "index": 1011,
+    "sourceIndex": 11,
+    "reading": "ひとびと",
+    "word": "人々",
+    "meaningRaw": "[名] 人们，很多人；大家，你们"
+  },
+  {
+    "index": 1012,
+    "sourceIndex": 12,
+    "reading": "もらす",
+    "word": "漏らす",
+    "meaningRaw": "[他动·五段] 漏，漏掉；露出；洒（液体、光等）遗尿；尿床；遗漏；泄漏，走 漏，透露，吐露；流露，发出，发泄"
+  },
+  {
+    "index": 1013,
+    "sourceIndex": 13,
+    "reading": "かわく",
+    "word": "渇く",
+    "meaningRaw": "[自动·五段] 渴，干渴；渴望，内心的要求"
+  },
+  {
+    "index": 1014,
+    "sourceIndex": 14,
+    "reading": "ばすけっとぼーる",
+    "word": "バスケットボール",
+    "meaningRaw": "[名] （Basketball）篮球"
+  },
+  {
+    "index": 1015,
+    "sourceIndex": 15,
+    "reading": "はらう",
+    "word": "払う",
+    "meaningRaw": "[他动·五段] 支付；驱赶，赶走，除掉；卖掉，处理掉；拂去，掸去；倾注；表示 (尊敬)；加以(注意等)；横扫，横砍，横拉"
+  },
+  {
+    "index": 1016,
+    "sourceIndex": 16,
+    "reading": "るす",
+    "word": "留守",
+    "meaningRaw": "[名·形动·サ变] 看家，看门；不在家；忽略；开小差，思想不集中"
+  },
+  {
+    "index": 1017,
+    "sourceIndex": 17,
+    "reading": "ちゅうしゃじょう",
+    "word": "駐車場",
+    "meaningRaw": "[名] 停车场停放汽车的场所和设施"
+  },
+  {
+    "index": 1018,
+    "sourceIndex": 18,
+    "reading": "ろんぶん",
+    "word": "論文",
+    "meaningRaw": "[名] 论文用理论性的条理对某种事物加以阐述的文章；论文理论性记叙学术研究成 果的文章"
+  },
+  {
+    "index": 1019,
+    "sourceIndex": 19,
+    "reading": "じ",
+    "word": "字",
+    "meaningRaw": "[名] 字，文字；字体，笔迹；汉语中的“字”还有“书体”“书法作品”“语 言”的意思"
+  },
+  {
+    "index": 1020,
+    "sourceIndex": 20,
+    "reading": "まける",
+    "word": "負ける",
+    "meaningRaw": "[自他动·一段] 差，不如，比不上；输，负，败；屈服，示弱，不能抵制，不能克 服；中，经不住；让价，减价"
+  },
+  {
+    "index": 1021,
+    "sourceIndex": 21,
+    "reading": "ほめる",
+    "word": "褒める",
+    "meaningRaw": "[他动·一段] 赞扬，称赞，赞美，褒奖，表扬高度评价人和事"
+  },
+  {
+    "index": 1022,
+    "sourceIndex": 22,
+    "reading": "やきにく",
+    "word": "焼肉",
+    "meaningRaw": "[名] 烤肉"
+  },
+  {
+    "index": 1023,
+    "sourceIndex": 23,
+    "reading": "ある",
+    "word": "有る",
+    "meaningRaw": "[自动·五段] 存在，有；有，持有，具有；发生；表示事物的存在现代日语中表示 无意识的事物的存在；举行，办理"
+  },
+  {
+    "index": 1024,
+    "sourceIndex": 24,
+    "reading": "おりる",
+    "word": "下りる",
+    "meaningRaw": "[自动·一段] （从高处往低处移动）下，降，下来，降落；下来，从交通工具中出 来；（雨、雪，霜）降下；（许可、批准等）获得，批下来（官方行政机关下发许 可、财物等）；退位，卸任从职位上退下；退出，停止参与事务；卸下负担、松一 口气；排到体外去，排出，排泄；（被）上锁"
+  },
+  {
+    "index": 1025,
+    "sourceIndex": 25,
+    "reading": "あむ",
+    "word": "編む",
+    "meaningRaw": "[他动·五段] 编，织；编纂，编辑；安排，编排"
+  },
+  {
+    "index": 1026,
+    "sourceIndex": 26,
+    "reading": "はずかしい",
+    "word": "恥ずかしい",
+    "meaningRaw": "[形] 惭愧；可耻，丢脸；害羞，害臊；不好意思，难为情"
+  },
+  {
+    "index": 1027,
+    "sourceIndex": 27,
+    "reading": "べんとう",
+    "word": "弁当",
+    "meaningRaw": "[名] 盒装饭菜，盒饭"
+  },
+  {
+    "index": 1028,
+    "sourceIndex": 28,
+    "reading": "あつめる",
+    "word": "集める",
+    "meaningRaw": "[他动·一段] 集合，招集，吸引；收集；汇集；凑；集中"
+  },
+  {
+    "index": 1029,
+    "sourceIndex": 29,
+    "reading": "しまじま",
+    "word": "島々",
+    "meaningRaw": "[名] 许多岛屿；群岛"
+  },
+  {
+    "index": 1030,
+    "sourceIndex": 30,
+    "reading": "たいいん",
+    "word": "退院",
+    "meaningRaw": "[名·サ变] 出院；走出议院"
+  },
+  {
+    "index": 1031,
+    "sourceIndex": 31,
+    "reading": "つもり",
+    "word": "積もり",
+    "meaningRaw": "[名] 累积。重叠。；打算，意图，企图；估计，预计；就当作，就算是；宴会时最 后一杯（瓶）酒"
+  },
+  {
+    "index": 1032,
+    "sourceIndex": 32,
+    "reading": "しかたない",
+    "word": "仕方ない",
+    "meaningRaw": "[形] 没办法，不得已，无可奈何"
+  },
+  {
+    "index": 1033,
+    "sourceIndex": 33,
+    "reading": "きせる",
+    "word": "着せる",
+    "meaningRaw": "[他动·一段] 给……穿上（衣服）；蒙上，盖上（被子等）；镀上，包上；使蒙 受，嫁（祸），加（罪），败坏（名声）"
+  },
+  {
+    "index": 1034,
+    "sourceIndex": 34,
+    "reading": "きゃく",
+    "word": "客",
+    "meaningRaw": "[名] 客人；顾客，主顾，用户，客户"
+  },
+  {
+    "index": 1035,
+    "sourceIndex": 35,
+    "reading": "あくせさりー",
+    "word": "アクセサリー",
+    "meaningRaw": "[名] accessory装饰品，服饰（装飾品衣服を引き立てるための装身具の類ブロー チやネックレスなど）；附件，附属品（機械類の本体以外の付属品）"
+  },
+  {
+    "index": 1036,
+    "sourceIndex": 36,
+    "reading": "ひるま",
+    "word": "昼間",
+    "meaningRaw": "[名·副词] 白天，白日，昼间"
+  },
+  {
+    "index": 1037,
+    "sourceIndex": 37,
+    "reading": "ちゅうごくご",
+    "word": "中国語",
+    "meaningRaw": "[名] 中文，中国话，汉语，华语〔文〕"
+  },
+  {
+    "index": 1038,
+    "sourceIndex": 38,
+    "reading": "じむしょ",
+    "word": "事務所",
+    "meaningRaw": "[名] 事务所，办事处；写字间，写字楼"
+  },
+  {
+    "index": 1039,
+    "sourceIndex": 39,
+    "reading": "うちがわ",
+    "word": "内側",
+    "meaningRaw": "[名] 内侧，里面"
+  },
+  {
+    "index": 1040,
+    "sourceIndex": 40,
+    "reading": "よしゅう",
+    "word": "予習",
+    "meaningRaw": "[名·他动·サ变] 预习"
+  },
+  {
+    "index": 1041,
+    "sourceIndex": 41,
+    "reading": "つまり",
+    "word": "詰まり",
+    "meaningRaw": "[名·副词] 归根到底总之；就是说用以加强语气，即；堵塞，充塞，爆满东西呈塞 满的现象；到头，（事物的）尽头边际止境，结尾"
+  },
+  {
+    "index": 1042,
+    "sourceIndex": 42,
+    "reading": "げんご",
+    "word": "言語",
+    "meaningRaw": "[名] 语言；言语"
+  },
+  {
+    "index": 1043,
+    "sourceIndex": 43,
+    "reading": "つうじる",
+    "word": "通じる",
+    "meaningRaw": "[自他动·一段] 畅通；通到,通往；通晓，精通；熟悉；领会；了解，理解；懂 得；私通；使（对方）理解，告知将自己的心情或想法等告诉对方"
+  },
+  {
+    "index": 1044,
+    "sourceIndex": 44,
+    "reading": "くちげんか",
+    "word": "口げんか",
+    "meaningRaw": "[名·サ变] 争吵，吵架，吵嘴"
+  },
+  {
+    "index": 1045,
+    "sourceIndex": 45,
+    "reading": "ひるやすみ",
+    "word": "昼休み",
+    "meaningRaw": "[名·副词] 午休；午睡歇晌"
+  },
+  {
+    "index": 1046,
+    "sourceIndex": 46,
+    "reading": "ひ",
+    "word": "日",
+    "meaningRaw": "[名·副词] 日，太阳；阳光日光；特别的日子特定的日子；日数，天数；在……场 合下；场合，情况；时候，时期；天气；家徽的名称；惯用语"
+  },
+  {
+    "index": 1047,
+    "sourceIndex": 47,
+    "reading": "えだ",
+    "word": "枝",
+    "meaningRaw": "[名] 树枝；分支"
+  },
+  {
+    "index": 1048,
+    "sourceIndex": 48,
+    "reading": "かっぷる",
+    "word": "カップル",
+    "meaningRaw": "[名] couple.情侣；一对男女，一对儿"
+  },
+  {
+    "index": 1049,
+    "sourceIndex": 49,
+    "reading": "がそりんすたんど",
+    "word": "ガソリンスタンド",
+    "meaningRaw": "[名] gasolinestand<和制语>加油站，街头汽油销售站。美国叫做gasstation，英 国叫做petrolstation。"
+  },
+  {
+    "index": 1050,
+    "sourceIndex": 50,
+    "reading": "やむ",
+    "word": "止む",
+    "meaningRaw": "[自动·五段] 休，止，停止，中止，停息；已；万不得已；不得已，无可奈何，毫 无办法"
+  },
+  {
+    "index": 1051,
+    "sourceIndex": 51,
+    "reading": "のこる",
+    "word": "残る",
+    "meaningRaw": "[自动·五段] 留下；待；剩余，剩下；留，残存，残留；遗留，留传（后世）"
+  },
+  {
+    "index": 1052,
+    "sourceIndex": 52,
+    "reading": "ぷれぜんと",
+    "word": "プレゼント",
+    "meaningRaw": "[名·他动·サ变] 赠送礼物，礼品，赠品，礼物，送礼。"
+  },
+  {
+    "index": 1053,
+    "sourceIndex": 53,
+    "reading": "ふく",
+    "word": "拭く",
+    "meaningRaw": "[他动·五段] 擦，抹，揩，拭"
+  },
+  {
+    "index": 1054,
+    "sourceIndex": 54,
+    "reading": "つたわる",
+    "word": "伝わる",
+    "meaningRaw": "[自动·五段] 传开，流传；（文化、知识、风俗等从外部）传来，传入；传开；传 导；沿着"
+  },
+  {
+    "index": 1055,
+    "sourceIndex": 55,
+    "reading": "きるもの",
+    "word": "着る物",
+    "meaningRaw": "[名] 穿的衣服。"
+  },
+  {
+    "index": 1056,
+    "sourceIndex": 56,
+    "reading": "のど",
+    "word": "喉",
+    "meaningRaw": "[名] 咽喉，喉咙，嗓子；嗓音，歌声；〔急所〕要害，致命处"
+  },
+  {
+    "index": 1057,
+    "sourceIndex": 57,
+    "reading": "きこく",
+    "word": "帰国",
+    "meaningRaw": "[名·自动·サ变] 回国，归国；回到家乡；回国，归国；回到家乡"
+  },
+  {
+    "index": 1058,
+    "sourceIndex": 58,
+    "reading": "こんご",
+    "word": "今後",
+    "meaningRaw": "[名·副词] 今后，以后，将来，从此以后"
+  },
+  {
+    "index": 1059,
+    "sourceIndex": 59,
+    "reading": "かねもち",
+    "word": "金持ち",
+    "meaningRaw": "[名] 有钱的人，财主，富人"
+  },
+  {
+    "index": 1060,
+    "sourceIndex": 60,
+    "reading": "いきる",
+    "word": "生きる",
+    "meaningRaw": "[自动·一段] 生动，栩栩如生；活，生存，保持生命；生活，维持生活，以……为 生；为……生活；生活于……之中"
+  },
+  {
+    "index": 1061,
+    "sourceIndex": 61,
+    "reading": "たすかる",
+    "word": "助かる",
+    "meaningRaw": "[自动·五段] 得到帮助，因他人的帮助而受益；得救，脱险；省力，省事，负担减 轻"
+  },
+  {
+    "index": 1062,
+    "sourceIndex": 62,
+    "reading": "くうき",
+    "word": "空気",
+    "meaningRaw": "[名] 空气；气氛"
+  },
+  {
+    "index": 1063,
+    "sourceIndex": 63,
+    "reading": "であう",
+    "word": "出会う",
+    "meaningRaw": "[自动·五段] 外出时偶然相遇，遇见，碰见；意外地遭受到，遇到，遭到"
+  },
+  {
+    "index": 1064,
+    "sourceIndex": 64,
+    "reading": "ごみ",
+    "word": "ゴミ",
+    "meaningRaw": "[名] 垃圾，尘土；ごみ"
+  },
+  {
+    "index": 1065,
+    "sourceIndex": 65,
+    "reading": "ぞんじる",
+    "word": "存じる",
+    "meaningRaw": "[自他动·一段] 认为，想，打算「思う」｢考える｣的自谦语"
+  },
+  {
+    "index": 1066,
+    "sourceIndex": 66,
+    "reading": "いと",
+    "word": "糸",
+    "meaningRaw": "[名] （乐器的）弦，琴弦，筝，三弦，弹筝、三弦（的人）；纱线。用于纺织、手 工编织、缝衣、刺绣等；生丝，丝（线）；鱼线，钓丝；线，状似线的细长物；途 径，线路"
+  },
+  {
+    "index": 1067,
+    "sourceIndex": 67,
+    "reading": "もくよう",
+    "word": "木曜",
+    "meaningRaw": "[名·副词] 星期四，周四"
+  },
+  {
+    "index": 1068,
+    "sourceIndex": 68,
+    "reading": "きをつける",
+    "word": "気を付ける",
+    "meaningRaw": "[惯用] 注意，小心，警惕"
+  },
+  {
+    "index": 1069,
+    "sourceIndex": 69,
+    "reading": "すいどう",
+    "word": "水道",
+    "meaningRaw": "[名] 自来水（管道）；航道，航路；〈地〉海峡"
+  },
+  {
+    "index": 1070,
+    "sourceIndex": 70,
+    "reading": "ただいま",
+    "word": "ただ今",
+    "meaningRaw": "[名] 现在，当前；马上，立刻；刚刚；我回来了"
+  },
+  {
+    "index": 1071,
+    "sourceIndex": 71,
+    "reading": "こうすい",
+    "word": "香水",
+    "meaningRaw": "[名] 香水化妆品之一，用酒精溶解浸泡香料制成喷洒在身体或衣服上从散发的香气 中得到快乐"
+  },
+  {
+    "index": 1072,
+    "sourceIndex": 72,
+    "reading": "さけぶ",
+    "word": "叫ぶ",
+    "meaningRaw": "[自他动·五段] 大声喊叫，呼喊；向社会呼吁，主张"
+  },
+  {
+    "index": 1073,
+    "sourceIndex": 73,
+    "reading": "けいかく",
+    "word": "計画",
+    "meaningRaw": "[名·他动·サ变] 计划，谋划，规划"
+  },
+  {
+    "index": 1074,
+    "sourceIndex": 74,
+    "reading": "うつ",
+    "word": "打つ",
+    "meaningRaw": "[他动·五段] 以打的动作做什么或制作什么；打或以类似打的动作，一下子打进 去；标上记号；采取必要的措施或做必要的动作；马上反应，马上见效"
+  },
+  {
+    "index": 1075,
+    "sourceIndex": 75,
+    "reading": "さら",
+    "word": "皿",
+    "meaningRaw": "[名] 碟子；盘子；盘形物；碟，盘；道"
+  },
+  {
+    "index": 1076,
+    "sourceIndex": 76,
+    "reading": "いじょう",
+    "word": "以上",
+    "meaningRaw": "[名·副词] 以上，不少于，不止，超过，以外；以上，上述；写在信件，条纹或目 录的结尾处表示“终了”；既然，那么"
+  },
+  {
+    "index": 1077,
+    "sourceIndex": 77,
+    "reading": "おとなしい",
+    "word": "大人しい",
+    "meaningRaw": "[形] 老实；安详；温顺，稳重；善良；规规矩矩；驯顺；驯服；听话；乖；雅致； 素气"
+  },
+  {
+    "index": 1078,
+    "sourceIndex": 78,
+    "reading": "じっか",
+    "word": "実家",
+    "meaningRaw": "[名] 父母之家，老家；娘家；婆家"
+  },
+  {
+    "index": 1079,
+    "sourceIndex": 79,
+    "reading": "はんばーぐ",
+    "word": "ハンバーグ",
+    "meaningRaw": "[名] 汉堡牛肉饼，也可以混合猪肉，跟汉堡包不是同一样东西。"
+  },
+  {
+    "index": 1080,
+    "sourceIndex": 80,
+    "reading": "おもて",
+    "word": "表",
+    "meaningRaw": "[名] 表面，面儿，正面；外表，外观；前部，前面；正门，前厅；屋外，户外，外 边，外头"
+  },
+  {
+    "index": 1081,
+    "sourceIndex": 81,
+    "reading": "ちゅうがく",
+    "word": "中学",
+    "meaningRaw": "[名] 中学（中国的）初级中学，初中"
+  },
+  {
+    "index": 1082,
+    "sourceIndex": 82,
+    "reading": "すがた",
+    "word": "姿",
+    "meaningRaw": "[名] （身体或物品的）姿态，姿容，身段［容貌］；风采，态度，举止，面貌，状 态，装束，打扮；身子，身影.；姿势,形象"
+  },
+  {
+    "index": 1083,
+    "sourceIndex": 83,
+    "reading": "ばあい",
+    "word": "場合",
+    "meaningRaw": "[名·副词] 情况，情形；场合；时候；情况；情况；状态"
+  },
+  {
+    "index": 1084,
+    "sourceIndex": 84,
+    "reading": "でんぽう",
+    "word": "電報",
+    "meaningRaw": "[名] 电报利用电信设施收发的通信亦指其通信电文"
+  },
+  {
+    "index": 1085,
+    "sourceIndex": 85,
+    "reading": "かね",
+    "word": "金",
+    "meaningRaw": "[名] 金属，铁；钱，钱财；银子，票子，钞票"
+  },
+  {
+    "index": 1086,
+    "sourceIndex": 86,
+    "reading": "かがく",
+    "word": "化学",
+    "meaningRaw": "[名] 化学"
+  },
+  {
+    "index": 1087,
+    "sourceIndex": 87,
+    "reading": "りょうじかん",
+    "word": "領事館",
+    "meaningRaw": "[名] 领事馆"
+  },
+  {
+    "index": 1088,
+    "sourceIndex": 88,
+    "reading": "ほうそうきょく",
+    "word": "放送局",
+    "meaningRaw": "[名] 广播电视台"
+  },
+  {
+    "index": 1089,
+    "sourceIndex": 89,
+    "reading": "まよねーず",
+    "word": "マヨネーズ",
+    "meaningRaw": "[名] mayonnaise 蛋黄酱，美乃滋"
+  },
+  {
+    "index": 1090,
+    "sourceIndex": 90,
+    "reading": "こわい",
+    "word": "怖い",
+    "meaningRaw": "[形] 令人害怕的；可怕的；担心；可怕"
+  },
+  {
+    "index": 1091,
+    "sourceIndex": 91,
+    "reading": "あるこーる",
+    "word": "アルコール",
+    "meaningRaw": "[名] alcohol酒精，乙醇"
+  },
+  {
+    "index": 1092,
+    "sourceIndex": 92,
+    "reading": "せいよう",
+    "word": "西洋",
+    "meaningRaw": "[名] 西洋，西方，欧美各国的总称"
+  },
+  {
+    "index": 1093,
+    "sourceIndex": 93,
+    "reading": "だんせい",
+    "word": "男性",
+    "meaningRaw": "[名] 男性，男子；阳性，与阴性、中性对称"
+  },
+  {
+    "index": 1094,
+    "sourceIndex": 94,
+    "reading": "うつる",
+    "word": "写る",
+    "meaningRaw": "[自动·五段] 照像，拍照，映现在胶片、相纸上留下影像；透明"
+  },
+  {
+    "index": 1095,
+    "sourceIndex": 95,
+    "reading": "けんがく",
+    "word": "見学",
+    "meaningRaw": "[名·サ变] 参观，参观学习"
+  },
+  {
+    "index": 1096,
+    "sourceIndex": 96,
+    "reading": "たおれる",
+    "word": "倒れる",
+    "meaningRaw": "[自动·一段] 倒下，跌倒；塌，倒毁；垮台；倒闭，破产；病倒；死"
+  },
+  {
+    "index": 1097,
+    "sourceIndex": 97,
+    "reading": "たおす",
+    "word": "倒す",
+    "meaningRaw": "[他动·五段] 弄倒，放倒，推倒；推翻，打倒；杀死，打死，消灭；打败，击败； 赖帐，不还债"
+  },
+  {
+    "index": 1098,
+    "sourceIndex": 98,
+    "reading": "さいかい",
+    "word": "再会",
+    "meaningRaw": "[名·自动·サ变] 再会，再见，重新相逢"
+  },
+  {
+    "index": 1099,
+    "sourceIndex": 99,
+    "reading": "ねんど",
+    "word": "年度",
+    "meaningRaw": "[名] （为办公、会计事务等的方便而划分的）年度；年，届"
+  },
+  {
+    "index": 1100,
+    "sourceIndex": 100,
+    "reading": "やわらかい",
+    "word": "軟らかい",
+    "meaningRaw": "[形] 软，嫩，柔软，柔和；通俗，轻松"
+  },
+  {
+    "index": 1101,
+    "sourceIndex": 101,
+    "reading": "あれ",
+    "word": "あれ",
+    "meaningRaw": "[感动] 呀！哎呀！哎，哎哟。（意外な事に気づいた時に思わず出す声。）"
+  },
+  {
+    "index": 1102,
+    "sourceIndex": 102,
+    "reading": "よごれる",
+    "word": "汚れる",
+    "meaningRaw": "[自动·一段] 脏了，（被）污染"
+  },
+  {
+    "index": 1103,
+    "sourceIndex": 103,
+    "reading": "われる",
+    "word": "割れる",
+    "meaningRaw": "[自动·一段] 破，破碎；破裂，分裂；裂开；暴露；除尽"
+  },
+  {
+    "index": 1104,
+    "sourceIndex": 104,
+    "reading": "せんたー",
+    "word": "センター",
+    "meaningRaw": "[名] center中心地，中心区；中心机构，中心站；〈野球〉中场手；中心，中央"
+  },
+  {
+    "index": 1105,
+    "sourceIndex": 105,
+    "reading": "すてれお",
+    "word": "ステレオ",
+    "meaningRaw": "[名] stereo〔立体〕立体,立体声.；立体声设备,实感音响设备."
+  },
+  {
+    "index": 1106,
+    "sourceIndex": 106,
+    "reading": "そふ",
+    "word": "祖父",
+    "meaningRaw": "[名] 爷爷，祖父老爷，外祖父"
+  },
+  {
+    "index": 1107,
+    "sourceIndex": 107,
+    "reading": "よろこび",
+    "word": "喜び",
+    "meaningRaw": "[名] 喜悦，愉快，高兴，欢喜；祝贺，道喜；喜事，喜庆"
+  },
+  {
+    "index": 1108,
+    "sourceIndex": 108,
+    "reading": "かた",
+    "word": "肩",
+    "meaningRaw": "[名] 肩，肩膀；肩；上方，上端，上角"
+  },
+  {
+    "index": 1109,
+    "sourceIndex": 109,
+    "reading": "あいけん",
+    "word": "愛犬",
+    "meaningRaw": "[名] 喜爱的狗，爱犬；爱狗，喜欢狗"
+  },
+  {
+    "index": 1110,
+    "sourceIndex": 110,
+    "reading": "けれど",
+    "word": "けれど",
+    "meaningRaw": "[助词] 虽然……可是,但是,然而,不过.；也,又,更.；表顺承"
+  },
+  {
+    "index": 1111,
+    "sourceIndex": 111,
+    "reading": "じゅわき",
+    "word": "受話器",
+    "meaningRaw": "[名] （电话机等的）听筒，耳机，受话器"
+  },
+  {
+    "index": 1112,
+    "sourceIndex": 112,
+    "reading": "おちる",
+    "word": "落ちる",
+    "meaningRaw": "[自动·一段] 落下，降落，掉下来，坠落；掉，落；脱落；剥落；褪落；没考中； 落选，落后；陷落；（柔道）气绝；断气，晕过去；亡命；逃遁"
+  },
+  {
+    "index": 1113,
+    "sourceIndex": 113,
+    "reading": "よう",
+    "word": "用",
+    "meaningRaw": "[名] 事情；用途，用处；大小便"
+  },
+  {
+    "index": 1114,
+    "sourceIndex": 114,
+    "reading": "かーど",
+    "word": "カード",
+    "meaningRaw": "[名] 信用卡、银行卡等的略称；（card）卡，卡片；纸牌；扑克牌；节目（表）， 编组"
+  },
+  {
+    "index": 1115,
+    "sourceIndex": 115,
+    "reading": "にゅうがく",
+    "word": "入学",
+    "meaningRaw": "[名·自动·サ变] 入学"
+  },
+  {
+    "index": 1116,
+    "sourceIndex": 116,
+    "reading": "かんごし",
+    "word": "看護師",
+    "meaningRaw": "[名] （男或女）护士"
+  },
+  {
+    "index": 1117,
+    "sourceIndex": 117,
+    "reading": "えらぶ",
+    "word": "選ぶ",
+    "meaningRaw": "[他动·五段] 选择，挑选；选举；撰著"
+  },
+  {
+    "index": 1118,
+    "sourceIndex": 118,
+    "reading": "きしゃ",
+    "word": "汽車",
+    "meaningRaw": "[名] 蒸汽火车，列车"
+  },
+  {
+    "index": 1119,
+    "sourceIndex": 119,
+    "reading": "もり",
+    "word": "森",
+    "meaningRaw": "[名] 森林，树林；日本姓氏；神社的树林"
+  },
+  {
+    "index": 1120,
+    "sourceIndex": 120,
+    "reading": "あそび",
+    "word": "遊び",
+    "meaningRaw": "[名] 游戏，玩耍；游玩；消遣；放荡,冶游；吃喝嫖赌；间隙，游动，游隙；没事 做；不做事，游闲；余裕；不紧凑"
+  },
+  {
+    "index": 1121,
+    "sourceIndex": 121,
+    "reading": "しまる",
+    "word": "閉まる",
+    "meaningRaw": "[自动·五段] 关闭，紧闭；被关闭，被紧闭；关门，下班停止营业"
+  },
+  {
+    "index": 1122,
+    "sourceIndex": 122,
+    "reading": "におい",
+    "word": "匂い",
+    "meaningRaw": "[名] 味儿，气味儿；香味儿，香气，芳香；气息；色彩；风格，情趣"
+  },
+  {
+    "index": 1123,
+    "sourceIndex": 123,
+    "reading": "じかい",
+    "word": "次回",
+    "meaningRaw": "[名·副词] 下次，下回"
+  },
+  {
+    "index": 1124,
+    "sourceIndex": 124,
+    "reading": "さま",
+    "word": "～様",
+    "meaningRaw": "[接尾] 样子，景况，状态，情况，情形；姿势，姿态，形状；…同志；…先生；… 女士；动词后缀"
+  },
+  {
+    "index": 1125,
+    "sourceIndex": 125,
+    "reading": "あさい",
+    "word": "浅い",
+    "meaningRaw": "[形] 浅的，自口部至底部或深处的距离短；（事物的程度、度数等）小的，低的， 微少的；色淡的，色浅的；浅薄的，肤浅的"
+  },
+  {
+    "index": 1126,
+    "sourceIndex": 126,
+    "reading": "けん",
+    "word": "軒",
+    "meaningRaw": "[名] 屋檐；房屋；高昂；扶手；所，栋"
+  },
+  {
+    "index": 1127,
+    "sourceIndex": 127,
+    "reading": "ぶんか",
+    "word": "文化",
+    "meaningRaw": "[名] 文化；文明，开化；日本年号文化"
+  },
+  {
+    "index": 1128,
+    "sourceIndex": 128,
+    "reading": "ひらがな",
+    "word": "平仮名",
+    "meaningRaw": "[名] 平假名。假名的一种，平安初期产生的音节文字之一是草假名的进一步简体化 开始时主要在女性中间使用，故又称“女手”“女文字”等"
+  },
+  {
+    "index": 1129,
+    "sourceIndex": 129,
+    "reading": "かわり",
+    "word": "変わり",
+    "meaningRaw": "[名] 变，变化；改变，变更；异状，不正常；事变，变故；奇异的，花式的，怪的"
+  },
+  {
+    "index": 1130,
+    "sourceIndex": 130,
+    "reading": "くらぶ",
+    "word": "クラブ",
+    "meaningRaw": "[名] 俱乐部，同好会。亦指其集会场所。；课外活动小组。；以会员制为原则的酒 吧或娱乐场。；（高尔夫）球棒。；（扑克牌）梅花。；螃蟹。"
+  },
+  {
+    "index": 1131,
+    "sourceIndex": 131,
+    "reading": "きず",
+    "word": "傷",
+    "meaningRaw": "[名] 伤，创伤；瑕疵；伤疤，伤痕，缺陷，毛病"
+  },
+  {
+    "index": 1132,
+    "sourceIndex": 132,
+    "reading": "とどける",
+    "word": "届ける",
+    "meaningRaw": "[他动·一段] 送到；送给；送去；投递，递送；（向上级）申报，上报，报告；登 记；使达到"
+  },
+  {
+    "index": 1133,
+    "sourceIndex": 133,
+    "reading": "なっとう",
+    "word": "納豆",
+    "meaningRaw": "[名] 纳豆"
+  },
+  {
+    "index": 1134,
+    "sourceIndex": 134,
+    "reading": "えび",
+    "word": "海老",
+    "meaningRaw": "[名] 虾；虾"
+  },
+  {
+    "index": 1135,
+    "sourceIndex": 135,
+    "reading": "きゅうけい",
+    "word": "休憩",
+    "meaningRaw": "[名·自动·サ变] 休息，歇"
+  },
+  {
+    "index": 1136,
+    "sourceIndex": 136,
+    "reading": "このごろ",
+    "word": "この頃",
+    "meaningRaw": "[名·副词] 近来，最近，这些天来，最近时期；现在"
+  },
+  {
+    "index": 1137,
+    "sourceIndex": 137,
+    "reading": "～ねんせい",
+    "word": "～年生",
+    "meaningRaw": "[接尾] ……年级生。"
+  },
+  {
+    "index": 1138,
+    "sourceIndex": 138,
+    "reading": "りょかん",
+    "word": "旅館",
+    "meaningRaw": "[名] （日式）旅馆,旅店"
+  },
+  {
+    "index": 1139,
+    "sourceIndex": 139,
+    "reading": "がんばる",
+    "word": "頑張る",
+    "meaningRaw": "[自动·五段] 坚持己见，硬主张；顽固，固执己见；坚持，拼命努力；加油，鼓 劲；不甘落后；不甘示弱；不动，不走，不离开"
+  },
+  {
+    "index": 1140,
+    "sourceIndex": 140,
+    "reading": "こくがい",
+    "word": "国外",
+    "meaningRaw": "[名] 国外"
+  },
+  {
+    "index": 1141,
+    "sourceIndex": 141,
+    "reading": "うわる",
+    "word": "植わる",
+    "meaningRaw": "[自动·五段] 栽着"
+  },
+  {
+    "index": 1142,
+    "sourceIndex": 142,
+    "reading": "そうたい",
+    "word": "早退",
+    "meaningRaw": "[名·自动·サ变] 早退比规定时间早下课或下班"
+  },
+  {
+    "index": 1143,
+    "sourceIndex": 143,
+    "reading": "こうぎょう",
+    "word": "工業",
+    "meaningRaw": "[名] 工业"
+  },
+  {
+    "index": 1144,
+    "sourceIndex": 144,
+    "reading": "すっかり",
+    "word": "すっかり",
+    "meaningRaw": "[副词] 全,都，全都完全，全部已经；〈商〉脱销卖光售完.全，都，全都，完全"
+  },
+  {
+    "index": 1145,
+    "sourceIndex": 145,
+    "reading": "つかまえる",
+    "word": "捕まえる",
+    "meaningRaw": "[他动·一段] 抓住（……不放）揪住；捉住，逮住；捕捉；揪住，抓住，揪住，捉 住，逮住，捕捉"
+  },
+  {
+    "index": 1146,
+    "sourceIndex": 146,
+    "reading": "とおく",
+    "word": "遠く",
+    "meaningRaw": "[名·副词] 远方，远处；远远距离、差距很大"
+  },
+  {
+    "index": 1147,
+    "sourceIndex": 147,
+    "reading": "そのため",
+    "word": "その為",
+    "meaningRaw": "[接续] 因此，所以为此由于那种原因（理由）"
+  },
+  {
+    "index": 1148,
+    "sourceIndex": 148,
+    "reading": "だいぶ",
+    "word": "大分",
+    "meaningRaw": "[副词] 很，相当，很多，不少；很，很多，很久"
+  },
+  {
+    "index": 1149,
+    "sourceIndex": 149,
+    "reading": "さんどいっち",
+    "word": "サンドイッチ",
+    "meaningRaw": "[名] sandwich 三明治，夹心面包"
+  },
+  {
+    "index": 1150,
+    "sourceIndex": 150,
+    "reading": "きそく",
+    "word": "規則",
+    "meaningRaw": "[名] 规则，规章，章程"
+  },
+  {
+    "index": 1151,
+    "sourceIndex": 151,
+    "reading": "はいざら",
+    "word": "灰皿",
+    "meaningRaw": "[名] 烟灰碟，烟灰缸"
+  },
+  {
+    "index": 1152,
+    "sourceIndex": 152,
+    "reading": "よなか",
+    "word": "夜中",
+    "meaningRaw": "[名·副词] 夜半，半夜，子夜，午夜"
+  },
+  {
+    "index": 1153,
+    "sourceIndex": 153,
+    "reading": "しかくい",
+    "word": "四角い",
+    "meaningRaw": "[形] 四角形的，四方的，方形的；生硬，端正"
+  },
+  {
+    "index": 1154,
+    "sourceIndex": 154,
+    "reading": "おくりもの",
+    "word": "贈り物",
+    "meaningRaw": "[名] 礼物，礼品，赠品，献礼"
+  },
+  {
+    "index": 1155,
+    "sourceIndex": 155,
+    "reading": "うんてんしゅ",
+    "word": "運転手",
+    "meaningRaw": "[名] 司机，驾驶员从事驾驶电车、汽车工作的人"
+  },
+  {
+    "index": 1156,
+    "sourceIndex": 156,
+    "reading": "ねぼう",
+    "word": "寝坊",
+    "meaningRaw": "[名·形动·サ变] 睡懒觉，贪睡晚起（的人）"
+  },
+  {
+    "index": 1157,
+    "sourceIndex": 157,
+    "reading": "さいしょ",
+    "word": "最初",
+    "meaningRaw": "[名·副词] 最初，最先，首先；起初，起先，开始；头,开头；第一，第一次"
+  },
+  {
+    "index": 1158,
+    "sourceIndex": 158,
+    "reading": "かんけい",
+    "word": "関係",
+    "meaningRaw": "[名·サ变] 关系；关联，联系；牵连；涉及；亲属关系，亲戚裙带关系；与……有 关系；关联，联系；牵连；涉及；影响到；男女关系，不正常关系；机构，部门， 方面，系统"
+  },
+  {
+    "index": 1159,
+    "sourceIndex": 159,
+    "reading": "けっか",
+    "word": "結果",
+    "meaningRaw": "[名·副词] 结果，结局；后果；结实，结果"
+  },
+  {
+    "index": 1160,
+    "sourceIndex": 160,
+    "reading": "すく",
+    "word": "空く",
+    "meaningRaw": "[自动·五段] 稀疏，空旷；某个空间里的人、物数量减少；饥饿，肚子空，肚子 饿；有空闲"
+  },
+  {
+    "index": 1161,
+    "sourceIndex": 161,
+    "reading": "あこがれ",
+    "word": "憧れ",
+    "meaningRaw": "[名] 憧憬；向往"
+  },
+  {
+    "index": 1162,
+    "sourceIndex": 162,
+    "reading": "ぱーと",
+    "word": "パート",
+    "meaningRaw": "[名] part部分；篇，章；卷；职责；角色；〈楽〉声部；乐曲的一部分；（打）零 工，短时间劳动，部分时间劳动"
+  },
+  {
+    "index": 1163,
+    "sourceIndex": 163,
+    "reading": "ぶんがく",
+    "word": "文学",
+    "meaningRaw": "[名] 文学；文艺，文艺学研究文学作品的学科文学文艺学、语言学、哲学、心理 学、史学的总称"
+  },
+  {
+    "index": 1164,
+    "sourceIndex": 164,
+    "reading": "めろん",
+    "word": "メロン",
+    "meaningRaw": "[名] melon〈植〉哈密瓜，甜瓜，白兰瓜，华莱氏瓜香瓜，蜜瓜"
+  },
+  {
+    "index": 1165,
+    "sourceIndex": 165,
+    "reading": "こんど",
+    "word": "今度",
+    "meaningRaw": "[名·副词] 这回，这次，此次；最近，上次；下次，下回"
+  },
+  {
+    "index": 1166,
+    "sourceIndex": 166,
+    "reading": "さけ",
+    "word": "酒",
+    "meaningRaw": "[名] 清酒；酒，酒的总称；饮酒"
+  },
+  {
+    "index": 1167,
+    "sourceIndex": 167,
+    "reading": "それとも",
+    "word": "それとも",
+    "meaningRaw": "[接续] 还是，或者"
+  },
+  {
+    "index": 1168,
+    "sourceIndex": 168,
+    "reading": "くうこう",
+    "word": "空港",
+    "meaningRaw": "[名] （飞）机场"
+  },
+  {
+    "index": 1169,
+    "sourceIndex": 169,
+    "reading": "さがる",
+    "word": "下がる",
+    "meaningRaw": "[自动·五段] 下降；降落；降低。；垂下；垂；垂悬。；下降；降低；降价。；降 温。；（功能、本领）退步；衰退；下降；降低；后退。；推移时代；前进。；向 后倒；退后；退往；后退。；（从地位高的人的身旁）退出（下）。；放学下班自 学校、机关、工作单位等处回家。；（政府机关等）发给；发下。"
+  },
+  {
+    "index": 1170,
+    "sourceIndex": 170,
+    "reading": "わいん",
+    "word": "ワイン",
+    "meaningRaw": "[名] wine葡萄酒，红酒"
+  },
+  {
+    "index": 1171,
+    "sourceIndex": 171,
+    "reading": "さわる",
+    "word": "触る",
+    "meaningRaw": "[自动·五段] （用手等）触；碰；摸；接触；触怒，触犯；参与"
+  },
+  {
+    "index": 1172,
+    "sourceIndex": 172,
+    "reading": "かん",
+    "word": "缶",
+    "meaningRaw": "[名] （金属制的）罐（子），桶；罐头（盒）；（接尾）罐罐装物的量词"
+  },
+  {
+    "index": 1173,
+    "sourceIndex": 173,
+    "reading": "うれしい",
+    "word": "嬉しい",
+    "meaningRaw": "[形] 高兴，快活，喜悦，欢喜"
+  },
+  {
+    "index": 1174,
+    "sourceIndex": 174,
+    "reading": "がそりん",
+    "word": "ガソリン",
+    "meaningRaw": "[名] （gasoline）汽油"
+  },
+  {
+    "index": 1175,
+    "sourceIndex": 175,
+    "reading": "けんぶつ",
+    "word": "見物",
+    "meaningRaw": "[名·サ变] 旁观；观众；旁观者，看热闹的；观赏，游览，参观；旁观"
+  },
+  {
+    "index": 1176,
+    "sourceIndex": 176,
+    "reading": "くらす",
+    "word": "暮らす",
+    "meaningRaw": "[自他动·五段] 生活，度日；度过一天；一直"
+  },
+  {
+    "index": 1177,
+    "sourceIndex": 177,
+    "reading": "しょうしか",
+    "word": "少子化",
+    "meaningRaw": "[名] 少子化，新生儿越来越少的现象 出生率降低，儿童人数日渐减少的现象或倾 向"
+  },
+  {
+    "index": 1178,
+    "sourceIndex": 178,
+    "reading": "いとこ",
+    "word": "従兄弟",
+    "meaningRaw": "[名] 堂兄弟，堂姊妹，表兄弟，表姊妹"
+  },
+  {
+    "index": 1179,
+    "sourceIndex": 179,
+    "reading": "やっぱり",
+    "word": "矢っ張り",
+    "meaningRaw": "[副词] 还是，仍然，依然，也；毕竟还是"
+  },
+  {
+    "index": 1180,
+    "sourceIndex": 180,
+    "reading": "あのね",
+    "word": "あのね",
+    "meaningRaw": "[感动] （呼唤对方时）唉，喂，那个"
+  },
+  {
+    "index": 1181,
+    "sourceIndex": 181,
+    "reading": "けいご",
+    "word": "敬語",
+    "meaningRaw": "[名] 敬语，敬辞"
+  },
+  {
+    "index": 1182,
+    "sourceIndex": 182,
+    "reading": "ふえる",
+    "word": "増える",
+    "meaningRaw": "[自动·一段] 增加，增多"
+  },
+  {
+    "index": 1183,
+    "sourceIndex": 183,
+    "reading": "おもたい",
+    "word": "重たい",
+    "meaningRaw": "[形] 重，沉分量多；感觉沉（重）；沉重，沉闷，郁闷心情不愉快，消沉"
+  },
+  {
+    "index": 1184,
+    "sourceIndex": 184,
+    "reading": "とくに",
+    "word": "特に",
+    "meaningRaw": "[副词] 特，特别"
+  },
+  {
+    "index": 1185,
+    "sourceIndex": 185,
+    "reading": "はら",
+    "word": "腹",
+    "meaningRaw": "[名] 腹，肚子；内心，想法；心情，情绪；度量，器量；胎内，母体内；肚儿"
+  },
+  {
+    "index": 1186,
+    "sourceIndex": 186,
+    "reading": "てら",
+    "word": "寺",
+    "meaningRaw": "[名] 庙，佛寺，寺庙，寺院"
+  },
+  {
+    "index": 1187,
+    "sourceIndex": 187,
+    "reading": "おくる",
+    "word": "贈る",
+    "meaningRaw": "[他动·五段] 赠送，送礼，馈赠；授予"
+  },
+  {
+    "index": 1188,
+    "sourceIndex": 188,
+    "reading": "ようき",
+    "word": "容器",
+    "meaningRaw": "[名] 容器，器皿"
+  },
+  {
+    "index": 1189,
+    "sourceIndex": 189,
+    "reading": "ことばづかい",
+    "word": "言葉遣い",
+    "meaningRaw": "[名] 说法；用语，措词，措辞"
+  },
+  {
+    "index": 1190,
+    "sourceIndex": 190,
+    "reading": "みつかる",
+    "word": "見つかる",
+    "meaningRaw": "[自动·五段] 被看到，被发现；能找出，找到"
+  },
+  {
+    "index": 1191,
+    "sourceIndex": 191,
+    "reading": "ふるーつ",
+    "word": "フルーツ",
+    "meaningRaw": "[名] (英) fruits; 水果"
+  },
+  {
+    "index": 1192,
+    "sourceIndex": 192,
+    "reading": "それほど",
+    "word": "それほど",
+    "meaningRaw": "[副词] （后多接否定）（并非）那么，那样（程度）。"
+  },
+  {
+    "index": 1193,
+    "sourceIndex": 193,
+    "reading": "おくじょう",
+    "word": "屋上",
+    "meaningRaw": "[名] 屋顶（上），房顶（上），房上面，屋顶平台"
+  },
+  {
+    "index": 1194,
+    "sourceIndex": 194,
+    "reading": "とうがらし",
+    "word": "唐辛子",
+    "meaningRaw": "[名] 辣椒 茄科一年生草本原产于南美热带，高60cm左右，夏季叶腋处开白花果实 细长，成熟后为红或黄等色做香辛佐料其变种尖椒、柿子椒等供食用"
+  },
+  {
+    "index": 1195,
+    "sourceIndex": 195,
+    "reading": "あらわす",
+    "word": "表す",
+    "meaningRaw": "[他动·五段] 表现；表示；表达；象征；代表；意味着；显示（于世）"
+  },
+  {
+    "index": 1196,
+    "sourceIndex": 196,
+    "reading": "めぐすり",
+    "word": "目薬",
+    "meaningRaw": "[名] 眼药水。；小恩，小惠，小礼物，小贿赂"
+  },
+  {
+    "index": 1197,
+    "sourceIndex": 197,
+    "reading": "そうだん",
+    "word": "相談",
+    "meaningRaw": "[名·サ变] 商量；协商，协议，磋商；商谈；商定，一致的意见；征求意见，请 教；咨询；提出意见，建议；提议；专家系统的一种使用方式。"
+  },
+  {
+    "index": 1198,
+    "sourceIndex": 198,
+    "reading": "れつ",
+    "word": "列",
+    "meaningRaw": "[名] 队，行列，列；排，行；队伍，队列；类"
+  },
+  {
+    "index": 1199,
+    "sourceIndex": 199,
+    "reading": "すくりーん",
+    "word": "スクリーン",
+    "meaningRaw": "[名] screen屏风；（电影等的）屏幕，银幕；电影界；玻璃板，网线板；〈写〉滤 色片，滤光镜；荧光屏，银幕，电影；钢网"
+  },
+  {
+    "index": 1200,
+    "sourceIndex": 200,
+    "reading": "このは",
+    "word": "木の葉",
+    "meaningRaw": "[名] 树叶"
+  },
+  {
+    "index": 1201,
+    "sourceIndex": 201,
+    "reading": "ふくざつ",
+    "word": "複雑",
+    "meaningRaw": "[名·形动] 复杂结构或关系错综繁杂"
+  },
+  {
+    "index": 1202,
+    "sourceIndex": 202,
+    "reading": "かわいそう",
+    "word": "可哀相",
+    "meaningRaw": "[形动] 可怜"
+  },
+  {
+    "index": 1203,
+    "sourceIndex": 203,
+    "reading": "わさび",
+    "word": "ワサビ",
+    "meaningRaw": "[名] 芥末"
+  },
+  {
+    "index": 1204,
+    "sourceIndex": 204,
+    "reading": "せいぞう",
+    "word": "製造",
+    "meaningRaw": "[名·他动·サ变] 制造，生产"
+  },
+  {
+    "index": 1205,
+    "sourceIndex": 205,
+    "reading": "ずっと",
+    "word": "ずっと",
+    "meaningRaw": "[副词] 远远，很；时间、空间上的遥远貌；（比……）……得多，……得很，还 要……；（从……）一直，始终，从头至尾；径直（走,去,进）"
+  },
+  {
+    "index": 1206,
+    "sourceIndex": 206,
+    "reading": "どよう",
+    "word": "土曜",
+    "meaningRaw": "[名·副词] 星期六"
+  },
+  {
+    "index": 1207,
+    "sourceIndex": 207,
+    "reading": "～てん",
+    "word": "～点",
+    "meaningRaw": "[接尾] （考试、比赛等）……分。；（表示物品的件数）……件；（表示小数 点）……点"
+  },
+  {
+    "index": 1208,
+    "sourceIndex": 208,
+    "reading": "きぼ",
+    "word": "規模",
+    "meaningRaw": "[名] 规模；范围"
+  },
+  {
+    "index": 1209,
+    "sourceIndex": 209,
+    "reading": "めいわく",
+    "word": "迷惑",
+    "meaningRaw": "[名·形动] 麻烦，烦扰，为难，打搅，困扰"
+  },
+  {
+    "index": 1210,
+    "sourceIndex": 210,
+    "reading": "おも",
+    "word": "主",
+    "meaningRaw": "[形动] 主要，重要"
+  },
+  {
+    "index": 1211,
+    "sourceIndex": 211,
+    "reading": "ぱすぽーと",
+    "word": "パスポート",
+    "meaningRaw": "[名] 护照"
+  },
+  {
+    "index": 1212,
+    "sourceIndex": 212,
+    "reading": "かける",
+    "word": "掛ける",
+    "meaningRaw": "[他动·一段] 挂上，悬挂；拉，挂（幕等）；戴上；蒙上；盖上；花费，花；系 上；捆上；搭上；发动，开动（机器等）；乘；撩（水）；浇；泼；倒，灌；称， 衡量；坐（在…上）；放（在…上）；课（税等）；缴（款）"
+  },
+  {
+    "index": 1213,
+    "sourceIndex": 213,
+    "reading": "じょうほう",
+    "word": "情報",
+    "meaningRaw": "[名] 情报；消息，信息"
+  },
+  {
+    "index": 1214,
+    "sourceIndex": 214,
+    "reading": "すべて",
+    "word": "全て",
+    "meaningRaw": "[名·副词] 一切，所有，全部；都，所有，一切，统统，整个"
+  },
+  {
+    "index": 1215,
+    "sourceIndex": 215,
+    "reading": "にっき",
+    "word": "日記",
+    "meaningRaw": "[名] 日记，日记本"
+  },
+  {
+    "index": 1216,
+    "sourceIndex": 216,
+    "reading": "うかがう",
+    "word": "伺う",
+    "meaningRaw": "[他动·五段] 请教，打听。「聞く·尋ねる·問う」的谦让语；拜访，访问。「訪 ねる·訪問する」的谦让语"
+  },
+  {
+    "index": 1217,
+    "sourceIndex": 217,
+    "reading": "いきさき",
+    "word": "行き先",
+    "meaningRaw": "[名] 去的地方，目的地"
+  },
+  {
+    "index": 1218,
+    "sourceIndex": 218,
+    "reading": "ゆめ",
+    "word": "夢",
+    "meaningRaw": "[名] 梦；梦想，幻想；理想"
+  },
+  {
+    "index": 1219,
+    "sourceIndex": 219,
+    "reading": "つれる",
+    "word": "連れる",
+    "meaningRaw": "[自他动·一段] 带，领；（常用\"に連れて\"的形式）伴随着；跟随"
+  },
+  {
+    "index": 1220,
+    "sourceIndex": 220,
+    "reading": "うんどう",
+    "word": "運動",
+    "meaningRaw": "[名·自动·サ变] 运动；运动，体育运动；运动，活动"
+  }
+]

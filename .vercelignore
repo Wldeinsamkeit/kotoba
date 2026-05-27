@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+.git
+.DS_Store
+.vercel
+.playwright-mcp
+.codepilot-uploads
+闲置文件夹
+项目资料
+资源汇总
+UI设计
+public/supertonic/assets/onnx/*.onnx

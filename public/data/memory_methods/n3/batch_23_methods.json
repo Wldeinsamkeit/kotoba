@@ -1,0 +1,1257 @@
+[
+  {
+    "word": "悩む",
+    "reading": "なやむ",
+    "meaning": "烦恼",
+    "sourceIndex": 881,
+    "sourceMeaningRaw": "烦恼；苦恼；感到痛苦 自动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "悩む",
+        "method": "TYPE A1",
+        "bridgeC": "汉字悩む意思是烦恼"
+      }
+    ],
+    "mergedScene": "悩む这个汉字一看就像烦恼。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なやむ - 悩む - 烦恼",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この悩むは大切です。",
+        "zh": "这个烦恼很重要。"
+      }
+    ]
+  },
+  {
+    "word": "なんか",
+    "reading": "なんか",
+    "meaning": "助词 之类，等等",
+    "sourceIndex": 882,
+    "sourceMeaningRaw": "助词 之类，等等，什么的；哪；有些，好像，觉 得",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "なんか",
+        "method": "TYPE B2",
+        "bridgeC": "なんか表示助词 之类，等等"
+      }
+    ],
+    "mergedScene": "なんか的意思就是助词 之类，等等。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なんか - 助词 之类，等等",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このなんかは大切です。",
+        "zh": "这个助词 之类，等等很重要。"
+      }
+    ]
+  },
+  {
+    "word": "何だか",
+    "reading": "なんだか",
+    "meaning": "词 总觉得，总有点",
+    "sourceIndex": 883,
+    "sourceMeaningRaw": "副词 总觉得，总有点，不由得",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "何だか",
+        "method": "TYPE A1",
+        "bridgeC": "汉字何だか意思是词 总觉得，总有点"
+      },
+      {
+        "element": "なんだか",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なん+だか\"来记"
+      }
+    ],
+    "mergedScene": "なんだか拆分记忆，意思是词 总觉得，总有点",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なんだか - 拆分记忆 - 词 总觉得，总有点",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この何だかは大切です。",
+        "zh": "这个词 总觉得，总有点很重要。"
+      }
+    ]
+  },
+  {
+    "word": "何でも",
+    "reading": "なんでも",
+    "meaning": "无论怎样，不拘如何",
+    "sourceIndex": 884,
+    "sourceMeaningRaw": "无论怎样，不拘如何；据说是，多半是，好 不管什么，什么都……，任何〔すべて〕； 副词·接 续 象是；无论什么，不管什么",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "何でも",
+        "method": "TYPE A1",
+        "bridgeC": "汉字何でも意思是无论怎样，不拘如何"
+      },
+      {
+        "element": "なんでも",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なん+でも\"来记"
+      }
+    ],
+    "mergedScene": "なんでも拆分记忆，意思是无论怎样，不拘如何",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なんでも - 拆分记忆 - 无论怎样，不拘如何",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この何でもは大切です。",
+        "zh": "这个无论怎样，不拘如何很重要。"
+      }
+    ]
+  },
+  {
+    "word": "何とか",
+    "reading": "なんとか",
+    "meaning": "词 想办法，设法",
+    "sourceIndex": 885,
+    "sourceMeaningRaw": "副词 想办法，设法；勉强；好歹；总算",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "何とか",
+        "method": "TYPE A1",
+        "bridgeC": "汉字何とか意思是词 想办法，设法"
+      },
+      {
+        "element": "なんとか",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なん+とか\"来记"
+      }
+    ],
+    "mergedScene": "なんとか拆分记忆，意思是词 想办法，设法",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なんとか - 拆分记忆 - 词 想办法，设法",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この何とかは大切です。",
+        "zh": "这个词 想办法，设法很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ナンバー",
+    "reading": "なんばー",
+    "meaning": "数字",
+    "sourceIndex": 886,
+    "sourceMeaningRaw": "名 数字;号码(略称为No.);刊号;曲号；(英) 数,数字,号码.；牌照,号码牌.；期,号.；曲目. number",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ナンバー",
+        "method": "外来语",
+        "bridgeC": "ナンバー来自英语，意思是数字"
+      }
+    ],
+    "mergedScene": "ナンバー是外来语，来自英语，意思是数字。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ナンバー - 外来语英语 - 数字",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このナンバーは大切です。",
+        "zh": "这个数字很重要。"
+      }
+    ]
+  },
+  {
+    "word": "似合う",
+    "reading": "にあう",
+    "meaning": "适称",
+    "sourceIndex": 887,
+    "sourceMeaningRaw": "适称；合适；配合 自动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "似合う",
+        "method": "TYPE A1",
+        "bridgeC": "汉字似合う意思是适称"
+      }
+    ],
+    "mergedScene": "似合う这个汉字一看就像适称。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にあう - 似合う - 适称",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この似合うは大切です。",
+        "zh": "这个适称很重要。"
+      }
+    ]
+  },
+  {
+    "word": "煮える",
+    "reading": "にえる",
+    "meaning": "烧开",
+    "sourceIndex": 888,
+    "sourceMeaningRaw": "烧开；煮；煮熟，煮烂；非常气愤 自动·一 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "煮える",
+        "method": "TYPE A1",
+        "bridgeC": "汉字煮える意思是烧开"
+      }
+    ],
+    "mergedScene": "煮える这个汉字一看就像烧开。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にえる - 煮える - 烧开",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この煮えるは大切です。",
+        "zh": "这个烧开很重要。"
+      }
+    ]
+  },
+  {
+    "word": "匂う",
+    "reading": "におう",
+    "meaning": "有香味",
+    "sourceIndex": 889,
+    "sourceMeaningRaw": "有香味；（颜色）显得漂亮 自动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "匂う",
+        "method": "TYPE A1",
+        "bridgeC": "汉字匂う意思是有香味"
+      }
+    ],
+    "mergedScene": "匂う这个汉字一看就像有香味。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "におう - 匂う - 有香味",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この匂うは大切です。",
+        "zh": "这个有香味很重要。"
+      }
+    ]
+  },
+  {
+    "word": "苦手",
+    "reading": "にがて",
+    "meaning": "形动 难对付的人",
+    "sourceIndex": 890,
+    "sourceMeaningRaw": "名·形动 难对付（的人），不好对付（的人）；棘手 的事〔人〕；不善于，不擅长，最怕",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "苦手",
+        "method": "TYPE A1",
+        "bridgeC": "汉字苦手意思是形动 难对付的人"
+      }
+    ],
+    "mergedScene": "苦手这个汉字一看就像形动 难对付的人。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にがて - 苦手 - 形动 难对付的人",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この苦手は大切です。",
+        "zh": "这个形动 难对付的人很重要。"
+      }
+    ]
+  },
+  {
+    "word": "面皰",
+    "reading": "にきび",
+    "meaning": "痤疮，粉刺",
+    "sourceIndex": 891,
+    "sourceMeaningRaw": "名 痤疮，粉刺，酒刺痘痘",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "面皰",
+        "method": "TYPE A1",
+        "bridgeC": "汉字面皰意思是痤疮，粉刺"
+      }
+    ],
+    "mergedScene": "面皰这个汉字一看就像痤疮，粉刺。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にきび - 面皰 - 痤疮，粉刺",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この面皰は大切です。",
+        "zh": "这个痤疮，粉刺很重要。"
+      }
+    ]
+  },
+  {
+    "word": "賑やか",
+    "reading": "にぎやか",
+    "meaning": "热闹，熙熙攘攘",
+    "sourceIndex": 892,
+    "sourceMeaningRaw": "形动 热闹，熙熙攘攘，繁华，繁盛；极其开朗， 热闹",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "賑やか",
+        "method": "TYPE A1",
+        "bridgeC": "汉字賑やか意思是热闹，熙熙攘攘"
+      },
+      {
+        "element": "にぎやか",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"にぎ+やか\"来记"
+      }
+    ],
+    "mergedScene": "にぎやか拆分记忆，意思是热闹，熙熙攘攘",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にぎやか - 拆分记忆 - 热闹，熙熙攘攘",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この賑やかは大切です。",
+        "zh": "这个热闹，熙熙攘攘很重要。"
+      }
+    ]
+  },
+  {
+    "word": "握る",
+    "reading": "にぎる",
+    "meaning": "五 〈围棋〉抓棋子",
+    "sourceIndex": 893,
+    "sourceMeaningRaw": "他动·五 〈围棋〉抓棋子；掌握；抓住；握；攥； 段 抓；攥饭团",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "握る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字握る意思是五 〈围棋〉抓棋子"
+      }
+    ],
+    "mergedScene": "握る这个汉字一看就像五 〈围棋〉抓棋子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にぎる - 握る - 五 〈围棋〉抓棋子",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この握るは大切です。",
+        "zh": "这个五 〈围棋〉抓棋子很重要。"
+      }
+    ]
+  },
+  {
+    "word": "憎い",
+    "reading": "にくい",
+    "meaning": "可憎，可恶",
+    "sourceIndex": 894,
+    "sourceMeaningRaw": "形 可憎，可恶，可恨；令人佩服，值得钦佩的 漂亮的，精彩的",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "憎い",
+        "method": "TYPE A1",
+        "bridgeC": "汉字憎い意思是可憎，可恶"
+      }
+    ],
+    "mergedScene": "憎い这个汉字一看就像可憎，可恶。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にくい - 憎い - 可憎，可恶",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この憎いは大切です。",
+        "zh": "这个可憎，可恶很重要。"
+      }
+    ]
+  },
+  {
+    "word": "にこにこ",
+    "reading": "にこにこ",
+    "meaning": "词 笑嘻嘻",
+    "sourceIndex": 895,
+    "sourceMeaningRaw": "副词 笑嘻嘻；笑眯眯；笑吟吟，微微笑",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "にこにこ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"にこ+にこ\"来记"
+      }
+    ],
+    "mergedScene": "にこにこ拆分记忆，意思是词 笑嘻嘻",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にこにこ - 拆分记忆 - 词 笑嘻嘻",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このにこにこは大切です。",
+        "zh": "这个词 笑嘻嘻很重要。"
+      }
+    ]
+  },
+  {
+    "word": "濁る",
+    "reading": "にごる",
+    "meaning": "浑浊，污浊",
+    "sourceIndex": 896,
+    "sourceMeaningRaw": "浑浊，污浊，不透明，不清因脏（含杂质） 自动·五 而变得不透明；声音变嘶哑，不清晰；不鲜 段 明；不清醒，变得不清楚；发浊音，打浊音 符号",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "濁る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字濁る意思是浑浊，污浊"
+      }
+    ],
+    "mergedScene": "濁る这个汉字一看就像浑浊，污浊。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にごる - 濁る - 浑浊，污浊",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この濁るは大切です。",
+        "zh": "这个浑浊，污浊很重要。"
+      }
+    ]
+  },
+  {
+    "word": "偽物",
+    "reading": "にせもの",
+    "meaning": "假冒的东西，伪造的东西",
+    "sourceIndex": 897,
+    "sourceMeaningRaw": "名 假冒的东西，伪造的东西，冒牌货，赝品； 冒牌货徒有其表，有其名无其实的东西",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "偽物",
+        "method": "TYPE A1",
+        "bridgeC": "汉字偽物意思是假冒的东西，伪造的东西"
+      },
+      {
+        "element": "にせもの",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"にせ+もの\"来记"
+      }
+    ],
+    "mergedScene": "にせもの拆分记忆，意思是假冒的东西，伪造的东西",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にせもの - 拆分记忆 - 假冒的东西，伪造的东西",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この偽物は大切です。",
+        "zh": "这个假冒的东西，伪造的东西很重要。"
+      }
+    ]
+  },
+  {
+    "word": "日時",
+    "reading": "にちじ",
+    "meaning": "日期与时刻",
+    "sourceIndex": 898,
+    "sourceMeaningRaw": "名 日期与时刻；天数；时间",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "日時",
+        "method": "TYPE A1",
+        "bridgeC": "汉字日時意思是日期与时刻"
+      }
+    ],
+    "mergedScene": "日時这个汉字一看就像日期与时刻。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にちじ - 日時 - 日期与时刻",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この日時は大切です。",
+        "zh": "这个日期与时刻很重要。"
+      }
+    ]
+  },
+  {
+    "word": "にっこり",
+    "reading": "にっこり",
+    "meaning": "词 莞然",
+    "sourceIndex": 899,
+    "sourceMeaningRaw": "副词 莞然；笑嘻嘻的，嫣然一笑，微微一笑；莞 尔",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "にっこり",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"にっ+こり\"来记"
+      }
+    ],
+    "mergedScene": "にっこり拆分记忆，意思是词 莞然",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にっこり - 拆分记忆 - 词 莞然",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このにっこりは大切です。",
+        "zh": "这个词 莞然很重要。"
+      }
+    ]
+  },
+  {
+    "word": "日程",
+    "reading": "にってい",
+    "meaning": "，每天的计划〔安排〕",
+    "sourceIndex": 900,
+    "sourceMeaningRaw": "名 ，每天的计划〔安排〕",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "日程",
+        "method": "TYPE A1",
+        "bridgeC": "汉字日程意思是，每天的计划〔安排〕"
+      },
+      {
+        "element": "にってい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"にっ+てい\"来记"
+      }
+    ],
+    "mergedScene": "にってい拆分记忆，意思是，每天的计划〔安排〕",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にってい - 拆分记忆 - ，每天的计划〔安排〕",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この日程は大切です。",
+        "zh": "这个，每天的计划〔安排〕很重要。"
+      }
+    ]
+  },
+  {
+    "word": "二度と",
+    "reading": "にどと",
+    "meaning": "词 下接否定",
+    "sourceIndex": 901,
+    "sourceMeaningRaw": "副词 （下接否定）再，再也",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "二度と",
+        "method": "TYPE A1",
+        "bridgeC": "汉字二度と意思是词 下接否定"
+      }
+    ],
+    "mergedScene": "二度と这个汉字一看就像词 下接否定。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にどと - 二度と - 词 下接否定",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この二度とは大切です。",
+        "zh": "这个词 下接否定很重要。"
+      }
+    ]
+  },
+  {
+    "word": "鈍い",
+    "reading": "にぶい",
+    "meaning": "不清晰，不响亮",
+    "sourceIndex": 902,
+    "sourceMeaningRaw": "形 不清晰，不响亮，沉闷；钝；迟钝；不强 烈，暗淡；气势不振",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "鈍い",
+        "method": "TYPE A1",
+        "bridgeC": "汉字鈍い意思是不清晰，不响亮"
+      }
+    ],
+    "mergedScene": "鈍い这个汉字一看就像不清晰，不响亮。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にぶい - 鈍い - 不清晰，不响亮",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この鈍いは大切です。",
+        "zh": "这个不清晰，不响亮很重要。"
+      }
+    ]
+  },
+  {
+    "word": "睨む",
+    "reading": "にらむ",
+    "meaning": "五 注视，仔细观察",
+    "sourceIndex": 903,
+    "sourceMeaningRaw": "他动·五 注视，仔细观察；盯视，瞪眼，怒目而视； 段 意料，估计，推测，（大体上）判；盯上",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "睨む",
+        "method": "TYPE A1",
+        "bridgeC": "汉字睨む意思是五 注视，仔细观察"
+      }
+    ],
+    "mergedScene": "睨む这个汉字一看就像五 注视，仔细观察。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にらむ - 睨む - 五 注视，仔细观察",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この睨むは大切です。",
+        "zh": "这个五 注视，仔细观察很重要。"
+      }
+    ]
+  },
+  {
+    "word": "煮る",
+    "reading": "にる",
+    "meaning": "煮",
+    "sourceIndex": 904,
+    "sourceMeaningRaw": "煮；炖；熬；煨；焖 他动·一 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "煮る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字煮る意思是煮"
+      }
+    ],
+    "mergedScene": "煮る这个汉字一看就像煮。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にる - 煮る - 煮",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この煮るは大切です。",
+        "zh": "这个煮很重要。"
+      }
+    ]
+  },
+  {
+    "word": "人気",
+    "reading": "にんき",
+    "meaning": "人望",
+    "sourceIndex": 905,
+    "sourceMeaningRaw": "名 人望；人缘；声望；受欢迎；博得好评；吃 香；吃得开；〈商〉商情；市况；行情",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "人気",
+        "method": "TYPE A1",
+        "bridgeC": "汉字人気意思是人望"
+      }
+    ],
+    "mergedScene": "人気这个汉字一看就像人望。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にんき - 人気 - 人望",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この人気は大切です。",
+        "zh": "这个人望很重要。"
+      }
+    ]
+  },
+  {
+    "word": "人参",
+    "reading": "にんじん",
+    "meaning": "胡萝卜，红萝卜",
+    "sourceIndex": 906,
+    "sourceMeaningRaw": "名 胡萝卜，红萝卜；",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "人参",
+        "method": "TYPE A1",
+        "bridgeC": "汉字人参意思是胡萝卜，红萝卜"
+      },
+      {
+        "element": "にんじん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"にん+じん\"来记"
+      }
+    ],
+    "mergedScene": "にんじん拆分记忆，意思是胡萝卜，红萝卜",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にんじん - 拆分记忆 - 胡萝卜，红萝卜",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この人参は大切です。",
+        "zh": "这个胡萝卜，红萝卜很重要。"
+      }
+    ]
+  },
+  {
+    "word": "人数",
+    "reading": "にんずう",
+    "meaning": "众多",
+    "sourceIndex": 907,
+    "sourceMeaningRaw": "名 众多；；人头（数）",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "人数",
+        "method": "TYPE A1",
+        "bridgeC": "汉字人数意思是众多"
+      },
+      {
+        "element": "にんずう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"にん+ずう\"来记"
+      }
+    ],
+    "mergedScene": "にんずう拆分记忆，意思是众多",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にんずう - 拆分记忆 - 众多",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この人数は大切です。",
+        "zh": "这个众多很重要。"
+      }
+    ]
+  },
+  {
+    "word": "縫う",
+    "reading": "ぬう",
+    "meaning": "穿过",
+    "sourceIndex": 908,
+    "sourceMeaningRaw": "穿过；缝，缝纫缝合；刺绣，绣花 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "縫う",
+        "method": "TYPE A1",
+        "bridgeC": "汉字縫う意思是穿过"
+      }
+    ],
+    "mergedScene": "縫う这个汉字一看就像穿过。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぬう - 縫う - 穿过",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この縫うは大切です。",
+        "zh": "这个穿过很重要。"
+      }
+    ]
+  },
+  {
+    "word": "抜く",
+    "reading": "ぬく",
+    "meaning": "抽出，拔掉",
+    "sourceIndex": 909,
+    "sourceMeaningRaw": "抽出，拔掉。；选出，抽出。；除掉，清 超过，超出。；穿，透。；窃。；省略。； 他动·五 段 除；干到底。",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "抜く",
+        "method": "TYPE A1",
+        "bridgeC": "汉字抜く意思是抽出，拔掉"
+      }
+    ],
+    "mergedScene": "抜く这个汉字一看就像抽出，拔掉。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぬく - 抜く - 抽出，拔掉",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この抜くは大切です。",
+        "zh": "这个抽出，拔掉很重要。"
+      }
+    ]
+  },
+  {
+    "word": "抜ける",
+    "reading": "ぬける",
+    "meaning": "力 变 力量、状态、性质等缺少消失",
+    "sourceIndex": 910,
+    "sourceMeaningRaw": "力）低下；透彻清澄；（布料因不结实）变 力量、状态、性质等）缺少消失；迟钝（智 自动·一 段 薄；穿过通过狭窄的地方到对面；偷偷溜走 逃走退出",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "抜ける",
+        "method": "TYPE A1",
+        "bridgeC": "汉字抜ける意思是力 变 力量、状态、性质等缺少消失"
+      }
+    ],
+    "mergedScene": "抜ける这个汉字一看就像力 变 力量、状态、性质等缺少消失。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぬける - 抜ける - 力 变 力量、状态、性质等缺少消失",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この抜けるは大切です。",
+        "zh": "这个力 变 力量、状态、性质等缺少消失很重要。"
+      }
+    ]
+  },
+  {
+    "word": "濡らす",
+    "reading": "ぬらす",
+    "meaning": "浸湿，沾湿",
+    "sourceIndex": 911,
+    "sourceMeaningRaw": "浸湿，沾湿，淋湿 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "濡らす",
+        "method": "TYPE A1",
+        "bridgeC": "汉字濡らす意思是浸湿，沾湿"
+      }
+    ],
+    "mergedScene": "濡らす这个汉字一看就像浸湿，沾湿。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぬらす - 濡らす - 浸湿，沾湿",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この濡らすは大切です。",
+        "zh": "这个浸湿，沾湿很重要。"
+      }
+    ]
+  },
+  {
+    "word": "塗る",
+    "reading": "ぬる",
+    "meaning": "五 涂颜料",
+    "sourceIndex": 912,
+    "sourceMeaningRaw": "他动·五 涂（颜料），擦，抹；厚厚地擦粉；转嫁 段 （罪责）",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "塗る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字塗る意思是五 涂颜料"
+      }
+    ],
+    "mergedScene": "塗る这个汉字一看就像五 涂颜料。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぬる - 塗る - 五 涂颜料",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この塗るは大切です。",
+        "zh": "这个五 涂颜料很重要。"
+      }
+    ]
+  },
+  {
+    "word": "温い",
+    "reading": "ぬるい",
+    "meaning": "微温",
+    "sourceIndex": 913,
+    "sourceMeaningRaw": "形 微温。；温和，不够严厉，宽松；冷淡，薄 比适宜温度偏低或偏高。不够热也不够冷。 情",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "温い",
+        "method": "TYPE A1",
+        "bridgeC": "汉字温い意思是微温"
+      }
+    ],
+    "mergedScene": "温い这个汉字一看就像微温。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぬるい - 温い - 微温",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この温いは大切です。",
+        "zh": "这个微温很重要。"
+      }
+    ]
+  },
+  {
+    "word": "濡れる",
+    "reading": "ぬれる",
+    "meaning": "淋湿，弄湿",
+    "sourceIndex": 914,
+    "sourceMeaningRaw": "淋湿，弄湿，湿润，渗入水分；偷情 自动·一 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "濡れる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字濡れる意思是淋湿，弄湿"
+      }
+    ],
+    "mergedScene": "濡れる这个汉字一看就像淋湿，弄湿。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぬれる - 濡れる - 淋湿，弄湿",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この濡れるは大切です。",
+        "zh": "这个淋湿，弄湿很重要。"
+      }
+    ]
+  },
+  {
+    "word": "熱する",
+    "reading": "ねっする",
+    "meaning": "发热，变热",
+    "sourceIndex": 915,
+    "sourceMeaningRaw": "发热，变热；热衷，入迷；加热，使变热 自他动· サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "熱する",
+        "method": "TYPE A1",
+        "bridgeC": "汉字熱する意思是发热，变热"
+      },
+      {
+        "element": "ねっする",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ねっ+する\"来记"
+      }
+    ],
+    "mergedScene": "ねっする拆分记忆，意思是发热，变热",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねっする - 拆分记忆 - 发热，变热",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この熱するは大切です。",
+        "zh": "这个发热，变热很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ネット",
+    "reading": "ねっと",
+    "meaning": "值",
+    "sourceIndex": 916,
+    "sourceMeaningRaw": "名 值；纯利，实价；余数，净数；互联网，网 net网，网状物；球网；净重；净数；净 络",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ネット",
+        "method": "外来语",
+        "bridgeC": "ネット来自英语，意思是值"
+      }
+    ],
+    "mergedScene": "ネット是外来语，来自英语，意思是值。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ネット - 外来语英语 - 值",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このネットは大切です。",
+        "zh": "这个值很重要。"
+      }
+    ]
+  },
+  {
+    "word": "熱湯",
+    "reading": "ねっとう",
+    "meaning": "热水，开水煮得滚开的热水",
+    "sourceIndex": 917,
+    "sourceMeaningRaw": "名 热水，开水煮得滚开的热水",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "熱湯",
+        "method": "TYPE A1",
+        "bridgeC": "汉字熱湯意思是热水，开水煮得滚开的热水"
+      },
+      {
+        "element": "ねっとう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ねっ+とう\"来记"
+      }
+    ],
+    "mergedScene": "ねっとう拆分记忆，意思是热水，开水煮得滚开的热水",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねっとう - 拆分记忆 - 热水，开水煮得滚开的热水",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この熱湯は大切です。",
+        "zh": "这个热水，开水煮得滚开的热水很重要。"
+      }
+    ]
+  },
+  {
+    "word": "寝巻き",
+    "reading": "ねまき",
+    "meaning": "睡衣",
+    "sourceIndex": 918,
+    "sourceMeaningRaw": "名 睡衣",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "寝巻き",
+        "method": "TYPE A1",
+        "bridgeC": "汉字寝巻き意思是睡衣"
+      }
+    ],
+    "mergedScene": "寝巻き这个汉字一看就像睡衣。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねまき - 寝巻き - 睡衣",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この寝巻きは大切です。",
+        "zh": "这个睡衣很重要。"
+      }
+    ]
+  },
+  {
+    "word": "眠たい",
+    "reading": "ねむたい",
+    "meaning": "困，困倦",
+    "sourceIndex": 919,
+    "sourceMeaningRaw": "形 困，困倦，昏昏欲睡",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "眠たい",
+        "method": "TYPE A1",
+        "bridgeC": "汉字眠たい意思是困，困倦"
+      },
+      {
+        "element": "ねむたい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ねむ+たい\"来记"
+      }
+    ],
+    "mergedScene": "ねむたい拆分记忆，意思是困，困倦",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねむたい - 拆分记忆 - 困，困倦",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この眠たいは大切です。",
+        "zh": "这个困，困倦很重要。"
+      }
+    ]
+  },
+  {
+    "word": "眠気",
+    "reading": "ねむけ",
+    "meaning": "睡意，困",
+    "sourceIndex": 920,
+    "sourceMeaningRaw": "名 睡意，困，困倦",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "眠気",
+        "method": "TYPE A1",
+        "bridgeC": "汉字眠気意思是睡意，困"
+      }
+    ],
+    "mergedScene": "眠気这个汉字一看就像睡意，困。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねむけ - 眠気 - 睡意，困",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この眠気は大切です。",
+        "zh": "这个睡意，困很重要。"
+      }
+    ]
+  }
+]

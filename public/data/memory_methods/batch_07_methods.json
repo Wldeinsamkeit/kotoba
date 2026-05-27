@@ -1,0 +1,1357 @@
+[
+  {
+    "word": "午前",
+    "reading": "ごぜん",
+    "meaning": "上午",
+    "elements": [
+      {
+        "element": "午前",
+        "method": "TYPE A1",
+        "bridgeC": "午=中午，前=之前；中午之前就是上午"
+      },
+      {
+        "element": "ごぜん",
+        "method": "TYPE B2",
+        "bridgeC": "ごぜん→GO前；早上要GO到前面去上课"
+      }
+    ],
+    "mergedScene": "上午第一节课，你还没睡醒就被老师喊：GO前面！你一边往前走一边记住：午(中午)前=午前(ごぜん)=上午。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "午前=午之前=上午；ごぜん→GO前面\n⚠️ 午後(ごご)=下午，两个ご连在一起像过了午后还在咕咕睡。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "午前九時に学校へ行きます。",
+        "zh": "上午九点去学校。"
+      }
+    ]
+  },
+  {
+    "word": "答える",
+    "reading": "こたえる",
+    "meaning": "回答",
+    "elements": [
+      {
+        "element": "答",
+        "method": "TYPE A1",
+        "bridgeC": "答=回答，中日同义"
+      },
+      {
+        "element": "こたえる",
+        "method": "TYPE B2",
+        "bridgeC": "こたえる→可太爱了/可太爱啦；老婆问爱不爱她，你回答'可太爱了'，这就是在回答"
+      }
+    ],
+    "mergedScene": "老婆总问你爱不爱她，你立刻回答：“可太爱啦！”这个“可太爱了”(こたえる)就是你的回答。黑板上的「答」也提醒你：答える=回答。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "こたえる - 谐音“可太爱了/可太爱啦” - 老婆问爱不爱她，你回答“可太爱了” - 回答\n例：質問に答える=回答问题\n⚠️ 名词是答え(こたえ)=答案。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "質問に答えます。",
+        "zh": "回答问题。"
+      }
+    ]
+  },
+  {
+    "word": "こちら",
+    "reading": "こちら",
+    "meaning": "这边、这位、我方",
+    "elements": [
+      {
+        "element": "こ",
+        "method": "固定指示",
+        "bridgeC": "こ系列=靠近我这边"
+      },
+      {
+        "element": "ちら",
+        "method": "关联记忆",
+        "bridgeC": "ちら像ちらっと看一眼；礼貌地指向这边/这位"
+      }
+    ],
+    "mergedScene": "前台小姐微笑着伸手说「こちらへどうぞ」：请往这边走。こ是靠近我，ちら像礼貌地瞥一眼再引路，所以こちら=这边/这位/我方。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "こ系列=这边；こちら比こっち更礼貌\n例：こちらは田中さんです=这位是田中先生\n⚠️ こっち偏口语，こちら偏正式。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "こちらへどうぞ。",
+        "zh": "请往这边。"
+      }
+    ]
+  },
+  {
+    "word": "こっち",
+    "reading": "こっち",
+    "meaning": "这边",
+    "elements": [
+      {
+        "element": "こ",
+        "method": "固定指示",
+        "bridgeC": "こ系列=靠近我这边"
+      },
+      {
+        "element": "っち",
+        "method": "口语感",
+        "bridgeC": "っち像一把抓过来：过来这边！"
+      }
+    ],
+    "mergedScene": "朋友在车站对你疯狂招手：こっち！こっち！小っ像手指突然一勾，把你拽到“这边”来。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "こっち=这边，口语、亲近、直接\n🔗 こちら=这边/这位(礼貌)，こっち=这边(口语)\n⚠️ 正式场合优先用こちら。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "こっちに来てください。",
+        "zh": "请来这边。"
+      }
+    ]
+  },
+  {
+    "word": "コップ",
+    "reading": "コップ",
+    "meaning": "杯子",
+    "elements": [
+      {
+        "element": "コップ",
+        "method": "外来语",
+        "bridgeC": "来自荷兰语/外来语 cup；コップ就是杯子"
+      },
+      {
+        "element": "ップ",
+        "method": "TYPE B1",
+        "bridgeC": "小ッ像杯子突然被放到桌上，啪一下"
+      }
+    ],
+    "mergedScene": "你把一个コップ啪地放到桌上，小ッ就是那一下顿音。看到コップ就想起cup，手里拿的就是杯子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "コップ≈cup=杯子\n⚠️ カップ也有杯/杯装的意思；日常喝水的玻璃杯常说コップ。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "コップに水を入れます。",
+        "zh": "把水倒进杯子。"
+      }
+    ]
+  },
+  {
+    "word": "今年",
+    "reading": "ことし",
+    "meaning": "今年",
+    "elements": [
+      {
+        "element": "今",
+        "method": "TYPE A1",
+        "bridgeC": "今=现在"
+      },
+      {
+        "element": "年",
+        "method": "TYPE A1",
+        "bridgeC": "年=年份；现在这一年就是今年"
+      },
+      {
+        "element": "ことし",
+        "method": "固定读音",
+        "bridgeC": "今年整体读ことし，不按今+年硬拼"
+      }
+    ],
+    "mergedScene": "你翻开年度计划本，封面写着大大的「今年」。这一整本都是“现在这一年”的事：ことし=今年。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "今年=现在这一年，整体读ことし\n🔗 去年(きょねん)、来年(らいねん)、今年(ことし)\n⚠️ 不读こんねん，日常说ことし。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "今年、日本へ行きます。",
+        "zh": "今年去日本。"
+      }
+    ]
+  },
+  {
+    "word": "言葉",
+    "reading": "ことば",
+    "meaning": "语言、话语、词语",
+    "elements": [
+      {
+        "element": "言",
+        "method": "TYPE A1",
+        "bridgeC": "言=说话、语言"
+      },
+      {
+        "element": "葉",
+        "method": "TYPE B1",
+        "bridgeC": "葉=叶子；一句句语言像树叶一样长出来"
+      },
+      {
+        "element": "ことば",
+        "method": "TYPE B2",
+        "bridgeC": "ことば→口头吧；口头需要说话吧，所以是言语/话语"
+      }
+    ],
+    "mergedScene": "朋友说“口头吧”(ことば)，你马上反应：口头当然需要说话吧。言葉就是嘴里说出来的语言、话语、词语。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ことば - 谐音“口头吧” - 口头需要说话吧 - 语言/话语/词语\n例：日本語の言葉=日语词语\n⚠️ こと=事情，ことば=语言/话。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "日本語の言葉を覚えます。",
+        "zh": "记日语词语。"
+      }
+    ]
+  },
+  {
+    "word": "子供",
+    "reading": "こども",
+    "meaning": "孩子",
+    "elements": [
+      {
+        "element": "子",
+        "method": "固定读音",
+        "bridgeC": "子供里先把子供前半段抓成こど；こども整体读音固定记"
+      },
+      {
+        "element": "供",
+        "method": "关联记忆",
+        "bridgeC": "供在这里不按中文'供给'理解，和子组合成孩子"
+      },
+      {
+        "element": "こども",
+        "method": "TYPE B2",
+        "bridgeC": "こども→可多摸；小孩子看见很多东西都很想摸一遍"
+      }
+    ],
+    "mergedScene": "小孩子进商店，看见玩具、零食、按钮都想摸一遍：可多摸(こども)！子供整体读こども，就是孩子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "こども - 谐音“可多摸” - 小孩子看见很多东西都想摸一遍 - 孩子\n⚠️ 子供整体读こども，先按固定词记。\n例：子供がいます=有孩子。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "子供が公園で遊んでいます。",
+        "zh": "孩子在公园玩。"
+      }
+    ]
+  },
+  {
+    "word": "この",
+    "reading": "この",
+    "meaning": "这个",
+    "elements": [
+      {
+        "element": "こ",
+        "method": "固定指示",
+        "bridgeC": "こ系列=靠近我"
+      },
+      {
+        "element": "の",
+        "method": "语法记忆",
+        "bridgeC": "この后面必须接名词：この本=这本书"
+      }
+    ],
+    "mergedScene": "你把手按在一本书上说：この本！こ表示离我近，の像一根绳子把“这个”拴到后面的名词上。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "この + 名词 = 这个...\n🔗 これ=这个东西，可单独用；この=这个，后面必须接名词\n⚠️ 不能说このです，要说これです。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この本は新しいです。",
+        "zh": "这本书是新的。"
+      }
+    ]
+  },
+  {
+    "word": "御飯",
+    "reading": "ごはん",
+    "meaning": "饭、米饭、餐",
+    "elements": [
+      {
+        "element": "飯",
+        "method": "固定读音",
+        "bridgeC": "飯固定读はん；御飯里读ごはん"
+      },
+      {
+        "element": "御",
+        "method": "敬语前缀",
+        "bridgeC": "御=ご，给日常词加一点礼貌感"
+      },
+      {
+        "element": "ごはん",
+        "method": "关联记忆",
+        "bridgeC": "午前(ごぜん)=正午之前；十二点前后一般要吃饭，把ご的时间感和ごはん串起来"
+      }
+    ],
+    "mergedScene": "前面记过午前(ごぜん)=正午之前，也就是十二点之前；这个时间一般快吃午饭了。飯固定读はん，所以御飯(ごはん)=饭/一餐。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ごはん - 无谐音 - 飯固定读はん，午前ごぜん是正午前，正午前后就该吃饭 - 饭/米饭/餐\n例：朝ご飯、昼ご飯、晩ご飯\n⚠️ 不只指米饭，也可指一顿饭。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "朝御飯を食べます。",
+        "zh": "吃早饭。"
+      }
+    ]
+  },
+  {
+    "word": "コピーする",
+    "reading": "コピーする",
+    "meaning": "复印、复制",
+    "elements": [
+      {
+        "element": "コピー",
+        "method": "外来语",
+        "bridgeC": "copy→コピー=复制"
+      },
+      {
+        "element": "する",
+        "method": "语法记忆",
+        "bridgeC": "外来名词 + する = 做这个动作"
+      }
+    ],
+    "mergedScene": "打印机旁边写着 COPY，你按下按钮：コピーする，一张纸立刻变成两张。コピー=copy，する=做。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "コピー + する = 复制/复印\n🔗 勉強する、散歩する、コピーする：名词+する动词化。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "資料をコピーします。",
+        "zh": "复印资料。"
+      }
+    ]
+  },
+  {
+    "word": "困る",
+    "reading": "こまる",
+    "meaning": "为难、困扰",
+    "elements": [
+      {
+        "element": "困",
+        "method": "TYPE A1",
+        "bridgeC": "困=困住、困难"
+      },
+      {
+        "element": "こまる",
+        "method": "TYPE B2",
+        "bridgeC": "こまる→扣麻了；掉进大洞里只能用工具扣土，扣一天手都扣麻了，还是被困住"
+      }
+    ],
+    "mergedScene": "一个人不小心掉进大洞里，怎么喊都没人来，只能拿手边工具扣土。扣了一天手都扣麻了(こまる)，还是被困在洞里：困る=被困住、困扰、为难。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "こまる - 谐音“扣麻了” - 掉进洞里扣土扣到手麻，还是被困住 - 困住/困扰/为难\n例：お金がなくて困る=没钱很困扰\n⚠️ 不是睡困，是为难/困扰。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "お金がなくて困ります。",
+        "zh": "没钱很困扰。"
+      }
+    ]
+  },
+  {
+    "word": "これ",
+    "reading": "これ",
+    "meaning": "这个",
+    "elements": [
+      {
+        "element": "こ",
+        "method": "固定指示",
+        "bridgeC": "こ系列=靠近我"
+      },
+      {
+        "element": "れ",
+        "method": "TYPE B1",
+        "bridgeC": "れ像手指弯一下，指着眼前这个东西"
+      }
+    ],
+    "mergedScene": "你拿起桌上的点心说：これ！就是这个！こ=我这边，れ像手指一弯，指向眼前的物品。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "これ=这个东西，可单独当名词用\n🔗 これ=这个；この+名词=这个...\n例：これは何ですか。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "これは何ですか。",
+        "zh": "这是什么？"
+      }
+    ]
+  },
+  {
+    "word": "今月",
+    "reading": "こんげつ",
+    "meaning": "这个月",
+    "elements": [
+      {
+        "element": "今",
+        "method": "固定读音",
+        "bridgeC": "今在今月、今週、今晩里固定读こん"
+      },
+      {
+        "element": "月",
+        "method": "固定读音",
+        "bridgeC": "月在今月里固定读げつ"
+      }
+    ],
+    "mergedScene": "你打开账单，发现这个月的钱已经快花光了：今月(こんげつ)。今=现在，月=月份，现在这个月就是今月。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "こんげつ - 无谐音 - 今固定读こん，月固定读げつ，组合成现在这个月 - 这个月\n🔗 今週(こんしゅう)、今晩(こんばん)、今年(ことし)\n⚠️ 今年特殊读ことし。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "今月は忙しいです。",
+        "zh": "这个月很忙。"
+      }
+    ]
+  },
+  {
+    "word": "今週",
+    "reading": "こんしゅう",
+    "meaning": "这周",
+    "elements": [
+      {
+        "element": "今",
+        "method": "固定读音",
+        "bridgeC": "今在今月、今週、今晩里固定读こん"
+      },
+      {
+        "element": "週",
+        "method": "固定读音",
+        "bridgeC": "週固定读しゅう，意思是周、星期"
+      }
+    ],
+    "mergedScene": "你看着本周日程表：今週(こんしゅう)每天都被排满。今=现在，週=一周，现在这一周就是今週。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "こんしゅう - 无谐音 - 今固定读こん，週固定读しゅう，组合成现在这一周 - 这周\n🔗 先週(せんしゅう)、今週(こんしゅう)、来週(らいしゅう)\n⚠️ 月固定げつ，週固定しゅう。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "今週、試験があります。",
+        "zh": "这周有考试。"
+      }
+    ]
+  },
+  {
+    "word": "こんな",
+    "reading": "こんな",
+    "meaning": "这样的",
+    "elements": [
+      {
+        "element": "こ",
+        "method": "固定指示",
+        "bridgeC": "こ系列=靠近我、眼前的"
+      },
+      {
+        "element": "んな",
+        "method": "口语形状",
+        "bridgeC": "こんな像'这种那种'里的这种样子"
+      }
+    ],
+    "mergedScene": "你指着一杯离谱的奶茶说：こんな味、初めて！这种味道第一次见。こ=眼前，こんな=像眼前这样。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "こんな + 名词 = 这样的...\n🔗 この=这个具体物；こんな=这样的性质/样子\n例：こんな人=这样的人。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "こんな人は初めてです。",
+        "zh": "这样的人还是第一次见。"
+      }
+    ]
+  },
+  {
+    "word": "今晩",
+    "reading": "こんばん",
+    "meaning": "今晚",
+    "elements": [
+      {
+        "element": "今",
+        "method": "固定读音",
+        "bridgeC": "今在今晩里读こん"
+      },
+      {
+        "element": "晩",
+        "method": "TYPE A1",
+        "bridgeC": "晩=晚上"
+      },
+      {
+        "element": "こんばん",
+        "method": "关联记忆",
+        "bridgeC": "こんばんは里的こんば就是今晚/晚上语感"
+      }
+    ],
+    "mergedScene": "晚上见面你说こんばんは，其实感觉就是“今晚/晚上好”。今晩(こんばん)=今晚，今=现在，晩=晚上。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "今(こん)+晩(ばん)=今晩=今晚\n🔗 こんばんは=晚上好，帮你锁住こんばん的音。\n⚠️ 晩饭可说晩ご飯。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "今晩、映画を見ます。",
+        "zh": "今晚看电影。"
+      }
+    ]
+  },
+  {
+    "word": "さあ",
+    "reading": "さあ",
+    "meaning": "那么、来吧、嗯",
+    "elements": [
+      {
+        "element": "さあ",
+        "method": "语气词",
+        "bridgeC": "さあ像深吸一口气，把行动开关打开"
+      },
+      {
+        "element": "あ",
+        "method": "TYPE B2",
+        "bridgeC": "さあ→撒！像中文'撒，走吧'的开场"
+      }
+    ],
+    "mergedScene": "你站在门口拍手：さあ、行こう！就像中文说“来吧，走！”さあ负责把气氛从停顿推向行动。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "さあ=来吧/那么/嗯，看语境\n例：さあ、始めましょう=那么，开始吧\n⚠️ 不是实义名词，是语气启动器。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "さあ、始めましょう。",
+        "zh": "那么，开始吧。"
+      }
+    ]
+  },
+  {
+    "word": "財布",
+    "reading": "さいふ",
+    "meaning": "钱包",
+    "elements": [
+      {
+        "element": "財",
+        "method": "TYPE A1",
+        "bridgeC": "财=钱财"
+      },
+      {
+        "element": "布",
+        "method": "TYPE A1",
+        "bridgeC": "布=布袋；装钱的布袋就是钱包"
+      },
+      {
+        "element": "さいふ",
+        "method": "TYPE B2",
+        "bridgeC": "さいふ→塞富；把财富塞进去"
+      }
+    ],
+    "mergedScene": "你把现金、卡、硬币全都“塞富”(さいふ)进一个小布袋。财+布=钱包，財布=装财富的布。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "財(钱财)+布(布袋)=財布(さいふ)=钱包\n⚠️ 財的正式字在词里写财字旁，读さい。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "財布をなくしました。",
+        "zh": "钱包丢了。"
+      }
+    ]
+  },
+  {
+    "word": "魚",
+    "reading": "さかな",
+    "meaning": "鱼",
+    "elements": [
+      {
+        "element": "魚",
+        "method": "TYPE A1",
+        "bridgeC": "魚=鱼，中日同义"
+      },
+      {
+        "element": "さかな",
+        "method": "TYPE B2",
+        "bridgeC": "さかな→撒卡那；把鱼撒进卡那锅里"
+      }
+    ],
+    "mergedScene": "你在厨房把一条魚撒进锅里，朋友喊：撒卡那！さかな！看到鱼字就记住读さかな=鱼。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "魚=鱼，读さかな\n⚠️ 鱼料理里也会见到音读ぎょ，如金魚(きんぎょ)，单独'鱼'常用さかな。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "魚を食べます。",
+        "zh": "吃鱼。"
+      }
+    ]
+  },
+  {
+    "word": "先",
+    "reading": "さき",
+    "meaning": "前面、先、将来、尖端",
+    "elements": [
+      {
+        "element": "先",
+        "method": "TYPE A1",
+        "bridgeC": "先=前、先"
+      },
+      {
+        "element": "さき",
+        "method": "TYPE B2",
+        "bridgeC": "さき→撒ki；先把钥匙撒到前面"
+      }
+    ],
+    "mergedScene": "你走路前先把钥匙撒到前面探路：さき。先既可以是前方，也可以是先做，还能指将来那个方向。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "先(さき)=前方/先/将来/尖端，核心是'在前面'\n🔗 先に=先...\n⚠️ 咲く(さく)=开花，不要和さき混。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "先に行ってください。",
+        "zh": "请先走。"
+      }
+    ]
+  },
+  {
+    "word": "咲く",
+    "reading": "さく",
+    "meaning": "开花",
+    "elements": [
+      {
+        "element": "咲",
+        "method": "TYPE B1",
+        "bridgeC": "咲右边像人张口笑；花开像笑开了"
+      },
+      {
+        "element": "さく",
+        "method": "TYPE B2",
+        "bridgeC": "さく→撒开；花瓣一下撒开"
+      }
+    ],
+    "mergedScene": "春天一到，樱花花瓣“撒开”(さく)，整棵树像张嘴笑起来。咲く=花开。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "咲く(さく)=开花；さく→花瓣撒开\n🔗 桜が咲く=樱花开\n⚠️ 先(さき)=前面，咲く(さく)=开花。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "桜が咲きます。",
+        "zh": "樱花开了。"
+      }
+    ]
+  },
+  {
+    "word": "作文",
+    "reading": "さくぶん",
+    "meaning": "作文",
+    "elements": [
+      {
+        "element": "作",
+        "method": "TYPE A1",
+        "bridgeC": "作=写作、制作"
+      },
+      {
+        "element": "文",
+        "method": "TYPE A1",
+        "bridgeC": "文=文章"
+      },
+      {
+        "element": "さくぶん",
+        "method": "固定读音",
+        "bridgeC": "作读さく，文读ぶん；作文=さくぶん"
+      }
+    ],
+    "mergedScene": "语文课上你被要求“作”一篇“文”：作文。作(さく)+文(ぶん)，和中文几乎一样，直接锁死。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "作(さく)+文(ぶん)=作文(さくぶん)\n🔗 作る(つくる)=制作；作文里的作读音读さく。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "作文を書きます。",
+        "zh": "写作文。"
+      }
+    ]
+  },
+  {
+    "word": "差す",
+    "reading": "さす",
+    "meaning": "撑、举、照射、刺入",
+    "elements": [
+      {
+        "element": "差",
+        "method": "TYPE A1",
+        "bridgeC": "差=伸出、插入、产生差向"
+      },
+      {
+        "element": "さす",
+        "method": "TYPE B2",
+        "bridgeC": "さ→撒，光撒在物体上就是照射；さ也像雨伞撑开的声音，傘を差す=撑伞"
+      }
+    ],
+    "mergedScene": "太阳光“撒”(さ)在桌子上，就是日が差す；突然下雨，さ的一声像伞撑开，傘を差す就是撑伞。差す的核心是光/伞/东西伸出去或照进来。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "さす - 谐音“撒/伞撑开的さ声” - 光撒在物体上是照射，下雨さ地撑开伞是傘を差す - 撑伞/照射/刺入\n例：傘を差す=撑伞；日が差す=阳光照进来\n⚠️ 刺す(さす)也读さす，偏'刺'。",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "傘を差します。",
+        "zh": "撑伞。"
+      }
+    ]
+  },
+  {
+    "word": "雑誌",
+    "reading": "ざっし",
+    "meaning": "杂志",
+    "elements": [
+      {
+        "element": "雑",
+        "method": "TYPE A1",
+        "bridgeC": "杂=杂、多种内容"
+      },
+      {
+        "element": "誌",
+        "method": "TYPE A1",
+        "bridgeC": "誌=记录、刊物"
+      },
+      {
+        "element": "ざっし",
+        "method": "TYPE B2",
+        "bridgeC": "ざっし→杂西；杂志上就是各种杂七杂八的东西"
+      }
+    ],
+    "mergedScene": "你翻开一本“杂西”(ざっし)，里面明星、美食、旅行、广告什么都有，杂七杂八全塞在一起，所以雑誌=杂志。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ざっし - 谐音“杂西” - 杂志上都是各种杂七杂八的东西 - 杂志\n⚠️ 小っ要停顿：ざっ・し，不是ざし。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "雑誌を読みます。",
+        "zh": "读杂志。"
+      }
+    ]
+  },
+  {
+    "word": "砂糖",
+    "reading": "さとう",
+    "meaning": "砂糖、糖",
+    "elements": [
+      {
+        "element": "砂",
+        "method": "TYPE A1",
+        "bridgeC": "砂=沙粒"
+      },
+      {
+        "element": "糖",
+        "method": "TYPE A1",
+        "bridgeC": "糖=糖"
+      },
+      {
+        "element": "さとう",
+        "method": "TYPE B2",
+        "bridgeC": "さとう→撒糖；把糖像沙子一样撒下去"
+      }
+    ],
+    "mergedScene": "你往咖啡里“撒糖”(さとう)，白色小颗粒像沙子一样落下。砂+糖=像沙粒一样的糖。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "砂(沙粒)+糖=砂糖(さとう)=砂糖\n🔗 塩(しお)=盐，砂糖(さとう)=糖\n⚠️ さとう也可能是姓氏佐藤，语境区分。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "コーヒーに砂糖を入れます。",
+        "zh": "往咖啡里放糖。"
+      }
+    ]
+  },
+  {
+    "word": "寒い",
+    "reading": "さむい",
+    "meaning": "冷、寒冷",
+    "elements": [
+      {
+        "element": "寒",
+        "method": "TYPE A1",
+        "bridgeC": "寒=寒冷"
+      },
+      {
+        "element": "さむい",
+        "method": "TYPE B2",
+        "bridgeC": "さむい→三没衣；三件衣服都没了所以冷"
+      }
+    ],
+    "mergedScene": "冬天出门，三件衣服都没了：さむい！你抱着自己发抖，看到寒就知道寒い=冷。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "寒=冷；さむい→三没衣=冷\n⚠️ 冷たい(つめたい)=东西摸起来冷；寒い多指天气/感觉寒冷。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "今日は寒いです。",
+        "zh": "今天很冷。"
+      }
+    ]
+  },
+  {
+    "word": "さ来年",
+    "reading": "さらいねん",
+    "meaning": "后年",
+    "elements": [
+      {
+        "element": "来年",
+        "method": "TYPE A1",
+        "bridgeC": "来年=明年"
+      },
+      {
+        "element": "さ",
+        "method": "关联记忆",
+        "bridgeC": "さ像再往后撒一步；来年之后再下一年"
+      },
+      {
+        "element": "さらいねん",
+        "method": "TYPE B2",
+        "bridgeC": "さらいねん→撒来年；把明年再往后撒一年"
+      }
+    ],
+    "mergedScene": "时间轴上你把来年往后又“撒”了一格：さらいねん。来年是明年，さ来年就是明年的后面一年=后年。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "来年(らいねん)=明年；さ来年(さらいねん)=后年\n🔗 去年、今年、来年、さ来年\n⚠️ さ在这里不是独立意思，整体记。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "さ来年、大学へ行きます。",
+        "zh": "后年上大学。"
+      }
+    ]
+  },
+  {
+    "word": "三",
+    "reading": "さん",
+    "meaning": "三、3",
+    "elements": [
+      {
+        "element": "三",
+        "method": "TYPE A1",
+        "bridgeC": "三=3，中日同义"
+      },
+      {
+        "element": "さん",
+        "method": "固定读音",
+        "bridgeC": "三常读さん，也和敬称さん同音"
+      }
+    ],
+    "mergedScene": "三条横线就是三。你叫田中さん三次，さんさんさん，顺手把三=さん记牢。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "三=さん=3\n🔗 三(さん)、四(よん/し)、七(なな/しち)\n⚠️ さん也是敬称，不同语境不同意思。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "三人で行きます。",
+        "zh": "三个人一起去。"
+      }
+    ]
+  },
+  {
+    "word": "散歩",
+    "reading": "さんぽ",
+    "meaning": "散步",
+    "elements": [
+      {
+        "element": "散",
+        "method": "TYPE A1",
+        "bridgeC": "散=散开、闲散"
+      },
+      {
+        "element": "歩",
+        "method": "TYPE A1",
+        "bridgeC": "歩=走路"
+      },
+      {
+        "element": "さんぽ",
+        "method": "固定读音",
+        "bridgeC": "散歩=さんぽ，和中文'散步'几乎直连"
+      }
+    ],
+    "mergedScene": "晚饭后你在小区里闲散地走路，散+歩=散歩。读さんぽ，像把中文“散步”换成日语音。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "散(さん)+歩(ぽ)=散歩(さんぽ)=散步\n🔗 散歩する=去散步\n⚠️ 歩在这里浊/半浊成ぽ。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "公園を散歩します。",
+        "zh": "在公园散步。"
+      }
+    ]
+  },
+  {
+    "word": "四",
+    "reading": "よん",
+    "meaning": "四、4",
+    "elements": [
+      {
+        "element": "四",
+        "method": "TYPE A1",
+        "bridgeC": "四=4，中日同义"
+      },
+      {
+        "element": "よん",
+        "method": "固定读音",
+        "bridgeC": "四常读よん；比し更安全常用"
+      }
+    ],
+    "mergedScene": "你伸出四根手指说よん。因为し听起来像死，日常数数常用よん，更安全。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "四=よん=4\n⚠️ 四也可读し，但单独数数、很多场景よん更常用。\n🔗 四月(しがつ)固定读しがつ。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "四つください。",
+        "zh": "请给我四个。"
+      }
+    ]
+  },
+  {
+    "word": "塩",
+    "reading": "しお",
+    "meaning": "盐",
+    "elements": [
+      {
+        "element": "塩",
+        "method": "TYPE A1",
+        "bridgeC": "塩=盐，字形里有土/皿，像装盐的器皿"
+      },
+      {
+        "element": "しお",
+        "method": "TYPE B2",
+        "bridgeC": "しお→吸哦；太咸了吸一口气哦"
+      }
+    ],
+    "mergedScene": "你往汤里倒太多塩，喝一口立刻“吸哦”(しお)一声，咸到皱脸。塩=盐。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "塩(しお)=盐；しお→咸到吸哦\n🔗 砂糖(さとう)=糖，塩(しお)=盐\n⚠️ 味道词：甘い=甜，辛い=辣/咸辣，塩=盐。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "スープに塩を入れます。",
+        "zh": "往汤里放盐。"
+      }
+    ]
+  },
+  {
+    "word": "しかし",
+    "reading": "しかし",
+    "meaning": "但是、可是",
+    "elements": [
+      {
+        "element": "しかし",
+        "method": "语气转折",
+        "bridgeC": "しかし负责把前一句转折掉，相当于但是"
+      },
+      {
+        "element": "し",
+        "method": "TYPE B2",
+        "bridgeC": "しかし→是可是；嘴上说'是，可是...'"
+      }
+    ],
+    "mergedScene": "别人说完一个道理，你点头：是，しかし...马上开始反驳。这个词就是正式一点的“但是”。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しかし=但是/可是，书面或正式感比でも强\n例：行きたい。しかし、時間がない。\n⚠️ 日常口语常用でも。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "行きたいです。しかし、時間がありません。",
+        "zh": "想去。但是没有时间。"
+      }
+    ]
+  },
+  {
+    "word": "時間",
+    "reading": "じかん",
+    "meaning": "时间、小时",
+    "elements": [
+      {
+        "element": "時",
+        "method": "TYPE A1",
+        "bridgeC": "時=时间、时刻"
+      },
+      {
+        "element": "間",
+        "method": "TYPE A1",
+        "bridgeC": "間=间隔、期间"
+      },
+      {
+        "element": "じかん",
+        "method": "固定读音",
+        "bridgeC": "時读じ，間读かん；時間=じかん"
+      }
+    ],
+    "mergedScene": "你看钟表上的時，又看两件事之间的間隔：合起来就是時間。じかん既能说时间，也能说几个小时。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "時(じ)+間(かん)=時間(じかん)=时间/小时\n例：一時間=一个小时；時間がない=没时间。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "時間がありません。",
+        "zh": "没有时间。"
+      }
+    ]
+  },
+  {
+    "word": "仕事",
+    "reading": "しごと",
+    "meaning": "工作",
+    "elements": [
+      {
+        "element": "事",
+        "method": "TYPE A1",
+        "bridgeC": "事=事情"
+      },
+      {
+        "element": "仕",
+        "method": "关联记忆",
+        "bridgeC": "仕=侍奉/做事；工作就是要处理事情"
+      },
+      {
+        "element": "しごと",
+        "method": "TYPE B2",
+        "bridgeC": "しごと→是个拖；工作总是拖着人"
+      }
+    ],
+    "mergedScene": "周一早上你被一堆事情拖住：是个拖(しごと)啊！仕=做，事=事情，仕事=要做的事=工作。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "仕(做)+事(事情)=仕事(しごと)=工作\n例：仕事をする=工作\n⚠️ 事单独常读こと，仕事里读ごと。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "仕事をします。",
+        "zh": "工作。"
+      }
+    ]
+  },
+  {
+    "word": "辞書",
+    "reading": "じしょ",
+    "meaning": "词典、字典",
+    "elements": [
+      {
+        "element": "辞",
+        "method": "TYPE A1",
+        "bridgeC": "辞=词语、辞典"
+      },
+      {
+        "element": "書",
+        "method": "TYPE A1",
+        "bridgeC": "書=书"
+      },
+      {
+        "element": "じしょ",
+        "method": "TYPE B2",
+        "bridgeC": "じしょ→急搜；不会的词赶紧搜字典"
+      }
+    ],
+    "mergedScene": "你读日语读到卡壳，马上“急搜”(じしょ)辞書。辞=词，書=书，装词的书就是字典。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "辞(词)+書(书)=辞書(じしょ)=字典\n🔗 図書館(としょかん)=图书馆，書也常读しょ。\n⚠️ 辞書を引く=查字典。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "辞書で調べます。",
+        "zh": "用字典查。"
+      }
+    ]
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "meaning": "安静",
+    "elements": [
+      {
+        "element": "静",
+        "method": "TYPE A1",
+        "bridgeC": "静=安静"
+      },
+      {
+        "element": "しずか",
+        "method": "TYPE B2",
+        "bridgeC": "しずか→嘘卡；'嘘'在日语是安静提示声しー，卡住别说话"
+      }
+    ],
+    "mergedScene": "图书馆里管理员竖起手指：しー！你立刻卡住嘴不说话。静か(しずか)=安静。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "静=安静；静か(しずか)=安静的\n例：静かな部屋=安静的房间\n⚠️ な形容词：静かな，不是静かい。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "図書館は静かです。",
+        "zh": "图书馆很安静。"
+      }
+    ]
+  },
+  {
+    "word": "下",
+    "reading": "した",
+    "meaning": "下面、下方",
+    "elements": [
+      {
+        "element": "下",
+        "method": "TYPE A1",
+        "bridgeC": "下=下面"
+      },
+      {
+        "element": "した",
+        "method": "TYPE B2",
+        "bridgeC": "した→膝塌；膝盖塌下去就是往下"
+      }
+    ],
+    "mergedScene": "你膝盖一软“膝塌”(した)，整个人往下掉。看到下就记した=下面。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "下(した)=下面\n🔗 上(うえ)=上面，下(した)=下面\n⚠️ 下在不同词里读法很多：下手(へた)、地下(ちか)，单独'下面'读した。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "机の下に猫がいます。",
+        "zh": "桌子下面有猫。"
+      }
+    ]
+  },
+  {
+    "word": "七",
+    "reading": "しち",
+    "meaning": "七、7",
+    "elements": [
+      {
+        "element": "七",
+        "method": "TYPE A1",
+        "bridgeC": "七=7，中日同义"
+      },
+      {
+        "element": "しち",
+        "method": "固定读音",
+        "bridgeC": "七可读しち，也常读なな；月份七月固定しちがつ"
+      }
+    ],
+    "mergedScene": "日历上的七月写着七月(しちがつ)。你把7贴到日历上：しち负责七月，なな负责很多日常数数。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "七=しち/なな\n⚠️ 七月=しちがつ；七つ=ななつ。しち和一(いち)容易听混，口语数数常用なな。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "七時に起きます。",
+        "zh": "七点起床。"
+      }
+    ]
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "问题、提问",
+    "elements": [
+      {
+        "element": "質",
+        "method": "TYPE A1",
+        "bridgeC": "質=质、询问本质"
+      },
+      {
+        "element": "問",
+        "method": "TYPE A1",
+        "bridgeC": "問=问"
+      },
+      {
+        "element": "しつもん",
+        "method": "TYPE B2",
+        "bridgeC": "しつもん→试着问；不懂就试着问"
+      }
+    ],
+    "mergedScene": "课堂上你举手“试着问”(しつもん)：老师，这个本质是什么？質+問=针对本质发问，所以質問=问题/提问。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "質(本质)+問(问)=質問(しつもん)=提问/问题\n例：質問があります=我有问题\n⚠️ 問題(もんだい)=问题/题目，質問偏'提问'。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "質問があります。",
+        "zh": "我有问题。"
+      }
+    ]
+  }
+]

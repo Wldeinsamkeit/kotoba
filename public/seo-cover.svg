@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">日语实用练习</title>
+  <desc id="desc">剧情闯关式日语学习网站封面</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8f1e7"/>
+      <stop offset="0.54" stop-color="#fffaf1"/>
+      <stop offset="1" stop-color="#dce9e5"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#10233a"/>
+      <stop offset="1" stop-color="#27415a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="72" y="76" width="1056" height="478" rx="42" fill="#fffdf7" stroke="#e9ddcf" stroke-width="3"/>
+  <rect x="736" y="122" width="280" height="280" rx="28" fill="url(#panel)"/>
+  <image href="/characters/oda-pixel-avatar-v1.png" x="766" y="146" width="220" height="220" preserveAspectRatio="xMidYMid meet"/>
+  <text x="124" y="190" fill="#d16645" font-family="'Noto Sans SC', 'Noto Sans JP', sans-serif" font-size="34" font-weight="700">剧情闯关式日语学习</text>
+  <text x="122" y="286" fill="#1d2935" font-family="'Noto Sans SC', 'Noto Sans JP', sans-serif" font-size="72" font-weight="700">日语实用练习</text>
+  <text x="126" y="362" fill="#5e6b71" font-family="'Noto Sans SC', 'Noto Sans JP', sans-serif" font-size="34">跟随小田的东京生活，每天推进一集。</text>
+  <text x="126" y="428" fill="#1d2935" font-family="'Noto Sans JP', 'Noto Sans SC', sans-serif" font-size="42">N5 / N4 · 会话 · 单词记忆 · 智能测试</text>
+  <g fill="#d16645" font-family="'Noto Sans JP', 'Noto Sans SC', sans-serif" font-weight="700">
+    <text x="776" y="460" font-size="42">こんにちは</text>
+    <text x="782" y="506" font-size="24" opacity="0.72">konnichiwa</text>
+  </g>
+</svg>

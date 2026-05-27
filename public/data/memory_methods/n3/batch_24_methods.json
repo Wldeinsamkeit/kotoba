@@ -1,0 +1,1292 @@
+[
+  {
+    "word": "年間",
+    "reading": "ねんかん",
+    "meaning": "年间，年代",
+    "sourceIndex": 921,
+    "sourceMeaningRaw": "名 年间，年代；一年",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "年間",
+        "method": "TYPE A1",
+        "bridgeC": "汉字年間意思是年间，年代"
+      },
+      {
+        "element": "ねんかん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ねん+かん\"来记"
+      }
+    ],
+    "mergedScene": "ねんかん拆分记忆，意思是年间，年代",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねんかん - 拆分记忆 - 年间，年代",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この年間は大切です。",
+        "zh": "这个年间，年代很重要。"
+      }
+    ]
+  },
+  {
+    "word": "年代",
+    "reading": "ねんだい",
+    "meaning": "；，纪元的年数；一代",
+    "sourceIndex": 922,
+    "sourceMeaningRaw": "名 ；，纪元的年数；一代，一辈，年 龄段；岁月",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "年代",
+        "method": "TYPE A1",
+        "bridgeC": "汉字年代意思是；，纪元的年数；一代"
+      },
+      {
+        "element": "ねんだい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ねん+だい\"来记"
+      }
+    ],
+    "mergedScene": "ねんだい拆分记忆，意思是；，纪元的年数；一代",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねんだい - 拆分记忆 - ；，纪元的年数；一代",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この年代は大切です。",
+        "zh": "这个；，纪元的年数；一代很重要。"
+      }
+    ]
+  },
+  {
+    "word": "年頭",
+    "reading": "ねんとう",
+    "meaning": "岁首，年初",
+    "sourceIndex": 923,
+    "sourceMeaningRaw": "名 岁首，年初",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "年頭",
+        "method": "TYPE A1",
+        "bridgeC": "汉字年頭意思是岁首，年初"
+      },
+      {
+        "element": "ねんとう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ねん+とう\"来记"
+      }
+    ],
+    "mergedScene": "ねんとう拆分记忆，意思是岁首，年初",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねんとう - 拆分记忆 - 岁首，年初",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この年頭は大切です。",
+        "zh": "这个岁首，年初很重要。"
+      }
+    ]
+  },
+  {
+    "word": "年",
+    "reading": "ねんねん",
+    "meaning": "々 名·副词 每，逐",
+    "sourceIndex": 924,
+    "sourceMeaningRaw": "々 名·副词 每，逐",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "年",
+        "method": "TYPE A1",
+        "bridgeC": "汉字年意思是々 名·副词 每，逐"
+      },
+      {
+        "element": "ねんねん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ねん+ねん\"来记"
+      }
+    ],
+    "mergedScene": "ねんねん拆分记忆，意思是々 名·副词 每，逐",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねんねん - 拆分记忆 - 々 名·副词 每，逐",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この年は大切です。",
+        "zh": "这个々 名·副词 每，逐很重要。"
+      }
+    ]
+  },
+  {
+    "word": "年末",
+    "reading": "ねんまつ",
+    "meaning": "副词 ，年终",
+    "sourceIndex": 925,
+    "sourceMeaningRaw": "名·副词 ，年终",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "年末",
+        "method": "TYPE A1",
+        "bridgeC": "汉字年末意思是副词 ，年终"
+      },
+      {
+        "element": "ねんまつ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ねん+まつ\"来记"
+      }
+    ],
+    "mergedScene": "ねんまつ拆分记忆，意思是副词 ，年终",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねんまつ - 拆分记忆 - 副词 ，年终",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この年末は大切です。",
+        "zh": "这个副词 ，年终很重要。"
+      }
+    ]
+  },
+  {
+    "word": "年齢",
+    "reading": "ねんれい",
+    "meaning": "年龄，岁数",
+    "sourceIndex": 926,
+    "sourceMeaningRaw": "名 年龄，岁数",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "年齢",
+        "method": "TYPE A1",
+        "bridgeC": "汉字年齢意思是年龄，岁数"
+      },
+      {
+        "element": "ねんれい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ねん+れい\"来记"
+      }
+    ],
+    "mergedScene": "ねんれい拆分记忆，意思是年龄，岁数",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねんれい - 拆分记忆 - 年龄，岁数",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この年齢は大切です。",
+        "zh": "这个年龄，岁数很重要。"
+      }
+    ]
+  },
+  {
+    "word": "農家",
+    "reading": "のうか",
+    "meaning": "农户，农民农家",
+    "sourceIndex": 927,
+    "sourceMeaningRaw": "名 农户，农民农家，农民的家以农业为生计的 人家，亦指农舍",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "農家",
+        "method": "TYPE A1",
+        "bridgeC": "汉字農家意思是农户，农民农家"
+      }
+    ],
+    "mergedScene": "農家这个汉字一看就像农户，农民农家。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のうか - 農家 - 农户，农民农家",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この農家は大切です。",
+        "zh": "这个农户，农民农家很重要。"
+      }
+    ]
+  },
+  {
+    "word": "農村",
+    "reading": "のうそん",
+    "meaning": "农村，乡村",
+    "sourceIndex": 928,
+    "sourceMeaningRaw": "名 农村，乡村",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "農村",
+        "method": "TYPE A1",
+        "bridgeC": "汉字農村意思是农村，乡村"
+      },
+      {
+        "element": "のうそん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"のう+そん\"来记"
+      }
+    ],
+    "mergedScene": "のうそん拆分记忆，意思是农村，乡村",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のうそん - 拆分记忆 - 农村，乡村",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この農村は大切です。",
+        "zh": "这个农村，乡村很重要。"
+      }
+    ]
+  },
+  {
+    "word": "農民",
+    "reading": "のうみん",
+    "meaning": "农民，庄稼人",
+    "sourceIndex": 929,
+    "sourceMeaningRaw": "名 农民，庄稼人",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "農民",
+        "method": "TYPE A1",
+        "bridgeC": "汉字農民意思是农民，庄稼人"
+      },
+      {
+        "element": "のうみん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"のう+みん\"来记"
+      }
+    ],
+    "mergedScene": "のうみん拆分记忆，意思是农民，庄稼人",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のうみん - 拆分记忆 - 农民，庄稼人",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この農民は大切です。",
+        "zh": "这个农民，庄稼人很重要。"
+      }
+    ]
+  },
+  {
+    "word": "能率",
+    "reading": "のうりつ",
+    "meaning": "效率",
+    "sourceIndex": 930,
+    "sourceMeaningRaw": "名 效率；劳动生产率",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "能率",
+        "method": "TYPE A1",
+        "bridgeC": "汉字能率意思是效率"
+      },
+      {
+        "element": "のうりつ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"のう+りつ\"来记"
+      }
+    ],
+    "mergedScene": "のうりつ拆分记忆，意思是效率",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のうりつ - 拆分记忆 - 效率",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この能率は大切です。",
+        "zh": "这个效率很重要。"
+      }
+    ]
+  },
+  {
+    "word": "残す",
+    "reading": "のこす",
+    "meaning": "留下",
+    "sourceIndex": 931,
+    "sourceMeaningRaw": "留下；剩下；遗留；相扑中站稳 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "残す",
+        "method": "TYPE A1",
+        "bridgeC": "汉字残す意思是留下"
+      }
+    ],
+    "mergedScene": "残す这个汉字一看就像留下。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のこす - 残す - 留下",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この残すは大切です。",
+        "zh": "这个留下很重要。"
+      }
+    ]
+  },
+  {
+    "word": "残らず",
+    "reading": "のこらず",
+    "meaning": "词 全部，一个不剩地",
+    "sourceIndex": 932,
+    "sourceMeaningRaw": "副词 全部，一个不剩地",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "残らず",
+        "method": "TYPE A1",
+        "bridgeC": "汉字残らず意思是词 全部，一个不剩地"
+      },
+      {
+        "element": "のこらず",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"のこ+らず\"来记"
+      }
+    ],
+    "mergedScene": "のこらず拆分记忆，意思是词 全部，一个不剩地",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のこらず - 拆分记忆 - 词 全部，一个不剩地",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この残らずは大切です。",
+        "zh": "这个词 全部，一个不剩地很重要。"
+      }
+    ]
+  },
+  {
+    "word": "乗せる",
+    "reading": "のせる",
+    "meaning": "入",
+    "sourceIndex": 933,
+    "sourceMeaningRaw": "入；（使）上当，骗人，诱骗；播送（载 装上，装载，载运；（使）搭乘；参加，加 他动·一 段 波）；和着音乐的拍子（节奏）",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "乗せる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字乗せる意思是入"
+      }
+    ],
+    "mergedScene": "乗せる这个汉字一看就像入。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のせる - 乗せる - 入",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この乗せるは大切です。",
+        "zh": "这个入很重要。"
+      }
+    ]
+  },
+  {
+    "word": "望み",
+    "reading": "のぞみ",
+    "meaning": "希望，愿望",
+    "sourceIndex": 934,
+    "sourceMeaningRaw": "名 希望，愿望，期望；要求；希望，抱负，志 向",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "望み",
+        "method": "TYPE A1",
+        "bridgeC": "汉字望み意思是希望，愿望"
+      }
+    ],
+    "mergedScene": "望み这个汉字一看就像希望，愿望。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のぞみ - 望み - 希望，愿望",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この望みは大切です。",
+        "zh": "这个希望，愿望很重要。"
+      }
+    ]
+  },
+  {
+    "word": "望む",
+    "reading": "のぞむ",
+    "meaning": "五 眺望",
+    "sourceIndex": 935,
+    "sourceMeaningRaw": "他动·五 眺望；希望，愿望，期望，指望，希求，要 段 求；仰望",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "望む",
+        "method": "TYPE A1",
+        "bridgeC": "汉字望む意思是五 眺望"
+      }
+    ],
+    "mergedScene": "望む这个汉字一看就像五 眺望。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のぞむ - 望む - 五 眺望",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この望むは大切です。",
+        "zh": "这个五 眺望很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ノック",
+    "reading": "のっく",
+    "meaning": "中，末端混合气因压缩升温达到自燃温度",
+    "sourceIndex": 936,
+    "sourceMeaningRaw": "名·サ变 中，末端混合气因压缩升温达到自燃温度， 敲打敲门；〈野球〉（为练习防守）打球； 爆震是一种异常燃烧现象，指火焰传播过程 突然剧烈燃烧，引发局部压力骤升，在气缸 内产生压力振荡。",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ノック",
+        "method": "外来语",
+        "bridgeC": "ノック来自英语，意思是中，末端混合气因压缩升温达到自燃温度"
+      }
+    ],
+    "mergedScene": "ノック是外来语，来自英语，意思是中，末端混合气因压缩升温达到自燃温度。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ノック - 外来语英语 - 中，末端混合气因压缩升温达到自燃温度",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このノックは大切です。",
+        "zh": "这个中，末端混合气因压缩升温达到自燃温度很重要。"
+      }
+    ]
+  },
+  {
+    "word": "伸ばす",
+    "reading": "のばす",
+    "meaning": "五 延长，拉长",
+    "sourceIndex": 937,
+    "sourceMeaningRaw": "他动·五 延长,拉长,放长；伸展,伸开；发挥,提高,施 段 展；殴打",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "伸ばす",
+        "method": "TYPE A1",
+        "bridgeC": "汉字伸ばす意思是五 延长，拉长"
+      }
+    ],
+    "mergedScene": "伸ばす这个汉字一看就像五 延长，拉长。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のばす - 伸ばす - 五 延长，拉长",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この伸ばすは大切です。",
+        "zh": "这个五 延长，拉长很重要。"
+      }
+    ]
+  },
+  {
+    "word": "延ばす",
+    "reading": "のばす",
+    "meaning": "五 延长，延缓",
+    "sourceIndex": 938,
+    "sourceMeaningRaw": "他动·五 延长，延缓，推延，推迟，拖延；稀释；拉 段 直",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "延ばす",
+        "method": "TYPE A1",
+        "bridgeC": "汉字延ばす意思是五 延长，延缓"
+      }
+    ],
+    "mergedScene": "延ばす这个汉字一看就像五 延长，延缓。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のばす - 延ばす - 五 延长，延缓",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この延ばすは大切です。",
+        "zh": "这个五 延长，延缓很重要。"
+      }
+    ]
+  },
+  {
+    "word": "伸びる",
+    "reading": "のびる",
+    "meaning": "〔长度等〕伸长，变长",
+    "sourceIndex": 939,
+    "sourceMeaningRaw": "〔长度等〕伸长，变长，长长；〔皱纹等〕 自动·一 舒展；〔势力、才能等〕扩大，增加，发 段 展；〔因疲劳或被打〕倒下，不能动弹； 〔面条等〕失去弹性乏，糟",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "伸びる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字伸びる意思是〔长度等〕伸长，变长"
+      }
+    ],
+    "mergedScene": "伸びる这个汉字一看就像〔长度等〕伸长，变长。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のびる - 伸びる - 〔长度等〕伸长，变长",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この伸びるは大切です。",
+        "zh": "这个〔长度等〕伸长，变长很重要。"
+      }
+    ]
+  },
+  {
+    "word": "延びる",
+    "reading": "のびる",
+    "meaning": "延长",
+    "sourceIndex": 940,
+    "sourceMeaningRaw": "延长；延长推迟延期；失去弹性 自动·一 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "延びる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字延びる意思是延长"
+      }
+    ],
+    "mergedScene": "延びる这个汉字一看就像延长。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のびる - 延びる - 延长",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この延びるは大切です。",
+        "zh": "这个延长很重要。"
+      }
+    ]
+  },
+  {
+    "word": "述べる",
+    "reading": "のべる",
+    "meaning": "叙述",
+    "sourceIndex": 941,
+    "sourceMeaningRaw": "叙述；陈述；说明；申诉；阐明 他动·一 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "述べる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字述べる意思是叙述"
+      }
+    ],
+    "mergedScene": "述べる这个汉字一看就像叙述。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のべる - 述べる - 叙述",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この述べるは大切です。",
+        "zh": "这个叙述很重要。"
+      }
+    ]
+  },
+  {
+    "word": "上り",
+    "reading": "のぼり",
+    "meaning": "从低处向高处",
+    "sourceIndex": 942,
+    "sourceMeaningRaw": "名 从低处向高处；上行或上行车；向上游方向 航行；进京",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "上り",
+        "method": "TYPE A1",
+        "bridgeC": "汉字上り意思是从低处向高处"
+      }
+    ],
+    "mergedScene": "上り这个汉字一看就像从低处向高处。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のぼり - 上り - 从低处向高处",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この上りは大切です。",
+        "zh": "这个从低处向高处很重要。"
+      }
+    ]
+  },
+  {
+    "word": "登り",
+    "reading": "のぼり",
+    "meaning": "于“下りくだり ：指开往首都或主要城市方向的列车或 车辆",
+    "sourceIndex": 943,
+    "sourceMeaningRaw": "名 于“下り（くだり）”而言。 3.上行（列 “登る”的名词形式，有以下几个意思： 1. 上升、登高：指往高处移动。 2.上坡：相对 车）：指开往首都或主要城市方向的列车或 车辆。",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "登り",
+        "method": "TYPE A1",
+        "bridgeC": "汉字登り意思是于“下りくだり ：指开往首都或主要城市方向的列车或 车辆"
+      }
+    ],
+    "mergedScene": "登り这个汉字一看就像于“下りくだり ：指开往首都或主要城市方向的列车或 车辆。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のぼり - 登り - 于“下りくだり ：指开往首都或主要城市方向的列车或 车辆",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この登りは大切です。",
+        "zh": "这个于“下りくだり ：指开往首都或主要城市方向的列车或 车辆很重要。"
+      }
+    ]
+  },
+  {
+    "word": "登る",
+    "reading": "のぼる",
+    "meaning": "五 上，登",
+    "sourceIndex": 944,
+    "sourceMeaningRaw": "自动·五 上，登，攀登。；逆流而上，上溯。；上 段 升。；进京。；达到，高达。",
+    "partOfSpeech": "自动·五",
+    "elements": [
+      {
+        "element": "登る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字登る意思是五 上，登"
+      }
+    ],
+    "mergedScene": "登る这个汉字一看就像五 上，登。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のぼる - 登る - 五 上，登",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この登るは大切です。",
+        "zh": "这个五 上，登很重要。"
+      }
+    ]
+  },
+  {
+    "word": "上る",
+    "reading": "のぼる",
+    "meaning": "逆流而上，上溯",
+    "sourceIndex": 945,
+    "sourceMeaningRaw": "逆流而上，上溯；兴奋，气的发蒙；端上， 上，登；攀登；进京；达到，高达；上升； 自动·五 段 摆上",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "上る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字上る意思是逆流而上，上溯"
+      }
+    ],
+    "mergedScene": "上る这个汉字一看就像逆流而上，上溯。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のぼる - 上る - 逆流而上，上溯",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この上るは大切です。",
+        "zh": "这个逆流而上，上溯很重要。"
+      }
+    ]
+  },
+  {
+    "word": "海苔",
+    "reading": "のり",
+    "meaning": "紫菜红藻类、蓝藻类的海藻中，可供食用的 藻类的总称",
+    "sourceIndex": 946,
+    "sourceMeaningRaw": "名 紫菜红藻类、蓝藻类的海藻中，可供食用的 藻类的总称；甘紫菜把红藻类的紫菜（尤其 是浅草甘紫菜）抄制成像纸一样然后晒干的 食品",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "海苔",
+        "method": "TYPE A1",
+        "bridgeC": "汉字海苔意思是紫菜红藻类、蓝藻类的海藻中，可供食用的 藻类的总称"
+      }
+    ],
+    "mergedScene": "海苔这个汉字一看就像紫菜红藻类、蓝藻类的海藻中，可供食用的 藻类的总称。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のり - 海苔 - 紫菜红藻类、蓝藻类的海藻中，可供食用的 藻类的总称",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この海苔は大切です。",
+        "zh": "这个紫菜红藻类、蓝藻类的海藻中，可供食用的 藻类的总称很重要。"
+      }
+    ]
+  },
+  {
+    "word": "乗り降り",
+    "reading": "のりおり",
+    "meaning": "上下车船等",
+    "sourceIndex": 947,
+    "sourceMeaningRaw": "名 上下（车船等）",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "乗り降り",
+        "method": "TYPE A1",
+        "bridgeC": "汉字乗り降り意思是上下车船等"
+      },
+      {
+        "element": "のりおり",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"のり+おり\"来记"
+      }
+    ],
+    "mergedScene": "のりおり拆分记忆，意思是上下车船等",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のりおり - 拆分记忆 - 上下车船等",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この乗り降りは大切です。",
+        "zh": "这个上下车船等很重要。"
+      }
+    ]
+  },
+  {
+    "word": "乗り換え",
+    "reading": "のりかえ",
+    "meaning": "改乘，换乘",
+    "sourceIndex": 948,
+    "sourceMeaningRaw": "名 改乘，换乘；为了在途中使用而事前准备好 的交通工具；交叉生殖细胞减数分裂时，同 源染色体的局部交换，出现遗传基因重组交 换亦见于体细胞分裂",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "乗り換え",
+        "method": "TYPE A1",
+        "bridgeC": "汉字乗り換え意思是改乘，换乘"
+      },
+      {
+        "element": "のりかえ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"のり+かえ\"来记"
+      }
+    ],
+    "mergedScene": "のりかえ拆分记忆，意思是改乘，换乘",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のりかえ - 拆分记忆 - 改乘，换乘",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この乗り換えは大切です。",
+        "zh": "这个改乘，换乘很重要。"
+      }
+    ]
+  },
+  {
+    "word": "乗り越し",
+    "reading": "のりこし",
+    "meaning": "坐过站",
+    "sourceIndex": 949,
+    "sourceMeaningRaw": "名 坐过站",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "乗り越し",
+        "method": "TYPE A1",
+        "bridgeC": "汉字乗り越し意思是坐过站"
+      },
+      {
+        "element": "のりこし",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"のり+こし\"来记"
+      }
+    ],
+    "mergedScene": "のりこし拆分记忆，意思是坐过站",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のりこし - 拆分记忆 - 坐过站",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この乗り越しは大切です。",
+        "zh": "这个坐过站很重要。"
+      }
+    ]
+  },
+  {
+    "word": "乗り越す",
+    "reading": "のりこす",
+    "meaning": "坐过站",
+    "sourceIndex": 950,
+    "sourceMeaningRaw": "坐过站；越过，跨过 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "乗り越す",
+        "method": "TYPE A1",
+        "bridgeC": "汉字乗り越す意思是坐过站"
+      },
+      {
+        "element": "のりこす",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"のり+こす\"来记"
+      }
+    ],
+    "mergedScene": "のりこす拆分记忆，意思是坐过站",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のりこす - 拆分记忆 - 坐过站",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この乗り越すは大切です。",
+        "zh": "这个坐过站很重要。"
+      }
+    ]
+  },
+  {
+    "word": "載る",
+    "reading": "のる",
+    "meaning": "载，装可放置上",
+    "sourceIndex": 951,
+    "sourceMeaningRaw": "载，装可放置上，亦指交通工具可容纳；放 自动·五 （着）；登载，记载；站上，踩上；合着拍 段 子、调子；趁势随大流；参与，加入伙伴受 邀参加",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "載る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字載る意思是载，装可放置上"
+      }
+    ],
+    "mergedScene": "載る这个汉字一看就像载，装可放置上。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のる - 載る - 载，装可放置上",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この載るは大切です。",
+        "zh": "这个载，装可放置上很重要。"
+      }
+    ]
+  },
+  {
+    "word": "のろのろ",
+    "reading": "のろのろ",
+    "meaning": "迟缓，慢吞吞地 副词·自 动",
+    "sourceIndex": 952,
+    "sourceMeaningRaw": "迟缓，慢吞吞地 副词·自 动",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "のろのろ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"のろ+のろ\"来记"
+      }
+    ],
+    "mergedScene": "のろのろ拆分记忆，意思是迟缓，慢吞吞地 副词·自 动",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のろのろ - 拆分记忆 - 迟缓，慢吞吞地 副词·自 动",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "こののろのろは大切です。",
+        "zh": "这个迟缓，慢吞吞地 副词·自 动很重要。"
+      }
+    ]
+  },
+  {
+    "word": "呑気",
+    "reading": "のんき",
+    "meaning": "形动 悠闲",
+    "sourceIndex": 953,
+    "sourceMeaningRaw": "名·形动 悠闲；安闲；粗心大意；漫不经心；不拘小 节；不慌不忙",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "呑気",
+        "method": "TYPE A1",
+        "bridgeC": "汉字呑気意思是形动 悠闲"
+      }
+    ],
+    "mergedScene": "呑気这个汉字一看就像形动 悠闲。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のんき - 呑気 - 形动 悠闲",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この呑気は大切です。",
+        "zh": "这个形动 悠闲很重要。"
+      }
+    ]
+  },
+  {
+    "word": "のんびり",
+    "reading": "のんびり",
+    "meaning": "在，无拘无束",
+    "sourceIndex": 954,
+    "sourceMeaningRaw": "在，无拘无束，舒舒服服，悠然自得，轻松 无忧无虑，自由自在，悠闲自在，逍遥自 名·副词 ·サ变 愉快",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "のんびり",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"のん+びり\"来记"
+      }
+    ],
+    "mergedScene": "のんびり拆分记忆，意思是在，无拘无束",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のんびり - 拆分记忆 - 在，无拘无束",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "こののんびりは大切です。",
+        "zh": "这个在，无拘无束很重要。"
+      }
+    ]
+  },
+  {
+    "word": "バー",
+    "reading": "ばー",
+    "meaning": "bar横杠",
+    "sourceIndex": 955,
+    "sourceMeaningRaw": "名 bar横杠；酒吧",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "バー",
+        "method": "外来语",
+        "bridgeC": "バー来自英语，意思是bar横杠"
+      }
+    ],
+    "mergedScene": "バー是外来语，来自英语，意思是bar横杠。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "バー - 外来语英语 - bar横杠",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このバーは大切です。",
+        "zh": "这个bar横杠很重要。"
+      }
+    ]
+  },
+  {
+    "word": "パート",
+    "reading": "ぱーと",
+    "meaning": "〈楽〉声部",
+    "sourceIndex": 956,
+    "sourceMeaningRaw": "名 〈楽〉声部；乐曲的一部分；（打）零工， part部分；篇，章；卷；职责；角色； 短时间劳动，部分时间劳动",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "パート",
+        "method": "外来语",
+        "bridgeC": "パート来自英语，意思是〈楽〉声部"
+      }
+    ],
+    "mergedScene": "パート是外来语，来自英语，意思是〈楽〉声部。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "パート - 外来语英语 - 〈楽〉声部",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このパートは大切です。",
+        "zh": "这个〈楽〉声部很重要。"
+      }
+    ]
+  },
+  {
+    "word": "拝啓",
+    "reading": "はいけい",
+    "meaning": "敬启者",
+    "sourceIndex": 957,
+    "sourceMeaningRaw": "名 （写在书信的开头）敬启者",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "拝啓",
+        "method": "TYPE A1",
+        "bridgeC": "汉字拝啓意思是敬启者"
+      },
+      {
+        "element": "はいけい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"はい+けい\"来记"
+      }
+    ],
+    "mergedScene": "はいけい拆分记忆，意思是敬启者",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "はいけい - 拆分记忆 - 敬启者",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この拝啓は大切です。",
+        "zh": "这个敬启者很重要。"
+      }
+    ]
+  },
+  {
+    "word": "歯医者",
+    "reading": "はいしゃ",
+    "meaning": "牙医，牙科医生",
+    "sourceIndex": 958,
+    "sourceMeaningRaw": "名 牙医，牙科医生",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "歯医者",
+        "method": "TYPE A1",
+        "bridgeC": "汉字歯医者意思是牙医，牙科医生"
+      },
+      {
+        "element": "はいしゃ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"はい+しゃ\"来记"
+      }
+    ],
+    "mergedScene": "はいしゃ拆分记忆，意思是牙医，牙科医生",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "はいしゃ - 拆分记忆 - 牙医，牙科医生",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この歯医者は大切です。",
+        "zh": "这个牙医，牙科医生很重要。"
+      }
+    ]
+  },
+  {
+    "word": "配送",
+    "reading": "はいそう",
+    "meaning": "发送",
+    "sourceIndex": 959,
+    "sourceMeaningRaw": "名·サ变 发送；分发，分送",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "配送",
+        "method": "TYPE A1",
+        "bridgeC": "汉字配送意思是发送"
+      },
+      {
+        "element": "はいそう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"はい+そう\"来记"
+      }
+    ],
+    "mergedScene": "はいそう拆分记忆，意思是发送",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "はいそう - 拆分记忆 - 发送",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この配送は大切です。",
+        "zh": "这个发送很重要。"
+      }
+    ]
+  },
+  {
+    "word": "配達",
+    "reading": "はいたつ",
+    "meaning": "送",
+    "sourceIndex": 960,
+    "sourceMeaningRaw": "名·サ变 送；投递；送；投递",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "配達",
+        "method": "TYPE A1",
+        "bridgeC": "汉字配達意思是送"
+      },
+      {
+        "element": "はいたつ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"はい+たつ\"来记"
+      }
+    ],
+    "mergedScene": "はいたつ拆分记忆，意思是送",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "はいたつ - 拆分记忆 - 送",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この配達は大切です。",
+        "zh": "这个送很重要。"
+      }
+    ]
+  }
+]

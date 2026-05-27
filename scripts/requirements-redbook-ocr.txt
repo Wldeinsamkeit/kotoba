@@ -1,0 +1,5 @@
+# 红宝书 PDF → 单页图像 → OCR（macOS Vision，经 ocrmac）
+# 安装: pip3 install -r scripts/requirements-redbook-ocr.txt
+pymupdf>=1.24.0
+ocrmac>=1.0.0
+pillow>=10.0.0

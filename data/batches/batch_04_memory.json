@@ -1,0 +1,551 @@
+[
+  {
+    "word": "同じ",
+    "reading": "おなじ",
+    "meaning": "相同的",
+    "elements": [
+      {"element": "お", "method": "B1 0-1n", "bridgeC": "お像一张嘴巴，两个人张嘴说'一样一样'"},
+      {"element": "な", "method": "B1 な-1n", "bridgeC": "な像一个坐在椅子上的小胖人，和自己长得完全相同"},
+      {"element": "じ", "method": "B1 じ-1n", "bridgeC": "じ像一根针，用来把两个相同的东西钉在一起"},
+      {"element": "同", "method": "A5 同-1n", "bridgeC": "汉字'同'直接表示相同，字义透明"}
+    ],
+    "mergedScene": "小胖人(な)坐在椅子上，看着镜子里的自己张着嘴巴(お)，用一根针(じ)把照片和镜子里的影像钉在一起——它们是'相同的(同じ)'！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "嘴巴お+胖人な+针じ→钉在一起→相同的同",
+    "difficultyStars": 2
+  },
+  {
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "meaning": "（别人的）哥哥",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像鞠躬的礼貌姿态，对别人家的哥哥要有礼貌"},
+      {"element": "に", "method": "B1 に-1n", "bridgeC": "に像一根竖线加横线，像哥哥站得笔直的样子"},
+      {"element": "い", "method": "B1 い-1n", "bridgeC": "い像两根柱子，哥哥像两根柱子一样强壮"},
+      {"element": "さん", "method": "A4 さん-1n", "bridgeC": "さん是固定敬称'先生/女士'，表示对哥哥的尊敬"}
+    ],
+    "mergedScene": "你礼貌地鞠躬(お)，看着别人家那位站得笔直的(に)强壮如柱子的(い)哥哥，恭恭敬敬地叫了一声'哥哥先生(さん)'——这是'别人的哥哥(お兄さん)'，不能随便叫！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "礼貌鞠躬お+笔直に+强壮い+尊敬さん→别人的哥哥要尊敬",
+    "difficultyStars": 2
+  },
+  {
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "meaning": "（别人的）姐姐",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像鞠躬的姿态，见到别人家姐姐要礼貌"},
+      {"element": "ね", "method": "B2 ね-1n", "bridgeC": "ね谐音'捏'，姐姐很温柔地捏你的脸蛋"},
+      {"element": "え", "method": "B2 え-1n", "bridgeC": "え谐音'唉'，被捏脸蛋时发出'唉~'的声音"},
+      {"element": "さん", "method": "A4 さん-1n", "bridgeC": "さん是固定敬称，对别人家姐姐要加尊称"}
+    ],
+    "mergedScene": "你礼貌鞠躬(お)后，别人家温柔的姐姐'捏(ね)'了一下你的脸蛋，你疼得'唉唉(え)'叫，但还是得恭敬地加上'さん'称呼——这是'别人的姐姐(お姉さん)'啊！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "礼貌お+捏ね+唉え+尊敬さん→别人姐姐捏你脸你还得忍着",
+    "difficultyStars": 2
+  },
+  {
+    "word": "おばあさん",
+    "reading": "おばあさん",
+    "meaning": "奶奶、祖母",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像驼背的老人形象，奶奶弯着腰"},
+      {"element": "ば", "method": "B2 ば-1n", "bridgeC": "ば谐音'吧'，奶奶总爱说'来吧来吧，多吃点'"},
+      {"element": "あ", "method": "B1 あ-1n", "bridgeC": "あ像一个张大的嘴巴，奶奶张大嘴巴笑呵呵"},
+      {"element": "さん", "method": "A4 さん-1n", "bridgeC": "さん是固定敬称，对长辈奶奶要尊称"}
+    ],
+    "mergedScene": "驼着背的奶奶(お)端着一碗热汤走过来，笑呵呵地张着大嘴巴(あ)喊'来吧来吧(ば)，趁热喝'，你赶紧恭恭敬敬地叫'奶奶さん(おばあさん)'！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "驼背お+来吧ば+张大嘴あ+尊称さん→奶奶喊你来吃饭",
+    "difficultyStars": 1
+  },
+  {
+    "word": "伯母さん",
+    "reading": "おばさん",
+    "meaning": "阿姨、伯母",
+    "elements": [
+      {"element": "伯", "method": "A1 伯-1n", "bridgeC": "伯的音读はく→在词中变为ば，'伯'就是父辈亲戚"},
+      {"element": "母", "method": "A1 母-1n", "bridgeC": "母=妈妈，伯母=妈妈的姐姐/哥哥的妻子"},
+      {"element": "さん", "method": "A4 さん-1n", "bridgeC": "さん固定敬称，对长辈要尊敬"}
+    ],
+    "mergedScene": "想象你在家族聚会上，妈妈指着她的大姐说'这是你伯母(伯母)'——父亲/母亲那边的大长辈，你要加さん叫'おばさん'，这位阿姨笑眯眯地塞给你一个红包！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "伯=父辈+母=母亲→伯母阿姨，加上お和さん表示尊敬",
+    "difficultyStars": 2
+  },
+  {
+    "word": "叔母さん",
+    "reading": "おばさん",
+    "meaning": "阿姨、婶婶",
+    "elements": [
+      {"element": "叔", "method": "A1 叔-1n", "bridgeC": "叔=叔叔的叔，父亲的弟弟→婶婶是叔叔的妻子"},
+      {"element": "母", "method": "A1 母-1n", "bridgeC": "母=女性长辈，叔母就是女性长辈"},
+      {"element": "さん", "method": "A4 さん-1n", "bridgeC": "さん固定敬称"}
+    ],
+    "mergedScene": "过年时年轻的叔叔带着媳妇来拜年，妈妈教你叫'叔母さん(おばさん)'——这就是婶婶/阿姨，长得年轻漂亮还给你带糖果！注意伯母和叔母读音完全一样，都是おばさん。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "叔(叔叔的妻)=婶婶+母=女性长辈→叔母阿姨，和伯母同音おばさん",
+    "difficultyStars": 2
+  },
+  {
+    "word": "お風呂",
+    "reading": "おふろ",
+    "meaning": "洗澡",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像一个人泡在浴缸里只露出头的样子"},
+      {"element": "風", "method": "A1 風-1n", "bridgeC": "風=风，风吹过浴室的热气"},
+      {"element": "呂", "method": "A5 呂-1n", "bridgeC": "呂字像两个热水龙头，一个出热水一个出冷水"}
+    ],
+    "mergedScene": "你泡在浴缸里只露出脑袋(お)，浴室里热气像风(風)一样缭绕，你扭开两个水龙头(呂)调好水温——这就是'洗澡(お風呂)'！注意这个呂字特别形象，就是两个水龙头！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "泡澡露出头お+热风風+两个水龙头呂→洗澡",
+    "difficultyStars": 2
+  },
+  {
+    "word": "お弁当",
+    "reading": "おべんとう",
+    "meaning": "便当",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像打开饭盒盖子的动作"},
+      {"element": "弁", "method": "A1 弁-1n", "bridgeC": "弁读音べん，'弁当'是便当的汉字写法，弁=分的意思，分装好的饭菜"},
+      {"element": "当", "method": "A1 当-1n", "bridgeC": "当读音とう，'当'='恰当的饭量'，份量刚好"}
+    ],
+    "mergedScene": "打开(お)精致的便当盒盖子，里面分格装着(弁)刚好适量的(当)饭菜——米饭、炸虾、章鱼香肠排列得整整齐齐，这就是'便当(お弁当)'！中午打开它的时候全班同学都羡慕地看着你！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "打开お+分格弁(べん)+刚好当(とう)→便当",
+    "difficultyStars": 2
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "记住、学会",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像大眼睛，学习时瞪大眼睛看"},
+      {"element": "ぼ", "method": "B2 ぼ-1n", "bridgeC": "ぼ谐音'博'，学得博学多才"},
+      {"element": "え", "method": "B2 え-1n", "bridgeC": "え谐音'诶'，终于记住了发出'诶！原来如此！'"},
+      {"element": "る", "method": "B1 る-1n", "bridgeC": "る像一个人弯腰鞠躬，学会后恭敬地表示学会"}
+    ],
+    "mergedScene": "你瞪大眼睛(お)努力看书，想要变得博学(ぼ)，突然'诶！(え)'一声恍然大悟，终于'记住(覚える)'了这个知识点，激动地弯腰鞠躬(る)感谢老师！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "瞪眼お+博学ぼ+恍然大悟え+鞠躬る→记住学会",
+    "difficultyStars": 2
+  },
+  {
+    "word": "おまわりさん",
+    "reading": "おまわりさん",
+    "meaning": "警察叔叔",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像警察帽子的形状"},
+      {"element": "まわ", "method": "B2 まわ-1n", "bridgeC": "まわ(回)谐音'绕'，警察在街上绕着巡逻"},
+      {"element": "り", "method": "B1 り-1n", "bridgeC": "り像一个人立正站好的样子"},
+      {"element": "さん", "method": "A4 さん-1n", "bridgeC": "さん是固定敬称，对警察要尊敬"}
+    ],
+    "mergedScene": "戴着帽子(お)的警察在街上'绕圈巡逻(まわり)'，他立正站好(り)的样子很帅气，小朋友们都要尊敬地叫他'警察叔叔さん(おまわりさん)'！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "警察帽お+绕圈巡逻まわり+立正り+尊敬さん→巡逻警察叔叔",
+    "difficultyStars": 2
+  },
+  {
+    "word": "重い",
+    "reading": "おもい",
+    "meaning": "重的",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像一个人弯腰驼背被压弯的样子"},
+      {"element": "も", "method": "B2 も-1n", "bridgeC": "も谐音'磨'，重的东西磨人，搬起来磨得腰疼"},
+      {"element": "い", "method": "B1 い-1n", "bridgeC": "い像两根柱子，表示重量压在柱子上都要弯了"}
+    ],
+    "mergedScene": "你弯腰驼背(お)地搬一块大石头，累得腰都要'磨(も)'断了，两根支撑的柱子(い)都被压弯——这块石头实在太'重(重い)'了！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "弯腰お+磨腰も+压弯柱子い→太重了",
+    "difficultyStars": 2
+  },
+  {
+    "word": "おもしろい",
+    "reading": "おもしろい",
+    "meaning": "有趣的",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像张大的嘴巴，有趣到嘴巴合不拢"},
+      {"element": "も", "method": "B2 も-1n", "bridgeC": "も谐音'魔'，魔法般有趣"},
+      {"element": "し", "method": "B1 し-1n", "bridgeC": "し像一根吸管，喝着奶茶看有趣的东西"},
+      {"element": "ろ", "method": "B2 ろ-1n", "bridgeC": "ろ谐音'咯'，有趣到咯咯笑"},
+      {"element": "い", "method": "B1 い-1n", "bridgeC": "い像两个人站在一起，一起看有趣的事"}
+    ],
+    "mergedScene": "你张大嘴巴(お)看着一场'魔(も)'术表演，喝着奶茶(し)笑得'咯咯(ろ)'响，旁边的朋友(い)也跟着一起乐——这真是太'有趣(おもしろい)'了！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "张嘴お+魔法も+吸奶茶し+咯咯笑ろ+朋友い→有趣的",
+    "difficultyStars": 2
+  },
+  {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "meaning": "游泳",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像一个人在水面上只露出头的游泳姿势"},
+      {"element": "よ", "method": "B2 よ-1n", "bridgeC": "よ谐音'哟'，游泳时划水发出'哟嗬哟嗬'的声音"},
+      {"element": "ぐ", "method": "B2 ぐ-1n", "bridgeC": "ぐ谐音'咕噜'，喝水时咕噜咕噜的声音"}
+    ],
+    "mergedScene": "你在泳池里只露出头(お)拼命划水，嘴里喊着'哟嗬哟嗬(よ)'给自己打气，结果还是呛了一口，'咕噜咕噜(ぐ)'地吐泡泡——这就是'游泳(泳ぐ)'！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "露出头お+哟嗬哟よ+咕噜ぐ→游泳呛水",
+    "difficultyStars": 2
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "meaning": "下车",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像一个人弯腰准备下车的动作"},
+      {"element": "り", "method": "B1 り-1n", "bridgeC": "り像一条腿迈出车外的样子"},
+      {"element": "る", "method": "B1 る-1n", "bridgeC": "る像人站到地面上的样子，已经下车完成"}
+    ],
+    "mergedScene": "公交到站了，你弯腰(お)迈出一条腿(り)，稳稳站到地面(る)上——成功'下车(降りる)'了！注意降りる是他动词要接'を'，自动词要用'に'。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "弯腰お+迈腿り+落地る→下车",
+    "difficultyStars": 2
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning": "结束、完毕",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像一张松开的弓弦，结束战斗的弓"},
+      {"element": "わ", "method": "B2 わ-1n", "bridgeC": "わ谐音'哇'，终于结束的欢呼声"},
+      {"element": "る", "method": "B1 る-1n", "bridgeC": "る像一个人放松站立的姿势"}
+    ],
+    "mergedScene": "考试终于'结束(終わる)'了！你放下笔(松弓お)，激动地'哇(わ)'地欢呼一声，然后放松地站在走廊上(る)，感觉整个人都自由了！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "松弓お+哇！わ+放松る→终于结束了",
+    "difficultyStars": 1
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning": "音乐",
+    "elements": [
+      {"element": "音", "method": "A1 音-1n", "bridgeC": "音=声音，音读おん，音乐的音"},
+      {"element": "楽", "method": "A1 楽-1n", "bridgeC": "楽音读がく，'楽'=快乐，音乐=快乐的声音"}
+    ],
+    "mergedScene": "闭上眼睛聆听'声音(音=おん)'，旋律让你感到'快乐(楽=がく)'——声音+快乐=音乐(音楽)！古代人发现好听的声音能带来快乐，所以叫音楽。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "音(声音おん)+楽(快乐がく)→快乐的声音=音乐",
+    "difficultyStars": 1
+  },
+  {
+    "word": "女",
+    "reading": "おんな",
+    "meaning": "女人",
+    "elements": [
+      {"element": "お", "method": "B1 お-1n", "bridgeC": "お像女人优美的曲线身段"},
+      {"element": "ん", "method": "B2 ん-1n", "bridgeC": "ん谐音'嗯'，女人温柔地回答'嗯~'"},
+      {"element": "な", "method": "B1 な-1n", "bridgeC": "な像坐在椅子上的优雅姿态"}
+    ],
+    "mergedScene": "一位身材曲线优美(お)的女士优雅地坐在椅子上(な)，别人问她问题时她温柔地'嗯(ん)'了一声点头——这就是'女人(女)'的温柔形象！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "曲线お+嗯~ん+优雅な→温柔的女人",
+    "difficultyStars": 2
+  },
+  {
+    "word": "女の子",
+    "reading": "おんなのこ",
+    "meaning": "女孩",
+    "elements": [
+      {"element": "女", "method": "A7 女-1n", "bridgeC": "女=女人，已学过的词，女の子就是女性的孩子"},
+      {"element": "の", "method": "A4 の-1n", "bridgeC": "の是固定助词'的'，连接修饰语"},
+      {"element": "子", "method": "A1 子-1n", "bridgeC": "子读こ，意思是'孩子'"}
+    ],
+    "mergedScene": "'女人(女)'+'的(の)'+'孩子(子)'=女孩(女の子)！想象一个扎着双马尾的小女孩跑过来，甜甜地叫你——这就是女の子！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "女+の(的)+子(こ)=女の子=女孩",
+    "difficultyStars": 1
+  },
+  {
+    "word": "外国",
+    "reading": "がいこく",
+    "meaning": "外国",
+    "elements": [
+      {"element": "外", "method": "A1 外-1n", "bridgeC": "外音读がい，'外面'的意思"},
+      {"element": "国", "method": "A1 国-1n", "bridgeC": "国音读こく，'国家'的意思"}
+    ],
+    "mergedScene": "站在世界地图前，'外面的(外=がい)''国家(国=こく)'就是'外国(外国)'——日本之外的所有国家都是外国！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "外(外面がい)+国(国家こく)=外国",
+    "difficultyStars": 1
+  },
+  {
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "meaning": "外国人",
+    "elements": [
+      {"element": "外国", "method": "A7 外国-1n", "bridgeC": "外国=がいこく，已学过的词"},
+      {"element": "人", "method": "A1 人-1n", "bridgeC": "人音读じん，'人'的意思"}
+    ],
+    "mergedScene": "'外国(外国)'的'人(人)'就是'外国人(外国人)'！合起来就是がいこくじん。想象你在东京街头看到金发碧眼的游客——啊，是外国人！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "外国(がいこく)+人(じん)=外国人",
+    "difficultyStars": 1
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaning": "公司",
+    "elements": [
+      {"element": "会", "method": "A1 会-1n", "bridgeC": "会音读かい，'集会、开会'的意思"},
+      {"element": "社", "method": "A1 社-1n", "bridgeC": "社音读しゃ，'社团、会社'的意思"}
+    ],
+    "mergedScene": "人们'聚集在一起开会(会=かい)'的'组织(社=しゃ)'就是'公司(会社)'！想象早上九点穿着西装打着领带走进写字楼打卡上班——这就是会社。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "会(集会かい)+社(组织しゃ)=会社→公司",
+    "difficultyStars": 1
+  },
+  {
+    "word": "階段",
+    "reading": "かいだん",
+    "meaning": "楼梯",
+    "elements": [
+      {"element": "階", "method": "A1 階-1n", "bridgeC": "階音读かい，'阶梯'的意思"},
+      {"element": "段", "method": "A1 段-1n", "bridgeC": "段音读だん，'段落、台阶'的意思"}
+    ],
+    "mergedScene": "爬楼梯(階段)就是一级一级的'台阶(段=だん)'往上'走(階=かい)'。想象你气喘吁吁地爬到教学楼五楼——那段楼梯让你终生难忘！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "階(台阶かい)+段(段落だん)=階段→一级一级的楼梯",
+    "difficultyStars": 1
+  },
+  {
+    "word": "買い物",
+    "reading": "かいもの",
+    "meaning": "购物、买东西",
+    "elements": [
+      {"element": "買い", "method": "A7 買-1n", "bridgeC": "買い是買う的连用形=かい，'买'"},
+      {"element": "物", "method": "A1 物-1n", "bridgeC": "物音读もの，'东西'"}
+    ],
+    "mergedScene": "'买东西(買い物)'=買う(买)+物(东西)→かいもの！想象周末你拎着大包小包从商场出来——这就是買い物的快乐！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "買い(买)+物(东西もの)=買い物→购物",
+    "difficultyStars": 1
+  },
+  {
+    "word": "買う",
+    "reading": "かう",
+    "meaning": "买",
+    "elements": [
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "か谐音'卡'，买东西要刷卡"},
+      {"element": "う", "method": "B1 う-1n", "bridgeC": "う像一只张开的手，接过买来的东西"}
+    ],
+    "mergedScene": "超市收银台前，你掏出银行卡'刷(か)'了一下，然后张开手(う)接过店员递来的购物袋——'买(買う)'到了心仪的东西！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "刷卡か+伸手う→买到了",
+    "difficultyStars": 1
+  },
+  {
+    "word": "返す",
+    "reading": "かえす",
+    "meaning": "归还",
+    "elements": [
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "か谐音'还(huán)'的首音暗示，归还的动作"},
+      {"element": "え", "method": "B2 え-1n", "bridgeC": "え谐音'诶'，别人催你还东西时你说'诶？还没到期呢'"},
+      {"element": "す", "method": "B1 す-1n", "bridgeC": "す像一条直线，表示把东西原路直线还回去"}
+    ],
+    "mergedScene": "朋友催你还书，你'诶(え)'了一声但还是乖乖把书沿直线(す)递回去'还(返す)'——'刷卡借的(か)东西要还回去！'",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "催还か+不情愿え+原路す→归还东西",
+    "difficultyStars": 2
+  },
+  {
+    "word": "帰る",
+    "reading": "かえる",
+    "meaning": "回家",
+    "elements": [
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "か谐音'咖'，回家路上买一杯咖啡"},
+      {"element": "え", "method": "B2 え-1n", "bridgeC": "え谐音'饿'，回家因为肚子饿了"},
+      {"element": "る", "method": "B1 る-1n", "bridgeC": "る像人站在家门口的样子"}
+    ],
+    "mergedScene": "下班了肚子'饿(え)'了，路上买杯'咖(か)'啡提神，终于'回家(帰る)'站在家门口(る)——这就是かえる的联想！注意和返す区分：帰る=回家(自动)，返す=归还(他动)。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "咖啡か+饿え+到家门口る→回家",
+    "difficultyStars": 2
+  },
+  {
+    "word": "かかる",
+    "reading": "かかる",
+    "meaning": "花费（时间、金钱）",
+    "elements": [
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "か谐音'卡'，花了太多钱卡刷爆了"},
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "第二个か谐音'卡'，时间卡住了等太久"},
+      {"element": "る", "method": "B1 る-1n", "bridgeC": "る像一个人无奈摊手的样子"}
+    ],
+    "mergedScene": "看了一场电影，'花费(かかる)'了太多——钱方面银行卡'刷爆了(か)'，时间方面也'卡了太久(か)'，最后无奈摊手(る)：怎么花了这么多！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "钱刷爆か+时间卡か+无奈摊手る→花费太大",
+    "difficultyStars": 3
+  },
+  {
+    "word": "かぎ",
+    "reading": "かぎ",
+    "meaning": "钥匙、锁",
+    "elements": [
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "か谐音'咔哒'，钥匙插入锁孔咔哒一声"},
+      {"element": "ぎ", "method": "B1 ぎ-1n", "bridgeC": "ぎ像一把钥匙的形状，上面圆圆的下面有齿"}
+    ],
+    "mergedScene": "放学回家门口，掏出'钥匙(かぎ)'插进锁孔——'咔哒(か)'一声旋转，钥匙的齿形(ぎ)完美对准锁芯，门开了！かぎ就是钥匙/锁的意思。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "咔哒か+钥匙形状ぎ→钥匙开锁",
+    "difficultyStars": 2
+  },
+  {
+    "word": "書く",
+    "reading": "かく",
+    "meaning": "写",
+    "elements": [
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "か谐音'咔'，铅笔写字时咔咔响"},
+      {"element": "く", "method": "B1 く-1n", "bridgeC": "く像一个朝右的箭头→，笔尖朝右写字的方向"}
+    ],
+    "mergedScene": "握着铅笔在纸上'写(書く)'字，笔尖朝右(く)划过纸面发出'咔咔(か)'的写字声——这就是かく！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "咔咔写字か+笔尖朝右く→写",
+    "difficultyStars": 1
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning": "学生",
+    "elements": [
+      {"element": "学", "method": "A1 学-1n", "bridgeC": "学音读がく，'学习'"},
+      {"element": "生", "method": "A1 生-1n", "bridgeC": "生音读せい，'人、生命'，学习的人=学生"}
+    ],
+    "mergedScene": "'学习(学=がく)'的'人(生=せい)'就是'学生(学生)'！背着书包走进校门，朝气蓬勃——这就是がくせい。注意学了变浊音がく。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "学(学习がく)+生(人せい)=学生",
+    "difficultyStars": 1
+  },
+  {
+    "word": "かける",
+    "reading": "かける",
+    "meaning": "打电话",
+    "elements": [
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "か谐音'咔'，按下手机拨号键咔一下"},
+      {"element": "け", "method": "B2 け-1n", "bridgeC": "け谐音'咳'，打电话前清清嗓子"},
+      {"element": "る", "method": "B1 る-1n", "bridgeC": "る像把手机举到耳边打电话的姿势"}
+    ],
+    "mergedScene": "你想'打电话(かける)'给朋友，'咔(か)'地按下拨号键，'咳咳(け)'清了清嗓子，然后把手机举到耳边(る)等待接通——かける=打电话/戴(眼镜等)。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "拨号咔か+清嗓子け+举手机る→打电话",
+    "difficultyStars": 2
+  },
+  {
+    "word": "傘",
+    "reading": "かさ",
+    "meaning": "雨伞",
+    "elements": [
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "か谐音'咔'，撑开雨伞时咔的一声响"},
+      {"element": "さ", "method": "B1 さ-1n", "bridgeC": "さ像一把撑开的伞的侧面轮廓，上面的圈是伞面，竖线是伞柄"}
+    ],
+    "mergedScene": "突然下雨了！你'咔(か)'地一声撑开'雨伞(傘)'，さ的形状就是伞的侧面——上面圆圆的伞面加下面的伞柄，完美对应！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "咔地撑开か+伞的形状さ→雨伞",
+    "difficultyStars": 2
+  },
+  {
+    "word": "貸す",
+    "reading": "かす",
+    "meaning": "借出",
+    "elements": [
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "か谐音'卡'，别人借东西你心里纠结但还是卡给对方"},
+      {"element": "す", "method": "B1 す-1n", "bridgeC": "す像东西从你手里滑出去的样子"}
+    ],
+    "mergedScene": "朋友想借你的游戏机，你心里'卡(か)'了一下——毕竟很贵，但还是让东西从手里递了出去(す)——你'借出(貸す)'了！注意貸す=借出(主语是借出方)，借りる=借入(主语是借入方)。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "纠结か+递出去す→借出给对方",
+    "difficultyStars": 2
+  },
+  {
+    "word": "風",
+    "reading": "かぜ",
+    "meaning": "风",
+    "elements": [
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "か谐音'呼'的变形，风吹的声音呼呼的"},
+      {"element": "ぜ", "method": "B2 ぜ-1n", "bridgeC": "ぜ谐音'嗞'，风嗖嗖地吹过缝隙发出嗞嗞声"}
+    ],
+    "mergedScene": "站在山顶上，'风(風)'吹过耳边发出'呼呼(か)'的声音，穿过岩石缝隙时又发出'嗞嗞(ぜ)'的响声——这就是かぜ(风)！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "呼呼か+嗞嗞ぜ→风吹的声音",
+    "difficultyStars": 1
+  },
+  {
+    "word": "風邪",
+    "reading": "かぜ",
+    "meaning": "感冒",
+    "elements": [
+      {"element": "風", "method": "B6 風/風邪-1n", "bridgeC": "風(风)和風邪(感冒)读音完全相同都是かぜ！风吹多了→就会感冒"},
+      {"element": "邪", "method": "A5 邪-1n", "bridgeC": "邪=邪气/病菌，风寒入侵身体就是感冒"}
+    ],
+    "mergedScene": "冬天被冷'风(風)'吹了，'邪气(邪)'趁机侵入身体，结果'感冒(風邪)'了——鼻涕直流打喷嚏！風和風邪同音かぜ，记住'风→邪→感冒'的因果链就不会混淆。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "風(风)+邪(邪气)=風邪(感冒)，被风吹了就感冒",
+    "difficultyStars": 2
+  },
+  {
+    "word": "家族",
+    "reading": "かぞく",
+    "meaning": "家族、家属",
+    "elements": [
+      {"element": "家", "method": "A1 家-1n", "bridgeC": "家音读か，有房子才有家"},
+      {"element": "族", "method": "A1 族-1n", "bridgeC": "族音读ぞく，'一族、族群'的意思"}
+    ],
+    "mergedScene": "住在同一个'家(家=か)'里的'族群(族=ぞく)'就是'家族(家族)'！过年时一家人围坐在桌前吃年夜饭，这就是最温暖的家族画面。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "家(房子か)+族(族群ぞく)=家族",
+    "difficultyStars": 1
+  },
+  {
+    "word": "方",
+    "reading": "かた",
+    "meaning": "人（敬语）",
+    "elements": [
+      {"element": "か", "method": "B2 か-1n", "bridgeC": "か谐音'卡'，对尊敬的人不能卡壳，要礼貌"},
+      {"element": "た", "method": "B1 た-1n", "bridgeC": "た像一个人站直鞠躬的姿势，对上位者鞠躬行礼"}
+    ],
+    "mergedScene": "在商务场合遇到不认识的人，不能叫'人(ひと)'太随意，要用敬语'方(かた)'——站直鞠躬(た)不能'卡壳(か)'！'あの方はどなたですか'（那位是谁？）",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "不能卡か+鞠躬た→用敬语称呼'方'",
+    "difficultyStars": 2
+  },
+  {
+    "word": "学校",
+    "reading": "がっこう",
+    "meaning": "学校",
+    "elements": [
+      {"element": "学", "method": "A1 学-1n", "bridgeC": "学音读がく→促音便がっ，'学习'"},
+      {"element": "校", "method": "A1 校-1n", "bridgeC": "校音读こう，'校园、学校建筑'"}
+    ],
+    "mergedScene": "'学习(学=がっ)'的'场所(校=こう)'就是'学校(学校)'！背着书包走过校门口，操场上有同学在跑步——这就是がっこう。注意学+校发生促音便：がく+こう→がっこう。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "学(学习がっ)+校(场所こう)=学校，促音便がく→がっ",
+    "difficultyStars": 1
+  },
+  {
+    "word": "カップ",
+    "reading": "カップ",
+    "meaning": "杯子",
+    "elements": [
+      {"element": "カ", "method": "A4 カップ-1n", "bridgeC": "カップ是英语cup的外来语，カ→cu，ップ→p"},
+      {"element": "ップ", "method": "A4 ップ-1n", "bridgeC": "小さいッ促音，像杯子里冒出的热气"}
+    ],
+    "mergedScene": "英语cup直接音译成カップ——想象你拿着一个印着可爱图案的杯子(カップ)，里面冒着热气(ッ)，美美地喝了一口咖啡！外来语直接记英语原词最简单。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "英语cup→カップ，外来语直接对应",
+    "difficultyStars": 1
+  },
+  {
+    "word": "家庭",
+    "reading": "かてい",
+    "meaning": "家庭",
+    "elements": [
+      {"element": "家", "method": "A1 家-1n", "bridgeC": "家音读か，'房子、家'},
+      {"element": "庭", "method": "A1 庭-1n", "bridgeC": "庭音读てい，'院子'，房子+院子=完整的家"}
+    ],
+    "mergedScene": "有'房子(家=か)'又有'院子(庭=てい)'，孩子在院子里玩耍，妈妈在房子里做饭——这就是'家庭(家庭)'！かてい，一个温馨的院子场景。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "家(房子か)+庭(院子てい)=家庭",
+    "difficultyStars": 1
+  }
+]

@@ -1,0 +1,1347 @@
+[
+  {
+    "word": "人",
+    "reading": "ひと",
+    "meaning": "人",
+    "elements": [
+      {
+        "element": "人",
+        "method": "TYPE A1",
+        "bridgeC": "人=人；中日汉字意思相通"
+      },
+      {
+        "element": "ひと",
+        "method": "关联记忆",
+        "bridgeC": "ひと既能联想到“一个”，也常和人相关，如一人=ひとり"
+      }
+    ],
+    "mergedScene": "看到一个人站在路口，汉字“人”直接提示意思；读作ひと，后面一つ、一月、一人都要和ひと家族一起记。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ひと - 汉字人直接提示 - 一个“人”站在那里；ひと家族还会出现在一つ/一月/一人 - 人。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "あの人は先生です。",
+        "zh": "那个人是老师。"
+      }
+    ]
+  },
+  {
+    "word": "一つ",
+    "reading": "ひとつ",
+    "meaning": "一个",
+    "elements": [
+      {
+        "element": "一",
+        "method": "固定读音",
+        "bridgeC": "一在一つ里读ひと，表示一个"
+      },
+      {
+        "element": "つ",
+        "method": "语法记忆",
+        "bridgeC": "つ系列常用于数具体物品；一つ=一个东西"
+      },
+      {
+        "element": "ひとつ/ふたつ/みっつ",
+        "method": "关联记忆",
+        "bridgeC": "一つ、二つ、三つ是一组数物品的つ系列"
+      }
+    ],
+    "mergedScene": "桌上只剩一个小东西，像一个小つ孤零零地站着；一つ就是一个。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ひとつ - 一=ひと，つ是数物品系列 - 桌上只剩一个小つ - 一个。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "りんごを一つください。",
+        "zh": "请给我一个苹果。"
+      }
+    ]
+  },
+  {
+    "word": "一月",
+    "reading": "ひとつき",
+    "meaning": "一个月",
+    "elements": [
+      {
+        "element": "一",
+        "method": "固定读音",
+        "bridgeC": "一这里读ひと，表示一个"
+      },
+      {
+        "element": "月",
+        "method": "固定读音",
+        "bridgeC": "月这里读つき，表示月份/一个月的时间"
+      },
+      {
+        "element": "一月",
+        "method": "易混提醒",
+        "bridgeC": "ひとつき=一个月；一月表示一月份时常读いちがつ，不能混"
+      }
+    ],
+    "mergedScene": "你把日历翻完一个月，嘴里数“ひとつき”。注意它是一个月的时间，不是一月份。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ひとつき - 一=ひと，月=つき - 翻完一个月的日历 - 一个月。注意：一月份常读いちがつ。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "一月日本にいます。",
+        "zh": "在日本待一个月。"
+      }
+    ]
+  },
+  {
+    "word": "一人",
+    "reading": "ひとり",
+    "meaning": "一个人",
+    "elements": [
+      {
+        "element": "一人",
+        "method": "固定读音",
+        "bridgeC": "一人整体特殊读ひとり，表示一个人"
+      },
+      {
+        "element": "り",
+        "method": "TYPE B2",
+        "bridgeC": "り→梨；一个人吃梨没人跟你抢"
+      },
+      {
+        "element": "ひとり/ふたり",
+        "method": "对比记忆",
+        "bridgeC": "ひとり=一个人吃梨；ふたり=两个人吃梨，为了吃到要互相打架"
+      }
+    ],
+    "mergedScene": "你一个人坐在桌前吃梨，没有人跟你抢，所以很轻松。ひとり就是一个人；和ふたり“两个人吃梨会打架”一起记。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ひとり - 一人整体特殊读音 - 一个人吃梨，没有人跟你抢 - 一个人。关联：ふたり=两个人吃梨，为了吃到要互相打架。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "一人で行きます。",
+        "zh": "一个人去。"
+      }
+    ]
+  },
+  {
+    "word": "暇",
+    "reading": "ひま",
+    "meaning": "空闲",
+    "elements": [
+      {
+        "element": "ひま",
+        "method": "TYPE B2",
+        "bridgeC": "ひま→黑马；黑马今天没有比赛，很空闲"
+      }
+    ],
+    "mergedScene": "赛场上的黑马今天没有比赛，闲得在草地上晃来晃去。ひま就是空闲。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ひま - 谐音“黑马” - 黑马今天没比赛，特别空闲 - 空闲。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "今日は暇です。",
+        "zh": "今天有空。"
+      }
+    ]
+  },
+  {
+    "word": "百",
+    "reading": "ひゃく",
+    "meaning": "百",
+    "elements": [
+      {
+        "element": "百",
+        "method": "TYPE A1",
+        "bridgeC": "百=一百；中日汉字意思相通"
+      },
+      {
+        "element": "ひゃく",
+        "method": "TYPE B2",
+        "bridgeC": "ひゃく→吓哭；一百张卷子把人吓哭"
+      }
+    ],
+    "mergedScene": "老师抱来一百张试卷，学生一看直接吓哭(ひゃく)，记住百=ひゃく。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ひゃく - 谐音“吓哭” - 一百张试卷把人吓哭 - 百。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "百円あります。",
+        "zh": "有一百日元。"
+      }
+    ]
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning": "医院",
+    "elements": [
+      {
+        "element": "病",
+        "method": "固定读音",
+        "bridgeC": "病经常读びょう，固定发音要记住"
+      },
+      {
+        "element": "院",
+        "method": "固定读音",
+        "bridgeC": "院读いん，病院就是治病的院子/机构"
+      },
+      {
+        "element": "病院/病気",
+        "method": "关联记忆",
+        "bridgeC": "病院=医院；病気=生病，病都读びょう"
+      }
+    ],
+    "mergedScene": "病这个字经常读びょう。人生病后就去院(いん)里看医生，所以病院就是医院。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "びょういん - 病经常固定读びょう，院=いん - 生病要去的院子/机构 - 医院。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "病院へ行きます。",
+        "zh": "去医院。"
+      }
+    ]
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "生病",
+    "elements": [
+      {
+        "element": "病",
+        "method": "固定读音",
+        "bridgeC": "病经常读びょう，和病院一起记"
+      },
+      {
+        "element": "気",
+        "method": "固定读音",
+        "bridgeC": "気读き，表示身体状态/气息"
+      },
+      {
+        "element": "病気/病院",
+        "method": "关联记忆",
+        "bridgeC": "病気是生病状态；病院是看病的地方"
+      }
+    ],
+    "mergedScene": "身体里的気变成病气，整个人没精神。病固定读びょう，病気就是生病。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "びょうき - 病固定读びょう，気=き - 身体的气变成病气 - 生病。关联：病院=医院。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "病気で学校を休みます。",
+        "zh": "因为生病请假不上学。"
+      }
+    ]
+  },
+  {
+    "word": "昼",
+    "reading": "ひる",
+    "meaning": "白天、中午",
+    "elements": [
+      {
+        "element": "昼",
+        "method": "TYPE A1",
+        "bridgeC": "昼=白天/中午；汉字可直接积累"
+      },
+      {
+        "element": "ひる",
+        "method": "TYPE B2",
+        "bridgeC": "ひる→一热；中午太阳一热起来，就是昼"
+      }
+    ],
+    "mergedScene": "中午太阳一热(ひる)起来，街上亮得刺眼；昼就是白天、中午。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ひる - 谐音“一热” - 中午太阳一热起来 - 白天、中午。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "昼にご飯を食べます。",
+        "zh": "中午吃饭。"
+      }
+    ]
+  },
+  {
+    "word": "昼御飯",
+    "reading": "ひるごはん",
+    "meaning": "午饭",
+    "elements": [
+      {
+        "element": "昼",
+        "method": "固定读音",
+        "bridgeC": "昼=ひる，白天/中午"
+      },
+      {
+        "element": "御飯",
+        "method": "固定读音",
+        "bridgeC": "御飯=ごはん，饭；前面已积累飯=はん"
+      }
+    ],
+    "mergedScene": "昼是中午，御飯是饭；中午吃的饭就是昼御飯。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ひるごはん - 昼=ひる，御飯=ごはん - 中午吃的饭 - 午饭。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "昼御飯を食べました。",
+        "zh": "吃了午饭。"
+      }
+    ]
+  },
+  {
+    "word": "広い",
+    "reading": "ひろい",
+    "meaning": "宽敞的",
+    "elements": [
+      {
+        "element": "広",
+        "method": "TYPE A1",
+        "bridgeC": "広=宽广、广大"
+      },
+      {
+        "element": "ひろい",
+        "method": "TYPE B2",
+        "bridgeC": "ひろい→hero；英雄hero一展开披风，空间很宽敞"
+      }
+    ],
+    "mergedScene": "一个hero站在广场中央展开巨大披风，周围显得非常宽敞。ひろい就是宽敞的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ひろい - 联想hero - 英雄展开披风，占出一大片宽敞空间 - 宽敞的。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この部屋は広いです。",
+        "zh": "这个房间很宽敞。"
+      }
+    ]
+  },
+  {
+    "word": "フィルム",
+    "reading": "フィルム",
+    "meaning": "胶卷",
+    "elements": [
+      {
+        "element": "フィルム",
+        "method": "外来语",
+        "bridgeC": "フィルム来自英语film，表示胶卷/胶片"
+      }
+    ],
+    "mergedScene": "老相机里装film，日语外来语就是フィルム。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "フィルム - 外来语film - 老相机里装film - 胶卷。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "カメラにフィルムを入れます。",
+        "zh": "把胶卷放进相机。"
+      }
+    ]
+  },
+  {
+    "word": "封筒",
+    "reading": "ふうとう",
+    "meaning": "信封",
+    "elements": [
+      {
+        "element": "封",
+        "method": "TYPE A1",
+        "bridgeC": "封=封起来"
+      },
+      {
+        "element": "筒",
+        "method": "TYPE A1",
+        "bridgeC": "筒=装东西的筒/套"
+      },
+      {
+        "element": "ふうとう",
+        "method": "TYPE B2",
+        "bridgeC": "ふうとう→封投；把信封起来再投出去"
+      }
+    ],
+    "mergedScene": "你把信放进纸套里封好，然后投进邮筒；封投(ふうとう)就是信封。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふうとう - 谐音“封投” - 把信封起来再投出去 - 信封。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "封筒に手紙を入れます。",
+        "zh": "把信放进信封。"
+      }
+    ]
+  },
+  {
+    "word": "プール",
+    "reading": "プール",
+    "meaning": "游泳池",
+    "elements": [
+      {
+        "element": "プール",
+        "method": "外来语",
+        "bridgeC": "プール来自英语pool，表示游泳池"
+      }
+    ],
+    "mergedScene": "夏天去pool游泳，日语就是プール。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "プール - 外来语pool - 夏天去pool游泳 - 游泳池。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "プールで泳ぎます。",
+        "zh": "在游泳池游泳。"
+      }
+    ]
+  },
+  {
+    "word": "フォーク",
+    "reading": "フォーク",
+    "meaning": "叉子",
+    "elements": [
+      {
+        "element": "フォーク",
+        "method": "外来语",
+        "bridgeC": "フォーク来自英语fork，表示叉子"
+      }
+    ],
+    "mergedScene": "吃意面时拿fork叉起来，日语就是フォーク。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "フォーク - 外来语fork - 用fork叉起意面 - 叉子。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "フォークで食べます。",
+        "zh": "用叉子吃。"
+      }
+    ]
+  },
+  {
+    "word": "吹く",
+    "reading": "ふく",
+    "meaning": "吹",
+    "elements": [
+      {
+        "element": "吹",
+        "method": "TYPE A1",
+        "bridgeC": "吹=吹气、吹风"
+      },
+      {
+        "element": "ふ",
+        "method": "TYPE B2",
+        "bridgeC": "ふ像风吹过来的“呼呼”声"
+      },
+      {
+        "element": "ふく/服",
+        "method": "同音对比",
+        "bridgeC": "吹く和服同音ふく；风呼呼吹过衣服"
+      }
+    ],
+    "mergedScene": "风吹过来发出“呼呼(ふ)”的声音，衣服也被吹得鼓起来。吹く就是吹。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふく - 前面的ふ像风吹过的“呼呼”声 - 呼呼地把风吹出来 - 吹。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "風が強く吹きます。",
+        "zh": "风很大地吹。"
+      }
+    ]
+  },
+  {
+    "word": "服",
+    "reading": "ふく",
+    "meaning": "衣服",
+    "elements": [
+      {
+        "element": "服",
+        "method": "固定读音",
+        "bridgeC": "服高频读ふく，表示衣服"
+      },
+      {
+        "element": "服/吹く",
+        "method": "同音对比",
+        "bridgeC": "服=衣服；吹く=吹，两个都读ふく，用“吹衣服”串起来"
+      }
+    ],
+    "mergedScene": "一阵风吹く，把晾着的服吹起来；服本身就是衣服。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふく - 服固定读ふく - 风吹く把服吹起来；服=衣服 - 衣服。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "新しい服を買います。",
+        "zh": "买新衣服。"
+      }
+    ]
+  },
+  {
+    "word": "二つ",
+    "reading": "ふたつ",
+    "meaning": "两个",
+    "elements": [
+      {
+        "element": "二",
+        "method": "固定读音",
+        "bridgeC": "二つ里二读ふた"
+      },
+      {
+        "element": "つ",
+        "method": "语法记忆",
+        "bridgeC": "つ系列数物品；二つ=两个东西"
+      },
+      {
+        "element": "一つ/二つ/三つ",
+        "method": "关联记忆",
+        "bridgeC": "ひとつ、ふたつ、みっつ是一组"
+      }
+    ],
+    "mergedScene": "两个小东西互相扶着站在桌上，“扶它俩(ふたつ)”就是二つ。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふたつ - 谐音“扶它俩” - 两个小东西互相扶着 - 两个。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "コップを二つください。",
+        "zh": "请给我两个杯子。"
+      }
+    ]
+  },
+  {
+    "word": "豚肉",
+    "reading": "ぶたにく",
+    "meaning": "猪肉",
+    "elements": [
+      {
+        "element": "ぶた",
+        "method": "字形联想",
+        "bridgeC": "ぶた可看成ふた加两点；ふたつ是两个，两点像猪毛"
+      },
+      {
+        "element": "肉",
+        "method": "固定读音",
+        "bridgeC": "肉=にく，肉；前面已积累"
+      },
+      {
+        "element": "ぶたにく",
+        "method": "关联记忆",
+        "bridgeC": "买猪肉时一大块分两层：外层肥肉、内层瘦肉"
+      }
+    ],
+    "mergedScene": "去菜市场买一整块大猪肉，外层肥肉、内层瘦肉，像两层；ぶ上面的两点像猪毛。ぶた+にく就是豚肉。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶたにく - ぶた像ふた“两层”加两点猪毛，にく=肉 - 猪肉分外层肥肉、内层瘦肉 - 猪肉。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "豚肉を食べます。",
+        "zh": "吃猪肉。"
+      }
+    ]
+  },
+  {
+    "word": "二人",
+    "reading": "ふたり",
+    "meaning": "两个人",
+    "elements": [
+      {
+        "element": "二人",
+        "method": "固定读音",
+        "bridgeC": "二人整体特殊读ふたり，表示两个人"
+      },
+      {
+        "element": "り",
+        "method": "TYPE B2",
+        "bridgeC": "り→梨；两个人吃梨就可能抢起来"
+      },
+      {
+        "element": "ひとり/ふたり",
+        "method": "对比记忆",
+        "bridgeC": "ひとり一个人吃梨没人抢；ふたり两个人吃梨，为了吃到要互相打架"
+      }
+    ],
+    "mergedScene": "两个人面前只有一个梨，为了吃到梨开始互相打架。ふたり就是两个人，和ひとり一个人吃梨没人抢成对记。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふたり - 二人整体特殊读音 - 两个人吃梨，为了吃到就要互相打架 - 两个人。关联：ひとり=一个人吃梨没人抢。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "二人で映画を見ます。",
+        "zh": "两个人看电影。"
+      }
+    ]
+  },
+  {
+    "word": "二日",
+    "reading": "ふつか",
+    "meaning": "两天、二号",
+    "elements": [
+      {
+        "element": "二日",
+        "method": "固定读音",
+        "bridgeC": "二日特殊读ふつか，表示两天或二号"
+      },
+      {
+        "element": "二日/三日",
+        "method": "对比记忆",
+        "bridgeC": "二日=ふつか，三日=みっか，都是日期/天数特殊读法"
+      },
+      {
+        "element": "ふつか",
+        "method": "TYPE B2",
+        "bridgeC": "ふつか→扶着卡；二号要打卡，两天都扶着卡去"
+      }
+    ],
+    "mergedScene": "二号那天要打卡，你两天都扶着卡(ふつか)去公司；二日就是两天、二号。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふつか - 谐音“扶着卡” - 二号要打卡，两天都扶着卡去 - 两天、二号。关联：三日=みっか。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "二日休みます。",
+        "zh": "休息两天。"
+      }
+    ]
+  },
+  {
+    "word": "太い",
+    "reading": "ふとい",
+    "meaning": "粗的",
+    "elements": [
+      {
+        "element": "太",
+        "method": "TYPE A1",
+        "bridgeC": "太=粗、胖；汉字直接提示"
+      },
+      {
+        "element": "ふ",
+        "method": "TYPE B2",
+        "bridgeC": "ふ可谐音成腹，指腹部"
+      },
+      {
+        "element": "と",
+        "method": "字形联想",
+        "bridgeC": "と像凸起来的啤酒肚"
+      },
+      {
+        "element": "太い/細い",
+        "method": "反义对比",
+        "bridgeC": "太い=粗，細い=细；一粗一细成对记"
+      }
+    ],
+    "mergedScene": "中年男人腹部上有一个像と一样凸出来的啤酒肚，所以整个人看起来很粗、很胖。ふとい就是粗的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふとい - 拆成“ふ=腹，と=凸起来的啤酒肚” - 腹部有啤酒肚，看起来很粗/胖 - 粗的。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このペンは太いです。",
+        "zh": "这支笔很粗。"
+      }
+    ]
+  },
+  {
+    "word": "冬",
+    "reading": "ふゆ",
+    "meaning": "冬天",
+    "elements": [
+      {
+        "element": "冬",
+        "method": "TYPE A1",
+        "bridgeC": "冬=冬天；中日汉字意思相通"
+      },
+      {
+        "element": "ふ",
+        "method": "TYPE B2",
+        "bridgeC": "ふ像风刮过来的“呼呼呼”声；北方冬天风最多也最冷"
+      }
+    ],
+    "mergedScene": "北方冬天最明显的感觉就是风呼呼呼地刮，越刮越冷。ふゆ就是冬天。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふゆ - ふ像风刮过来的“呼呼呼”声 - 北方冬天风最多也最冷 - 冬天。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "冬は寒いです。",
+        "zh": "冬天很冷。"
+      }
+    ]
+  },
+  {
+    "word": "降る",
+    "reading": "ふる",
+    "meaning": "下（雨雪）",
+    "elements": [
+      {
+        "element": "降",
+        "method": "TYPE A1",
+        "bridgeC": "降=降落、落下；雨雪从天上降下来"
+      },
+      {
+        "element": "ふる/ふるい",
+        "method": "对比记忆",
+        "bridgeC": "ふる=雨雪降下来；ふるい=雨雪已经被灰尘污染，变得不新了"
+      }
+    ],
+    "mergedScene": "雨雪从天上降下来就是ふる；落下途中会混进灰尘，为ふるい“旧的/不新”做联想。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふる - 降=落下 - 雨雪从天上落下来 - 下雨雪。关联：ふるい=雨雪已经不新了。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "雨が降ります。",
+        "zh": "下雨。"
+      }
+    ]
+  },
+  {
+    "word": "古い",
+    "reading": "ふるい",
+    "meaning": "旧的",
+    "elements": [
+      {
+        "element": "古",
+        "method": "TYPE A1",
+        "bridgeC": "古=古老、旧"
+      },
+      {
+        "element": "ふる",
+        "method": "关联记忆",
+        "bridgeC": "ふる是雨雪降下来"
+      },
+      {
+        "element": "い",
+        "method": "TYPE B2",
+        "bridgeC": "い→已；雨雪已经被灰尘污染，变得不新"
+      }
+    ],
+    "mergedScene": "雨雪从天上落下来以后，已经被灰尘等污染了，变得不新了。ふる+い(已)=ふるい，旧的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふるい - ふる=降下来，い谐音“已” - 雨雪已经被灰尘污染，变得不新了 - 旧的。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "これは古い車です。",
+        "zh": "这是旧车。"
+      }
+    ]
+  },
+  {
+    "word": "ふろ",
+    "reading": "ふろ",
+    "meaning": "浴池",
+    "elements": [
+      {
+        "element": "ふろ",
+        "method": "TYPE B2",
+        "bridgeC": "ふろ→浮咯；泡澡时各种泡泡在浴池里浮起来"
+      },
+      {
+        "element": "風呂",
+        "method": "关联记忆",
+        "bridgeC": "ふろ常可写作風呂，表示浴池/泡澡处"
+      }
+    ],
+    "mergedScene": "泡澡时浴池里冒出各种泡泡，泡泡一个个浮起来，你说“浮咯(ふろ)”。ふろ就是浴池。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふろ - 谐音“浮咯” - 泡澡时有各种泡泡在浴池里浮起来 - 浴池。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "ふろに入ります。",
+        "zh": "洗澡/泡澡。"
+      }
+    ]
+  },
+  {
+    "word": "文章",
+    "reading": "ぶんしょう",
+    "meaning": "文章",
+    "elements": [
+      {
+        "element": "文",
+        "method": "固定读音",
+        "bridgeC": "文=ぶん，文字、文章"
+      },
+      {
+        "element": "章",
+        "method": "固定读音",
+        "bridgeC": "章=しょう，篇章"
+      },
+      {
+        "element": "文章",
+        "method": "TYPE A1",
+        "bridgeC": "文+章=文章，汉字直接提示意思"
+      }
+    ],
+    "mergedScene": "文是一句句文字，章是一段段篇章，合起来就是文章。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶんしょう - 文=ぶん，章=しょう - 文字组成篇章 - 文章。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "短い文章を書きます。",
+        "zh": "写短文章。"
+      }
+    ]
+  },
+  {
+    "word": "ページ",
+    "reading": "ページ",
+    "meaning": "页",
+    "elements": [
+      {
+        "element": "ページ",
+        "method": "外来语",
+        "bridgeC": "ページ来自英语page，表示页"
+      }
+    ],
+    "mergedScene": "翻书时说page，日语外来语就是ページ。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ページ - 外来语page - 翻到这一page - 页。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "十ページを読んでください。",
+        "zh": "请读第十页。"
+      }
+    ]
+  },
+  {
+    "word": "下手",
+    "reading": "へた",
+    "meaning": "不擅长、笨拙",
+    "elements": [
+      {
+        "element": "下手",
+        "method": "TYPE A1",
+        "bridgeC": "下手在日语里表示技术差、不擅长"
+      },
+      {
+        "element": "へた",
+        "method": "TYPE B2",
+        "bridgeC": "へた→害他；手下做事太笨，很容易害他"
+      }
+    ],
+    "mergedScene": "你的手下做事太笨，错误不断，最后很容易害他。へた就是笨拙、不擅长。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "へた - 谐音“害他” - 你的手下做事太笨，很容易害他 - 笨拙、不擅长。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "私は料理が下手です。",
+        "zh": "我不擅长做饭。"
+      }
+    ]
+  },
+  {
+    "word": "ベッド",
+    "reading": "ベッド",
+    "meaning": "床",
+    "elements": [
+      {
+        "element": "ベッド",
+        "method": "外来语",
+        "bridgeC": "ベッド来自英语bed，表示床"
+      },
+      {
+        "element": "ベッド/ペット",
+        "method": "对比记忆",
+        "bridgeC": "ベッド=bed床；ペット=pet宠物。ベ有浊点像床很重，ペ更轻像宠物跑来跑去"
+      }
+    ],
+    "mergedScene": "bed是床，日语ベッド读起来像bed。ベ上面的浊点像沉重床脚，稳稳压在地上。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ベッド - 外来语bed - ベ有浊点像沉重床脚，bed就是床 - 床。关联：ペット=pet宠物。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ベッドで寝ます。",
+        "zh": "在床上睡觉。"
+      }
+    ]
+  },
+  {
+    "word": "ペット",
+    "reading": "ペット",
+    "meaning": "宠物",
+    "elements": [
+      {
+        "element": "ペット",
+        "method": "外来语",
+        "bridgeC": "ペット来自英语pet，表示宠物"
+      },
+      {
+        "element": "ペット/ベッド",
+        "method": "对比记忆",
+        "bridgeC": "ペット=pet宠物；ベッド=bed床。宠物轻快，床沉重带浊点"
+      }
+    ],
+    "mergedScene": "pet是宠物，日语ペット。小宠物轻快地跳上床，和沉重的ベッド区分开。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ペット - 外来语pet - pet是宠物；ペ轻快像宠物，ベッド沉重是床 - 宠物。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ペットがいます。",
+        "zh": "有宠物。"
+      }
+    ]
+  },
+  {
+    "word": "部屋",
+    "reading": "へや",
+    "meaning": "房间",
+    "elements": [
+      {
+        "element": "部屋",
+        "method": "TYPE A1",
+        "bridgeC": "部屋=房间；日语常用汉字词"
+      },
+      {
+        "element": "へや",
+        "method": "TYPE B2",
+        "bridgeC": "へや→嘿呀；推开房间门时喊一声嘿呀"
+      }
+    ],
+    "mergedScene": "你推开房间门，搬箱子进去时喊“嘿呀(へや)”。部屋就是房间。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "へや - 谐音“嘿呀” - 推开房间门搬东西时喊嘿呀 - 房间。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "部屋を掃除します。",
+        "zh": "打扫房间。"
+      }
+    ]
+  },
+  {
+    "word": "辺",
+    "reading": "へん",
+    "meaning": "附近",
+    "elements": [
+      {
+        "element": "辺",
+        "method": "TYPE A1",
+        "bridgeC": "辺=周边、附近"
+      },
+      {
+        "element": "へん",
+        "method": "TYPE B2",
+        "bridgeC": "へん→恨；总是恨周围附近的人"
+      }
+    ],
+    "mergedScene": "一个人总是恨周围附近的人，觉得他们都比自己过得好，所以过得很不开心。へん用“恨周围的人”记附近。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "へん - 谐音“恨” - 总是恨周围附近的人，觉得他们过得都比自己好 - 附近。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "この辺に駅があります。",
+        "zh": "这附近有车站。"
+      }
+    ]
+  },
+  {
+    "word": "ペン",
+    "reading": "ペン",
+    "meaning": "笔",
+    "elements": [
+      {
+        "element": "ペン",
+        "method": "外来语",
+        "bridgeC": "ペン来自英语pen，表示笔"
+      },
+      {
+        "element": "ペン/ボールペン",
+        "method": "关联记忆",
+        "bridgeC": "ペン是笔；ボールペン是圆珠笔"
+      }
+    ],
+    "mergedScene": "pen就是笔，日语外来语ペン。后面ボールペン就是ball pen圆珠笔。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ペン - 外来语pen - pen就是笔；ボールペン是圆珠笔 - 笔。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ペンで書きます。",
+        "zh": "用笔写。"
+      }
+    ]
+  },
+  {
+    "word": "勉強",
+    "reading": "べんきょうする",
+    "meaning": "学习",
+    "elements": [
+      {
+        "element": "勉強",
+        "method": "TYPE A1",
+        "bridgeC": "勉強在日语里是学习；学习需要勤奋努力"
+      },
+      {
+        "element": "べんきょう",
+        "method": "TYPE B2",
+        "bridgeC": "べんきょう→笨Q；笨Q知道自己笨，但相信勤能补拙"
+      },
+      {
+        "element": "する",
+        "method": "语法记忆",
+        "bridgeC": "勉強する是“学习”这个动作"
+      }
+    ],
+    "mergedScene": "笨Q这个人知道自己很笨，但他相信勤能补拙，所以每天非常勤奋地学习。べんきょうする就是学习。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "べんきょうする - 谐音“笨Q” - 笨Q知道自己很笨，但相信勤能补拙，所以非常勤奋 - 学习。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "日本語を勉強します。",
+        "zh": "学习日语。"
+      }
+    ]
+  },
+  {
+    "word": "便利",
+    "reading": "べんり",
+    "meaning": "方便的",
+    "elements": [
+      {
+        "element": "便",
+        "method": "多读音",
+        "bridgeC": "便在便利里读べん；在郵便局(ゆうびんきょく)里读びん，注意多读音"
+      },
+      {
+        "element": "利",
+        "method": "TYPE A1",
+        "bridgeC": "利=有利、顺手"
+      },
+      {
+        "element": "便利",
+        "method": "TYPE A1",
+        "bridgeC": "便利=方便；中日汉字意思相通"
+      }
+    ],
+    "mergedScene": "便利这个词里，便读べん；前面郵便局里便读びん。同一个“便”要记录多读音，但便利本身汉字意思就是方便。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "べんり - 便在便利读べん，在郵便局读びん - 同一个便要记录多读音；便利本身就是方便 - 方便的。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このアプリは便利です。",
+        "zh": "这个应用很方便。"
+      }
+    ]
+  },
+  {
+    "word": "帽子",
+    "reading": "ぼうし",
+    "meaning": "帽子",
+    "elements": [
+      {
+        "element": "帽",
+        "method": "TYPE A1",
+        "bridgeC": "帽=帽子"
+      },
+      {
+        "element": "子",
+        "method": "固定读音",
+        "bridgeC": "子在帽子中读し，作为新读法积累"
+      },
+      {
+        "element": "ぼうし",
+        "method": "TYPE B2",
+        "bridgeC": "ぼうし→保持；戴帽子保持发型不被风吹乱"
+      }
+    ],
+    "mergedScene": "出门前戴上帽子，保持(ぼうし)发型不被风吹乱。帽子就是帽子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぼうし - 谐音“保持” - 戴帽子保持发型不被风吹乱；子在这里读し - 帽子。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "帽子をかぶります。",
+        "zh": "戴帽子。"
+      }
+    ]
+  },
+  {
+    "word": "ボールペン",
+    "reading": "ボールペン",
+    "meaning": "圆珠笔",
+    "elements": [
+      {
+        "element": "ボール",
+        "method": "外来语",
+        "bridgeC": "ボール来自ball，圆球"
+      },
+      {
+        "element": "ペン",
+        "method": "外来语",
+        "bridgeC": "ペン来自pen，笔"
+      },
+      {
+        "element": "ボールペン",
+        "method": "关联记忆",
+        "bridgeC": "ball+pen，笔尖有小圆珠，所以是圆珠笔"
+      }
+    ],
+    "mergedScene": "圆珠笔的笔尖有一颗小ball，后面接pen，所以ボールペン就是圆珠笔。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ボールペン - 外来语ball+pen - 笔尖有小圆珠的pen - 圆珠笔。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ボールペンで名前を書きます。",
+        "zh": "用圆珠笔写名字。"
+      }
+    ]
+  },
+  {
+    "word": "ほか",
+    "reading": "ほか",
+    "meaning": "其他",
+    "elements": [
+      {
+        "element": "ほか",
+        "method": "TYPE B2",
+        "bridgeC": "ほか→货卡；这张货卡不是这一批，是其他的"
+      }
+    ],
+    "mergedScene": "仓库里有一张货卡混错了批次，老板说“这不是这批，是其他的”。ほか就是其他。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ほか - 谐音“货卡” - 这张货卡不是这批，是其他的 - 其他。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "ほかに何がありますか。",
+        "zh": "还有其他什么吗？"
+      }
+    ]
+  },
+  {
+    "word": "ポケット",
+    "reading": "ポケット",
+    "meaning": "口袋",
+    "elements": [
+      {
+        "element": "ポケット",
+        "method": "外来语",
+        "bridgeC": "ポケット来自英语pocket，表示口袋"
+      },
+      {
+        "element": "pocket",
+        "method": "关联记忆",
+        "bridgeC": "把小东西放进pocket里，就是放进口袋"
+      }
+    ],
+    "mergedScene": "出门前把钥匙放进pocket，日语外来语就是ポケット。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ポケット - 外来语pocket - 把钥匙放进pocket里 - 口袋。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "鍵をポケットに入れます。",
+        "zh": "把钥匙放进口袋。"
+      }
+    ]
+  }
+]

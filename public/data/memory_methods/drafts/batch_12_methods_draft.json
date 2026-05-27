@@ -1,0 +1,1330 @@
+[
+  {
+    "word": "背",
+    "reading": "せ",
+    "meaning": "个子、身高",
+    "elements": [
+      {
+        "element": "背",
+        "method": "TYPE A1",
+        "bridgeC": "背在日语里可以表示个子、身高"
+      },
+      {
+        "element": "せ",
+        "method": "TYPE B2",
+        "bridgeC": "せ→赛；大家站一排赛身高"
+      }
+    ],
+    "mergedScene": "体检时大家站成一排赛(せ)身高，老师记录谁的背高、谁的背低。背=个子、身高。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "せ - 谐音“赛” - 大家站一排赛身高 - 个子/身高\n常用：背が高い=个子高。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "兄は背が高いです。",
+        "zh": "哥哥个子很高。"
+      }
+    ]
+  },
+  {
+    "word": "生徒",
+    "reading": "せいと",
+    "meaning": "学生",
+    "elements": [
+      {
+        "element": "生",
+        "method": "固定读音",
+        "bridgeC": "生在生徒中读せい，表示学生/生命相关"
+      },
+      {
+        "element": "徒",
+        "method": "固定读音",
+        "bridgeC": "徒读と，表示人、徒弟一类的人"
+      },
+      {
+        "element": "生徒/学生",
+        "method": "对比记忆",
+        "bridgeC": "生徒偏中小学学生；学生更常说大学生/学生身份"
+      }
+    ],
+    "mergedScene": "教室里一群年轻学生坐好听课，老师点名叫生徒(せいと)。生=せい，徒=と，合起来就是学生。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "せいと - 生=せい，徒=と - 在教室里听课的人 - 学生\n⚠️ 生徒偏中小学学生；学生(がくせい)更广。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "教室に生徒がいます。",
+        "zh": "教室里有学生。"
+      }
+    ]
+  },
+  {
+    "word": "セーター",
+    "reading": "セーター",
+    "meaning": "毛衣",
+    "elements": [
+      {
+        "element": "セーター",
+        "method": "外来语",
+        "bridgeC": "来自英语 sweater，毛衣"
+      },
+      {
+        "element": "セー",
+        "method": "对比记忆",
+        "bridgeC": "长音ー拖长，读起来像 sweater 中间的长音"
+      }
+    ],
+    "mergedScene": "冬天你套上 sweater，日语直接变成セーター。看到长音ー，就想到毛衣把身体暖暖地包住。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "セーター - 外来语 sweater - 冬天穿的毛衣 - 毛衣",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "白いセーターを着ます。",
+        "zh": "穿白色毛衣。"
+      }
+    ]
+  },
+  {
+    "word": "せっけん",
+    "reading": "せっけん",
+    "meaning": "肥皂",
+    "elements": [
+      {
+        "element": "せっけん",
+        "method": "TYPE B2",
+        "bridgeC": "せっけん→塞钱；肥皂盒里塞了一块像钱一样滑的肥皂"
+      },
+      {
+        "element": "っ",
+        "method": "对比记忆",
+        "bridgeC": "促音っ让发音停一下，像肥皂滑出去前卡了一下"
+      }
+    ],
+    "mergedScene": "你打开肥皂盒，发现里面像塞钱(せっけん)一样塞着一块滑溜溜的肥皂，一拿就滑出去。せっけん=肥皂。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "せっけん - 谐音“塞钱” - 肥皂盒里像塞钱一样塞着一块滑肥皂 - 肥皂",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "せっけんで手を洗います。",
+        "zh": "用肥皂洗手。"
+      }
+    ]
+  },
+  {
+    "word": "背広",
+    "reading": "せびろ",
+    "meaning": "西服",
+    "elements": [
+      {
+        "element": "背",
+        "method": "关联记忆",
+        "bridgeC": "背=せ，西服会修饰背部和肩线"
+      },
+      {
+        "element": "せびろ",
+        "method": "TYPE B2",
+        "bridgeC": "せびろ→帅毙了；男人一穿上西服就显得帅很多"
+      }
+    ],
+    "mergedScene": "男人换上合身西服，肩背一下挺起来，旁边人都说：帅毙了(せびろ)！背広=西服。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "せびろ - 谐音“帅毙了” - 男人一穿上西服就会显得帅很多 - 西服",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "父は背広を着ています。",
+        "zh": "爸爸穿着西服。"
+      }
+    ]
+  },
+  {
+    "word": "狭い",
+    "reading": "せまい",
+    "meaning": "窄的",
+    "elements": [
+      {
+        "element": "狭",
+        "method": "TYPE A1",
+        "bridgeC": "狭=狭窄"
+      },
+      {
+        "element": "せまい",
+        "method": "TYPE B2",
+        "bridgeC": "せまい→塞满；房间太窄，东西一放就塞满"
+      }
+    ],
+    "mergedScene": "出租屋太窄，床、桌子、箱子一放进去就塞满(せまい)，人都转不开身。狭い=窄的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "せまい - 谐音“塞满” - 房间太窄，东西一放就塞满 - 窄的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "この部屋は狭いです。",
+        "zh": "这个房间很窄。"
+      }
+    ]
+  },
+  {
+    "word": "ゼロ",
+    "reading": "ゼロ",
+    "meaning": "零",
+    "elements": [
+      {
+        "element": "ゼロ",
+        "method": "外来语",
+        "bridgeC": "来自英语 zero，零"
+      },
+      {
+        "element": "ロ",
+        "method": "字形联想",
+        "bridgeC": "ロ像一个空框，里面什么都没有"
+      }
+    ],
+    "mergedScene": "考试得了 zero，分数框里空空的像ロ，什么都没有。ゼロ=零。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ゼロ - 外来语 zero - 分数框空空的，什么都没有 - 零",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ゼロから始めます。",
+        "zh": "从零开始。"
+      }
+    ]
+  },
+  {
+    "word": "千",
+    "reading": "せん",
+    "meaning": "千",
+    "elements": [
+      {
+        "element": "千",
+        "method": "TYPE A1",
+        "bridgeC": "汉字千直接表示一千"
+      },
+      {
+        "element": "せん",
+        "method": "TYPE B2",
+        "bridgeC": "せん→仙；仙人活了一千年"
+      }
+    ],
+    "mergedScene": "一个仙(せん)人活了一千年，生日蛋糕上插满一千根蜡烛。千=一千。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "せん - 谐音“仙” - 仙人活了一千年 - 千",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "これは千円です。",
+        "zh": "这个是一千日元。"
+      }
+    ]
+  },
+  {
+    "word": "先月",
+    "reading": "せんげつ",
+    "meaning": "上个月",
+    "elements": [
+      {
+        "element": "先",
+        "method": "固定读音",
+        "bridgeC": "先常读せん，表示先前"
+      },
+      {
+        "element": "月",
+        "method": "固定读音",
+        "bridgeC": "月在月份相关词里常读げつ"
+      },
+      {
+        "element": "先月/今月",
+        "method": "对比记忆",
+        "bridgeC": "先月=先前的月；今月=现在这个月"
+      }
+    ],
+    "mergedScene": "日历翻到现在这个月，前面已经过去的那一页就是先月(せんげつ)。先=先前，月=げつ。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "せんげつ - 先=せん，月=げつ - 先前过去的那个月 - 上个月\n🔗 先月=上个月；今月=这个月。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "先月、日本へ行きました。",
+        "zh": "上个月去了日本。"
+      }
+    ]
+  },
+  {
+    "word": "先週",
+    "reading": "せんしゅう",
+    "meaning": "上周",
+    "elements": [
+      {
+        "element": "先",
+        "method": "固定读音",
+        "bridgeC": "先常读せん，表示先前"
+      },
+      {
+        "element": "週",
+        "method": "固定读音",
+        "bridgeC": "週常读しゅう，表示周"
+      },
+      {
+        "element": "先週/今週",
+        "method": "对比记忆",
+        "bridgeC": "先週=先前的周；今週=这周"
+      }
+    ],
+    "mergedScene": "课程表翻到这一周，前面已经过去的那一页就是先週(せんしゅう)。先=先前，週=しゅう。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "せんしゅう - 先=せん，週=しゅう - 先前过去的那一周 - 上周\n🔗 先週=上周；今週=这周。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "先週は忙しかったです。",
+        "zh": "上周很忙。"
+      }
+    ]
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning": "老师",
+    "elements": [
+      {
+        "element": "先",
+        "method": "TYPE A1",
+        "bridgeC": "先=先、先前"
+      },
+      {
+        "element": "生",
+        "method": "固定读音",
+        "bridgeC": "生大多数时候可读せい，这里读せい"
+      },
+      {
+        "element": "先生",
+        "method": "汉字直觉",
+        "bridgeC": "先出生、先懂知识的人就是老师"
+      }
+    ],
+    "mergedScene": "老师比你先学会知识，站在讲台上教你。先生就是先出生、先懂的人；生在这里读せい。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "せんせい - 先=先，生大多数时候可读“せい” - 先懂知识、教你的人 - 老师",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "先生に聞きます。",
+        "zh": "问老师。"
+      }
+    ]
+  },
+  {
+    "word": "洗濯",
+    "reading": "せんたく",
+    "meaning": "洗衣服",
+    "elements": [
+      {
+        "element": "洗",
+        "method": "TYPE A1",
+        "bridgeC": "洗=洗"
+      },
+      {
+        "element": "濯",
+        "method": "TYPE A1",
+        "bridgeC": "濯=洗涤"
+      },
+      {
+        "element": "せんたく",
+        "method": "TYPE B2",
+        "bridgeC": "せんたく→掀他裤；孩子裤子太脏又不想换，只好掀开洗洗"
+      }
+    ],
+    "mergedScene": "孩子裤子太脏了还不想换，大人只好掀他裤(せんたく)子去洗。洗濯=洗衣服。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "せんたく - 谐音“掀他裤” - 孩子裤子太脏又不想换，只好掀开洗洗 - 洗衣服",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "日曜日に洗濯をします。",
+        "zh": "星期天洗衣服。"
+      }
+    ]
+  },
+  {
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meaning": "全部",
+    "elements": [
+      {
+        "element": "全",
+        "method": "TYPE A1",
+        "bridgeC": "全=全部、完整"
+      },
+      {
+        "element": "部",
+        "method": "TYPE A1",
+        "bridgeC": "部=部分、部件"
+      },
+      {
+        "element": "ぜんぶ",
+        "method": "TYPE B2",
+        "bridgeC": "ぜんぶ→全不；全部拿走，一个全不剩"
+      }
+    ],
+    "mergedScene": "朋友把桌上的零食全部拿走，最后全不(ぜんぶ)剩。全部=全部。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぜんぶ - 谐音“全不” - 全部拿走，最后全不剩 - 全部",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "宿題は全部しました。",
+        "zh": "作业全部做了。"
+      }
+    ]
+  },
+  {
+    "word": "掃除",
+    "reading": "そうじする",
+    "meaning": "打扫",
+    "elements": [
+      {
+        "element": "掃",
+        "method": "TYPE A1",
+        "bridgeC": "掃=扫"
+      },
+      {
+        "element": "除",
+        "method": "TYPE A1",
+        "bridgeC": "除=除去"
+      },
+      {
+        "element": "そうじ",
+        "method": "TYPE B2",
+        "bridgeC": "そうじ→扫圾；扩展成扫垃圾，就是打扫"
+      }
+    ],
+    "mergedScene": "房间里满地垃圾，你拿起扫把开始“扫圾”(そうじ)，把垃圾扫走。掃除する=打扫。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "そうじ - 谐音“扫圾” - 扩展成打扫垃圾，所以是打扫 - 打扫",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "部屋を掃除します。",
+        "zh": "打扫房间。"
+      }
+    ]
+  },
+  {
+    "word": "そうして",
+    "reading": "そうして",
+    "meaning": "然后",
+    "elements": [
+      {
+        "element": "そう",
+        "method": "语法记忆",
+        "bridgeC": "そう=那样"
+      },
+      {
+        "element": "して",
+        "method": "语法记忆",
+        "bridgeC": "して=做了之后"
+      },
+      {
+        "element": "そうして",
+        "method": "关联记忆",
+        "bridgeC": "那样做了之后，就是然后"
+      }
+    ],
+    "mergedScene": "你先把菜切好，そうして再放进锅里炒。那样做完之后接下一步，就是然后。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "そうして - そう=那样，して=做 - 那样做了之后接下一步 - 然后",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "ご飯を食べました。そうして、勉強しました。",
+        "zh": "吃了饭。然后学习了。"
+      }
+    ]
+  },
+  {
+    "word": "そこ",
+    "reading": "そこ",
+    "meaning": "那里",
+    "elements": [
+      {
+        "element": "そ",
+        "method": "关联记忆",
+        "bridgeC": "そ系列指离说话人稍远、靠近对方的事物"
+      },
+      {
+        "element": "そこ/ここ/どこ",
+        "method": "对比记忆",
+        "bridgeC": "ここ=这里，そこ=那里，どこ=哪里"
+      },
+      {
+        "element": "そこ",
+        "method": "TYPE B2",
+        "bridgeC": "そこ→锁扣；钥匙就放在那里的锁扣旁"
+      }
+    ],
+    "mergedScene": "朋友问钥匙在哪，你指着对方旁边说：そこ，在那里，锁扣(そこ)旁边。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "そこ - そ系列“那里” - 钥匙在那里的锁扣旁 - 那里\n🔗 ここ=这里，そこ=那里，どこ=哪里。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "そこに座ってください。",
+        "zh": "请坐在那里。"
+      }
+    ]
+  },
+  {
+    "word": "そちら",
+    "reading": "そちら",
+    "meaning": "那边（敬语）",
+    "elements": [
+      {
+        "element": "そちら/そっち",
+        "method": "对比记忆",
+        "bridgeC": "そちら更长、更礼貌；そっち更短、更口语"
+      },
+      {
+        "element": "ちら",
+        "method": "TYPE B2",
+        "bridgeC": "ちら→去啦；礼貌地请对方往那边去啦"
+      }
+    ],
+    "mergedScene": "在酒店前台，工作人员礼貌地伸手说：请往そちら，那边去啦。そちら比そっち更礼貌。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "そちら - 比そっち更长、更礼貌 - 工作人员礼貌指“那边” - 那边（敬语）\n🔗 そちら=礼貌；そっち=口语。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "そちらへ行ってください。",
+        "zh": "请去那边。"
+      }
+    ]
+  },
+  {
+    "word": "そっち",
+    "reading": "そっち",
+    "meaning": "那边",
+    "elements": [
+      {
+        "element": "そっち/そちら",
+        "method": "对比记忆",
+        "bridgeC": "そっち有促音っ，短促口语；そちら更礼貌"
+      },
+      {
+        "element": "そっち",
+        "method": "TYPE B2",
+        "bridgeC": "そっち→缩起；那边太冷，人都缩起来"
+      }
+    ],
+    "mergedScene": "朋友指着路口随口说：走そっち，那边！那边冷得人都缩起(そっち)来了。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "そっち - 谐音“缩起” - 那边太冷，人都缩起来；比そちら更口语 - 那边",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "そっちは寒いですか。",
+        "zh": "那边冷吗？"
+      }
+    ]
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "meaning": "外面",
+    "elements": [
+      {
+        "element": "外",
+        "method": "TYPE A1",
+        "bridgeC": "外=外面"
+      },
+      {
+        "element": "そと",
+        "method": "TYPE B2",
+        "bridgeC": "そと→缩头；外面太冷，出去就缩头"
+      }
+    ],
+    "mergedScene": "冬天一走到外面，冷风一吹你立刻缩头(そと)缩脖子。外=外面。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "そと - 谐音“缩头” - 外面太冷，一出去就缩头 - 外面",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "外は寒いです。",
+        "zh": "外面很冷。"
+      }
+    ]
+  },
+  {
+    "word": "その",
+    "reading": "その",
+    "meaning": "那个",
+    "elements": [
+      {
+        "element": "そ",
+        "method": "关联记忆",
+        "bridgeC": "そ系列指离说话人稍远、靠近对方的事物"
+      },
+      {
+        "element": "の",
+        "method": "语法记忆",
+        "bridgeC": "その后面必须接名词"
+      },
+      {
+        "element": "この/その/どの",
+        "method": "对比记忆",
+        "bridgeC": "この=这个，その=那个，どの=哪个，后面都接名词"
+      }
+    ],
+    "mergedScene": "你指着对方手里的书说：その本，那个书。の像胶水，把“那个”粘到名词前。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "その - そ系列“那个” + の后接名词 - その本=那本书 - 那个",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "その本をください。",
+        "zh": "请给我那本书。"
+      }
+    ]
+  },
+  {
+    "word": "そば",
+    "reading": "そば",
+    "meaning": "旁边、附近",
+    "elements": [
+      {
+        "element": "そば",
+        "method": "关联记忆",
+        "bridgeC": "そば也可表示荞麦面；把面放在你旁边"
+      },
+      {
+        "element": "そば",
+        "method": "TYPE B2",
+        "bridgeC": "そば→手边；东西就在手边附近"
+      }
+    ],
+    "mergedScene": "你坐在桌前，旁边放着一碗そば荞麦面；它就在你手边附近。そば=旁边、附近。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "そば - 联想荞麦面放在手边 - 就在旁边、附近 - 旁边/附近",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "駅のそばに店があります。",
+        "zh": "车站附近有店。"
+      }
+    ]
+  },
+  {
+    "word": "空",
+    "reading": "そら",
+    "meaning": "天空",
+    "elements": [
+      {
+        "element": "空",
+        "method": "TYPE A1",
+        "bridgeC": "空=天空、空中"
+      },
+      {
+        "element": "そら",
+        "method": "TYPE B2",
+        "bridgeC": "そら→锁啦；把锁往上一扔，飞到天空啦"
+      }
+    ],
+    "mergedScene": "你把一把锁往上抛，朋友喊“锁啦”(そら)飞到天上啦！空=天空。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "そら - 谐音“锁啦” - 锁被抛到天上啦 - 天空",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "空が青いです。",
+        "zh": "天空很蓝。"
+      }
+    ]
+  },
+  {
+    "word": "それ",
+    "reading": "それ",
+    "meaning": "那个",
+    "elements": [
+      {
+        "element": "そ",
+        "method": "关联记忆",
+        "bridgeC": "そ系列指对方附近或刚提到的事物"
+      },
+      {
+        "element": "それ/これ/あれ/どれ",
+        "method": "对比记忆",
+        "bridgeC": "これ=这个，それ=那个，あれ=那个远处的，どれ=哪个"
+      }
+    ],
+    "mergedScene": "朋友手里拿着东西，你指着说：それ，那个。离你远一点、靠近对方，用そ系列。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "それ - そ系列“那个” - 指对方附近或刚提到的东西 - 那个\n🔗 これ=这个，それ=那个，どれ=哪个。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "それは何ですか。",
+        "zh": "那个是什么？"
+      }
+    ]
+  },
+  {
+    "word": "それから",
+    "reading": "それから",
+    "meaning": "然后",
+    "elements": [
+      {
+        "element": "それ",
+        "method": "关联记忆",
+        "bridgeC": "それ=那个"
+      },
+      {
+        "element": "から",
+        "method": "语法记忆",
+        "bridgeC": "から=从、之后"
+      },
+      {
+        "element": "それから",
+        "method": "拆分记忆",
+        "bridgeC": "从那个之后=然后"
+      }
+    ],
+    "mergedScene": "你先吃饭、それから写作业。从那个动作之后接下一步，就是然后。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "それから - それ=那个，から=从/之后 - 从那个之后接下一步 - 然后",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "朝ご飯を食べます。それから学校へ行きます。",
+        "zh": "吃早饭。然后去学校。"
+      }
+    ]
+  },
+  {
+    "word": "それでは",
+    "reading": "それでは",
+    "meaning": "那么",
+    "elements": [
+      {
+        "element": "それ",
+        "method": "关联记忆",
+        "bridgeC": "それ=那个"
+      },
+      {
+        "element": "では",
+        "method": "关联记忆",
+        "bridgeC": "では=那么"
+      },
+      {
+        "element": "それでは/では",
+        "method": "对比记忆",
+        "bridgeC": "それでは比では更完整一点，用来转场：那么..."
+      }
+    ],
+    "mergedScene": "会议说完前面的事，主持人合上资料说：それでは，下面进入下一项。那么，开始吧。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "それでは - それ=那个，では=那么 - 说完那个话题后转场 - 那么",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "それでは、また明日。",
+        "zh": "那么，明天见。"
+      }
+    ]
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "meaning": "大学",
+    "elements": [
+      {
+        "element": "大",
+        "method": "固定读音",
+        "bridgeC": "大常读だい/たい，这里读だい"
+      },
+      {
+        "element": "学",
+        "method": "固定读音",
+        "bridgeC": "学常读がく，表示学习、学校"
+      },
+      {
+        "element": "だいがく",
+        "method": "TYPE B2",
+        "bridgeC": "だいがく→太开阔；第一眼到大学校园，感觉太开阔"
+      }
+    ],
+    "mergedScene": "第一次走进大学校园，操场、图书馆、教学楼都很大，你感叹：太开阔(だいがく)了！大学=大学。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "だいがく - 谐音“太开阔” - 第一眼来到校园，发现大学真的很开阔 - 大学",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "大学で日本語を勉強します。",
+        "zh": "在大学学习日语。"
+      }
+    ]
+  },
+  {
+    "word": "大使館",
+    "reading": "たいしかん",
+    "meaning": "大使馆",
+    "elements": [
+      {
+        "element": "大使",
+        "method": "TYPE A1",
+        "bridgeC": "大使=大使"
+      },
+      {
+        "element": "館",
+        "method": "固定读音",
+        "bridgeC": "館常读かん，表示馆"
+      },
+      {
+        "element": "たいしかん",
+        "method": "TYPE B2",
+        "bridgeC": "たいしかん→他一细看；他一细看才发现那里竟然是大使馆"
+      }
+    ],
+    "mergedScene": "他在国外迷路，远远看到一栋楼，他一细看(たいしかん)，发现竟然是大使馆。大使館=大使馆。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たいしかん - 谐音“他一细看” - 他一细看发现竟然是大使馆 - 大使馆",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "大使館はどこですか。",
+        "zh": "大使馆在哪里？"
+      }
+    ]
+  },
+  {
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meaning": "没关系、没问题",
+    "elements": [
+      {
+        "element": "大丈夫",
+        "method": "汉字直觉",
+        "bridgeC": "中文大丈夫是男子汉；日语里表示没关系、没问题"
+      },
+      {
+        "element": "だいじょうぶ",
+        "method": "TYPE B2",
+        "bridgeC": "だいじょうぶ→大丈夫；男子汉拍胸口说没问题"
+      }
+    ],
+    "mergedScene": "朋友摔了一跤，你紧张地问，他像大丈夫一样拍拍胸口说：大丈夫，没问题！",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "だいじょうぶ - 汉字“大丈夫” - 像男子汉一样拍胸口说没问题 - 没关系/没问题\n⚠️ 日语大丈夫不是“丈夫”。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "大丈夫です。心配しないでください。",
+        "zh": "没关系。请不要担心。"
+      }
+    ]
+  },
+  {
+    "word": "大好き",
+    "reading": "だいすき",
+    "meaning": "非常喜欢",
+    "elements": [
+      {
+        "element": "大",
+        "method": "固定读音",
+        "bridgeC": "大=だい，表示程度大"
+      },
+      {
+        "element": "好き",
+        "method": "关联记忆",
+        "bridgeC": "好き=喜欢"
+      }
+    ],
+    "mergedScene": "喜欢已经不够了，要把喜欢放大，就是大好き。看到喜欢的拉面，你眼睛都亮了。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "だいすき - 大=だい，好き=喜欢 - 把喜欢放大 - 非常喜欢",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "日本の映画が大好きです。",
+        "zh": "我非常喜欢日本电影。"
+      }
+    ]
+  },
+  {
+    "word": "大切",
+    "reading": "たいせつ",
+    "meaning": "重要的",
+    "elements": [
+      {
+        "element": "大",
+        "method": "固定读音",
+        "bridgeC": "大这里读たい"
+      },
+      {
+        "element": "切",
+        "method": "固定读音",
+        "bridgeC": "切经常读せつ，这个以后很多单词会见到"
+      },
+      {
+        "element": "たいせつ",
+        "method": "TYPE B2",
+        "bridgeC": "たいせつ→太细致；重要的东西要太细致地对待"
+      }
+    ],
+    "mergedScene": "重要文件不能乱放，要太细致(たいせつ)地保存、检查、保护。切经常读せつ，先记住。大切=重要的、珍贵的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たいせつ - 切经常读“せつ” - 重要的东西要太细致地对待 - 重要的/珍贵的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "家族は大切です。",
+        "zh": "家人很重要。"
+      }
+    ]
+  },
+  {
+    "word": "台所",
+    "reading": "だいどころ",
+    "meaning": "厨房",
+    "elements": [
+      {
+        "element": "台",
+        "method": "TYPE A1",
+        "bridgeC": "台=灶台、台面"
+      },
+      {
+        "element": "所",
+        "method": "关联记忆",
+        "bridgeC": "所=ところ，前面用“偷可乐”记过地方"
+      },
+      {
+        "element": "だいどころ",
+        "method": "TYPE B2",
+        "bridgeC": "だいどころ→打一桶可乐；小孩经常去厨房偷可乐，现在打一桶可乐藏厨房"
+      }
+    ],
+    "mergedScene": "前面ところ记过“偷可乐”。现在小孩跑进厨房，打一桶可乐(だいどころ)藏在灶台旁。台所=厨房。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "だいどころ - 谐音“打一桶可乐” - 结合ところ“偷可乐”，小孩经常去厨房偷可乐 - 厨房",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "母は台所にいます。",
+        "zh": "妈妈在厨房。"
+      }
+    ]
+  },
+  {
+    "word": "たいへん",
+    "reading": "たいへん",
+    "meaning": "非常、辛苦",
+    "elements": [
+      {
+        "element": "たいへん",
+        "method": "TYPE B2",
+        "bridgeC": "たいへん→太狠；事情太狠了，既非常严重又很辛苦"
+      }
+    ],
+    "mergedScene": "老板临下班又塞来一堆工作，你看着文件说：太狠(たいへん)了，今天真辛苦。たいへん=非常、辛苦。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たいへん - 谐音“太狠” - 工作太狠了，非常辛苦 - 非常/辛苦",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "今日はたいへんでした。",
+        "zh": "今天很辛苦。"
+      }
+    ]
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "meaning": "高的、贵的",
+    "elements": [
+      {
+        "element": "高",
+        "method": "TYPE A1",
+        "bridgeC": "高=高，也可指价格高"
+      },
+      {
+        "element": "たかい",
+        "method": "TYPE B2",
+        "bridgeC": "たかい→抬高；把价格抬高，就是贵"
+      }
+    ],
+    "mergedScene": "商家把价格一路抬高(たかい)，你抬头看价签，既高又贵。高い=高的、贵的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たかい - 谐音“抬高” - 价格被抬高，所以又高又贵 - 高的/贵的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "この時計は高いです。",
+        "zh": "这块表很贵。"
+      }
+    ]
+  },
+  {
+    "word": "たくさん",
+    "reading": "たくさん",
+    "meaning": "很多",
+    "elements": [
+      {
+        "element": "たくさん",
+        "method": "TYPE B2",
+        "bridgeC": "たくさん→他库衫；他的仓库里堆了很多衫"
+      }
+    ],
+    "mergedScene": "打开他的仓库，里面全是衣衫：他库衫(たくさん)太多了。たくさん=很多。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たくさん - 谐音“他库衫” - 他的仓库里有很多衣衫 - 很多",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "人がたくさんいます。",
+        "zh": "有很多人。"
+      }
+    ]
+  },
+  {
+    "word": "タクシー",
+    "reading": "タクシー",
+    "meaning": "出租车",
+    "elements": [
+      {
+        "element": "タクシー",
+        "method": "外来语",
+        "bridgeC": "来自英语 taxi，出租车"
+      },
+      {
+        "element": "シー",
+        "method": "对比记忆",
+        "bridgeC": "长音ー拖长，像出租车开远时声音拉长"
+      }
+    ],
+    "mergedScene": "路边一招手，taxi 停下来，日语就是タクシー。出租车开走时“シー”拖得很长。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "タクシー - 外来语 taxi - 路边招手坐出租车 - 出租车",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "タクシーで帰ります。",
+        "zh": "坐出租车回去。"
+      }
+    ]
+  },
+  {
+    "word": "出す",
+    "reading": "だす",
+    "meaning": "拿出、取出",
+    "elements": [
+      {
+        "element": "出",
+        "method": "TYPE A1",
+        "bridgeC": "出=出来、拿出来"
+      },
+      {
+        "element": "だす",
+        "method": "TYPE B2",
+        "bridgeC": "だす→打死；抢劫犯逼人把财宝拿出来"
+      },
+      {
+        "element": "出る/出す",
+        "method": "对比记忆",
+        "bridgeC": "出る=自己出去；出す=把东西拿出去/拿出"
+      }
+    ],
+    "mergedScene": "极端故事里，抢劫犯逼人交出财宝，对方死活不愿意给，最后抢劫犯气急败坏，才把财宝拿出来。だす像“打死”，记住出す=拿出。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "だす - 谐音“打死” - 抢劫时对方不愿意给，最后才拿出财宝 - 拿出/取出\n🔗 出る=出去；出す=拿出。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "かばんから本を出します。",
+        "zh": "从包里拿出书。"
+      }
+    ]
+  },
+  {
+    "word": "立つ",
+    "reading": "たつ",
+    "meaning": "站",
+    "elements": [
+      {
+        "element": "立",
+        "method": "TYPE A1",
+        "bridgeC": "立=站立"
+      },
+      {
+        "element": "たつ/たて",
+        "method": "对比记忆",
+        "bridgeC": "たて就是たつ站起来的样子；站起来就变成竖起来的东西"
+      }
+    ],
+    "mergedScene": "一个人从椅子上立つ(たつ)站起来，身体立刻变成一条竖线。和たて一起记：站起来的样子就是竖。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "たつ - 立=站 - 和たて一起记，站起来就变成竖起来的东西 - 站",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ここに立ってください。",
+        "zh": "请站在这里。"
+      }
+    ]
+  },
+  {
+    "word": "たて",
+    "reading": "たて",
+    "meaning": "纵、竖",
+    "elements": [
+      {
+        "element": "たて",
+        "method": "对比记忆",
+        "bridgeC": "たて就是たつ站起来后的竖直状态"
+      },
+      {
+        "element": "たて/よこ",
+        "method": "关联记忆",
+        "bridgeC": "たて=竖，よこ=横"
+      }
+    ],
+    "mergedScene": "人一たつ站起来，身体就是たて竖起来的线。写字也一样，竖着写就是たて。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "たて - 和たつ一起记 - たて就是たつ站起来的样子，站起来就变成竖起来的东西 - 纵/竖",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "名前をたてに書きます。",
+        "zh": "把名字竖着写。"
+      }
+    ]
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning": "建筑物",
+    "elements": [
+      {
+        "element": "建",
+        "method": "关联记忆",
+        "bridgeC": "建てる=建造，たて表示建起来"
+      },
+      {
+        "element": "物",
+        "method": "固定读音",
+        "bridgeC": "物=もの，东西"
+      },
+      {
+        "element": "建物",
+        "method": "拆分记忆",
+        "bridgeC": "建起来的东西就是建筑物"
+      }
+    ],
+    "mergedScene": "工人把钢筋水泥一点点建起来，最后变成一个巨大的东西。建てる的物(もの)=建物，建筑物。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "たてもの - 建てる=建造，物=もの - 建起来的东西 - 建筑物",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "あの建物は高いです。",
+        "zh": "那栋建筑很高。"
+      }
+    ]
+  }
+]

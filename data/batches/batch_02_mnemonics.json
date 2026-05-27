@@ -1,0 +1,529 @@
+[
+  {
+    "word": "あれ",
+    "reading": "あれ",
+    "meaning": "那个（远处的事物）",
+    "elements": [
+      {"element": "あれ", "method": "TYPE B2-1n", "bridgeC": "あれ→阿来→远处来了一个人，你指着远处说'阿，来了'，指的就是远处的'那个'"}
+    ],
+    "mergedScene": "你站在路边，远处走来一个人影，你用手指着远方对朋友大喊：'阿！来了！'——你指着远处的东西就是'那个'(あれ)，离你很远很远。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "あれ→阿来→远处的那个人→那个（远处指示代词）",
+    "difficultyStars": 1
+  },
+  {
+    "word": "いい",
+    "reading": "いい",
+    "meaning": "好的",
+    "elements": [
+      {"element": "いい", "method": "TYPE B1-2n", "bridgeC": "い的形状像一根竖线站得笔直，两个い并排像两个人开心地竖起大拇指→都竖大拇指=好的"}
+    ],
+    "mergedScene": "你问朋友饭菜好不好吃，两个人同时竖起大拇指(い的形状像竖大拇指)，连说两声'好！好！'——いい就是'好的'的意思。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "いい→两个い(竖大拇指)→好！好！→好的",
+    "difficultyStars": 1
+  },
+  {
+    "word": "よい",
+    "reading": "よい",
+    "meaning": "好的（いい的书面语）",
+    "elements": [
+      {"element": "よ", "method": "TYPE B1-1n", "bridgeC": "よ的形状像一个跳跃的人形（ヨ形）正在欢呼跳跃→开心=好"}
+    ],
+    "mergedScene": "老师宣布考试成绩，你一看分数优秀，兴奋地跳了起来（よ的形状像跳跃的人），连声说'好！'——よい是いい的正式书面说法，也是'好的'。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "よ→人形跳跃欢呼→好！よい=いい的正式版",
+    "difficultyStars": 1
+  },
+  {
+    "word": "いいえ",
+    "reading": "いいえ",
+    "meaning": "不、不是",
+    "elements": [
+      {"element": "いいえ", "method": "TYPE B2-1n", "bridgeC": "いいえ→衣衣诶→衣服上的衣领歪了，别人问好不好看，你连连摆手说'衣衣诶？不不不！'"}
+    ],
+    "mergedScene": "朋友问你这件衣服好不好看，你低头一看衣领都歪到一边了(いいえ→衣衣诶)，赶紧连连摆手说'不不不，不好看！'——いいえ就是'不、不是'的客气说法。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "いいえ→衣衣诶→衣服歪了连连摆手→不！不是！",
+    "difficultyStars": 1
+  },
+  {
+    "word": "言う",
+    "reading": "いう",
+    "meaning": "说",
+    "elements": [
+      {"element": "い", "method": "TYPE B2-1n", "bridgeC": "い→一→一句话"},
+      {"element": "う", "method": "TYPE B2-1n", "bridgeC": "う→呜→呜呜说话的声音"},
+      {"element": "言", "method": "TYPE A1-1n", "bridgeC": "言(ゲン)→言字旁直接就是'说话'的意思，汉字本身就告诉你答案"}
+    ],
+    "mergedScene": "一个人张着嘴说了一句话(い→一)，说到激动处呜呜哭了起来(う→呜)，旁边的言字旁(言)在提醒你：这个字就是'说'的意思——言う=说。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "言→说(汉字直认)；いう→一句话呜呜地说→说",
+    "difficultyStars": 1
+  },
+  {
+    "word": "家",
+    "reading": "いえ",
+    "meaning": "房子、家、家庭",
+    "elements": [
+      {"element": "家", "method": "TYPE A1-1n", "bridgeC": "家(カ/ケ)→汉字'家'本身就有房子、家庭的意思，屋顶(宀)下养着猪(豕)=安居的家"},
+      {"element": "いえ", "method": "TYPE B2-2n", "bridgeC": "いえ→以哀→以哀伤的心情回到自己的家，家是避风港"}
+    ],
+    "mergedScene": "你在异乡漂泊很久，带着哀伤的心情(いえ→以哀)终于回到了那个屋顶下养猪的温暖小屋(家=宀+豕)——这就是你的'家'(いえ)。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "家→宀+豕=有屋顶有猪=家；いえ→以哀→带着感情回家",
+    "difficultyStars": 1
+  },
+  {
+    "word": "いかが",
+    "reading": "いかが",
+    "meaning": "如何、怎样",
+    "elements": [
+      {"element": "いか", "method": "TYPE B2-1n", "bridgeC": "いか→乌贼(イカ)→一只乌贼从水里探出头，歪着脑袋看你"},
+      {"element": "が", "method": "TYPE B2-1n", "bridgeC": "が→嘎→乌贼嘎嘎地发出疑问声"},
+      {"element": "如何", "method": "TYPE A1-1n", "bridgeC": "如(ニョ)+何(カ)→汉字'如何'直接就是'怎样'的意思"}
+    ],
+    "mergedScene": "一只乌贼(いか)从水里探出头，嘎嘎(が)叫着歪着脑袋问你：'你觉得我今天怎么样？'——这只乌贼在问'如何、怎样'(いかが)，汉字写作'如何'。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "いかが→乌贼嘎嘎问→如何？怎样？汉字'如何'直认",
+    "difficultyStars": 1
+  },
+  {
+    "word": "行く",
+    "reading": "いく",
+    "meaning": "去",
+    "elements": [
+      {"element": "行", "method": "TYPE A1-1n", "bridgeC": "行(コウ)→汉字'行'本身就有'行走、前往'的意思，十字路口=迈步走"},
+      {"element": "く", "method": "TYPE B2-1n", "bridgeC": "く→苦→'去'的路上很辛苦"}
+    ],
+    "mergedScene": "你背起行囊站在十字路口(行)，准备出发去远方，虽然前路辛苦(く→苦)，但你还是要'去'(行く)——行く=去。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "行→十字路口=去走；いく→行+苦→去(的路上很苦)",
+    "difficultyStars": 1
+  },
+  {
+    "word": "いくつ",
+    "reading": "いくつ",
+    "meaning": "几个、几岁",
+    "elements": [
+      {"element": "いく", "method": "TYPE B7-1n", "bridgeC": "いく→行く的连用形→一边走着一边数数"},
+      {"element": "つ", "method": "TYPE B2-1n", "bridgeC": "つ→刺→用刺记号来计数"}
+    ],
+    "mergedScene": "小孩一边走着(いく→行く)一边伸出手指，用指头戳(つ→刺)着数数：'一个、两个、三个……'——一边走着数，问的是'几个？'(いくつ)，也可以问小朋友'几岁了？'",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "いくつ→行く+刺→走着用手指戳着数数→几个？几岁？",
+    "difficultyStars": 2
+  },
+  {
+    "word": "いくら",
+    "reading": "いくら",
+    "meaning": "多少钱",
+    "elements": [
+      {"element": "いく", "method": "TYPE B7-1n", "bridgeC": "いく→行く→走到收银台前"},
+      {"element": "ら", "method": "TYPE B2-1n", "bridgeC": "ら→拉→拉出钱包来付钱"}
+    ],
+    "mergedScene": "你走到收银台前(いく→行く)，拉开钱包(ら→拉)准备付钱，问店员：'这个多少钱？'——いくら=多少钱，购物必备词！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "いくら→行く+拉→走到柜台拉开钱包→多少钱？",
+    "difficultyStars": 1
+  },
+  {
+    "word": "池",
+    "reading": "いけ",
+    "meaning": "水池、池塘",
+    "elements": [
+      {"element": "池", "method": "TYPE A1-1n", "bridgeC": "池(チ)→汉字'池'左边是水(氵)，右边是也，有水的地方就是水池"},
+      {"element": "いけ", "method": "TYPE B2-2n", "bridgeC": "いけ→一口→俯身凑到池塘边喝一大口水"}
+    ],
+    "mergedScene": "炎热的夏天你找到一口(いけ)清澈的水池(池=氵+也)，开心地俯身喝了一大口水——いけ=池=水池。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "池→氵+也=有水的地方；いけ→一口(喝水)→水池边喝水",
+    "difficultyStars": 1
+  },
+  {
+    "word": "医者",
+    "reading": "いしゃ",
+    "meaning": "医生",
+    "elements": [
+      {"element": "医", "method": "TYPE A1-1n", "bridgeC": "医(イ)→汉字'医'里面有矢(箭)，古代用箭做手术=医治"},
+      {"element": "者", "method": "TYPE A1-1n", "bridgeC": "者(シャ)→汉字'者'表示'……的人'，医+者=医治的人=医生"},
+      {"element": "いしゃ", "method": "TYPE B2-2n", "bridgeC": "いしゃ→医院→医院里有医生"}
+    ],
+    "mergedScene": "你生病了，跑到医院(いしゃ)去看病，穿着白大褂的医生拿着一支箭(医里面有矢)说'别怕，我就是那个医治的人(者)'——医者=医生。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "医+者→医治的人=医生；いしゃ→医院→去医院看医生",
+    "difficultyStars": 1
+  },
+  {
+    "word": "いす",
+    "reading": "いす",
+    "meaning": "椅子",
+    "elements": [
+      {"element": "いす", "method": "TYPE B2-2n", "bridgeC": "いす→椅子上坐着一个人(い的形状像人坐着)，手扶着椅背→椅子的画面"}
+    ],
+    "mergedScene": "你看，い的形状就像一个人坐在椅子上，后面撑着靠背，ス的形状就像椅子的两条腿——拼在一起就是一把椅子(いす)，快坐下来休息吧！",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "い(人坐着)+す(椅腿)→椅子=いす",
+    "difficultyStars": 1
+  },
+  {
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "meaning": "忙的",
+    "elements": [
+      {"element": "忙", "method": "TYPE A1-1n", "bridgeC": "忙(ボウ)→汉字'忙'左边是心(忄)，右边是亡，心都快死了=忙"},
+      {"element": "いそが", "method": "TYPE B2-3n", "bridgeC": "いそが→以梭割→用梭子拼命割布，手忙脚乱"},
+      {"element": "しい", "method": "TYPE A4-1n", "bridgeC": "しい→常见的い形容词词尾，表示状态"}
+    ],
+    "mergedScene": "工厂里的老奶奶用梭子拼命割着布料(いそが→以梭割)，心里焦急得要死(忙=忄+亡，心都亡了)，忙得不可开交——忙しい=忙的，心都忙死了！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "忙→忄+亡=心死了=忙；いそがしい→以梭割布→手忙脚乱=忙しい",
+    "difficultyStars": 2
+  },
+  {
+    "word": "痛い",
+    "reading": "いたい",
+    "meaning": "疼的、痛的",
+    "elements": [
+      {"element": "痛", "method": "TYPE A1-1n", "bridgeC": "痛(ツウ)→汉字'痛'疒(病字旁)+甬，生病了当然痛"},
+      {"element": "いたい", "method": "TYPE B2-2n", "bridgeC": "いたい→一太→被人打了一大拳，一拳太重了，好痛！"}
+    ],
+    "mergedScene": "你被人狠狠打了一大拳(いたい→一太)，那一拳太重了！你捂着伤处喊'痛痛痛！'(痛=疒+甬，病了就痛)——痛い=疼的。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "痛→疒+甬=生病就痛；いたい→一太(一拳太重)→好痛！痛い",
+    "difficultyStars": 1
+  },
+  {
+    "word": "一",
+    "reading": "いち",
+    "meaning": "一",
+    "elements": [
+      {"element": "一", "method": "TYPE A1-1n", "bridgeC": "一(イチ)→汉字'一'就是横着的一笔，表示数字1，与いち同源"},
+      {"element": "いち", "method": "TYPE B2-2n", "bridgeC": "いち→一池→一池子水，独一无二的第一池"}
+    ],
+    "mergedScene": "你站在山顶往下看，只有一池(いち)水，独一无二——いち=一，最简单也最重要的数字。",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "一→いち→一池(只有一池)→数字1",
+    "difficultyStars": 1
+  },
+  {
+    "word": "一日",
+    "reading": "いちにち",
+    "meaning": "一天",
+    "elements": [
+      {"element": "一", "method": "TYPE A1-1n", "bridgeC": "一(イチ)→数字一"},
+      {"element": "日", "method": "TYPE A1-1n", "bridgeC": "日(ニチ/ジツ)→汉字'日'就是太阳，太阳升起落下=一天"},
+      {"element": "にち", "method": "TYPE B2-1n", "bridgeC": "にち→你吃→你吃一日三餐，吃完就是一天"}
+    ],
+    "mergedScene": "太阳(日)从东边升起到西边落下，这一(一)整个过程中你吃了三餐饭(にち→你吃)——一个太阳周期+三顿饭=一日(いちにち)=一天。",
+    "sceneScore": {"specific": true, "emotional": false, "personal": true, "total": 2},
+    "reviewTip": "一+日→一个太阳周期；にち→你吃→一天吃三顿=一天",
+    "difficultyStars": 2
+  },
+  {
+    "word": "いちばん",
+    "reading": "いちばん",
+    "meaning": "第一、最好、最",
+    "elements": [
+      {"element": "いち", "method": "TYPE B7-1n", "bridgeC": "いち→一→排名第一就是一"},
+      {"element": "ばん", "method": "TYPE B2-1n", "bridgeC": "ばん→班→第一名在班长位置上"},
+      {"element": "一番", "method": "TYPE A1-1n", "bridgeC": "一番(イチバン)→汉字'一番'在日语中就是'第一、最好'的意思"}
+    ],
+    "mergedScene": "比赛结束，你站在领奖台第一名(いち)的位置，像班长(ばん)一样骄傲——你就是いちばん(一番/第一/最棒的)！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "いち(一)+ばん(班)→第一名像班长→一番=第一/最棒",
+    "difficultyStars": 1
+  },
+  {
+    "word": "いつ",
+    "reading": "いつ",
+    "meaning": "什么时候",
+    "elements": [
+      {"element": "いつ", "method": "TYPE B2-2n", "bridgeC": "いつ→椅子→你坐在椅子上一直等，等到什么时候人才来？"}
+    ],
+    "mergedScene": "你在车站的椅子(いつ)上坐了很久，等朋友来，你不停地看手表嘟囔：'什么时候才到啊？'——いつ=什么时候，就像你坐在椅子上焦急等待的样子。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "いつ→椅子→坐在椅子上等→什么时候？",
+    "difficultyStars": 1
+  },
+  {
+    "word": "五日",
+    "reading": "いつか",
+    "meaning": "五号、五天",
+    "elements": [
+      {"element": "五", "method": "TYPE A1-1n", "bridgeC": "五(ゴ)→汉字'五'直接表示数字5"},
+      {"element": "日", "method": "TYPE A1-1n", "bridgeC": "日(ニチ/カ)→日期的'日'，但在此读作か(カ)"},
+      {"element": "いつか", "method": "TYPE B6-1n", "bridgeC": "いつか与'いつ(什么时候)'同音！五日=某一天=いつか，巧妙双关"}
+    ],
+    "mergedScene": "日历翻到五号(五日)，你突然想起今天有个重要约会——'什么时候？就是いつか(五日)！'——いつか既是'五号/五天'，也和'いつ(什么时候)'谐音，仿佛在说'就是这一天！'",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "五+日→五号(特殊读音か)；いつか=いつ(何时)+か→就在那一天(五号)",
+    "difficultyStars": 2
+  },
+  {
+    "word": "一緒",
+    "reading": "いっしょ",
+    "meaning": "一起、同样的",
+    "elements": [
+      {"element": "一", "method": "TYPE A1-1n", "bridgeC": "一(イッ)→数字一，表示合为一起"},
+      {"element": "緒", "method": "TYPE A1-1n", "bridgeC": "緒(ショ)→汉字'緒'是丝线头，把丝线头绑在一起=一起"},
+      {"element": "いっしょ", "method": "TYPE B2-3n", "bridgeC": "いっしょ→一绪→中文'一绪'就是'一起'的意思，完全对应！"}
+    ],
+    "mergedScene": "朋友过生日，你们把所有丝线的线头(緒)绑成一(一)个结，大家拉着手喊'一绪！一绪！'(いっしょ)——一绪=一起=一緒，中文谐音完美对应！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "一+緒(丝线头)→绑在一起；いっしょ→一绪(中文)→一起！",
+    "difficultyStars": 1
+  },
+  {
+    "word": "五つ",
+    "reading": "いつつ",
+    "meaning": "五个",
+    "elements": [
+      {"element": "五", "method": "TYPE A1-1n", "bridgeC": "五(イツ)→汉字'五'表示数字5"},
+      {"element": "つ", "method": "TYPE A4-1n", "bridgeC": "つ→日语中表示物品个数的通用助数词，五つ=五个物品"},
+      {"element": "いつつ", "method": "TYPE B2-2n", "bridgeC": "いつつ→椅子坐→五把椅子坐满了五个人"}
+    ],
+    "mergedScene": "教室里有五把椅子(いつつ→椅子坐)，五把椅子上坐满了五个小朋友——いつつ=五つ=五个。",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "五+つ(个数助词)→五个；いつつ→椅子坐五把→五个",
+    "difficultyStars": 2
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "meaning": "总是、一直",
+    "elements": [
+      {"element": "いつ", "method": "TYPE B7-1n", "bridgeC": "いつ→什么时候→无论什么时候"},
+      {"element": "も", "method": "TYPE A3-1n", "bridgeC": "も→也→也+无论什么时候=无论何时都=总是"}
+    ],
+    "mergedScene": "不管什么时候(いつ)，你的小狗も(也)会在门口等你回家——无论是早上、中午还是晚上，它总是在(いつも)那里等你。いつ+も=无论何时都=总是。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "いつ(何时)+も(也)→无论何时都→总是(いつも)",
+    "difficultyStars": 1
+  },
+  {
+    "word": "犬",
+    "reading": "いぬ",
+    "meaning": "狗",
+    "elements": [
+      {"element": "犬", "method": "TYPE A1-1n", "bridgeC": "犬(ケン)→汉字'犬'就是狗，上面大下面一点，像一只狗蹲着摇尾巴"},
+      {"element": "いぬ", "method": "TYPE B2-2n", "bridgeC": "いぬ→以怒→狗总是以怒吼来叫唤，汪汪汪！"}
+    ],
+    "mergedScene": "一只狗(犬)蹲在大门口，一点(犬下面的点)像它摇动的尾巴，见人就以怒吼(いぬ)相迎——いぬ=犬=狗，又凶又萌！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "犬→大+点=狗(蹲着摇尾巴)；いぬ→以怒(狗叫)→狗",
+    "difficultyStars": 1
+  },
+  {
+    "word": "今",
+    "reading": "いま",
+    "meaning": "现在、当前",
+    "elements": [
+      {"element": "今", "method": "TYPE A1-1n", "bridgeC": "今(コン)→汉字'今'下面是'曰'上面是'人'，人站在当前说话=现在"},
+      {"element": "いま", "method": "TYPE B2-2n", "bridgeC": "いま→已满→时间已经满了，就是现在这个时刻"}
+    ],
+    "mergedScene": "你看着沙漏里的沙子已经满了(いま→已满)，人(今的上面)站在这时刻曰(今的下面)道：'就是现在！'(今/いま)——时间已满，就是此刻。",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "今→人+曰(站在当前说话)=现在；いま→已满(时间到了)→现在",
+    "difficultyStars": 1
+  },
+  {
+    "word": "意味",
+    "reading": "いみ",
+    "meaning": "意思、意义",
+    "elements": [
+      {"element": "意", "method": "TYPE A1-1n", "bridgeC": "意(イ)→汉字'意'上面是音下面是心，心中的声音=意思/心意"},
+      {"element": "味", "method": "TYPE A1-1n", "bridgeC": "味(ミ)→汉字'味'左边口右边未，口中的滋味=味道/意味"},
+      {"element": "いみ", "method": "TYPE B2-2n", "bridgeC": "いみ→一米→一段话的意思就差这一米的距离"}
+    ],
+    "mergedScene": "你读一本书，想弄懂其中的意思(意味)，心中的声音(意=音+心)告诉你：品味(味)其中的含义，就像走完最后的一米(いみ)路程——いみ=意味=意思。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "意(心中声音)+味(口之滋味)→意味；いみ→一米(最后一段理解)→意思",
+    "difficultyStars": 2
+  },
+  {
+    "word": "妹",
+    "reading": "いもうと",
+    "meaning": "妹妹",
+    "elements": [
+      {"element": "妹", "method": "TYPE A1-1n", "bridgeC": "妹(マイ)→汉字'妹'左边女右边未，未长大的女子=妹妹"},
+      {"element": "いもうと", "method": "TYPE B2-4n", "bridgeC": "いもうと→以某头→以某个小女孩的头(圆圆的)来认妹妹；うと→又淘→妹妹又淘气了"}
+    ],
+    "mergedScene": "你家那个又淘气(うと→又淘)的小女孩，圆圆的小脑袋(いもう→以某头)蹦蹦跳跳跑过来叫你哥哥——那就是你的妹妹(妹/いもうと)！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "妹→女+未(未长大)=妹妹；いもうと→以某头+又淘→那个又淘气的小脑袋=妹妹",
+    "difficultyStars": 2
+  },
+  {
+    "word": "嫌",
+    "reading": "いや",
+    "meaning": "讨厌的、不喜欢的",
+    "elements": [
+      {"element": "嫌", "method": "TYPE A1-1n", "bridgeC": "嫌(ケン)→汉字'嫌'左边女右边兼，一个女人兼有各种不满=嫌弃"},
+      {"element": "いや", "method": "TYPE B2-2n", "bridgeC": "いや→哎呀→吃到难吃的东西发出'哎呀'一声，满脸嫌弃"}
+    ],
+    "mergedScene": "妈妈端来一盘苦瓜，你尝了一口，'哎呀！'(いや)太难吃了，满脸嫌弃地推开——いや=嫌=讨厌的、不喜欢的，一声'哎呀'就表达了一切不满。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "嫌→女+兼(不满)=嫌弃；いや→哎呀(难吃)→讨厌！",
+    "difficultyStars": 2
+  },
+  {
+    "word": "入口",
+    "reading": "いりぐち",
+    "meaning": "入口",
+    "elements": [
+      {"element": "入", "method": "TYPE A1-1n", "bridgeC": "入(ニュウ)→汉字'入'像一个箭头往里走=进入"},
+      {"element": "口", "method": "TYPE A1-1n", "bridgeC": "口(グチ/クチ)→汉字'口'像一个张开的嘴巴=门口"},
+      {"element": "いりぐち", "method": "TYPE B2-3n", "bridgeC": "いりぐち→入里去→从入口进去里面"}
+    ],
+    "mergedScene": "你来到商场大门口，上面写着大大的'入口'(入+口)，箭头往里指(入的形状)，你迈步'入里去'(いりぐち)——いりぐち=入口=进去的门口。",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "入(进入)+口(门口)→入口；いりぐち→入里去→入口",
+    "difficultyStars": 1
+  },
+  {
+    "word": "居る",
+    "reading": "いる",
+    "meaning": "在（有生命的东西）",
+    "elements": [
+      {"element": "居", "method": "TYPE A1-1n", "bridgeC": "居(キョ)→汉字'居'尸+古，像古人安居在家=居住/存在"},
+      {"element": "いる", "method": "TYPE B2-2n", "bridgeC": "いる→入了→活物进入了房间，所以在里面"}
+    ],
+    "mergedScene": "你推开门，发现小猫已经入了(いる)房间，安居在沙发上(居=尸+古)——有生命的动物居'在'某处，用いる表示'在'(いる)，和死物(ある)不同！",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "いる→入了(活物进入房间)→在(有生命)；对比：ある=无生命在",
+    "difficultyStars": 2
+  },
+  {
+    "word": "要る",
+    "reading": "いる",
+    "meaning": "需要",
+    "elements": [
+      {"element": "要", "method": "TYPE A1-1n", "bridgeC": "要(ヨウ)→汉字'要'西+女，像女子双手张开要东西=需要"},
+      {"element": "いる", "method": "TYPE B6-1n", "bridgeC": "いる与居る同音！居る=在，要る=需要，同音不同义，注意区分"}
+    ],
+    "mergedScene": "你双手张开像汉字'要'(西+女)一样喊：'我需要这个！'(要る/いる)——要る和居る都读いる，但一个说'需要'，一个说'在'。记住：需要时双手张开'要'！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "要る=需要(张开手要东西)；居る=在(活物进入)；同音いる须区分",
+    "difficultyStars": 2
+  },
+  {
+    "word": "入れる",
+    "reading": "いれる",
+    "meaning": "放入、装入",
+    "elements": [
+      {"element": "入", "method": "TYPE A1-1n", "bridgeC": "入(ニュウ/イ)→汉字'入'箭头往里=放进去"},
+      {"element": "れる", "method": "TYPE A4-1n", "bridgeC": "れる→动词可能的助动词后缀，表示能够做某事；此处入れる是'入る'的他动词"}
+    ],
+    "mergedScene": "你打开冰箱，把买来的饮料放进去(入れる)——入+れる=使之入=放入、装入。箭头(入)指向冰箱内部，レる让你能放进去。",
+    "sceneScore": {"specific": true, "emotional": false, "personal": true, "total": 2},
+    "reviewTip": "入+れる(使之)→使之进入→放入；对比：入る(自动)=进；入れる(他动)=放入",
+    "difficultyStars": 2
+  },
+  {
+    "word": "色",
+    "reading": "いろ",
+    "meaning": "颜色",
+    "elements": [
+      {"element": "色", "method": "TYPE A1-1n", "bridgeC": "色(ショク)→汉字'色'上面刀下面巴，用刀切出各种花样=色彩缤纷"},
+      {"element": "いろ", "method": "TYPE B2-2n", "bridgeC": "いろ→衣落→衣服上掉落了各种颜色的颜料，五颜六色"}
+    ],
+    "mergedScene": "你正在画画，不小心衣服上(いろ→衣落)掉落了红色、蓝色、黄色各种颜料(色=刀+巴)——五颜六色染满衣服，いろ=色=颜色。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "色→刀+巴(花样多)=颜色；いろ→衣落(衣服掉颜料)→颜色",
+    "difficultyStars": 1
+  },
+  {
+    "word": "いろいろ",
+    "reading": "いろいろ",
+    "meaning": "各种各样的",
+    "elements": [
+      {"element": "いろ", "method": "TYPE B7-1n", "bridgeC": "いろ→色→颜色"},
+      {"element": "いろいろ", "method": "TYPE B2-3n", "bridgeC": "いろいろ→色落色落→各种颜色不断掉落，五花八门"}
+    ],
+    "mergedScene": "天上的彩虹各种颜色(いろ)不断掉落(いろいろ→色落色落)，红橙黄绿青蓝紫，各种各样的颜色洒满大地——いろいろ=各种各样的，就像彩虹掉色一样丰富多彩！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "いろ(色)+いろ(色)→色落色落→各种各样的颜色掉落→各种各样的",
+    "difficultyStars": 1
+  },
+  {
+    "word": "上",
+    "reading": "うえ",
+    "meaning": "上面、上方",
+    "elements": [
+      {"element": "上", "method": "TYPE A1-1n", "bridgeC": "上(ジョウ)→汉字'上'下面一横是地面，竖和短横指向上方=上面"},
+      {"element": "うえ", "method": "TYPE B2-2n", "bridgeC": "うえ→上面→うえ直译就是'上面'，与中文完全一致！"}
+    ],
+    "mergedScene": "你站在山脚下，抬头看着山'上面'(上)，汉字'上'就像一根手指(丨)指着地平线(一)的上方——うえ=上=上面，发音和中文'上'概念相同！",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "上→手指指上方=上面；うえ→上面(概念直通中文)",
+    "difficultyStars": 1
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "meaning": "后面、背后",
+    "elements": [
+      {"element": "後", "method": "TYPE A1-1n", "bridgeC": "後(コウ/ゴ)→汉字'後'右边是'彳'(走)+'幺'(丝)'|'，走得慢落在后面=后面"},
+      {"element": "ろ", "method": "TYPE A4-1n", "bridgeC": "ろ→名词后缀'ろ'，像ろ的形状代表弯路(走了弯路就在后面)"},
+      {"element": "うしろ", "method": "TYPE B2-3n", "bridgeC": "うしろ→牛失落→牛走丢了落在队伍后面"}
+    ],
+    "mergedScene": "赶集的时候，你的牛(うし)走丢了落在队伍后面(ろ→弯路绕远了)，你回头一看，牛在'后面'(後ろ/うしろ)——うしろ=後ろ=后面。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "後→走路慢落在后面；うしろ→牛失(牛走丢)→落在后面=後ろ",
+    "difficultyStars": 2
+  },
+  {
+    "word": "薄い",
+    "reading": "うすい",
+    "meaning": "薄的（颜色、味道淡）",
+    "elements": [
+      {"element": "薄", "method": "TYPE A1-1n", "bridgeC": "薄(ハク)→汉字'薄'艹+溥，草很少很稀=薄"},
+      {"element": "うすい", "method": "TYPE B2-3n", "bridgeC": "うすい→乌碎→乌鸦的羽毛很薄很碎，一吹就散"}
+    ],
+    "mergedScene": "你抓起一把乌鸦(う)的羽毛，发现羽毛又碎(すい)又薄，轻轻一吹就飞散了——うすい=薄い=薄的，乌鸦碎羽=又薄又脆！",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "薄→艹+溥(草少)=薄；うすい→乌碎(乌鸦碎羽)→薄い",
+    "difficultyStars": 2
+  },
+  {
+    "word": "歌",
+    "reading": "うた",
+    "meaning": "歌、歌曲",
+    "elements": [
+      {"element": "歌", "method": "TYPE A1-1n", "bridgeC": "歌(カ)→汉字'歌'左边'哥'右边'欠'，哥哥欠一首歌要唱给你听"},
+      {"element": "うた", "method": "TYPE B2-2n", "bridgeC": "うた→乌塔→乌鸦站在塔上唱歌，呱呱呱"}
+    ],
+    "mergedScene": "一只乌鸦站在高塔(うた→乌塔)上放声歌唱(歌=哥+欠)，你哥哥欠你一首歌——うた=歌=歌曲，乌鸦在塔上唱的歌。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "歌→哥+欠(哥哥欠一首歌)=歌；うた→乌塔(乌鸦塔上唱)→歌",
+    "difficultyStars": 1
+  },
+  {
+    "word": "歌う",
+    "reading": "うたう",
+    "meaning": "唱歌",
+    "elements": [
+      {"element": "歌", "method": "TYPE A1-1n", "bridgeC": "歌(カ)→汉字'歌'=歌曲"},
+      {"element": "う", "method": "TYPE A4-1n", "bridgeC": "う→五段动词词尾，表示动作进行"}
+    ],
+    "mergedScene": "KTV包间里，你和哥哥(歌=哥+欠)一起拿起话筒唱(う)了一首歌——歌う=唱歌，歌(うた)+う(动作)。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "歌(うた)是名词'歌'，加う变成动词歌う=唱歌",
+    "difficultyStars": 1
+  },
+  {
+    "word": "生まれる",
+    "reading": "うまれる",
+    "meaning": "出生、诞生",
+    "elements": [
+      {"element": "生", "method": "TYPE A1-1n", "bridgeC": "生(セイ)→汉字'生'像草木从土里长出来=出生/生命"},
+      {"element": "うまれ", "method": "TYPE B2-3n", "bridgeC": "うまれ→马→婴儿像小马驹一样出生，哇哇落地"},
+      {"element": "れる", "method": "TYPE A4-1n", "bridgeC": "れる→自发/可能助动词，表示自然发生=自然地出生"}
+    ],
+    "mergedScene": "牧场里，一匹小马驹(うまれ→马)从母马肚子里生(生)出来，湿漉漉地落地，自然地(れる)来到了这个世界——生まれる=出生，像小马驹诞生一样。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "生+まれ(马出生)+れる(自然发生)→自然诞生；うまれ→马→小马驹出生",
+    "difficultyStars": 2
+  }
+]

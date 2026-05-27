@@ -1,0 +1,1272 @@
+[
+  {
+    "word": "鐘",
+    "reading": "かね",
+    "meaning": "钟",
+    "sourceIndex": 321,
+    "sourceMeaningRaw": "名 钟；钟声",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "鐘",
+        "method": "TYPE A1",
+        "bridgeC": "汉字鐘意思是钟"
+      }
+    ],
+    "mergedScene": "鐘这个汉字一看就像钟。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かね - 鐘 - 钟",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この鐘は大切です。",
+        "zh": "这个钟很重要。"
+      }
+    ]
+  },
+  {
+    "word": "加熱",
+    "reading": "かねつ",
+    "meaning": "加热 名·他动 ·サ变",
+    "sourceIndex": 322,
+    "sourceMeaningRaw": "加热 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "加熱",
+        "method": "TYPE A1",
+        "bridgeC": "汉字加熱意思是加热 名·他动 ·サ变"
+      }
+    ],
+    "mergedScene": "加熱这个汉字一看就像加热 名·他动 ·サ变。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かねつ - 加熱 - 加热 名·他动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この加熱は大切です。",
+        "zh": "这个加热 名·他动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "可能",
+    "reading": "かのう",
+    "meaning": "形动",
+    "sourceIndex": 323,
+    "sourceMeaningRaw": "名·形动 ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "可能",
+        "method": "TYPE A1",
+        "bridgeC": "汉字可能意思是形动"
+      }
+    ],
+    "mergedScene": "可能这个汉字一看就像形动。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かのう - 可能 - 形动",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この可能は大切です。",
+        "zh": "这个形动很重要。"
+      }
+    ]
+  },
+  {
+    "word": "カバー",
+    "reading": "かばー",
+    "meaning": "弥补，补偿",
+    "sourceIndex": 324,
+    "sourceMeaningRaw": "弥补，补偿，抵补；补垒，补漏在棒球等运 cover覆盖物，外皮，套子；套鞋，袜套； 名·他动 ·サ变 动中帮助他人守卫；覆盖某范围；翻唱歌曲",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "カバー",
+        "method": "外来语",
+        "bridgeC": "カバー来自英语，意思是弥补，补偿"
+      }
+    ],
+    "mergedScene": "カバー是外来语，来自英语，意思是弥补，补偿。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "カバー - 外来语英语 - 弥补，补偿",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このカバーは大切です。",
+        "zh": "这个弥补，补偿很重要。"
+      }
+    ]
+  },
+  {
+    "word": "黴",
+    "reading": "かび",
+    "meaning": "霉，霉菌",
+    "sourceIndex": 325,
+    "sourceMeaningRaw": "名 霉，霉菌；陈旧，陈腐",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "黴",
+        "method": "TYPE A1",
+        "bridgeC": "汉字黴意思是霉，霉菌"
+      }
+    ],
+    "mergedScene": "黴这个汉字一看就像霉，霉菌。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かび - 黴 - 霉，霉菌",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この黴は大切です。",
+        "zh": "这个霉，霉菌很重要。"
+      }
+    ]
+  },
+  {
+    "word": "歌舞伎",
+    "reading": "かぶき",
+    "meaning": "名 ",
+    "sourceIndex": 326,
+    "sourceMeaningRaw": "名 ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "歌舞伎",
+        "method": "TYPE A1",
+        "bridgeC": "汉字歌舞伎意思是名 "
+      }
+    ],
+    "mergedScene": "歌舞伎这个汉字一看就像名 。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かぶき - 歌舞伎 - 名 ",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この歌舞伎は大切です。",
+        "zh": "这个名 很重要。"
+      }
+    ]
+  },
+  {
+    "word": "被せる",
+    "reading": "かぶせる",
+    "meaning": "一 盖上，蒙上",
+    "sourceIndex": 327,
+    "sourceMeaningRaw": "他动·一 盖上，蒙上；包上；浇，冲；戴上；推委 段 （到别人身上）",
+    "partOfSpeech": "他动·一",
+    "elements": [
+      {
+        "element": "被せる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字被せる意思是一 盖上，蒙上"
+      },
+      {
+        "element": "かぶせる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かぶ+せる\"来记"
+      }
+    ],
+    "mergedScene": "かぶせる拆分记忆，意思是一 盖上，蒙上",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かぶせる - 拆分记忆 - 一 盖上，蒙上",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この被せるは大切です。",
+        "zh": "这个一 盖上，蒙上很重要。"
+      }
+    ]
+  },
+  {
+    "word": "我慢",
+    "reading": "がまん",
+    "meaning": "他动 忍耐，忍受",
+    "sourceIndex": 328,
+    "sourceMeaningRaw": "名·他动 忍耐，忍受，容忍，自制；将就，克服，让 ·サ变 步；饶恕，原谅",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "我慢",
+        "method": "TYPE A1",
+        "bridgeC": "汉字我慢意思是他动 忍耐，忍受"
+      }
+    ],
+    "mergedScene": "我慢这个汉字一看就像他动 忍耐，忍受。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "がまん - 我慢 - 他动 忍耐，忍受",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この我慢は大切です。",
+        "zh": "这个他动 忍耐，忍受很重要。"
+      }
+    ]
+  },
+  {
+    "word": "神",
+    "reading": "かみ",
+    "meaning": "人类以祸福或赏罚，成为人类信仰、崇拜的 具有超越人类之上的存在方式和灵威",
+    "sourceIndex": 329,
+    "sourceMeaningRaw": "名 人类以祸福或赏罚，成为人类信仰、崇拜的 具有超越人类之上的存在方式和灵威，给 对象者",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "神",
+        "method": "TYPE A1",
+        "bridgeC": "汉字神意思是人类以祸福或赏罚，成为人类信仰、崇拜的 具有超越人类之上的存在方式和灵威"
+      }
+    ],
+    "mergedScene": "神这个汉字一看就像人类以祸福或赏罚，成为人类信仰、崇拜的 具有超越人类之上的存在方式和灵威。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かみ - 神 - 人类以祸福或赏罚，成为人类信仰、崇拜的 具有超越人类之上的存在方式和灵威",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この神は大切です。",
+        "zh": "这个人类以祸福或赏罚，成为人类信仰、崇拜的 具有超越人类之上的存在方式和灵威很重要。"
+      }
+    ]
+  },
+  {
+    "word": "髪型",
+    "reading": "かみがた",
+    "meaning": "发型",
+    "sourceIndex": 330,
+    "sourceMeaningRaw": "名 发型",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "髪型",
+        "method": "TYPE A1",
+        "bridgeC": "汉字髪型意思是发型"
+      },
+      {
+        "element": "かみがた",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かみ+がた\"来记"
+      }
+    ],
+    "mergedScene": "かみがた拆分记忆，意思是发型",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かみがた - 拆分记忆 - 发型",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この髪型は大切です。",
+        "zh": "这个发型很重要。"
+      }
+    ]
+  },
+  {
+    "word": "紙くず",
+    "reading": "かみくず",
+    "meaning": "废纸，纸屑",
+    "sourceIndex": 331,
+    "sourceMeaningRaw": "名 废纸，纸屑",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "紙くず",
+        "method": "TYPE A1",
+        "bridgeC": "汉字紙くず意思是废纸，纸屑"
+      },
+      {
+        "element": "かみくず",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かみ+くず\"来记"
+      }
+    ],
+    "mergedScene": "かみくず拆分记忆，意思是废纸，纸屑",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かみくず - 拆分记忆 - 废纸，纸屑",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この紙くずは大切です。",
+        "zh": "这个废纸，纸屑很重要。"
+      }
+    ]
+  },
+  {
+    "word": "剃刀",
+    "reading": "かみそり",
+    "meaning": "，剃头刀，刮脸刀",
+    "sourceIndex": 332,
+    "sourceMeaningRaw": "名 ，剃头刀，刮脸刀；头脑聪明，敏锐",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "剃刀",
+        "method": "TYPE A1",
+        "bridgeC": "汉字剃刀意思是，剃头刀，刮脸刀"
+      },
+      {
+        "element": "かみそり",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かみ+そり\"来记"
+      }
+    ],
+    "mergedScene": "かみそり拆分记忆，意思是，剃头刀，刮脸刀",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かみそり - 拆分记忆 - ，剃头刀，刮脸刀",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この剃刀は大切です。",
+        "zh": "这个，剃头刀，刮脸刀很重要。"
+      }
+    ]
+  },
+  {
+    "word": "噛む",
+    "reading": "かむ",
+    "meaning": "五 咬合",
+    "sourceIndex": 333,
+    "sourceMeaningRaw": "他动·五 咬合；击岸，拍岸；冲击（岩石）；冲刷； 段 咬；嚼，咀嚼；有关；口误",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "噛む",
+        "method": "TYPE A1",
+        "bridgeC": "汉字噛む意思是五 咬合"
+      }
+    ],
+    "mergedScene": "噛む这个汉字一看就像五 咬合。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かむ - 噛む - 五 咬合",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この噛むは大切です。",
+        "zh": "这个五 咬合很重要。"
+      }
+    ]
+  },
+  {
+    "word": "科目",
+    "reading": "かもく",
+    "meaning": "学科",
+    "sourceIndex": 334,
+    "sourceMeaningRaw": "名 学科；项目，条款",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "科目",
+        "method": "TYPE A1",
+        "bridgeC": "汉字科目意思是学科"
+      }
+    ],
+    "mergedScene": "科目这个汉字一看就像学科。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かもく - 科目 - 学科",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この科目は大切です。",
+        "zh": "这个学科很重要。"
+      }
+    ]
+  },
+  {
+    "word": "画面",
+    "reading": "がめん",
+    "meaning": "画的表面",
+    "sourceIndex": 335,
+    "sourceMeaningRaw": "名 画的表面；（电影、电视的）场面",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "画面",
+        "method": "TYPE A1",
+        "bridgeC": "汉字画面意思是画的表面"
+      }
+    ],
+    "mergedScene": "画面这个汉字一看就像画的表面。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "がめん - 画面 - 画的表面",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この画面は大切です。",
+        "zh": "这个画的表面很重要。"
+      }
+    ]
+  },
+  {
+    "word": "痒い",
+    "reading": "かゆい",
+    "meaning": "痒，发痒",
+    "sourceIndex": 336,
+    "sourceMeaningRaw": "形 痒，发痒，痒痒。",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "痒い",
+        "method": "TYPE A1",
+        "bridgeC": "汉字痒い意思是痒，发痒"
+      }
+    ],
+    "mergedScene": "痒い这个汉字一看就像痒，发痒。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かゆい - 痒い - 痒，发痒",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この痒いは大切です。",
+        "zh": "这个痒，发痒很重要。"
+      }
+    ]
+  },
+  {
+    "word": "殻",
+    "reading": "から",
+    "meaning": "外壳，外皮",
+    "sourceIndex": 337,
+    "sourceMeaningRaw": "名 外壳，外皮；外皮,壳；蜕,外皮,皮；独自的 空间",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "殻",
+        "method": "TYPE A1",
+        "bridgeC": "汉字殻意思是外壳，外皮"
+      },
+      {
+        "element": "から",
+        "method": "TYPE B2",
+        "bridgeC": "谐音\"空\" - \"空\"的 - 空"
+      }
+    ],
+    "mergedScene": "谐音：から→\"空\"，\"空\"的 - 空",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "から - 谐音\"空\" - 外壳，外皮",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この殻は大切です。",
+        "zh": "这个外壳，外皮很重要。"
+      }
+    ]
+  },
+  {
+    "word": "柄",
+    "reading": "がら",
+    "meaning": "体格，身量",
+    "sourceIndex": 338,
+    "sourceMeaningRaw": "名 体格，身量，身材；人品，品格，性格；身 分，地位，资格；花样，花纹",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "柄",
+        "method": "TYPE A1",
+        "bridgeC": "汉字柄意思是体格，身量"
+      }
+    ],
+    "mergedScene": "柄这个汉字一看就像体格，身量。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "がら - 柄 - 体格，身量",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この柄は大切です。",
+        "zh": "这个体格，身量很重要。"
+      }
+    ]
+  },
+  {
+    "word": "カラー",
+    "reading": "からー",
+    "meaning": "色，彩色",
+    "sourceIndex": 339,
+    "sourceMeaningRaw": "名 色，彩色，色彩；特色，色彩，独特的风 格；颜料；领子；汽车零件用语，座环",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "カラー",
+        "method": "外来语",
+        "bridgeC": "カラー来自英语，意思是色，彩色"
+      }
+    ],
+    "mergedScene": "カラー是外来语，来自英语，意思是色，彩色。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "カラー - 外来语英语 - 色，彩色",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このカラーは大切です。",
+        "zh": "这个色，彩色很重要。"
+      }
+    ]
+  },
+  {
+    "word": "辛い",
+    "reading": "つらい",
+    "meaning": "苦，痛苦",
+    "sourceIndex": 340,
+    "sourceMeaningRaw": "形 苦，痛苦，艰苦；难过，难受，难堪，吃不 消；刻薄,苛刻,残酷；难办，难堪苦恼",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "辛い",
+        "method": "TYPE A1",
+        "bridgeC": "汉字辛い意思是苦，痛苦"
+      }
+    ],
+    "mergedScene": "辛い这个汉字一看就像苦，痛苦。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つらい - 辛い - 苦，痛苦",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この辛いは大切です。",
+        "zh": "这个苦，痛苦很重要。"
+      }
+    ]
+  },
+  {
+    "word": "がらがら",
+    "reading": "がらがら",
+    "meaning": "或动作粗鲁的样子",
+    "sourceIndex": 341,
+    "sourceMeaningRaw": "名 或动作粗鲁的样子；人很少，很空，空荡 轰隆，咯噔，物体坍塌的声音或样子；语言 荡；拨浪鼓",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "がらがら",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"がら+がら\"来记"
+      }
+    ],
+    "mergedScene": "がらがら拆分记忆，意思是或动作粗鲁的样子",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "がらがら - 拆分记忆 - 或动作粗鲁的样子",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このがらがらは大切です。",
+        "zh": "这个或动作粗鲁的样子很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ガラス",
+    "reading": "がらす",
+    "meaning": "玻璃",
+    "sourceIndex": 342,
+    "sourceMeaningRaw": "名 玻璃；光玻璃。",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ガラス",
+        "method": "外来语",
+        "bridgeC": "ガラス来自英语，意思是玻璃"
+      }
+    ],
+    "mergedScene": "ガラス是外来语，来自英语，意思是玻璃。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ガラス - 外来语英语 - 玻璃",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このガラスは大切です。",
+        "zh": "这个玻璃很重要。"
+      }
+    ]
+  },
+  {
+    "word": "空っぽ",
+    "reading": "からっぽ",
+    "meaning": "形动 空，空虚",
+    "sourceIndex": 343,
+    "sourceMeaningRaw": "名·形动 空，空虚",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "空っぽ",
+        "method": "TYPE A1",
+        "bridgeC": "汉字空っぽ意思是形动 空，空虚"
+      },
+      {
+        "element": "からっぽ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"から+っぽ\"来记"
+      }
+    ],
+    "mergedScene": "からっぽ拆分记忆，意思是形动 空，空虚",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "からっぽ - 拆分记忆 - 形动 空，空虚",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この空っぽは大切です。",
+        "zh": "这个形动 空，空虚很重要。"
+      }
+    ]
+  },
+  {
+    "word": "刈る",
+    "reading": "かる",
+    "meaning": "割，割掉",
+    "sourceIndex": 344,
+    "sourceMeaningRaw": "割，割掉；剪，修剪 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "刈る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字刈る意思是割，割掉"
+      }
+    ],
+    "mergedScene": "刈る这个汉字一看就像割，割掉。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かる - 刈る - 割，割掉",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この刈るは大切です。",
+        "zh": "这个割，割掉很重要。"
+      }
+    ]
+  },
+  {
+    "word": "彼氏",
+    "reading": "かれし",
+    "meaning": "男朋友，情人",
+    "sourceIndex": 345,
+    "sourceMeaningRaw": "名 男朋友，情人，对象；丈夫；他，那一位",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "彼氏",
+        "method": "TYPE A1",
+        "bridgeC": "汉字彼氏意思是男朋友，情人"
+      }
+    ],
+    "mergedScene": "彼氏这个汉字一看就像男朋友，情人。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かれし - 彼氏 - 男朋友，情人",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この彼氏は大切です。",
+        "zh": "这个男朋友，情人很重要。"
+      }
+    ]
+  },
+  {
+    "word": "枯れる",
+    "reading": "かれる",
+    "meaning": "熟",
+    "sourceIndex": 346,
+    "sourceMeaningRaw": "熟；枯瘦，干瘪，干巴，衰萎；喜欢的角色/ 凋零，枯萎，枯死；干燥；成熟，老练，圆 自动·一 段 偶像的周边售完",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "枯れる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字枯れる意思是熟"
+      }
+    ],
+    "mergedScene": "枯れる这个汉字一看就像熟。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かれる - 枯れる - 熟",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この枯れるは大切です。",
+        "zh": "这个熟很重要。"
+      }
+    ]
+  },
+  {
+    "word": "カロリー",
+    "reading": "かろりー",
+    "meaning": "calorie卡，卡路里",
+    "sourceIndex": 347,
+    "sourceMeaningRaw": "名 calorie卡，卡路里，热量",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "カロリー",
+        "method": "外来语",
+        "bridgeC": "カロリー来自英语，意思是calorie卡，卡路里"
+      }
+    ],
+    "mergedScene": "カロリー是外来语，来自英语，意思是calorie卡，卡路里。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "カロリー - 外来语英语 - calorie卡，卡路里",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このカロリーは大切です。",
+        "zh": "这个calorie卡，卡路里很重要。"
+      }
+    ]
+  },
+  {
+    "word": "皮",
+    "reading": "かわ",
+    "meaning": "，树",
+    "sourceIndex": 348,
+    "sourceMeaningRaw": "名 ，树；表，包；外观，外表",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "皮",
+        "method": "TYPE A1",
+        "bridgeC": "汉字皮意思是，树"
+      }
+    ],
+    "mergedScene": "皮这个汉字一看就像，树。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かわ - 皮 - ，树",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この皮は大切です。",
+        "zh": "这个，树很重要。"
+      }
+    ]
+  },
+  {
+    "word": "革",
+    "reading": "かわ",
+    "meaning": "皮",
+    "sourceIndex": 349,
+    "sourceMeaningRaw": "名 皮",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "革",
+        "method": "TYPE A1",
+        "bridgeC": "汉字革意思是皮"
+      }
+    ],
+    "mergedScene": "革这个汉字一看就像皮。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かわ - 革 - 皮",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この革は大切です。",
+        "zh": "这个皮很重要。"
+      }
+    ]
+  },
+  {
+    "word": "乾かす",
+    "reading": "かわかす",
+    "meaning": "晒干",
+    "sourceIndex": 350,
+    "sourceMeaningRaw": "晒干；烤干，烘干；晾干；弄干 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "乾かす",
+        "method": "TYPE A1",
+        "bridgeC": "汉字乾かす意思是晒干"
+      },
+      {
+        "element": "かわかす",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かわ+かす\"来记"
+      }
+    ],
+    "mergedScene": "かわかす拆分记忆，意思是晒干",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かわかす - 拆分记忆 - 晒干",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この乾かすは大切です。",
+        "zh": "这个晒干很重要。"
+      }
+    ]
+  },
+  {
+    "word": "代わる",
+    "reading": "かわる",
+    "meaning": "代替，代理",
+    "sourceIndex": 351,
+    "sourceMeaningRaw": "代替，代理，代表，交代 自动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "代わる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字代わる意思是代替，代理"
+      }
+    ],
+    "mergedScene": "代わる这个汉字一看就像代替，代理。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かわる - 代わる - 代替，代理",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この代わるは大切です。",
+        "zh": "这个代替，代理很重要。"
+      }
+    ]
+  },
+  {
+    "word": "替わる",
+    "reading": "かわる",
+    "meaning": "更换，代替 自动·五 段",
+    "sourceIndex": 352,
+    "sourceMeaningRaw": "更换，代替 自动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "替わる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字替わる意思是更换，代替 自动·五 段"
+      }
+    ],
+    "mergedScene": "替わる这个汉字一看就像更换，代替 自动·五 段。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かわる - 替わる - 更换，代替 自动·五 段",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この替わるは大切です。",
+        "zh": "这个更换，代替 自动·五 段很重要。"
+      }
+    ]
+  },
+  {
+    "word": "間隔",
+    "reading": "かんかく",
+    "meaning": "间隔，距离",
+    "sourceIndex": 353,
+    "sourceMeaningRaw": "名 间隔，距离",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "間隔",
+        "method": "TYPE A1",
+        "bridgeC": "汉字間隔意思是间隔，距离"
+      },
+      {
+        "element": "かんかく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かん+かく\"来记"
+      }
+    ],
+    "mergedScene": "かんかく拆分记忆，意思是间隔，距离",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かんかく - 拆分记忆 - 间隔，距离",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この間隔は大切です。",
+        "zh": "这个间隔，距离很重要。"
+      }
+    ]
+  },
+  {
+    "word": "換気",
+    "reading": "かんき",
+    "meaning": "通风，换气",
+    "sourceIndex": 354,
+    "sourceMeaningRaw": "名·自他 通风，换气。使空气流通，换换空气，把室 动·サ变 内污浊的空气换成新鲜空气",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "換気",
+        "method": "TYPE A1",
+        "bridgeC": "汉字換気意思是通风，换气"
+      }
+    ],
+    "mergedScene": "換気这个汉字一看就像通风，换气。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かんき - 換気 - 通风，换气",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この換気は大切です。",
+        "zh": "这个通风，换气很重要。"
+      }
+    ]
+  },
+  {
+    "word": "歓迎",
+    "reading": "かんげい",
+    "meaning": "欢迎",
+    "sourceIndex": 355,
+    "sourceMeaningRaw": "欢迎；款待 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "歓迎",
+        "method": "TYPE A1",
+        "bridgeC": "汉字歓迎意思是欢迎"
+      },
+      {
+        "element": "かんげい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かん+げい\"来记"
+      }
+    ],
+    "mergedScene": "かんげい拆分记忆，意思是欢迎",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かんげい - 拆分记忆 - 欢迎",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この歓迎は大切です。",
+        "zh": "这个欢迎很重要。"
+      }
+    ]
+  },
+  {
+    "word": "感激",
+    "reading": "かんげき",
+    "meaning": "；感动；；感动",
+    "sourceIndex": 356,
+    "sourceMeaningRaw": "名·サ变 ；感动；；感动",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "感激",
+        "method": "TYPE A1",
+        "bridgeC": "汉字感激意思是；感动；；感动"
+      },
+      {
+        "element": "かんげき",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かん+げき\"来记"
+      }
+    ],
+    "mergedScene": "かんげき拆分记忆，意思是；感动；；感动",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かんげき - 拆分记忆 - ；感动；；感动",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この感激は大切です。",
+        "zh": "这个；感动；；感动很重要。"
+      }
+    ]
+  },
+  {
+    "word": "観光",
+    "reading": "かんこう",
+    "meaning": "游览，观光",
+    "sourceIndex": 357,
+    "sourceMeaningRaw": "名·サ变 游览，观光，旅游，旅行",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "観光",
+        "method": "TYPE A1",
+        "bridgeC": "汉字観光意思是游览，观光"
+      },
+      {
+        "element": "かんこう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かん+こう\"来记"
+      }
+    ],
+    "mergedScene": "かんこう拆分记忆，意思是游览，观光",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かんこう - 拆分记忆 - 游览，观光",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この観光は大切です。",
+        "zh": "这个游览，观光很重要。"
+      }
+    ]
+  },
+  {
+    "word": "看護婦",
+    "reading": "かんごふ",
+    "meaning": "护士",
+    "sourceIndex": 358,
+    "sourceMeaningRaw": "名 护士",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "看護婦",
+        "method": "TYPE A1",
+        "bridgeC": "汉字看護婦意思是护士"
+      },
+      {
+        "element": "かんごふ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かん+ごふ\"来记"
+      }
+    ],
+    "mergedScene": "かんごふ拆分记忆，意思是护士",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かんごふ - 拆分记忆 - 护士",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この看護婦は大切です。",
+        "zh": "这个护士很重要。"
+      }
+    ]
+  },
+  {
+    "word": "関西",
+    "reading": "かんさい",
+    "meaning": "关西与把东京地区称为关东相对，指京阪神 地区",
+    "sourceIndex": 359,
+    "sourceMeaningRaw": "名 关西与把东京地区称为关东相对，指京阪神 地区；关西日本逢坂关以西诸国；关西镰仓 时代以后，指铃鹿、不破、爱发三关以西诸 国；关西箱根关以西诸国",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "関西",
+        "method": "TYPE A1",
+        "bridgeC": "汉字関西意思是关西与把东京地区称为关东相对，指京阪神 地区"
+      },
+      {
+        "element": "かんさい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かん+さい\"来记"
+      }
+    ],
+    "mergedScene": "かんさい拆分记忆，意思是关西与把东京地区称为关东相对，指京阪神 地区",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かんさい - 拆分记忆 - 关西与把东京地区称为关东相对，指京阪神 地区",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この関西は大切です。",
+        "zh": "这个关西与把东京地区称为关东相对，指京阪神 地区很重要。"
+      }
+    ]
+  },
+  {
+    "word": "元旦",
+    "reading": "がんたん",
+    "meaning": "，新年",
+    "sourceIndex": 360,
+    "sourceMeaningRaw": "名 ，新年",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "元旦",
+        "method": "TYPE A1",
+        "bridgeC": "汉字元旦意思是，新年"
+      },
+      {
+        "element": "がんたん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"がん+たん\"来记"
+      }
+    ],
+    "mergedScene": "がんたん拆分记忆，意思是，新年",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "がんたん - 拆分记忆 - ，新年",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この元旦は大切です。",
+        "zh": "这个，新年很重要。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "word": "縮める",
+    "reading": "ちぢめる",
+    "meaning": "缩，缩短",
+    "sourceIndex": 1361,
+    "sourceMeaningRaw": "缩，缩短；缩小；截短，弄小；蜷曲；缩 他动·一 回；减少，削减；畏缩，惶恐，因为紧张、 段 恐惧等原因而使身体或胆气变小；使起褶 皱，弄皱",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "縮める",
+        "method": "TYPE A1",
+        "bridgeC": "汉字縮める意思是缩，缩短"
+      },
+      {
+        "element": "ちぢめる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちぢ+める\"来记"
+      }
+    ],
+    "mergedScene": "ちぢめる拆分记忆，意思是缩，缩短",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちぢめる - 拆分记忆 - 缩，缩短",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この縮めるは大切です。",
+        "zh": "这个缩，缩短很重要。"
+      }
+    ]
+  },
+  {
+    "word": "縮れる",
+    "reading": "ちぢれる",
+    "meaning": "卷曲",
+    "sourceIndex": 1362,
+    "sourceMeaningRaw": "卷曲；起皱，出褶 自动·一 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "縮れる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字縮れる意思是卷曲"
+      },
+      {
+        "element": "ちぢれる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちぢ+れる\"来记"
+      }
+    ],
+    "mergedScene": "ちぢれる拆分记忆，意思是卷曲",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちぢれる - 拆分记忆 - 卷曲",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この縮れるは大切です。",
+        "zh": "这个卷曲很重要。"
+      }
+    ]
+  },
+  {
+    "word": "地方",
+    "reading": "ちほう",
+    "meaning": "，地区",
+    "sourceIndex": 1363,
+    "sourceMeaningRaw": "名 ，地区；，外地",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "地方",
+        "method": "TYPE A1",
+        "bridgeC": "汉字地方意思是，地区"
+      }
+    ],
+    "mergedScene": "地方这个汉字一看就像，地区。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちほう - 地方 - ，地区",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この地方は大切です。",
+        "zh": "这个，地区很重要。"
+      }
+    ]
+  },
+  {
+    "word": "地名",
+    "reading": "ちめい",
+    "meaning": "名 ",
+    "sourceIndex": 1364,
+    "sourceMeaningRaw": "名 ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "地名",
+        "method": "TYPE A1",
+        "bridgeC": "汉字地名意思是名 "
+      }
+    ],
+    "mergedScene": "地名这个汉字一看就像名 。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちめい - 地名 - 名 ",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この地名は大切です。",
+        "zh": "这个名 很重要。"
+      }
+    ]
+  },
+  {
+    "word": "チャイム",
+    "reading": "ちゃいむ",
+    "meaning": "学校课间铃声，门铃.",
+    "sourceIndex": 1365,
+    "sourceMeaningRaw": "名 （发出组钟声音的）学校课间铃声，门铃.； 〈楽〉组钟.；组钟的谐和乐声.；(英) chime",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "チャイム",
+        "method": "外来语",
+        "bridgeC": "チャイム来自英语，意思是学校课间铃声，门铃."
+      }
+    ],
+    "mergedScene": "チャイム是外来语，来自英语，意思是学校课间铃声，门铃.。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "チャイム - 外来语英语 - 学校课间铃声，门铃.",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このチャイムは大切です。",
+        "zh": "这个学校课间铃声，门铃.很重要。"
+      }
+    ]
+  },
+  {
+    "word": "茶の間",
+    "reading": "ちゃのま",
+    "meaning": "餐室，起居间",
+    "sourceIndex": 1366,
+    "sourceMeaningRaw": "名 （家庭中邻近厨房的）餐室，起居间；茶室",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "茶の間",
+        "method": "TYPE A1",
+        "bridgeC": "汉字茶の間意思是餐室，起居间"
+      },
+      {
+        "element": "ちゃのま",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちゃ+のま\"来记"
+      }
+    ],
+    "mergedScene": "ちゃのま拆分记忆，意思是餐室，起居间",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちゃのま - 拆分记忆 - 餐室，起居间",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この茶の間は大切です。",
+        "zh": "这个餐室，起居间很重要。"
+      }
+    ]
+  },
+  {
+    "word": "チャンス",
+    "reading": "ちゃんす",
+    "meaning": "chance机会，良机",
+    "sourceIndex": 1367,
+    "sourceMeaningRaw": "名 chance机会，良机",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "チャンス",
+        "method": "外来语",
+        "bridgeC": "チャンス来自英语，意思是chance机会，良机"
+      }
+    ],
+    "mergedScene": "チャンス是外来语，来自英语，意思是chance机会，良机。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "チャンス - 外来语英语 - chance机会，良机",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このチャンスは大切です。",
+        "zh": "这个chance机会，良机很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ちゃんと",
+    "reading": "ちゃんと",
+    "meaning": "正",
+    "sourceIndex": 1368,
+    "sourceMeaningRaw": "正；端正；正当；规规矩矩（地）；整齐 副词·自 （地）；整洁；准确，明确；确实；准时； 动 完全；好好地；认真地，明显；早,早就,老 早",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "ちゃんと",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちゃ+んと\"来记"
+      }
+    ],
+    "mergedScene": "ちゃんと拆分记忆，意思是正",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちゃんと - 拆分记忆 - 正",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このちゃんとは大切です。",
+        "zh": "这个正很重要。"
+      }
+    ]
+  },
+  {
+    "word": "中",
+    "reading": "ちゅう",
+    "meaning": "副词 在……",
+    "sourceIndex": 1369,
+    "sourceMeaningRaw": "名·副词 在……；……之，……之内；，里； 央，当；在……之；正在……，正 当；庸，间；等；",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "中",
+        "method": "TYPE A1",
+        "bridgeC": "汉字中意思是副词 在……"
+      }
+    ],
+    "mergedScene": "中这个汉字一看就像副词 在……。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちゅう - 中 - 副词 在……",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この中は大切です。",
+        "zh": "这个副词 在……很重要。"
+      }
+    ]
+  },
+  {
+    "word": "中古",
+    "reading": "ちゅうこ",
+    "meaning": "二手，半旧",
+    "sourceIndex": 1370,
+    "sourceMeaningRaw": "名 二手，半旧，半新",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "中古",
+        "method": "TYPE A1",
+        "bridgeC": "汉字中古意思是二手，半旧"
+      },
+      {
+        "element": "ちゅうこ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちゅ+うこ\"来记"
+      }
+    ],
+    "mergedScene": "ちゅうこ拆分记忆，意思是二手，半旧",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちゅうこ - 拆分记忆 - 二手，半旧",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この中古は大切です。",
+        "zh": "这个二手，半旧很重要。"
+      }
+    ]
+  },
+  {
+    "word": "長",
+    "reading": "ちょうー",
+    "meaning": "— 接头 的”“高级的”等概念，多用于说明时间、 用于表示“长的”“年长的”“首要 距离、年纪、职位等方面",
+    "sourceIndex": 1371,
+    "sourceMeaningRaw": "— 接头 的”“高级的”等概念，多用于说明时间、 用于表示“长的”“年长的”“首要 距离、年纪、职位等方面。",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "長",
+        "method": "TYPE A1",
+        "bridgeC": "汉字長意思是— 接头 的”“高级的”等概念，多用于说明时间、 用于表示“长的”“年长的”“首要 距离、年纪、职位等方面"
+      },
+      {
+        "element": "ちょうー",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちょ+うー\"来记"
+      }
+    ],
+    "mergedScene": "ちょうー拆分记忆，意思是— 接头 的”“高级的”等概念，多用于说明时间、 用于表示“长的”“年长的”“首要 距离、年纪、职位等方面",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちょうー - 拆分记忆 - — 接头 的”“高级的”等概念，多用于说明时间、 用于表示“长的”“年长的”“首要 距离、年纪、职位等方面",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この長は大切です。",
+        "zh": "这个— 接头 的”“高级的”等概念，多用于说明时间、 用于表示“长的”“年长的”“首要 距离、年纪、职位等方面很重要。"
+      }
+    ]
+  },
+  {
+    "word": "町",
+    "reading": "ちょう",
+    "meaning": "镇",
+    "sourceIndex": 1372,
+    "sourceMeaningRaw": "名 镇；；；",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "町",
+        "method": "TYPE A1",
+        "bridgeC": "汉字町意思是镇"
+      }
+    ],
+    "mergedScene": "町这个汉字一看就像镇。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちょう - 町 - 镇",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この町は大切です。",
+        "zh": "这个镇很重要。"
+      }
+    ]
+  },
+  {
+    "word": "長期",
+    "reading": "ちょうき",
+    "meaning": "长期",
+    "sourceIndex": 1373,
+    "sourceMeaningRaw": "名 长期",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "長期",
+        "method": "TYPE A1",
+        "bridgeC": "汉字長期意思是长期"
+      },
+      {
+        "element": "ちょうき",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちょ+うき\"来记"
+      }
+    ],
+    "mergedScene": "ちょうき拆分记忆，意思是长期",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちょうき - 拆分记忆 - 长期",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この長期は大切です。",
+        "zh": "这个长期很重要。"
+      }
+    ]
+  },
+  {
+    "word": "調査",
+    "reading": "ちょうさ",
+    "meaning": "查，调查 名·他动 ·サ变",
+    "sourceIndex": 1374,
+    "sourceMeaningRaw": "查，调查 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "調査",
+        "method": "TYPE A1",
+        "bridgeC": "汉字調査意思是查，调查 名·他动 ·サ变"
+      },
+      {
+        "element": "ちょうさ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちょ+うさ\"来记"
+      }
+    ],
+    "mergedScene": "ちょうさ拆分记忆，意思是查，调查 名·他动 ·サ变",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちょうさ - 拆分记忆 - 查，调查 名·他动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この調査は大切です。",
+        "zh": "这个查，调查 名·他动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "調子",
+    "reading": "ちょうし",
+    "meaning": "气",
+    "sourceIndex": 1375,
+    "sourceMeaningRaw": "名 气；程度，情况；状况，样子，过程；兴 头，势头；音调，调（子），调门儿；雅乐 中的一种前奏曲；格调；用铅笔等工具描绘 出的灰色的浓淡、明暗等色彩的层次状态或 样子。",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "調子",
+        "method": "TYPE A1",
+        "bridgeC": "汉字調子意思是气"
+      },
+      {
+        "element": "ちょうし",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちょ+うし\"来记"
+      }
+    ],
+    "mergedScene": "ちょうし拆分记忆，意思是气",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちょうし - 拆分记忆 - 气",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この調子は大切です。",
+        "zh": "这个气很重要。"
+      }
+    ]
+  },
+  {
+    "word": "チョーク",
+    "reading": "ちょーく",
+    "meaning": "chalk粉笔白墨",
+    "sourceIndex": 1376,
+    "sourceMeaningRaw": "名 chalk粉笔（白墨)",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "チョーク",
+        "method": "外来语",
+        "bridgeC": "チョーク来自英语，意思是chalk粉笔白墨"
+      }
+    ],
+    "mergedScene": "チョーク是外来语，来自英语，意思是chalk粉笔白墨。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "チョーク - 外来语英语 - chalk粉笔白墨",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このチョークは大切です。",
+        "zh": "这个chalk粉笔白墨很重要。"
+      }
+    ]
+  },
+  {
+    "word": "貯金",
+    "reading": "ちょきん",
+    "meaning": "存，存钱",
+    "sourceIndex": 1377,
+    "sourceMeaningRaw": "存，存钱；存款；储蓄 名·自他 动·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "貯金",
+        "method": "TYPE A1",
+        "bridgeC": "汉字貯金意思是存，存钱"
+      },
+      {
+        "element": "ちょきん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちょ+きん\"来记"
+      }
+    ],
+    "mergedScene": "ちょきん拆分记忆，意思是存，存钱",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちょきん - 拆分记忆 - 存，存钱",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この貯金は大切です。",
+        "zh": "这个存，存钱很重要。"
+      }
+    ]
+  },
+  {
+    "word": "散らかす",
+    "reading": "ちらかす",
+    "meaning": "弄得乱七八糟",
+    "sourceIndex": 1378,
+    "sourceMeaningRaw": "弄得乱七八糟；（到处）乱扔，乱抛 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "散らかす",
+        "method": "TYPE A1",
+        "bridgeC": "汉字散らかす意思是弄得乱七八糟"
+      },
+      {
+        "element": "ちらかす",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちら+かす\"来记"
+      }
+    ],
+    "mergedScene": "ちらかす拆分记忆，意思是弄得乱七八糟",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちらかす - 拆分记忆 - 弄得乱七八糟",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この散らかすは大切です。",
+        "zh": "这个弄得乱七八糟很重要。"
+      }
+    ]
+  },
+  {
+    "word": "散らかる",
+    "reading": "ちらかる",
+    "meaning": "零乱，放得乱七八糟",
+    "sourceIndex": 1379,
+    "sourceMeaningRaw": "零乱，放得乱七八糟，到处都是 自动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "散らかる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字散らかる意思是零乱，放得乱七八糟"
+      },
+      {
+        "element": "ちらかる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちら+かる\"来记"
+      }
+    ],
+    "mergedScene": "ちらかる拆分记忆，意思是零乱，放得乱七八糟",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちらかる - 拆分记忆 - 零乱，放得乱七八糟",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この散らかるは大切です。",
+        "zh": "这个零乱，放得乱七八糟很重要。"
+      }
+    ]
+  },
+  {
+    "word": "治療",
+    "reading": "ちりょう",
+    "meaning": "治疗，医疗",
+    "sourceIndex": 1380,
+    "sourceMeaningRaw": "治疗，医疗，医治，治 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "治療",
+        "method": "TYPE A1",
+        "bridgeC": "汉字治療意思是治疗，医疗"
+      },
+      {
+        "element": "ちりょう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちり+ょう\"来记"
+      }
+    ],
+    "mergedScene": "ちりょう拆分记忆，意思是治疗，医疗",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちりょう - 拆分记忆 - 治疗，医疗",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この治療は大切です。",
+        "zh": "这个治疗，医疗很重要。"
+      }
+    ]
+  },
+  {
+    "word": "散る",
+    "reading": "ちる",
+    "meaning": "溅，消散",
+    "sourceIndex": 1381,
+    "sourceMeaningRaw": "溅，消散；消；止；洇；涣散，散漫，不专 落；谢，凋谢；散,分散；离散；四散；飞 自动·五 段 一",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "散る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字散る意思是溅，消散"
+      }
+    ],
+    "mergedScene": "散る这个汉字一看就像溅，消散。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちる - 散る - 溅，消散",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この散るは大切です。",
+        "zh": "这个溅，消散很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ツアー",
+    "reading": "つあー",
+    "meaning": "巡演",
+    "sourceIndex": 1382,
+    "sourceMeaningRaw": "名 巡演；（tour）旅行，旅游，游览",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ツアー",
+        "method": "外来语",
+        "bridgeC": "ツアー来自英语，意思是巡演"
+      }
+    ],
+    "mergedScene": "ツアー是外来语，来自英语，意思是巡演。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ツアー - 外来语英语 - 巡演",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このツアーは大切です。",
+        "zh": "这个巡演很重要。"
+      }
+    ]
+  },
+  {
+    "word": "つい",
+    "reading": "つい",
+    "meaning": "词 不知不觉地",
+    "sourceIndex": 1383,
+    "sourceMeaningRaw": "副词 不知不觉（地），无意中；不由得，不禁； 相隔不远，就在眼前",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "つい",
+        "method": "TYPE B2",
+        "bridgeC": "つい表示词 不知不觉地"
+      }
+    ],
+    "mergedScene": "つい的意思就是词 不知不觉地。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つい - 词 不知不觉地",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このついは大切です。",
+        "zh": "这个词 不知不觉地很重要。"
+      }
+    ]
+  },
+  {
+    "word": "追加",
+    "reading": "ついか",
+    "meaning": "再增加，添补",
+    "sourceIndex": 1384,
+    "sourceMeaningRaw": "名·サ变 ，再增加，添补，补上",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "追加",
+        "method": "TYPE A1",
+        "bridgeC": "汉字追加意思是再增加，添补"
+      }
+    ],
+    "mergedScene": "追加这个汉字一看就像再增加，添补。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ついか - 追加 - 再增加，添补",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この追加は大切です。",
+        "zh": "这个再增加，添补很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ついでに",
+    "reading": "ついでに",
+    "meaning": "文法 て",
+    "sourceIndex": 1385,
+    "sourceMeaningRaw": "文法 て。「何かを行う機會を利用して、他のこ N3文法。順便……。～する機會を利用し とも加えて行う」と言う時に使う表現。",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "ついでに",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"つい+でに\"来记"
+      }
+    ],
+    "mergedScene": "ついでに拆分记忆，意思是文法 て",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ついでに - 拆分记忆 - 文法 て",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このついでには大切です。",
+        "zh": "这个文法 て很重要。"
+      }
+    ]
+  },
+  {
+    "word": "遂に",
+    "reading": "ついに",
+    "meaning": "词 终于",
+    "sourceIndex": 1386,
+    "sourceMeaningRaw": "副词 终于；［下接否定］最后也（没）…",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "遂に",
+        "method": "TYPE A1",
+        "bridgeC": "汉字遂に意思是词 终于"
+      }
+    ],
+    "mergedScene": "遂に这个汉字一看就像词 终于。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ついに - 遂に - 词 终于",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この遂には大切です。",
+        "zh": "这个词 终于很重要。"
+      }
+    ]
+  },
+  {
+    "word": "通過",
+    "reading": "つうか",
+    "meaning": "自动 不停顿地通过",
+    "sourceIndex": 1387,
+    "sourceMeaningRaw": "名·自动 不停顿地通过；无妨碍的顺利通过；在国会 ·サ变 等机构中议案被通过",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "通過",
+        "method": "TYPE A1",
+        "bridgeC": "汉字通過意思是自动 不停顿地通过"
+      }
+    ],
+    "mergedScene": "通過这个汉字一看就像自动 不停顿地通过。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つうか - 通過 - 自动 不停顿地通过",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この通過は大切です。",
+        "zh": "这个自动 不停顿地通过很重要。"
+      }
+    ]
+  },
+  {
+    "word": "通学",
+    "reading": "つうがく",
+    "meaning": "走读",
+    "sourceIndex": 1388,
+    "sourceMeaningRaw": "走读；；上学 名·自动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "通学",
+        "method": "TYPE A1",
+        "bridgeC": "汉字通学意思是走读"
+      },
+      {
+        "element": "つうがく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"つう+がく\"来记"
+      }
+    ],
+    "mergedScene": "つうがく拆分记忆，意思是走读",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つうがく - 拆分记忆 - 走读",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この通学は大切です。",
+        "zh": "这个走读很重要。"
+      }
+    ]
+  },
+  {
+    "word": "通勤",
+    "reading": "つうきん",
+    "meaning": "上下班， 名·自动 ·サ变",
+    "sourceIndex": 1389,
+    "sourceMeaningRaw": "上下班， 名·自动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "通勤",
+        "method": "TYPE A1",
+        "bridgeC": "汉字通勤意思是上下班， 名·自动 ·サ变"
+      },
+      {
+        "element": "つうきん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"つう+きん\"来记"
+      }
+    ],
+    "mergedScene": "つうきん拆分记忆，意思是上下班， 名·自动 ·サ变",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つうきん - 拆分记忆 - 上下班， 名·自动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この通勤は大切です。",
+        "zh": "这个上下班， 名·自动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "通信",
+    "reading": "つうしん",
+    "meaning": "；通音信，息；通讯",
+    "sourceIndex": 1390,
+    "sourceMeaningRaw": "名·サ变 ；通音信，息；通讯，通讯稿",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "通信",
+        "method": "TYPE A1",
+        "bridgeC": "汉字通信意思是；通音信，息；通讯"
+      },
+      {
+        "element": "つうしん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"つう+しん\"来记"
+      }
+    ],
+    "mergedScene": "つうしん拆分记忆，意思是；通音信，息；通讯",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つうしん - 拆分记忆 - ；通音信，息；通讯",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この通信は大切です。",
+        "zh": "这个；通音信，息；通讯很重要。"
+      }
+    ]
+  },
+  {
+    "word": "通知",
+    "reading": "つうち",
+    "meaning": "，告知 名·他动 ·サ变",
+    "sourceIndex": 1391,
+    "sourceMeaningRaw": "，告知 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "通知",
+        "method": "TYPE A1",
+        "bridgeC": "汉字通知意思是，告知 名·他动 ·サ变"
+      }
+    ],
+    "mergedScene": "通知这个汉字一看就像，告知 名·他动 ·サ变。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つうち - 通知 - ，告知 名·他动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この通知は大切です。",
+        "zh": "这个，告知 名·他动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "通訳",
+    "reading": "つうやく",
+    "meaning": "翻译，口译",
+    "sourceIndex": 1392,
+    "sourceMeaningRaw": "翻译，口译，口译者，译员 名·自他 动·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "通訳",
+        "method": "TYPE A1",
+        "bridgeC": "汉字通訳意思是翻译，口译"
+      },
+      {
+        "element": "つうやく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"つう+やく\"来记"
+      }
+    ],
+    "mergedScene": "つうやく拆分记忆，意思是翻译，口译",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つうやく - 拆分记忆 - 翻译，口译",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この通訳は大切です。",
+        "zh": "这个翻译，口译很重要。"
+      }
+    ]
+  },
+  {
+    "word": "捕まる",
+    "reading": "つかまる",
+    "meaning": "五 被捉住，被捕获",
+    "sourceIndex": 1393,
+    "sourceMeaningRaw": "自动·五 被捉住，被捕获，被逮住；抓住，拽住，揪 段 住；被拽住",
+    "partOfSpeech": "自动·五",
+    "elements": [
+      {
+        "element": "捕まる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字捕まる意思是五 被捉住，被捕获"
+      },
+      {
+        "element": "つかまる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"つか+まる\"来记"
+      }
+    ],
+    "mergedScene": "つかまる拆分记忆，意思是五 被捉住，被捕获",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つかまる - 拆分记忆 - 五 被捉住，被捕获",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この捕まるは大切です。",
+        "zh": "这个五 被捉住，被捕获很重要。"
+      }
+    ]
+  },
+  {
+    "word": "掴む",
+    "reading": "つかむ",
+    "meaning": "五 抓",
+    "sourceIndex": 1394,
+    "sourceMeaningRaw": "他动·五 抓；抓住，揪住；抓住；掌握住；了解到； 段 获得",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "掴む",
+        "method": "TYPE A1",
+        "bridgeC": "汉字掴む意思是五 抓"
+      }
+    ],
+    "mergedScene": "掴む这个汉字一看就像五 抓。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つかむ - 掴む - 五 抓",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この掴むは大切です。",
+        "zh": "这个五 抓很重要。"
+      }
+    ]
+  },
+  {
+    "word": "浸かる",
+    "reading": "つかる",
+    "meaning": "五 浸，泡",
+    "sourceIndex": 1395,
+    "sourceMeaningRaw": "自动·五 浸，泡，淹进入液体中，尤指入浴；沉浸， 段 沉湎完全进入某种状态",
+    "partOfSpeech": "自动·五",
+    "elements": [
+      {
+        "element": "浸かる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字浸かる意思是五 浸，泡"
+      }
+    ],
+    "mergedScene": "浸かる这个汉字一看就像五 浸，泡。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つかる - 浸かる - 五 浸，泡",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この浸かるは大切です。",
+        "zh": "这个五 浸，泡很重要。"
+      }
+    ]
+  },
+  {
+    "word": "漬かる",
+    "reading": "つかる",
+    "meaning": "五 淹",
+    "sourceIndex": 1396,
+    "sourceMeaningRaw": "自动·五 淹；泡.；泡在（澡塘里）洗澡.；〈料理〉 段 腌好,腌透.",
+    "partOfSpeech": "自动·五",
+    "elements": [
+      {
+        "element": "漬かる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字漬かる意思是五 淹"
+      }
+    ],
+    "mergedScene": "漬かる这个汉字一看就像五 淹。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つかる - 漬かる - 五 淹",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この漬かるは大切です。",
+        "zh": "这个五 淹很重要。"
+      }
+    ]
+  },
+  {
+    "word": "疲れ",
+    "reading": "つかれ",
+    "meaning": "疲乏，疲劳",
+    "sourceIndex": 1397,
+    "sourceMeaningRaw": "名 疲乏，疲劳，疲倦",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "疲れ",
+        "method": "TYPE A1",
+        "bridgeC": "汉字疲れ意思是疲乏，疲劳"
+      }
+    ],
+    "mergedScene": "疲れ这个汉字一看就像疲乏，疲劳。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つかれ - 疲れ - 疲乏，疲劳",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この疲れは大切です。",
+        "zh": "这个疲乏，疲劳很重要。"
+      }
+    ]
+  },
+  {
+    "word": "付き合い",
+    "reading": "つきあい",
+    "meaning": "交际",
+    "sourceIndex": 1398,
+    "sourceMeaningRaw": "名·サ变 交际；陪伴，作陪；奉陪",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "付き合い",
+        "method": "TYPE A1",
+        "bridgeC": "汉字付き合い意思是交际"
+      },
+      {
+        "element": "つきあい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"つき+あい\"来记"
+      }
+    ],
+    "mergedScene": "つきあい拆分记忆，意思是交际",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つきあい - 拆分记忆 - 交际",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この付き合いは大切です。",
+        "zh": "这个交际很重要。"
+      }
+    ]
+  },
+  {
+    "word": "付き合う",
+    "reading": "つきあう",
+    "meaning": "五 交际，来往",
+    "sourceIndex": 1399,
+    "sourceMeaningRaw": "自动·五 交际，来往；交往，打交道；陪伴，作陪， 段 应酬",
+    "partOfSpeech": "自动·五",
+    "elements": [
+      {
+        "element": "付き合う",
+        "method": "TYPE A1",
+        "bridgeC": "汉字付き合う意思是五 交际，来往"
+      },
+      {
+        "element": "つきあう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"つき+あう\"来记"
+      }
+    ],
+    "mergedScene": "つきあう拆分记忆，意思是五 交际，来往",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つきあう - 拆分记忆 - 五 交际，来往",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この付き合うは大切です。",
+        "zh": "这个五 交际，来往很重要。"
+      }
+    ]
+  },
+  {
+    "word": "次",
+    "reading": "つぎつぎ",
+    "meaning": "々 副词 连续不断、络绎不绝",
+    "sourceIndex": 1400,
+    "sourceMeaningRaw": "々 副词 连续不断、络绎不绝",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "次",
+        "method": "TYPE A1",
+        "bridgeC": "汉字次意思是々 副词 连续不断、络绎不绝"
+      },
+      {
+        "element": "つぎつぎ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"つぎ+つぎ\"来记"
+      }
+    ],
+    "mergedScene": "つぎつぎ拆分记忆，意思是々 副词 连续不断、络绎不绝",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つぎつぎ - 拆分记忆 - 々 副词 连续不断、络绎不绝",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この次は大切です。",
+        "zh": "这个々 副词 连续不断、络绎不绝很重要。"
+      }
+    ]
+  }
+]

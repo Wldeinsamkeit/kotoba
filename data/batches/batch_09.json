@@ -1,0 +1,282 @@
+[
+  {
+    "word": "どれ",
+    "reading": "どれ",
+    "pos": "代",
+    "meaning": "哪个",
+    "meaning_en": "which one"
+  },
+  {
+    "word": "ナイフ",
+    "reading": "ナイフ",
+    "pos": "名",
+    "meaning": "刀",
+    "meaning_en": "knife"
+  },
+  {
+    "word": "中",
+    "reading": "なか",
+    "pos": "名",
+    "meaning": "里面",
+    "meaning_en": "inside, middle, among"
+  },
+  {
+    "word": "長い",
+    "reading": "ながい",
+    "pos": "イ形",
+    "meaning": "长的",
+    "meaning_en": "long, lengthy"
+  },
+  {
+    "word": "鳴く",
+    "reading": "なく",
+    "pos": "自動1",
+    "meaning": "叫（动物）",
+    "meaning_en": "to make sound (animal)"
+  },
+  {
+    "word": "無くす",
+    "reading": "なくす",
+    "pos": "動1",
+    "meaning": "丢失",
+    "meaning_en": "to lose something"
+  },
+  {
+    "word": "なぜ",
+    "reading": "なぜ",
+    "pos": "名",
+    "meaning": "为什么",
+    "meaning_en": "why (same as どうして)"
+  },
+  {
+    "word": "夏",
+    "reading": "なつ",
+    "pos": "名",
+    "meaning": "夏天",
+    "meaning_en": "summer"
+  },
+  {
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "pos": "名",
+    "meaning": "暑假",
+    "meaning_en": "summer vacation"
+  },
+  {
+    "word": "など",
+    "reading": "など",
+    "pos": "助",
+    "meaning": "等等",
+    "meaning_en": ""
+  },
+  {
+    "word": "七つ",
+    "reading": "ななつ",
+    "pos": "名",
+    "meaning": "七个",
+    "meaning_en": "seven things"
+  },
+  {
+    "word": "七日",
+    "reading": "なのか",
+    "pos": "名",
+    "meaning": "七号",
+    "meaning_en": "seven days; seventh day (of the month)"
+  },
+  {
+    "word": "名前",
+    "reading": "なまえ",
+    "pos": "名",
+    "meaning": "名字",
+    "meaning_en": "name"
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "pos": "他動1",
+    "meaning": "学习",
+    "meaning_en": "to learn"
+  },
+  {
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "pos": "自動1",
+    "meaning": "排列",
+    "meaning_en": "to line up, to stand in a line (v.i.)"
+  },
+  {
+    "word": "並べる",
+    "reading": "ならべる",
+    "pos": "他動2",
+    "meaning": "排列",
+    "meaning_en": "to put (things) side by side; to line up"
+  },
+  {
+    "word": "なる",
+    "reading": "なる",
+    "pos": "動1",
+    "meaning": "变成",
+    "meaning_en": "to become"
+  },
+  {
+    "word": "何",
+    "reading": "なん",
+    "pos": "代",
+    "meaning": "什么",
+    "meaning_en": ""
+  },
+  {
+    "word": "二",
+    "reading": "に",
+    "pos": "名",
+    "meaning": "二",
+    "meaning_en": "two"
+  },
+  {
+    "word": "賑やか",
+    "reading": "にぎやか",
+    "pos": "ナ形",
+    "meaning": "热闹的",
+    "meaning_en": "bustling, busy"
+  },
+  {
+    "word": "肉",
+    "reading": "にく",
+    "pos": "名",
+    "meaning": "肉",
+    "meaning_en": "meat"
+  },
+  {
+    "word": "西",
+    "reading": "にし",
+    "pos": "名",
+    "meaning": "西方",
+    "meaning_en": "west"
+  },
+  {
+    "word": "日曜日",
+    "reading": "にちようび",
+    "pos": "名",
+    "meaning": "星期日",
+    "meaning_en": "Sunday"
+  },
+  {
+    "word": "荷物",
+    "reading": "にもつ",
+    "pos": "名",
+    "meaning": "行李",
+    "meaning_en": "luggage; baggage"
+  },
+  {
+    "word": "ニュース",
+    "reading": "ニュース",
+    "pos": "名",
+    "meaning": "新闻",
+    "meaning_en": "news"
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "pos": "名",
+    "meaning": "庭院，院子",
+    "meaning_en": "garden"
+  },
+  {
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "pos": "他動1",
+    "meaning": "脱掉",
+    "meaning_en": "to take off (clothes)"
+  },
+  {
+    "word": "温い",
+    "reading": "ぬるい",
+    "pos": "イ形",
+    "meaning": "温的",
+    "meaning_en": "lukewarm"
+  },
+  {
+    "word": "ネクタイ",
+    "reading": "ネクタイ",
+    "pos": "名",
+    "meaning": "领带",
+    "meaning_en": "tie, necktie"
+  },
+  {
+    "word": "猫",
+    "reading": "ねこ",
+    "pos": "名",
+    "meaning": "猫",
+    "meaning_en": "cat"
+  },
+  {
+    "word": "寝る",
+    "reading": "ねる",
+    "pos": "自動1",
+    "meaning": "睡觉",
+    "meaning_en": "to sleep; to go to sleep; to go to bed"
+  },
+  {
+    "word": "ノート",
+    "reading": "ノート",
+    "pos": "名",
+    "meaning": "笔记本",
+    "meaning_en": "notebook"
+  },
+  {
+    "word": "登る",
+    "reading": "のぼる",
+    "pos": "自動1",
+    "meaning": "攀登",
+    "meaning_en": "to climb"
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "pos": "名",
+    "meaning": "饮料",
+    "meaning_en": "drink, beverage"
+  },
+  {
+    "word": "飲む",
+    "reading": "のむ",
+    "pos": "他動1",
+    "meaning": "喝",
+    "meaning_en": "to drink"
+  },
+  {
+    "word": "乗る",
+    "reading": "のる",
+    "pos": "自動1",
+    "meaning": "乘坐",
+    "meaning_en": "to get on, to ride in, to board"
+  },
+  {
+    "word": "歯",
+    "reading": "は",
+    "pos": "名",
+    "meaning": "牙齿",
+    "meaning_en": "tooth"
+  },
+  {
+    "word": "パーティー",
+    "reading": "パーティー",
+    "pos": "名",
+    "meaning": "聚会",
+    "meaning_en": "a party"
+  },
+  {
+    "word": "はい",
+    "reading": "はい",
+    "pos": "イ形",
+    "meaning": "是的",
+    "meaning_en": "yes"
+  },
+  {
+    "word": "灰皿",
+    "reading": "はいざら",
+    "pos": "名",
+    "meaning": "烟灰缸",
+    "meaning_en": "ashtray"
+  }
+]

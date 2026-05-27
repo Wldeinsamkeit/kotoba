@@ -1,0 +1,3208 @@
+[
+  {
+    "word": "秋",
+    "reading": "あき",
+    "pos": "名",
+    "meaning": "秋天、秋季",
+    "source_page": "p527"
+  },
+  {
+    "word": "春",
+    "reading": "はる",
+    "pos": "名",
+    "meaning": "春天、春季",
+    "source_page": "p527"
+  },
+  {
+    "word": "開く",
+    "reading": "あく",
+    "pos": "自動1",
+    "meaning": "（】、等）开",
+    "source_page": "p527"
+  },
+  {
+    "word": "会う",
+    "reading": "あう",
+    "pos": "自動1",
+    "meaning": "面、会児：偶遇，碰",
+    "source_page": "p527"
+  },
+  {
+    "word": "青い",
+    "reading": "あおい",
+    "pos": "イ形",
+    "meaning": "藍的，緑色的",
+    "source_page": "p527"
+  },
+  {
+    "word": "赤",
+    "reading": "あか",
+    "pos": "名",
+    "meaning": "紅色",
+    "source_page": "p527"
+  },
+  {
+    "word": "赤い",
+    "reading": "あかい",
+    "pos": "イ形",
+    "meaning": "紅色的",
+    "source_page": "p527"
+  },
+  {
+    "word": "朝",
+    "reading": "あさ",
+    "pos": "名",
+    "meaning": "早晨・早上",
+    "source_page": "p527"
+  },
+  {
+    "word": "星",
+    "reading": "ひる",
+    "pos": "名",
+    "meaning": "白天、白昼",
+    "source_page": "p527"
+  },
+  {
+    "word": "朝ご飯",
+    "reading": "あさごはん",
+    "pos": "名",
+    "meaning": "早坂",
+    "source_page": "p528"
+  },
+  {
+    "word": "朝食",
+    "reading": "ちょうしょく",
+    "pos": "名",
+    "meaning": "早坂",
+    "source_page": "p528"
+  },
+  {
+    "word": "ヘタご飯",
+    "reading": "ゆうごはん",
+    "pos": "名",
+    "meaning": "晩仮",
+    "source_page": "p528"
+  },
+  {
+    "word": "定",
+    "reading": "あし",
+    "pos": "名",
+    "meaning": "（人域物的）脚、",
+    "source_page": "p528"
+  },
+  {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "pos": "イ形",
+    "meaning": "新的",
+    "source_page": "p528"
+  },
+  {
+    "word": "効古い",
+    "reading": "ふるい",
+    "pos": "イ形",
+    "meaning": "古老的：旧",
+    "source_page": "p528"
+  },
+  {
+    "word": "日明日",
+    "reading": "あした",
+    "pos": "名",
+    "meaning": "明天",
+    "source_page": "p528"
+  },
+  {
+    "word": "兄",
+    "reading": "あに",
+    "pos": "名",
+    "meaning": "（自己的）哥哥、姐大",
+    "source_page": "p529"
+  },
+  {
+    "word": "菌寒い",
+    "reading": "さむい",
+    "pos": "イ形",
+    "meaning": "（天気）冷的",
+    "source_page": "p529"
+  },
+  {
+    "word": "熱い",
+    "reading": "あつい",
+    "pos": "イ形",
+    "meaning": "的・熱的",
+    "source_page": "p529"
+  },
+  {
+    "word": "冷たい",
+    "reading": "つめたい",
+    "pos": "イ形",
+    "meaning": "冰涼的：冷",
+    "source_page": "p529"
+  },
+  {
+    "word": "姉",
+    "reading": "あね",
+    "pos": "名",
+    "meaning": "（自己的）姐姐・嫂子",
+    "source_page": "p529"
+  },
+  {
+    "word": "薄い",
+    "reading": "うすい",
+    "pos": "イ形",
+    "meaning": "薄的：（顔色、味",
+    "source_page": "p529"
+  },
+  {
+    "word": "後",
+    "reading": "あと",
+    "pos": "名",
+    "meaning": "后面",
+    "source_page": "p529"
+  },
+  {
+    "word": "先",
+    "reading": "さき",
+    "pos": "名",
+    "meaning": "頂、尖儿",
+    "source_page": "p529"
+  },
+  {
+    "word": "洗濯",
+    "reading": "せんたく",
+    "pos": "名・他動3",
+    "meaning": "洗・洗済",
+    "source_page": "p530"
+  },
+  {
+    "word": "浴びる",
+    "reading": "あびる",
+    "pos": "他動2",
+    "meaning": "淋，流，沐浴",
+    "source_page": "p530"
+  },
+  {
+    "word": "危ない",
+    "reading": "あぶない",
+    "pos": "イ形",
+    "meaning": "危隘的",
+    "source_page": "p530"
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "pos": "自動1",
+    "meaning": "歩行",
+    "source_page": "p530"
+  },
+  {
+    "word": "危険",
+    "reading": "きけん",
+    "pos": "名・ナ形",
+    "meaning": "危",
+    "source_page": "p530"
+  },
+  {
+    "word": "厳しい",
+    "reading": "きびしい",
+    "pos": "イ形",
+    "meaning": "格的、西万的",
+    "source_page": "p530"
+  },
+  {
+    "word": "雨",
+    "reading": "あめ",
+    "pos": "名",
+    "meaning": "雨・雨天",
+    "source_page": "p530"
+  },
+  {
+    "word": "砂糖",
+    "reading": "さとう",
+    "pos": "名",
+    "meaning": "砂糖、糖",
+    "source_page": "p530"
+  },
+  {
+    "word": "池",
+    "reading": "いけ",
+    "pos": "名",
+    "meaning": "水池・水増",
+    "source_page": "p531"
+  },
+  {
+    "word": "言う",
+    "reading": "いう",
+    "pos": "他動1",
+    "meaning": "説話・告派",
+    "source_page": "p531"
+  },
+  {
+    "word": "話す",
+    "reading": "はなす",
+    "pos": "他動1",
+    "meaning": "淡説話",
+    "source_page": "p531"
+  },
+  {
+    "word": "椅子",
+    "reading": "いす",
+    "pos": "名",
+    "meaning": "椅子",
+    "source_page": "p531"
+  },
+  {
+    "word": "以前",
+    "reading": "いぜん",
+    "pos": "名",
+    "meaning": "以前・之前",
+    "source_page": "p531"
+  },
+  {
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "pos": "イ形",
+    "meaning": "忙球的",
+    "source_page": "p531"
+  },
+  {
+    "word": "暇",
+    "reading": "ひま",
+    "pos": "名・ナ形",
+    "meaning": "内暇：悠木",
+    "source_page": "p531"
+  },
+  {
+    "word": "行く",
+    "reading": "いく",
+    "pos": "自動1",
+    "meaning": "去，往、到",
+    "source_page": "p531"
+  },
+  {
+    "word": "板",
+    "reading": "いた",
+    "pos": "名",
+    "meaning": "板、木板",
+    "source_page": "p531"
+  },
+  {
+    "word": "来る",
+    "reading": "くる",
+    "pos": "白動3",
+    "meaning": "来、到来",
+    "source_page": "p531"
+  },
+  {
+    "word": "一番",
+    "reading": "いちばん",
+    "pos": "名・副",
+    "meaning": "第一、最好：最",
+    "source_page": "p532"
+  },
+  {
+    "word": "何時",
+    "reading": "いつ",
+    "pos": "代",
+    "meaning": "什会時候",
+    "source_page": "p532"
+  },
+  {
+    "word": "田舎",
+    "reading": "いなか",
+    "pos": "名",
+    "meaning": "今下、衣村",
+    "source_page": "p532"
+  },
+  {
+    "word": "五日",
+    "reading": "いつか",
+    "pos": "名",
+    "meaning": "五号",
+    "source_page": "p532"
+  },
+  {
+    "word": "一緒",
+    "reading": "いっしょ",
+    "pos": "名",
+    "meaning": "同祥的：一起",
+    "source_page": "p532"
+  },
+  {
+    "word": "一緒に",
+    "reading": "いっしょに",
+    "pos": "副",
+    "meaning": "一起一同",
+    "source_page": "p532"
+  },
+  {
+    "word": "今",
+    "reading": "いま",
+    "pos": "名",
+    "meaning": "現在，当前",
+    "source_page": "p532"
+  },
+  {
+    "word": "現在",
+    "reading": "げんざい",
+    "pos": "名",
+    "meaning": "現在、如今",
+    "source_page": "p532"
+  },
+  {
+    "word": "五つ",
+    "reading": "いつつ",
+    "pos": "名",
+    "meaning": "五介：五安",
+    "source_page": "p532"
+  },
+  {
+    "word": "今では",
+    "reading": "いまでは",
+    "pos": "副",
+    "meaning": "現在、現在的活",
+    "source_page": "p533"
+  },
+  {
+    "word": "今まで",
+    "reading": "いままで",
+    "pos": "副",
+    "meaning": "至今方止",
+    "source_page": "p533"
+  },
+  {
+    "word": "意味",
+    "reading": "いみ",
+    "pos": "名・他動3",
+    "meaning": "意思",
+    "source_page": "p533"
+  },
+  {
+    "word": "妹",
+    "reading": "いもうと",
+    "pos": "名",
+    "meaning": "妹妹",
+    "source_page": "p533"
+  },
+  {
+    "word": "祝う",
+    "reading": "いわう",
+    "pos": "他動1",
+    "meaning": "視賀・祝：祝愿",
+    "source_page": "p533"
+  },
+  {
+    "word": "飲食",
+    "reading": "いんしょく",
+    "pos": "名・白動3",
+    "meaning": "飲食",
+    "source_page": "p533"
+  },
+  {
+    "word": "好き",
+    "reading": "すき",
+    "pos": "名・ナ形",
+    "meaning": "喜愛，喜",
+    "source_page": "p533"
+  },
+  {
+    "word": "頭嫌い",
+    "reading": "きらい",
+    "pos": "名・ナ形",
+    "meaning": "対応、煩",
+    "source_page": "p533"
+  },
+  {
+    "word": "財出口",
+    "reading": "でぐち",
+    "pos": "名",
+    "meaning": "出",
+    "source_page": "p533"
+  },
+  {
+    "word": "家",
+    "reading": "いえ",
+    "pos": "名",
+    "meaning": "房子：家、家庭",
+    "source_page": "p534"
+  },
+  {
+    "word": "生まれる",
+    "reading": "うまれる",
+    "pos": "自動2",
+    "meaning": "出生：生",
+    "source_page": "p534"
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "pos": "名",
+    "meaning": "后面",
+    "source_page": "p534"
+  },
+  {
+    "word": "肉前",
+    "reading": "まえ",
+    "pos": "名",
+    "meaning": "前面・前方",
+    "source_page": "p534"
+  },
+  {
+    "word": "売る",
+    "reading": "うる",
+    "pos": "他動1",
+    "meaning": "出售：出す",
+    "source_page": "p534"
+  },
+  {
+    "word": "曲",
+    "reading": "きょく",
+    "pos": "名",
+    "meaning": "曲週・歌曲",
+    "source_page": "p534"
+  },
+  {
+    "word": "下着",
+    "reading": "したぎ",
+    "pos": "名",
+    "meaning": "内衣",
+    "source_page": "p535"
+  },
+  {
+    "word": "映画館",
+    "reading": "えいがかん",
+    "pos": "名",
+    "meaning": "中影院・別院",
+    "source_page": "p535"
+  },
+  {
+    "word": "運動会",
+    "reading": "うんどうかい",
+    "pos": "名",
+    "meaning": "込会",
+    "source_page": "p535"
+  },
+  {
+    "word": "運動",
+    "reading": "うんどう",
+    "pos": "名・自動3",
+    "meaning": "込、体育",
+    "source_page": "p535"
+  },
+  {
+    "word": "営業部",
+    "reading": "えいぎょうぶ",
+    "pos": "名",
+    "meaning": "售部。背",
+    "source_page": "p535"
+  },
+  {
+    "word": "連動場",
+    "reading": "うんどうじょう",
+    "pos": "名",
+    "meaning": "込、",
+    "source_page": "p535"
+  },
+  {
+    "word": "英語",
+    "reading": "えいご",
+    "pos": "名",
+    "meaning": "英語",
+    "source_page": "p535"
+  },
+  {
+    "word": "中国語",
+    "reading": "ちゅうごくご",
+    "pos": "名",
+    "meaning": "語",
+    "source_page": "p535"
+  },
+  {
+    "word": "駅員",
+    "reading": "えきいん",
+    "pos": "名",
+    "meaning": "站員",
+    "source_page": "p535"
+  },
+  {
+    "word": "絵葉書",
+    "reading": "えはがき",
+    "pos": "名",
+    "meaning": "明信片",
+    "source_page": "p536"
+  },
+  {
+    "word": "横断歩道",
+    "reading": "おうだんほどう",
+    "pos": "名",
+    "meaning": "人行",
+    "source_page": "p536"
+  },
+  {
+    "word": "選ぶ",
+    "reading": "えらぶ",
+    "pos": "他動1",
+    "meaning": "挑",
+    "source_page": "p536"
+  },
+  {
+    "word": "円",
+    "reading": "えん",
+    "pos": "名・接尾」園形：日元 なんえん 対少ない（すくない）③［イ形",
+    "meaning": "少的",
+    "source_page": "p536"
+  },
+  {
+    "word": "遠足",
+    "reading": "えんそく",
+    "pos": "名・自動3",
+    "meaning": "郊游・徒歩",
+    "source_page": "p536"
+  },
+  {
+    "word": "大きな",
+    "reading": "おおきな",
+    "pos": "連体",
+    "meaning": "大的・・・・・・・巨大",
+    "source_page": "p536"
+  },
+  {
+    "word": "長",
+    "reading": "えんちょう",
+    "pos": "名",
+    "meaning": "（幼ル园、効物同等",
+    "source_page": "p536"
+  },
+  {
+    "word": "鉛筆",
+    "reading": "えんびつ",
+    "pos": "名",
+    "meaning": "笔",
+    "source_page": "p536"
+  },
+  {
+    "word": "多く",
+    "reading": "おおく",
+    "pos": "名",
+    "meaning": "多、大部分",
+    "source_page": "p536"
+  },
+  {
+    "word": "近く",
+    "reading": "ちかく",
+    "pos": "名",
+    "meaning": "近妙，附近",
+    "source_page": "p537"
+  },
+  {
+    "word": "奥さん",
+    "reading": "おくさん",
+    "pos": "名",
+    "meaning": "您妻子",
+    "source_page": "p537"
+  },
+  {
+    "word": "大勢",
+    "reading": "おおぜい",
+    "pos": "名・副",
+    "meaning": "許人，大批（的",
+    "source_page": "p537"
+  },
+  {
+    "word": "大晦日",
+    "reading": "おおみそか",
+    "pos": "名",
+    "meaning": "除夕（在日本指",
+    "source_page": "p537"
+  },
+  {
+    "word": "送る",
+    "reading": "おくる",
+    "pos": "他動1",
+    "meaning": "郵寄：送、送別",
+    "source_page": "p537"
+  },
+  {
+    "word": "起きる",
+    "reading": "おきる",
+    "pos": "自動2",
+    "meaning": "起床：醒者",
+    "source_page": "p537"
+  },
+  {
+    "word": "寝る",
+    "reading": "ねる",
+    "pos": "自動1",
+    "meaning": "睡党",
+    "source_page": "p537"
+  },
+  {
+    "word": "置く",
+    "reading": "おく",
+    "pos": "他動1",
+    "meaning": "放、物",
+    "source_page": "p537"
+  },
+  {
+    "word": "教える",
+    "reading": "おしえる",
+    "pos": "他動2",
+    "meaning": "教授：告派",
+    "source_page": "p537"
+  },
+  {
+    "word": "教わる",
+    "reading": "おそわる",
+    "pos": "他動1",
+    "meaning": "向…・・・・学",
+    "source_page": "p537"
+  },
+  {
+    "word": "億",
+    "reading": "おく",
+    "pos": "名・接尾",
+    "meaning": "化",
+    "source_page": "p537"
+  },
+  {
+    "word": "押す",
+    "reading": "おす",
+    "pos": "他動1",
+    "meaning": "推、圧、按",
+    "source_page": "p538"
+  },
+  {
+    "word": "大人",
+    "reading": "おとな",
+    "pos": "名",
+    "meaning": "成人、大人",
+    "source_page": "p538"
+  },
+  {
+    "word": "遅い",
+    "reading": "おそい",
+    "pos": "イ形",
+    "meaning": "晚的",
+    "source_page": "p538"
+  },
+  {
+    "word": "早い",
+    "reading": "はやい",
+    "pos": "イ形",
+    "meaning": "早的",
+    "source_page": "p538"
+  },
+  {
+    "word": "腹",
+    "reading": "はら",
+    "pos": "名",
+    "meaning": "肚子、腹部",
+    "source_page": "p538"
+  },
+  {
+    "word": "音",
+    "reading": "おと",
+    "pos": "名",
+    "meaning": "（非生命物体出的）声音",
+    "source_page": "p538"
+  },
+  {
+    "word": "声",
+    "reading": "こえ",
+    "pos": "名",
+    "meaning": "（人域効物出的）声音",
+    "source_page": "p538"
+  },
+  {
+    "word": "寿司",
+    "reading": "すし",
+    "pos": "名",
+    "meaning": "寿司",
+    "source_page": "p538"
+  },
+  {
+    "word": "弟",
+    "reading": "おとうと",
+    "pos": "名",
+    "meaning": "弟弟",
+    "source_page": "p538"
+  },
+  {
+    "word": "週弟さん",
+    "reading": "おとうとさん",
+    "pos": "名",
+    "meaning": "（提及",
+    "source_page": "p538"
+  },
+  {
+    "word": "男",
+    "reading": "おとこ",
+    "pos": "名",
+    "meaning": "男性，男人",
+    "source_page": "p538"
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "pos": "他動2",
+    "meaning": "辺住",
+    "source_page": "p538"
+  },
+  {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "pos": "他動2",
+    "meaning": "忘況・遺応",
+    "source_page": "p539"
+  },
+  {
+    "word": "警察",
+    "reading": "けいさつ",
+    "pos": "名",
+    "meaning": "普察",
+    "source_page": "p539"
+  },
+  {
+    "word": "水泳",
+    "reading": "すいえい",
+    "pos": "名・自動3",
+    "meaning": "游泳",
+    "source_page": "p539"
+  },
+  {
+    "word": "軽い",
+    "reading": "かるい",
+    "pos": "イ形",
+    "meaning": "的、経巧的",
+    "source_page": "p539"
+  },
+  {
+    "word": "図上がる",
+    "reading": "あがる",
+    "pos": "白動1",
+    "meaning": "登上",
+    "source_page": "p539"
+  },
+  {
+    "word": "思う",
+    "reading": "おもう",
+    "pos": "他動1",
+    "meaning": "思考：思念",
+    "source_page": "p539"
+  },
+  {
+    "word": "終わり",
+    "reading": "おわり",
+    "pos": "名",
+    "meaning": "束・未尾",
+    "source_page": "p539"
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "pos": "自他動1",
+    "meaning": "完・結束：完結",
+    "source_page": "p539"
+  },
+  {
+    "word": "考える",
+    "reading": "かんがえる",
+    "pos": "他動2",
+    "meaning": "考点",
+    "source_page": "p539"
+  },
+  {
+    "word": "終える",
+    "reading": "おえる",
+    "pos": "他動2",
+    "meaning": "微完・完成",
+    "source_page": "p539"
+  },
+  {
+    "word": "面白い",
+    "reading": "おもしろい",
+    "pos": "イ形",
+    "meaning": "有趣的・有意",
+    "source_page": "p539"
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "pos": "名",
+    "meaning": "音示",
+    "source_page": "p539"
+  },
+  {
+    "word": "親",
+    "reading": "おや",
+    "pos": "名",
+    "meaning": "父母",
+    "source_page": "p539"
+  },
+  {
+    "word": "団子",
+    "reading": "こ",
+    "pos": "名",
+    "meaning": "孩子、小",
+    "source_page": "p539"
+  },
+  {
+    "word": "温泉",
+    "reading": "おんせん",
+    "pos": "名",
+    "meaning": "温泉",
+    "source_page": "p539"
+  },
+  {
+    "word": "外出",
+    "reading": "がいしゅつ",
+    "pos": "名・自動3",
+    "meaning": "外出",
+    "source_page": "p540"
+  },
+  {
+    "word": "女",
+    "reading": "おんな",
+    "pos": "名",
+    "meaning": "女性。女人",
+    "source_page": "p540"
+  },
+  {
+    "word": "階段",
+    "reading": "かいだん",
+    "pos": "名",
+    "meaning": "台、楼梯：等",
+    "source_page": "p540"
+  },
+  {
+    "word": "段階",
+    "reading": "だんかい",
+    "pos": "名",
+    "meaning": "段。肘",
+    "source_page": "p540"
+  },
+  {
+    "word": "海外",
+    "reading": "かいがい",
+    "pos": "名",
+    "meaning": "海外・国外",
+    "source_page": "p540"
+  },
+  {
+    "word": "国内",
+    "reading": "こくない",
+    "pos": "名",
+    "meaning": "国内",
+    "source_page": "p540"
+  },
+  {
+    "word": "会話",
+    "reading": "かいわ",
+    "pos": "名・白動3",
+    "meaning": "会活。交流",
+    "source_page": "p540"
+  },
+  {
+    "word": "談話",
+    "reading": "だんわ",
+    "pos": "名・自動3",
+    "meaning": "会活",
+    "source_page": "p540"
+  },
+  {
+    "word": "買う",
+    "reading": "かう",
+    "pos": "他動1",
+    "meaning": "来、来",
+    "source_page": "p540"
+  },
+  {
+    "word": "日外国語",
+    "reading": "がいこくご",
+    "pos": "名",
+    "meaning": "外清",
+    "source_page": "p540"
+  },
+  {
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "pos": "名",
+    "meaning": "外国人・海外",
+    "source_page": "p540"
+  },
+  {
+    "word": "返す",
+    "reading": "かえす",
+    "pos": "他動1",
+    "meaning": "込",
+    "source_page": "p540"
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "pos": "名",
+    "meaning": "公司",
+    "source_page": "p540"
+  },
+  {
+    "word": "帰る",
+    "reading": "かえる",
+    "pos": "自動1",
+    "meaning": "国家、回去",
+    "source_page": "p540"
+  },
+  {
+    "word": "社長",
+    "reading": "しゃちょう",
+    "pos": "名",
+    "meaning": "社に",
+    "source_page": "p540"
+  },
+  {
+    "word": "顔",
+    "reading": "かお",
+    "pos": "名",
+    "meaning": "臉",
+    "source_page": "p540"
+  },
+  {
+    "word": "会社員",
+    "reading": "かいしゃいん",
+    "pos": "名",
+    "meaning": "公司駅員",
+    "source_page": "p540"
+  },
+  {
+    "word": "職員",
+    "reading": "しょくいん",
+    "pos": "名",
+    "meaning": "眼売",
+    "source_page": "p540"
+  },
+  {
+    "word": "傘",
+    "reading": "かさ",
+    "pos": "名",
+    "meaning": "雨傘",
+    "source_page": "p541"
+  },
+  {
+    "word": "貸す",
+    "reading": "かす",
+    "pos": "他動1",
+    "meaning": "借出",
+    "source_page": "p541"
+  },
+  {
+    "word": "書く",
+    "reading": "かく",
+    "pos": "他動1",
+    "meaning": "号",
+    "source_page": "p541"
+  },
+  {
+    "word": "読む",
+    "reading": "よむ",
+    "pos": "仙動1",
+    "meaning": "速、看",
+    "source_page": "p541"
+  },
+  {
+    "word": "家具",
+    "reading": "かぐ",
+    "pos": "名",
+    "meaning": "家具",
+    "source_page": "p541"
+  },
+  {
+    "word": "風邪",
+    "reading": "かぜ",
+    "pos": "名",
+    "meaning": "感冒",
+    "source_page": "p541"
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "pos": "名",
+    "meaning": "学生",
+    "source_page": "p541"
+  },
+  {
+    "word": "家族",
+    "reading": "かぞく",
+    "pos": "名",
+    "meaning": "家族、家属",
+    "source_page": "p541"
+  },
+  {
+    "word": "掛ける",
+    "reading": "かける",
+    "pos": "他動2",
+    "meaning": "帯上、盖上",
+    "source_page": "p541"
+  },
+  {
+    "word": "方",
+    "reading": "かた",
+    "pos": "名",
+    "meaning": "（「人」的尊敬説法）......",
+    "source_page": "p542"
+  },
+  {
+    "word": "角",
+    "reading": "かど",
+    "pos": "名",
+    "meaning": "（道路等）拐",
+    "source_page": "p542"
+  },
+  {
+    "word": "平仮名",
+    "reading": "ひらがな",
+    "pos": "名",
+    "meaning": "平假名",
+    "source_page": "p542"
+  },
+  {
+    "word": "片仮名",
+    "reading": "かたかな",
+    "pos": "名",
+    "meaning": "片名",
+    "source_page": "p542"
+  },
+  {
+    "word": "金",
+    "reading": "かね",
+    "pos": "名",
+    "meaning": "金銭、銭",
+    "source_page": "p542"
+  },
+  {
+    "word": "活動",
+    "reading": "かつどう",
+    "pos": "名・自動3",
+    "meaning": "活動",
+    "source_page": "p542"
+  },
+  {
+    "word": "家庭",
+    "reading": "かてい",
+    "pos": "名",
+    "meaning": "家庭",
+    "source_page": "p542"
+  },
+  {
+    "word": "被る",
+    "reading": "かぶる",
+    "pos": "他動1",
+    "meaning": "戴：蒙受、低担",
+    "source_page": "p543"
+  },
+  {
+    "word": "身体",
+    "reading": "しんたい",
+    "pos": "名",
+    "meaning": "肉体、身体",
+    "source_page": "p543"
+  },
+  {
+    "word": "図重い",
+    "reading": "おもい",
+    "pos": "イ形",
+    "meaning": "重的・流重的",
+    "source_page": "p543"
+  },
+  {
+    "word": "粥",
+    "reading": "かゆ",
+    "pos": "名",
+    "meaning": "粥・稀飯",
+    "source_page": "p543"
+  },
+  {
+    "word": "火曜日",
+    "reading": "かようび",
+    "pos": "名",
+    "meaning": "周二",
+    "source_page": "p543"
+  },
+  {
+    "word": "辛い",
+    "reading": "からい",
+    "pos": "イ形",
+    "meaning": "辣的：烈的",
+    "source_page": "p543"
+  },
+  {
+    "word": "湖",
+    "reading": "みずらみ",
+    "pos": "名",
+    "meaning": "湖沼",
+    "source_page": "p543"
+  },
+  {
+    "word": "酸っぱい",
+    "reading": "すっぱい",
+    "pos": "イ形",
+    "meaning": "酸的",
+    "source_page": "p543"
+  },
+  {
+    "word": "甘い",
+    "reading": "あまい",
+    "pos": "イ形",
+    "meaning": "甜的：不万的",
+    "source_page": "p543"
+  },
+  {
+    "word": "皮",
+    "reading": "かわ",
+    "pos": "名",
+    "meaning": "皮，表皮",
+    "source_page": "p543"
+  },
+  {
+    "word": "聞く",
+    "reading": "きく",
+    "pos": "他動1",
+    "meaning": "所：海向",
+    "source_page": "p544"
+  },
+  {
+    "word": "歓迎会",
+    "reading": "かんげいかい",
+    "pos": "名",
+    "meaning": "迎新会",
+    "source_page": "p544"
+  },
+  {
+    "word": "帰国",
+    "reading": "きこく",
+    "pos": "名・自動3",
+    "meaning": "回医",
+    "source_page": "p544"
+  },
+  {
+    "word": "送別会",
+    "reading": "そうべつかい",
+    "pos": "名",
+    "meaning": "送別会",
+    "source_page": "p544"
+  },
+  {
+    "word": "漢字",
+    "reading": "かんじ",
+    "pos": "名",
+    "meaning": "汊字",
+    "source_page": "p544"
+  },
+  {
+    "word": "看板",
+    "reading": "かんばん",
+    "pos": "名",
+    "meaning": "招牌",
+    "source_page": "p544"
+  },
+  {
+    "word": "木",
+    "reading": "き",
+    "pos": "名",
+    "meaning": "材・材木",
+    "source_page": "p544"
+  },
+  {
+    "word": "北側",
+    "reading": "きたがわ",
+    "pos": "名",
+    "meaning": "北方、北側",
+    "source_page": "p544"
+  },
+  {
+    "word": "黄色",
+    "reading": "きいろ",
+    "pos": "名",
+    "meaning": "黄色",
+    "source_page": "p544"
+  },
+  {
+    "word": "汚い",
+    "reading": "きたない",
+    "pos": "イ形",
+    "meaning": "脈的：凌乱的：早",
+    "source_page": "p544"
+  },
+  {
+    "word": "黄色い",
+    "reading": "きいろい",
+    "pos": "イ形",
+    "meaning": "黄色的",
+    "source_page": "p544"
+  },
+  {
+    "word": "喫茶店",
+    "reading": "きっさてん",
+    "pos": "名",
+    "meaning": "咖啡庁、茶策",
+    "source_page": "p544"
+  },
+  {
+    "word": "消える",
+    "reading": "きえる",
+    "pos": "自動2",
+    "meaning": "消失：想",
+    "source_page": "p544"
+  },
+  {
+    "word": "切手",
+    "reading": "きって",
+    "pos": "名",
+    "meaning": "郵票",
+    "source_page": "p544"
+  },
+  {
+    "word": "切符",
+    "reading": "きっぷ",
+    "pos": "名",
+    "meaning": "（年、船等的）票",
+    "source_page": "p545"
+  },
+  {
+    "word": "去年",
+    "reading": "きょねん",
+    "pos": "名",
+    "meaning": "去年",
+    "source_page": "p545"
+  },
+  {
+    "word": "嫌い",
+    "reading": "きらい",
+    "pos": "名・ナ形",
+    "meaning": "不喜炊",
+    "source_page": "p545"
+  },
+  {
+    "word": "記念物",
+    "reading": "きねんぶつ",
+    "pos": "名",
+    "meaning": "紀念品",
+    "source_page": "p545"
+  },
+  {
+    "word": "切る",
+    "reading": "きる",
+    "pos": "他動1",
+    "meaning": "切割",
+    "source_page": "p545"
+  },
+  {
+    "word": "着る",
+    "reading": "きる",
+    "pos": "他動2",
+    "meaning": "（衣服等）",
+    "source_page": "p545"
+  },
+  {
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "pos": "名",
+    "meaning": "肉",
+    "source_page": "p545"
+  },
+  {
+    "word": "今日",
+    "reading": "きょう",
+    "pos": "名",
+    "meaning": "今天",
+    "source_page": "p545"
+  },
+  {
+    "word": "教室",
+    "reading": "きょうしつ",
+    "pos": "名",
+    "meaning": "教室",
+    "source_page": "p545"
+  },
+  {
+    "word": "兄弟",
+    "reading": "きょうだい",
+    "pos": "名",
+    "meaning": "兄弟姐妹",
+    "source_page": "p545"
+  },
+  {
+    "word": "姉妹",
+    "reading": "しまい",
+    "pos": "名",
+    "meaning": "姐妹",
+    "source_page": "p545"
+  },
+  {
+    "word": "銀行員",
+    "reading": "ぎんこういん",
+    "pos": "名",
+    "meaning": "銀行工作",
+    "source_page": "p545"
+  },
+  {
+    "word": "趣味",
+    "reading": "しゅみ",
+    "pos": "名",
+    "meaning": "兴趣，愛好",
+    "source_page": "p545"
+  },
+  {
+    "word": "曇り",
+    "reading": "くもり",
+    "pos": "名",
+    "meaning": "阴天",
+    "source_page": "p546"
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "pos": "名",
+    "meaning": "葯品",
+    "source_page": "p546"
+  },
+  {
+    "word": "果物",
+    "reading": "くだもの",
+    "pos": "名",
+    "meaning": "水果",
+    "source_page": "p546"
+  },
+  {
+    "word": "暗い",
+    "reading": "くらい",
+    "pos": "イ形",
+    "meaning": "変黑的、暗的",
+    "source_page": "p546"
+  },
+  {
+    "word": "国",
+    "reading": "くに",
+    "pos": "名",
+    "meaning": "国家",
+    "source_page": "p546"
+  },
+  {
+    "word": "熊",
+    "reading": "くま",
+    "pos": "名",
+    "meaning": "熊",
+    "source_page": "p546"
+  },
+  {
+    "word": "車",
+    "reading": "くるま",
+    "pos": "名",
+    "meaning": "年、汽年",
+    "source_page": "p547"
+  },
+  {
+    "word": "結構",
+    "reading": "けっこう",
+    "pos": "名・副・ナ形",
+    "meaning": "非常：代",
+    "source_page": "p547"
+  },
+  {
+    "word": "黒",
+    "reading": "くろ",
+    "pos": "名",
+    "meaning": "黒色",
+    "source_page": "p547"
+  },
+  {
+    "word": "効白",
+    "reading": "しろ",
+    "pos": "名",
+    "meaning": "白色",
+    "source_page": "p547"
+  },
+  {
+    "word": "結婚",
+    "reading": "けっこん",
+    "pos": "名・自動3",
+    "meaning": "結婚",
+    "source_page": "p547"
+  },
+  {
+    "word": "黒い",
+    "reading": "くろい",
+    "pos": "イ形",
+    "meaning": "黑笆的・黝黒的",
+    "source_page": "p547"
+  },
+  {
+    "word": "元気",
+    "reading": "げんき",
+    "pos": "名・ナ形",
+    "meaning": "精神・活力",
+    "source_page": "p547"
+  },
+  {
+    "word": "警官",
+    "reading": "けいかん",
+    "pos": "名",
+    "meaning": "普察、普官",
+    "source_page": "p547"
+  },
+  {
+    "word": "警備",
+    "reading": "けいび",
+    "pos": "名・他動3",
+    "meaning": "響戒、管工",
+    "source_page": "p547"
+  },
+  {
+    "word": "健康",
+    "reading": "けんこう",
+    "pos": "名・ナ形",
+    "meaning": "健康：健康的",
+    "source_page": "p547"
+  },
+  {
+    "word": "濃い",
+    "reading": "こい",
+    "pos": "イ形",
+    "meaning": "（顔色）深的",
+    "source_page": "p548"
+  },
+  {
+    "word": "音",
+    "reading": "お",
+    "pos": "名",
+    "meaning": "（非生命物体出的）声音",
+    "source_page": "p548"
+  },
+  {
+    "word": "公園",
+    "reading": "こうえん",
+    "pos": "名",
+    "meaning": "公同",
+    "source_page": "p548"
+  },
+  {
+    "word": "船便",
+    "reading": "ふなびん",
+    "pos": "名",
+    "meaning": "海込、船込",
+    "source_page": "p548"
+  },
+  {
+    "word": "交差点",
+    "reading": "こうさてん",
+    "pos": "名",
+    "meaning": "十字路",
+    "source_page": "p548"
+  },
+  {
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "pos": "名",
+    "meaning": "紅茶",
+    "source_page": "p548"
+  },
+  {
+    "word": "午後",
+    "reading": "ごご",
+    "pos": "名",
+    "meaning": "下手、午后",
+    "source_page": "p548"
+  },
+  {
+    "word": "高等学校",
+    "reading": "こうとうがっこう",
+    "pos": "名",
+    "meaning": "高中",
+    "source_page": "p548"
+  },
+  {
+    "word": "九日",
+    "reading": "ここのか",
+    "pos": "名",
+    "meaning": "九号",
+    "source_page": "p548"
+  },
+  {
+    "word": "交番",
+    "reading": "こうばん",
+    "pos": "名",
+    "meaning": "派出所・普亭",
+    "source_page": "p548"
+  },
+  {
+    "word": "日管察署",
+    "reading": "けいさつしょ",
+    "pos": "名",
+    "meaning": "公安局",
+    "source_page": "p548"
+  },
+  {
+    "word": "午前",
+    "reading": "ごぜん",
+    "pos": "名",
+    "meaning": "上手",
+    "source_page": "p548"
+  },
+  {
+    "word": "答え",
+    "reading": "こたえ",
+    "pos": "名",
+    "meaning": "回答、回夏：答案",
+    "source_page": "p549"
+  },
+  {
+    "word": "困る",
+    "reading": "こまる",
+    "pos": "自動1",
+    "meaning": "感到困准。州",
+    "source_page": "p549"
+  },
+  {
+    "word": "込む",
+    "reading": "こむ",
+    "pos": "自動1",
+    "meaning": "押持",
+    "source_page": "p549"
+  },
+  {
+    "word": "今年",
+    "reading": "ことし",
+    "pos": "名",
+    "meaning": "今年",
+    "source_page": "p549"
+  },
+  {
+    "word": "言葉",
+    "reading": "ことば",
+    "pos": "名",
+    "meaning": "単司",
+    "source_page": "p549"
+  },
+  {
+    "word": "子供",
+    "reading": "こども",
+    "pos": "名",
+    "meaning": "我子、儿童",
+    "source_page": "p549"
+  },
+  {
+    "word": "頃",
+    "reading": "ころ",
+    "pos": "名",
+    "meaning": "吋候、時期",
+    "source_page": "p549"
+  },
+  {
+    "word": "今月",
+    "reading": "こんげつ",
+    "pos": "名",
+    "meaning": "送月",
+    "source_page": "p550"
+  },
+  {
+    "word": "最初",
+    "reading": "さいしょ",
+    "pos": "名",
+    "meaning": "最初・最肝始",
+    "source_page": "p550"
+  },
+  {
+    "word": "先に",
+    "reading": "さきに",
+    "pos": "副",
+    "meaning": "第一生",
+    "source_page": "p550"
+  },
+  {
+    "word": "咲く",
+    "reading": "さく",
+    "pos": "自動1",
+    "meaning": "所花",
+    "source_page": "p550"
+  },
+  {
+    "word": "作文",
+    "reading": "さくぶん",
+    "pos": "名",
+    "meaning": "作文",
+    "source_page": "p550"
+  },
+  {
+    "word": "酒",
+    "reading": "さけ",
+    "pos": "名",
+    "meaning": "酒：酒量",
+    "source_page": "p551"
+  },
+  {
+    "word": "差す",
+    "reading": "さす",
+    "pos": "自動1",
+    "meaning": "（月）照射：（他）",
+    "source_page": "p551"
+  },
+  {
+    "word": "寒い",
+    "reading": "さむい",
+    "pos": "イ形",
+    "meaning": "（天気）冷的",
+    "source_page": "p551"
+  },
+  {
+    "word": "暑い",
+    "reading": "あつい",
+    "pos": "イ形",
+    "meaning": "（天気）熱的",
+    "source_page": "p551"
+  },
+  {
+    "word": "皿",
+    "reading": "さら",
+    "pos": "名",
+    "meaning": "熱子、碟子",
+    "source_page": "p551"
+  },
+  {
+    "word": "作家",
+    "reading": "さっか",
+    "pos": "名",
+    "meaning": "作家",
+    "source_page": "p551"
+  },
+  {
+    "word": "来週",
+    "reading": "さらいしゅう",
+    "pos": "名",
+    "meaning": "下下周・下下",
+    "source_page": "p551"
+  },
+  {
+    "word": "雑誌",
+    "reading": "ざっし",
+    "pos": "名",
+    "meaning": "志",
+    "source_page": "p551"
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "pos": "名",
+    "meaning": "振紙",
+    "source_page": "p551"
+  },
+  {
+    "word": "再来年",
+    "reading": "さらいねん",
+    "pos": "名",
+    "meaning": "后年",
+    "source_page": "p551"
+  },
+  {
+    "word": "残業",
+    "reading": "ざんぎょう",
+    "pos": "名・自動3",
+    "meaning": "加琲",
+    "source_page": "p551"
+  },
+  {
+    "word": "寂しい",
+    "reading": "さびしい",
+    "pos": "イ形",
+    "meaning": "寂寞的・无聊",
+    "source_page": "p551"
+  },
+  {
+    "word": "仕事",
+    "reading": "しごと",
+    "pos": "名",
+    "meaning": "工作、現山",
+    "source_page": "p552"
+  },
+  {
+    "word": "辞書",
+    "reading": "じしょ",
+    "pos": "名",
+    "meaning": "同典、辞も",
+    "source_page": "p552"
+  },
+  {
+    "word": "塩",
+    "reading": "しお",
+    "pos": "名",
+    "meaning": "食＃",
+    "source_page": "p552"
+  },
+  {
+    "word": "地震",
+    "reading": "じしん",
+    "pos": "名",
+    "meaning": "地震",
+    "source_page": "p552"
+  },
+  {
+    "word": "下",
+    "reading": "した",
+    "pos": "名",
+    "meaning": "（方位）下面：年齢小",
+    "source_page": "p552"
+  },
+  {
+    "word": "上",
+    "reading": "うえ",
+    "pos": "名",
+    "meaning": "（方位）上面",
+    "source_page": "p552"
+  },
+  {
+    "word": "日試験",
+    "reading": "しけん",
+    "pos": "名・他動3",
+    "meaning": "考武：測",
+    "source_page": "p552"
+  },
+  {
+    "word": "締める",
+    "reading": "しめる",
+    "pos": "他動2",
+    "meaning": "系紫、前祭：約",
+    "source_page": "p553"
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "pos": "名・自動3",
+    "meaning": "同",
+    "source_page": "p553"
+  },
+  {
+    "word": "死ぬ",
+    "reading": "しぬ",
+    "pos": "自動1",
+    "meaning": "死、死亡",
+    "source_page": "p553"
+  },
+  {
+    "word": "社員",
+    "reading": "しゃいん",
+    "pos": "名",
+    "meaning": "公司員T.",
+    "source_page": "p553"
+  },
+  {
+    "word": "生きる",
+    "reading": "いきる",
+    "pos": "自動2",
+    "meaning": "生存",
+    "source_page": "p553"
+  },
+  {
+    "word": "阿死亡",
+    "reading": "しぼう",
+    "pos": "名・白動3",
+    "meaning": "死，死亡",
+    "source_page": "p553"
+  },
+  {
+    "word": "社会",
+    "reading": "しゃかい",
+    "pos": "名",
+    "meaning": "社会",
+    "source_page": "p553"
+  },
+  {
+    "word": "字引",
+    "reading": "じびき",
+    "pos": "名",
+    "meaning": "字典・辞",
+    "source_page": "p553"
+  },
+  {
+    "word": "自分",
+    "reading": "じぶん",
+    "pos": "代・名",
+    "meaning": "自己、本人",
+    "source_page": "p553"
+  },
+  {
+    "word": "閉まる",
+    "reading": "しまる",
+    "pos": "自動1",
+    "meaning": "閉",
+    "source_page": "p553"
+  },
+  {
+    "word": "酎開く",
+    "reading": "あく",
+    "pos": "自動1",
+    "meaning": "（1箇等）打井",
+    "source_page": "p553"
+  },
+  {
+    "word": "国開ける",
+    "reading": "あける",
+    "pos": "他動2",
+    "meaning": "打井、翻",
+    "source_page": "p553"
+  },
+  {
+    "word": "週",
+    "reading": "しゅう",
+    "pos": "名",
+    "meaning": "周，礼拜",
+    "source_page": "p554"
+  },
+  {
+    "word": "出張",
+    "reading": "しゅっちょう",
+    "pos": "名・自動3",
+    "meaning": "出差",
+    "source_page": "p554"
+  },
+  {
+    "word": "就職",
+    "reading": "しゅうしょく",
+    "pos": "名・自動3",
+    "meaning": "就現、就",
+    "source_page": "p554"
+  },
+  {
+    "word": "小学生",
+    "reading": "しょうがくせい",
+    "pos": "名",
+    "meaning": "小学生",
+    "source_page": "p554"
+  },
+  {
+    "word": "週末",
+    "reading": "しゅうまつ",
+    "pos": "名",
+    "meaning": "周木",
+    "source_page": "p554"
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "pos": "名・ナ形",
+    "meaning": "擅止、高明",
+    "source_page": "p554"
+  },
+  {
+    "word": "自終末",
+    "reading": "しゅうまつ",
+    "pos": "名",
+    "meaning": "尾，終結",
+    "source_page": "p554"
+  },
+  {
+    "word": "下手",
+    "reading": "へた",
+    "pos": "名・ナ形",
+    "meaning": "不熟、不壇",
+    "source_page": "p554"
+  },
+  {
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "pos": "名",
+    "meaning": "作止",
+    "source_page": "p554"
+  },
+  {
+    "word": "丈夫",
+    "reading": "じょうぶ",
+    "pos": "ナ形",
+    "meaning": "健康、強壮",
+    "source_page": "p554"
+  },
+  {
+    "word": "主人",
+    "reading": "しゅじん",
+    "pos": "名",
+    "meaning": "丈夫",
+    "source_page": "p554"
+  },
+  {
+    "word": "出産",
+    "reading": "しゅっさん",
+    "pos": "名・自他動3",
+    "meaning": "生出",
+    "source_page": "p554"
+  },
+  {
+    "word": "醤油",
+    "reading": "しょうゆ",
+    "pos": "名",
+    "meaning": "皆油",
+    "source_page": "p554"
+  },
+  {
+    "word": "酢",
+    "reading": "す",
+    "pos": "名",
+    "meaning": "醋",
+    "source_page": "p555"
+  },
+  {
+    "word": "調味料",
+    "reading": "ちょうみりょう",
+    "pos": "名",
+    "meaning": "週味料",
+    "source_page": "p555"
+  },
+  {
+    "word": "食堂",
+    "reading": "しょくどう",
+    "pos": "名",
+    "meaning": "食堂、養庁",
+    "source_page": "p555"
+  },
+  {
+    "word": "女性",
+    "reading": "じょせい",
+    "pos": "名",
+    "meaning": "女性・女人",
+    "source_page": "p555"
+  },
+  {
+    "word": "男性",
+    "reading": "だんせい",
+    "pos": "名",
+    "meaning": "男性。男人",
+    "source_page": "p555"
+  },
+  {
+    "word": "信号",
+    "reading": "しんごう",
+    "pos": "名・自動3",
+    "meaning": "紅線灯：借り、",
+    "source_page": "p555"
+  },
+  {
+    "word": "書類",
+    "reading": "しょるい",
+    "pos": "名",
+    "meaning": "文件、資料",
+    "source_page": "p555"
+  },
+  {
+    "word": "資料",
+    "reading": "しりょう",
+    "pos": "名",
+    "meaning": "資料・材料",
+    "source_page": "p555"
+  },
+  {
+    "word": "新年",
+    "reading": "しんねん",
+    "pos": "名",
+    "meaning": "新年",
+    "source_page": "p555"
+  },
+  {
+    "word": "知る",
+    "reading": "しる",
+    "pos": "他動1",
+    "meaning": "知道、込沢",
+    "source_page": "p555"
+  },
+  {
+    "word": "充日",
+    "reading": "がんたん",
+    "pos": "名",
+    "meaning": "花",
+    "source_page": "p555"
+  },
+  {
+    "word": "白",
+    "reading": "しろ",
+    "pos": "名",
+    "meaning": "白色",
+    "source_page": "p555"
+  },
+  {
+    "word": "図黒",
+    "reading": "くろ",
+    "pos": "名",
+    "meaning": "黒色",
+    "source_page": "p555"
+  },
+  {
+    "word": "西瓜",
+    "reading": "すいか",
+    "pos": "名",
+    "meaning": "西瓜",
+    "source_page": "p555"
+  },
+  {
+    "word": "水曜日",
+    "reading": "すいようび",
+    "pos": "名",
+    "meaning": "周三",
+    "source_page": "p556"
+  },
+  {
+    "word": "吸う",
+    "reading": "すう",
+    "pos": "他動1",
+    "meaning": "呼吸、晩吸、喝：抽火",
+    "source_page": "p556"
+  },
+  {
+    "word": "少ない",
+    "reading": "すくない",
+    "pos": "イ形",
+    "meaning": "少量的、少的",
+    "source_page": "p556"
+  },
+  {
+    "word": "数字",
+    "reading": "すうじ",
+    "pos": "名",
+    "meaning": "数字",
+    "source_page": "p556"
+  },
+  {
+    "word": "日程",
+    "reading": "にってい",
+    "pos": "名",
+    "meaning": "（工作、旅行等的）",
+    "source_page": "p556"
+  },
+  {
+    "word": "少し",
+    "reading": "すこし",
+    "pos": "副",
+    "meaning": "很少、一点点",
+    "source_page": "p556"
+  },
+  {
+    "word": "少しも",
+    "reading": "すこしも",
+    "pos": "副",
+    "meaning": "（后接否定）→",
+    "source_page": "p556"
+  },
+  {
+    "word": "涼しい",
+    "reading": "すずしい",
+    "pos": "イ形",
+    "meaning": "涼美的・涼快的",
+    "source_page": "p556"
+  },
+  {
+    "word": "背",
+    "reading": "せ",
+    "pos": "名",
+    "meaning": "个子，身高",
+    "source_page": "p557"
+  },
+  {
+    "word": "立派",
+    "reading": "りっぱ",
+    "pos": "ナ形",
+    "meaning": "濃亮，出色・代",
+    "source_page": "p557"
+  },
+  {
+    "word": "背",
+    "reading": "せい",
+    "pos": "名",
+    "meaning": "个子、身高",
+    "source_page": "p557"
+  },
+  {
+    "word": "滑る",
+    "reading": "すべる",
+    "pos": "自動1",
+    "meaning": "清辻・滑行",
+    "source_page": "p557"
+  },
+  {
+    "word": "生徒",
+    "reading": "せいと",
+    "pos": "名",
+    "meaning": "（初中成高中的）学生",
+    "source_page": "p557"
+  },
+  {
+    "word": "整理",
+    "reading": "せいり",
+    "pos": "名・他動3",
+    "meaning": "整理、收拾",
+    "source_page": "p557"
+  },
+  {
+    "word": "住む",
+    "reading": "すむ",
+    "pos": "自動1",
+    "meaning": "居住",
+    "source_page": "p557"
+  },
+  {
+    "word": "成立",
+    "reading": "せいりつ",
+    "pos": "名・自動3",
+    "meaning": "成立、成",
+    "source_page": "p557"
+  },
+  {
+    "word": "全員",
+    "reading": "ぜんいん",
+    "pos": "名",
+    "meaning": "全体成品",
+    "source_page": "p558"
+  },
+  {
+    "word": "世界",
+    "reading": "せかい",
+    "pos": "名",
+    "meaning": "全世界、世界各国：特定",
+    "source_page": "p558"
+  },
+  {
+    "word": "先月",
+    "reading": "せんげつ",
+    "pos": "名",
+    "meaning": "上↑用",
+    "source_page": "p558"
+  },
+  {
+    "word": "先週",
+    "reading": "せんしゅう",
+    "pos": "名",
+    "meaning": "上周",
+    "source_page": "p558"
+  },
+  {
+    "word": "世",
+    "reading": "よ",
+    "pos": "名",
+    "meaning": "社会人世同",
+    "source_page": "p558"
+  },
+  {
+    "word": "席",
+    "reading": "せき",
+    "pos": "名",
+    "meaning": "座位。席位",
+    "source_page": "p558"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "pos": "名",
+    "meaning": "対老姉、医生、律等",
+    "source_page": "p558"
+  },
+  {
+    "word": "節分",
+    "reading": "せつぶん",
+    "pos": "名",
+    "meaning": "春分前一天",
+    "source_page": "p558"
+  },
+  {
+    "word": "背広",
+    "reading": "せびろ",
+    "pos": "名",
+    "meaning": "西服",
+    "source_page": "p558"
+  },
+  {
+    "word": "狭い",
+    "reading": "せまい",
+    "pos": "イ形",
+    "meaning": "的・狭小的：不泛",
+    "source_page": "p558"
+  },
+  {
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "pos": "名・副",
+    "meaning": "全部",
+    "source_page": "p558"
+  },
+  {
+    "word": "広い",
+    "reading": "ひろい",
+    "pos": "イ形",
+    "meaning": "完が的・敵的：",
+    "source_page": "p558"
+  },
+  {
+    "word": "象",
+    "reading": "ぞう",
+    "pos": "名",
+    "meaning": "大象",
+    "source_page": "p559"
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "pos": "名",
+    "meaning": "室外、屋外：外面・外部",
+    "source_page": "p559"
+  },
+  {
+    "word": "掃除",
+    "reading": "そうじ",
+    "pos": "名・他動3",
+    "meaning": "打ね",
+    "source_page": "p559"
+  },
+  {
+    "word": "蕎麦",
+    "reading": "そば",
+    "pos": "名",
+    "meaning": "茶表面",
+    "source_page": "p559"
+  },
+  {
+    "word": "空",
+    "reading": "そら",
+    "pos": "名",
+    "meaning": "天空",
+    "source_page": "p559"
+  },
+  {
+    "word": "大好き",
+    "reading": "だいすき",
+    "pos": "ナ形",
+    "meaning": "非常喜炊最",
+    "source_page": "p560"
+  },
+  {
+    "word": "体育館",
+    "reading": "たいいくかん",
+    "pos": "名",
+    "meaning": "体育策",
+    "source_page": "p560"
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "pos": "名",
+    "meaning": "大学",
+    "source_page": "p560"
+  },
+  {
+    "word": "大変",
+    "reading": "たいへん",
+    "pos": "十形・副",
+    "meaning": "麻",
+    "source_page": "p560"
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "pos": "イ形",
+    "meaning": "（物介等）高的",
+    "source_page": "p560"
+  },
+  {
+    "word": "大嫌い",
+    "reading": "だいきらい",
+    "pos": "ナ形",
+    "meaning": "非常討、最",
+    "source_page": "p560"
+  },
+  {
+    "word": "安い",
+    "reading": "やすい",
+    "pos": "イ形",
+    "meaning": "便宜的・（格）",
+    "source_page": "p560"
+  },
+  {
+    "word": "大使館",
+    "reading": "たいしかん",
+    "pos": "名",
+    "meaning": "大使館",
+    "source_page": "p560"
+  },
+  {
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "pos": "名・ナ形",
+    "meaning": "没同",
+    "source_page": "p560"
+  },
+  {
+    "word": "立つ",
+    "reading": "たつ",
+    "pos": "自動1",
+    "meaning": "站立：高井、効身",
+    "source_page": "p561"
+  },
+  {
+    "word": "確かめる",
+    "reading": "たしかめる",
+    "pos": "他動2",
+    "meaning": "确込",
+    "source_page": "p561"
+  },
+  {
+    "word": "卓球",
+    "reading": "たっきゅう",
+    "pos": "名",
+    "meaning": "兵兵球",
+    "source_page": "p561"
+  },
+  {
+    "word": "出す",
+    "reading": "だす",
+    "pos": "他動1",
+    "meaning": "拿出，取出",
+    "source_page": "p561"
+  },
+  {
+    "word": "横",
+    "reading": "よこ",
+    "pos": "名",
+    "meaning": "横",
+    "source_page": "p561"
+  },
+  {
+    "word": "立てる",
+    "reading": "たてる",
+    "pos": "他動2",
+    "meaning": "起：起（州、",
+    "source_page": "p561"
+  },
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "pos": "イ形",
+    "meaning": "愉快的・快示的",
+    "source_page": "p561"
+  },
+  {
+    "word": "頼む",
+    "reading": "たのむ",
+    "pos": "他動1",
+    "meaning": "清求、委托",
+    "source_page": "p562"
+  },
+  {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "pos": "イ形",
+    "meaning": "（面秋、規模等）",
+    "source_page": "p562"
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "pos": "名",
+    "meaning": "飲料",
+    "source_page": "p562"
+  },
+  {
+    "word": "食べる",
+    "reading": "たべる",
+    "pos": "他動2",
+    "meaning": "吃",
+    "source_page": "p562"
+  },
+  {
+    "word": "小さな",
+    "reading": "ちいさな",
+    "pos": "連体",
+    "meaning": "小的・微小的",
+    "source_page": "p562"
+  },
+  {
+    "word": "飲む",
+    "reading": "のむ",
+    "pos": "他動1",
+    "meaning": "喝",
+    "source_page": "p562"
+  },
+  {
+    "word": "近い",
+    "reading": "ちかい",
+    "pos": "イ形",
+    "meaning": "近的・葦近的",
+    "source_page": "p562"
+  },
+  {
+    "word": "誰",
+    "reading": "だれ",
+    "pos": "代",
+    "meaning": "進",
+    "source_page": "p562"
+  },
+  {
+    "word": "遠い",
+    "reading": "とおい",
+    "pos": "イ形",
+    "meaning": "（空回、肘同等）選",
+    "source_page": "p562"
+  },
+  {
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "pos": "名",
+    "meaning": "生日",
+    "source_page": "p562"
+  },
+  {
+    "word": "中学校",
+    "reading": "ちゅうがっこう",
+    "pos": "名",
+    "meaning": "中学",
+    "source_page": "p563"
+  },
+  {
+    "word": "地図",
+    "reading": "ちず",
+    "pos": "名",
+    "meaning": "地図",
+    "source_page": "p563"
+  },
+  {
+    "word": "父",
+    "reading": "ちち",
+    "pos": "名",
+    "meaning": "（対外人提及自己的谷谷）",
+    "source_page": "p563"
+  },
+  {
+    "word": "母",
+    "reading": "はは",
+    "pos": "名",
+    "meaning": "（対外人提及自己的奶）",
+    "source_page": "p563"
+  },
+  {
+    "word": "父親",
+    "reading": "ちちおや",
+    "pos": "名",
+    "meaning": "父",
+    "source_page": "p563"
+  },
+  {
+    "word": "茶色",
+    "reading": "ちゃいろ",
+    "pos": "名",
+    "meaning": "茶色・褐色",
+    "source_page": "p563"
+  },
+  {
+    "word": "茶碗",
+    "reading": "ちゃわん",
+    "pos": "名",
+    "meaning": "碗・茶杯、茶碗",
+    "source_page": "p563"
+  },
+  {
+    "word": "使う",
+    "reading": "つかう",
+    "pos": "他動1",
+    "meaning": "使用：花費",
+    "source_page": "p563"
+  },
+  {
+    "word": "疲れる",
+    "reading": "つかれる",
+    "pos": "白動2",
+    "meaning": "疲倦、緊",
+    "source_page": "p563"
+  },
+  {
+    "word": "次",
+    "reading": "つぎ",
+    "pos": "名",
+    "meaning": "下ーイ・下面",
+    "source_page": "p563"
+  },
+  {
+    "word": "月見",
+    "reading": "つきみ",
+    "pos": "名",
+    "meaning": "賞月",
+    "source_page": "p564"
+  },
+  {
+    "word": "花見",
+    "reading": "はなみ",
+    "pos": "名",
+    "meaning": "賞花・賞機花",
+    "source_page": "p564"
+  },
+  {
+    "word": "着く",
+    "reading": "つく",
+    "pos": "自動1",
+    "meaning": "到・送込",
+    "source_page": "p564"
+  },
+  {
+    "word": "机",
+    "reading": "つくえ",
+    "pos": "名",
+    "meaning": "菓子、形桌",
+    "source_page": "p564"
+  },
+  {
+    "word": "作る",
+    "reading": "つくる",
+    "pos": "他動1",
+    "meaning": "制作。創作",
+    "source_page": "p564"
+  },
+  {
+    "word": "付ける",
+    "reading": "つける",
+    "pos": "他動2",
+    "meaning": "安上、法上",
+    "source_page": "p564"
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "pos": "イ形",
+    "meaning": "力量大的：强烈的・激",
+    "source_page": "p564"
+  },
+  {
+    "word": "伝える",
+    "reading": "つたえる",
+    "pos": "他動2",
+    "meaning": "通知、：",
+    "source_page": "p564"
+  },
+  {
+    "word": "勤める",
+    "reading": "つとめる",
+    "pos": "自動2",
+    "meaning": "工作、任取",
+    "source_page": "p564"
+  },
+  {
+    "word": "手",
+    "reading": "て",
+    "pos": "名",
+    "meaning": "手・手臂",
+    "source_page": "p565"
+  },
+  {
+    "word": "足",
+    "reading": "あし",
+    "pos": "名",
+    "meaning": "脚、腿",
+    "source_page": "p565"
+  },
+  {
+    "word": "手洗い",
+    "reading": "てあらい",
+    "pos": "名",
+    "meaning": "洗手同、厠所：用",
+    "source_page": "p565"
+  },
+  {
+    "word": "手紙",
+    "reading": "てがみ",
+    "pos": "名",
+    "meaning": "倍",
+    "source_page": "p565"
+  },
+  {
+    "word": "定価",
+    "reading": "ていか",
+    "pos": "名",
+    "meaning": "規定的介格",
+    "source_page": "p565"
+  },
+  {
+    "word": "教科書",
+    "reading": "きょうかしょ",
+    "pos": "名",
+    "meaning": "本",
+    "source_page": "p565"
+  },
+  {
+    "word": "入り日",
+    "reading": "いりぐち",
+    "pos": "名",
+    "meaning": "人日",
+    "source_page": "p565"
+  },
+  {
+    "word": "丁寧",
+    "reading": "ていねい",
+    "pos": "名・ナ形",
+    "meaning": "礼貌：込真道",
+    "source_page": "p565"
+  },
+  {
+    "word": "電気",
+    "reading": "でんき",
+    "pos": "名",
+    "meaning": "申灯",
+    "source_page": "p566"
+  },
+  {
+    "word": "天候",
+    "reading": "てんこう",
+    "pos": "名",
+    "meaning": "天気・気候",
+    "source_page": "p566"
+  },
+  {
+    "word": "別試験",
+    "reading": "しけん",
+    "pos": "名・他動3",
+    "meaning": "考式・測",
+    "source_page": "p566"
+  },
+  {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "pos": "名",
+    "meaning": "本",
+    "source_page": "p566"
+  },
+  {
+    "word": "出る",
+    "reading": "でる",
+    "pos": "自動2",
+    "meaning": "出来、出去",
+    "source_page": "p566"
+  },
+  {
+    "word": "朝屋",
+    "reading": "や",
+    "pos": "名・接尾",
+    "meaning": "屋頂。房：・・・・・・店",
+    "source_page": "p566"
+  },
+  {
+    "word": "天気",
+    "reading": "てんき",
+    "pos": "名",
+    "meaning": "天気",
+    "source_page": "p566"
+  },
+  {
+    "word": "時には",
+    "reading": "ときには",
+    "pos": "副",
+    "meaning": "有町・有時候",
+    "source_page": "p567"
+  },
+  {
+    "word": "動物",
+    "reading": "どうぶつ",
+    "pos": "名",
+    "meaning": "効物",
+    "source_page": "p567"
+  },
+  {
+    "word": "特技",
+    "reading": "とくぎ",
+    "pos": "名",
+    "meaning": "特に、特技",
+    "source_page": "p567"
+  },
+  {
+    "word": "時計",
+    "reading": "とけい",
+    "pos": "名",
+    "meaning": "表",
+    "source_page": "p567"
+  },
+  {
+    "word": "ナ",
+    "reading": "とお",
+    "pos": "名",
+    "meaning": "十",
+    "source_page": "p567"
+  },
+  {
+    "word": "所",
+    "reading": "ところ",
+    "pos": "名",
+    "meaning": "場所、地方",
+    "source_page": "p567"
+  },
+  {
+    "word": "年",
+    "reading": "とし",
+    "pos": "名",
+    "meaning": "年、年度",
+    "source_page": "p567"
+  },
+  {
+    "word": "十日",
+    "reading": "とおか",
+    "pos": "名",
+    "meaning": "十号",
+    "source_page": "p567"
+  },
+  {
+    "word": "都市",
+    "reading": "とし",
+    "pos": "名",
+    "meaning": "都市，城市",
+    "source_page": "p567"
+  },
+  {
+    "word": "都会",
+    "reading": "とかい",
+    "pos": "名",
+    "meaning": "都市・城市",
+    "source_page": "p567"
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "pos": "名",
+    "meaning": "圏館",
+    "source_page": "p567"
+  },
+  {
+    "word": "時",
+    "reading": "とき",
+    "pos": "名",
+    "meaning": "吋候",
+    "source_page": "p567"
+  },
+  {
+    "word": "鶏",
+    "reading": "にねとり",
+    "pos": "名",
+    "meaning": "鶏",
+    "source_page": "p568"
+  },
+  {
+    "word": "撮る",
+    "reading": "とる",
+    "pos": "他動1",
+    "meaning": "照相・撮像",
+    "source_page": "p568"
+  },
+  {
+    "word": "友達",
+    "reading": "ともだち",
+    "pos": "名",
+    "meaning": "朋友",
+    "source_page": "p568"
+  },
+  {
+    "word": "友人",
+    "reading": "ゆうじん",
+    "pos": "名",
+    "meaning": "期友",
+    "source_page": "p568"
+  },
+  {
+    "word": "土曜日",
+    "reading": "どようび",
+    "pos": "名",
+    "meaning": "周六",
+    "source_page": "p568"
+  },
+  {
+    "word": "包丁",
+    "reading": "ほうちょう",
+    "pos": "名",
+    "meaning": "菜刀",
+    "source_page": "p568"
+  },
+  {
+    "word": "鳥",
+    "reading": "とり",
+    "pos": "名",
+    "meaning": "身：鶏",
+    "source_page": "p568"
+  },
+  {
+    "word": "直す",
+    "reading": "なおす",
+    "pos": "他動1",
+    "meaning": "修政・政正",
+    "source_page": "p569"
+  },
+  {
+    "word": "夏",
+    "reading": "なつ",
+    "pos": "名",
+    "meaning": "夏天・夏季",
+    "source_page": "p569"
+  },
+  {
+    "word": "中",
+    "reading": "なか",
+    "pos": "名",
+    "meaning": "内部、里面",
+    "source_page": "p569"
+  },
+  {
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "pos": "名",
+    "meaning": "暑假",
+    "source_page": "p569"
+  },
+  {
+    "word": "仲",
+    "reading": "なか",
+    "pos": "名",
+    "meaning": "（人与人同的）美系、交情",
+    "source_page": "p569"
+  },
+  {
+    "word": "長い",
+    "reading": "ながい",
+    "pos": "イ形",
+    "meaning": "的：久的・悠的",
+    "source_page": "p569"
+  },
+  {
+    "word": "短い",
+    "reading": "みじかい",
+    "pos": "イ形",
+    "meaning": "短的：短着的",
+    "source_page": "p569"
+  },
+  {
+    "word": "七つ",
+    "reading": "ななつ",
+    "pos": "名",
+    "meaning": "七介：七学",
+    "source_page": "p569"
+  },
+  {
+    "word": "何",
+    "reading": "なに",
+    "pos": "代",
+    "meaning": "什公",
+    "source_page": "p569"
+  },
+  {
+    "word": "泣く",
+    "reading": "なく",
+    "pos": "自動1",
+    "meaning": "泣",
+    "source_page": "p569"
+  },
+  {
+    "word": "何か",
+    "reading": "なにか",
+    "pos": "代",
+    "meaning": "（表示不定的）某、",
+    "source_page": "p569"
+  },
+  {
+    "word": "別笑う",
+    "reading": "わらう",
+    "pos": "自他動1",
+    "meaning": "（白）笑",
+    "source_page": "p569"
+  },
+  {
+    "word": "悩む",
+    "reading": "なやむ",
+    "pos": "自動1",
+    "meaning": "煩悩・苦悩",
+    "source_page": "p570"
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "pos": "他動1",
+    "meaning": "学",
+    "source_page": "p570"
+  },
+  {
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "pos": "自動1",
+    "meaning": "非列",
+    "source_page": "p570"
+  },
+  {
+    "word": "並べる",
+    "reading": "ならべる",
+    "pos": "他動2",
+    "meaning": "并排，非列",
+    "source_page": "p570"
+  },
+  {
+    "word": "入学式",
+    "reading": "にゅうがくしき",
+    "pos": "名",
+    "meaning": "人学似式、",
+    "source_page": "p570"
+  },
+  {
+    "word": "何",
+    "reading": "なん",
+    "pos": "代",
+    "meaning": "什ム",
+    "source_page": "p570"
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "pos": "名",
+    "meaning": "庭院・院子",
+    "source_page": "p570"
+  },
+  {
+    "word": "賑やか",
+    "reading": "にぎやか",
+    "pos": "ナ形",
+    "meaning": "喧岡・繁",
+    "source_page": "p570"
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "pos": "ナ形",
+    "meaning": "安静、平静",
+    "source_page": "p570"
+  },
+  {
+    "word": "人気",
+    "reading": "にんき",
+    "pos": "名",
+    "meaning": "人気・声望，人線",
+    "source_page": "p571"
+  },
+  {
+    "word": "年",
+    "reading": "ねん",
+    "pos": "名",
+    "meaning": "年、一年",
+    "source_page": "p571"
+  },
+  {
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "pos": "他動1",
+    "meaning": "摘掉，脱掉",
+    "source_page": "p571"
+  },
+  {
+    "word": "売店",
+    "reading": "ばいてん",
+    "pos": "名",
+    "meaning": "小文店",
+    "source_page": "p572"
+  },
+  {
+    "word": "糊",
+    "reading": "のり",
+    "pos": "名",
+    "meaning": "糧糊，黏着剤",
+    "source_page": "p572"
+  },
+  {
+    "word": "乗る",
+    "reading": "のる",
+    "pos": "自動1",
+    "meaning": "乘坐、搭乗",
+    "source_page": "p572"
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "pos": "自動2",
+    "meaning": "下降、下来",
+    "source_page": "p572"
+  },
+  {
+    "word": "歯",
+    "reading": "は",
+    "pos": "名",
+    "meaning": "牙、牙街",
+    "source_page": "p572"
+  },
+  {
+    "word": "穿く",
+    "reading": "はく",
+    "pos": "他動1",
+    "meaning": "（下身衣物）",
+    "source_page": "p572"
+  },
+  {
+    "word": "履く",
+    "reading": "はく",
+    "pos": "他動1",
+    "meaning": "（雑、株）",
+    "source_page": "p572"
+  },
+  {
+    "word": "箱",
+    "reading": "はこ",
+    "pos": "名",
+    "meaning": "箱子、便子",
+    "source_page": "p572"
+  },
+  {
+    "word": "箸",
+    "reading": "はし",
+    "pos": "名",
+    "meaning": "筷子",
+    "source_page": "p572"
+  },
+  {
+    "word": "橋",
+    "reading": "はし",
+    "pos": "名",
+    "meaning": "杯、杯梁",
+    "source_page": "p573"
+  },
+  {
+    "word": "鼻",
+    "reading": "はな",
+    "pos": "名",
+    "meaning": "鼻子",
+    "source_page": "p573"
+  },
+  {
+    "word": "話",
+    "reading": "はなし",
+    "pos": "名",
+    "meaning": "淡活、活：話",
+    "source_page": "p573"
+  },
+  {
+    "word": "初めて",
+    "reading": "はじめて",
+    "pos": "副",
+    "meaning": "初次・第一",
+    "source_page": "p573"
+  },
+  {
+    "word": "走る",
+    "reading": "はしる",
+    "pos": "自動1",
+    "meaning": "跑",
+    "source_page": "p573"
+  },
+  {
+    "word": "二十歳",
+    "reading": "はたち",
+    "pos": "名",
+    "meaning": "二十歩",
+    "source_page": "p573"
+  },
+  {
+    "word": "働く",
+    "reading": "はたらく",
+    "pos": "自動1",
+    "meaning": "工作",
+    "source_page": "p573"
+  },
+  {
+    "word": "速い",
+    "reading": "はやい",
+    "pos": "イ形",
+    "meaning": "快的・迅速的",
+    "source_page": "p573"
+  },
+  {
+    "word": "花",
+    "reading": "はな",
+    "pos": "名",
+    "meaning": "花",
+    "source_page": "p573"
+  },
+  {
+    "word": "張る",
+    "reading": "はる",
+    "pos": "自他動1",
+    "meaning": "（白）伸展、膨：",
+    "source_page": "p574"
+  },
+  {
+    "word": "貼る",
+    "reading": "はる",
+    "pos": "他動1",
+    "meaning": "張貼粘貼",
+    "source_page": "p574"
+  },
+  {
+    "word": "番号",
+    "reading": "ばんごう",
+    "pos": "名",
+    "meaning": "号利",
+    "source_page": "p574"
+  },
+  {
+    "word": "春休み",
+    "reading": "はるやすみ",
+    "pos": "名",
+    "meaning": "春假",
+    "source_page": "p574"
+  },
+  {
+    "word": "晩ご飯",
+    "reading": "ばんごはん",
+    "pos": "名",
+    "meaning": "晩仮",
+    "source_page": "p574"
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "pos": "名",
+    "meaning": "一半、二分えー",
+    "source_page": "p574"
+  },
+  {
+    "word": "団盛り",
+    "reading": "くもり",
+    "pos": "名",
+    "meaning": "阴天",
+    "source_page": "p574"
+  },
+  {
+    "word": "晴れる",
+    "reading": "はれる",
+    "pos": "自動2",
+    "meaning": "天気放晴：消散：",
+    "source_page": "p574"
+  },
+  {
+    "word": "封る",
+    "reading": "くもる",
+    "pos": "自動1",
+    "meaning": "阴天",
+    "source_page": "p574"
+  },
+  {
+    "word": "半",
+    "reading": "はん",
+    "pos": "名・接尾",
+    "meaning": "一半，二分えー",
+    "source_page": "p574"
+  },
+  {
+    "word": "東",
+    "reading": "ひがし",
+    "pos": "名",
+    "meaning": "方、部",
+    "source_page": "p574"
+  },
+  {
+    "word": "晩",
+    "reading": "ばん",
+    "pos": "名",
+    "meaning": "夜晩、晩上",
+    "source_page": "p574"
+  },
+  {
+    "word": "頭夜",
+    "reading": "よる",
+    "pos": "名",
+    "meaning": "晩上、夜晩",
+    "source_page": "p574"
+  }
+]

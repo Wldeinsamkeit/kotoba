@@ -1,0 +1,1272 @@
+[
+  {
+    "word": "始発",
+    "reading": "しはつ",
+    "meaning": "〔场所的〕起点",
+    "sourceIndex": 1881,
+    "sourceMeaningRaw": "名 〔场所的〕起点；〔时间方面〕头班车",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "始発",
+        "method": "TYPE A1",
+        "bridgeC": "汉字始発意思是〔场所的〕起点"
+      }
+    ],
+    "mergedScene": "始発这个汉字一看就像〔场所的〕起点。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しはつ - 始発 - 〔场所的〕起点",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この始発は大切です。",
+        "zh": "这个〔场所的〕起点很重要。"
+      }
+    ]
+  },
+  {
+    "word": "芝生",
+    "reading": "しばふ",
+    "meaning": "草坪，矮草地",
+    "sourceIndex": 1882,
+    "sourceMeaningRaw": "名 草坪，矮草地",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "芝生",
+        "method": "TYPE A1",
+        "bridgeC": "汉字芝生意思是草坪，矮草地"
+      }
+    ],
+    "mergedScene": "芝生这个汉字一看就像草坪，矮草地。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しばふ - 芝生 - 草坪，矮草地",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この芝生は大切です。",
+        "zh": "这个草坪，矮草地很重要。"
+      }
+    ]
+  },
+  {
+    "word": "支払い",
+    "reading": "しはらい",
+    "meaning": "支付，付款",
+    "sourceIndex": 1883,
+    "sourceMeaningRaw": "名 支付，付款",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "支払い",
+        "method": "TYPE A1",
+        "bridgeC": "汉字支払い意思是支付，付款"
+      },
+      {
+        "element": "しはらい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しは+らい\"来记"
+      }
+    ],
+    "mergedScene": "しはらい拆分记忆，意思是支付，付款",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しはらい - 拆分记忆 - 支付，付款",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この支払いは大切です。",
+        "zh": "这个支付，付款很重要。"
+      }
+    ]
+  },
+  {
+    "word": "支払う",
+    "reading": "しはらう",
+    "meaning": "支付，付款 他动·五 段",
+    "sourceIndex": 1884,
+    "sourceMeaningRaw": "支付，付款 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "支払う",
+        "method": "TYPE A1",
+        "bridgeC": "汉字支払う意思是支付，付款 他动·五 段"
+      },
+      {
+        "element": "しはらう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しは+らう\"来记"
+      }
+    ],
+    "mergedScene": "しはらう拆分记忆，意思是支付，付款 他动·五 段",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しはらう - 拆分记忆 - 支付，付款 他动·五 段",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この支払うは大切です。",
+        "zh": "这个支付，付款 他动·五 段很重要。"
+      }
+    ]
+  },
+  {
+    "word": "縛る",
+    "reading": "しばる",
+    "meaning": "五 捆，绑",
+    "sourceIndex": 1885,
+    "sourceMeaningRaw": "他动·五 捆，绑；捆绑，束缚；拘束，限制，限制性 段 行动自由",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "縛る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字縛る意思是五 捆，绑"
+      }
+    ],
+    "mergedScene": "縛る这个汉字一看就像五 捆，绑。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しばる - 縛る - 五 捆，绑",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この縛るは大切です。",
+        "zh": "这个五 捆，绑很重要。"
+      }
+    ]
+  },
+  {
+    "word": "字引",
+    "reading": "じびき",
+    "meaning": "字典，辞典",
+    "sourceIndex": 1886,
+    "sourceMeaningRaw": "名 字典，辞典，词典，辞书",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "字引",
+        "method": "TYPE A1",
+        "bridgeC": "汉字字引意思是字典，辞典"
+      }
+    ],
+    "mergedScene": "字引这个汉字一看就像字典，辞典。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じびき - 字引 - 字典，辞典",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この字引は大切です。",
+        "zh": "这个字典，辞典很重要。"
+      }
+    ]
+  },
+  {
+    "word": "痺れる",
+    "reading": "しびれる",
+    "meaning": "麻木，麻",
+    "sourceIndex": 1887,
+    "sourceMeaningRaw": "麻木，麻，木，发麻，发木手或腿等失去知 自动·一 觉不能自由活动，麻痹；（因导电身体）发 段 麻，麻木，麻酥酥；（因受强烈刺激而）激 动，兴奋，陶醉",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "痺れる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字痺れる意思是麻木，麻"
+      },
+      {
+        "element": "しびれる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しび+れる\"来记"
+      }
+    ],
+    "mergedScene": "しびれる拆分记忆，意思是麻木，麻",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しびれる - 拆分记忆 - 麻木，麻",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この痺れるは大切です。",
+        "zh": "这个麻木，麻很重要。"
+      }
+    ]
+  },
+  {
+    "word": "紙幣",
+    "reading": "しへい",
+    "meaning": "纸币，钞票",
+    "sourceIndex": 1888,
+    "sourceMeaningRaw": "名 纸币，钞票",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "紙幣",
+        "method": "TYPE A1",
+        "bridgeC": "汉字紙幣意思是纸币，钞票"
+      }
+    ],
+    "mergedScene": "紙幣这个汉字一看就像纸币，钞票。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しへい - 紙幣 - 纸币，钞票",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この紙幣は大切です。",
+        "zh": "这个纸币，钞票很重要。"
+      }
+    ]
+  },
+  {
+    "word": "死亡",
+    "reading": "しぼう",
+    "meaning": "死， 名·自动 ·サ变",
+    "sourceIndex": 1889,
+    "sourceMeaningRaw": "死， 名·自动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "死亡",
+        "method": "TYPE A1",
+        "bridgeC": "汉字死亡意思是死， 名·自动 ·サ变"
+      }
+    ],
+    "mergedScene": "死亡这个汉字一看就像死， 名·自动 ·サ变。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しぼう - 死亡 - 死， 名·自动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この死亡は大切です。",
+        "zh": "这个死， 名·自动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "絞る",
+    "reading": "しぼる",
+    "meaning": "声",
+    "sourceIndex": 1890,
+    "sourceMeaningRaw": "声；搜索枯肠；绞尽脑汁；拉开(幕）；勒紧 榨，拧，挤，绞；引人流泪；拼命发出高 他动·五 段 (袋口)；严加责备，申斥；缩小；集中",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "絞る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字絞る意思是声"
+      }
+    ],
+    "mergedScene": "絞る这个汉字一看就像声。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しぼる - 絞る - 声",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この絞るは大切です。",
+        "zh": "这个声很重要。"
+      }
+    ]
+  },
+  {
+    "word": "縞",
+    "reading": "しま",
+    "meaning": "竖横",
+    "sourceIndex": 1891,
+    "sourceMeaningRaw": "名 竖（横）条纹，格纹，条纹布；条纹花样",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "縞",
+        "method": "TYPE A1",
+        "bridgeC": "汉字縞意思是竖横"
+      }
+    ],
+    "mergedScene": "縞这个汉字一看就像竖横。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しま - 縞 - 竖横",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この縞は大切です。",
+        "zh": "这个竖横很重要。"
+      }
+    ]
+  },
+  {
+    "word": "終い",
+    "reading": "しまい",
+    "meaning": "停止,休止",
+    "sourceIndex": 1892,
+    "sourceMeaningRaw": "名 停止,休止；卖光；终了,末尾,最后",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "終い",
+        "method": "TYPE A1",
+        "bridgeC": "汉字終い意思是停止,休止"
+      }
+    ],
+    "mergedScene": "終い这个汉字一看就像停止,休止。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しまい - 終い - 停止,休止",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この終いは大切です。",
+        "zh": "这个停止,休止很重要。"
+      }
+    ]
+  },
+  {
+    "word": "仕舞い",
+    "reading": "しまい",
+    "meaning": "结束，停止",
+    "sourceIndex": 1893,
+    "sourceMeaningRaw": "名 结束，停止；末尾，最后；卖光，售完",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "仕舞い",
+        "method": "TYPE A1",
+        "bridgeC": "汉字仕舞い意思是结束，停止"
+      }
+    ],
+    "mergedScene": "仕舞い这个汉字一看就像结束，停止。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しまい - 仕舞い - 结束，停止",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この仕舞いは大切です。",
+        "zh": "这个结束，停止很重要。"
+      }
+    ]
+  },
+  {
+    "word": "姉妹",
+    "reading": "しまい",
+    "meaning": "姊妹",
+    "sourceIndex": 1894,
+    "sourceMeaningRaw": "名 姊妹；同一系统之物",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "姉妹",
+        "method": "TYPE A1",
+        "bridgeC": "汉字姉妹意思是姊妹"
+      }
+    ],
+    "mergedScene": "姉妹这个汉字一看就像姊妹。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しまい - 姉妹 - 姊妹",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この姉妹は大切です。",
+        "zh": "这个姊妹很重要。"
+      }
+    ]
+  },
+  {
+    "word": "自慢",
+    "reading": "じまん",
+    "meaning": "自夸，自大",
+    "sourceIndex": 1895,
+    "sourceMeaningRaw": "名·サ变 自夸，自大，骄傲，得意；自夸，自大，骄 傲，得意",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "自慢",
+        "method": "TYPE A1",
+        "bridgeC": "汉字自慢意思是自夸，自大"
+      }
+    ],
+    "mergedScene": "自慢这个汉字一看就像自夸，自大。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じまん - 自慢 - 自夸，自大",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この自慢は大切です。",
+        "zh": "这个自夸，自大很重要。"
+      }
+    ]
+  },
+  {
+    "word": "地味",
+    "reading": "じみ",
+    "meaning": "思考方式、生活态度等比较低调、不显眼，服装、打扮、性格等朴素",
+    "sourceIndex": 1896,
+    "sourceMeaningRaw": "形动 思考方式、生活态度等比较低调、不显眼， 服装、打扮、性格等朴素，不华美；性质、 质朴，没有什么修饰踏实",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "地味",
+        "method": "TYPE A1",
+        "bridgeC": "汉字地味意思是思考方式、生活态度等比较低调、不显眼，服装、打扮、性格等朴素"
+      }
+    ],
+    "mergedScene": "地味这个汉字一看就像思考方式、生活态度等比较低调、不显眼，服装、打扮、性格等朴素。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じみ - 地味 - 思考方式、生活态度等比较低调、不显眼，服装、打扮、性格等朴素",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この地味は大切です。",
+        "zh": "这个思考方式、生活态度等比较低调、不显眼，服装、打扮、性格等朴素很重要。"
+      }
+    ]
+  },
+  {
+    "word": "事務",
+    "reading": "じむ",
+    "meaning": "事业”“汽船、飞机的领班”“事情”“义 事务",
+    "sourceIndex": 1897,
+    "sourceMeaningRaw": "名 事业”“汽船、飞机的领班”“事情”“义 事务；办公；汉语中的“事务”有“实务、 务”“行政工作”等意思",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "事務",
+        "method": "TYPE A1",
+        "bridgeC": "汉字事務意思是事业”“汽船、飞机的领班”“事情”“义 事务"
+      }
+    ],
+    "mergedScene": "事務这个汉字一看就像事业”“汽船、飞机的领班”“事情”“义 事务。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じむ - 事務 - 事业”“汽船、飞机的领班”“事情”“义 事务",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この事務は大切です。",
+        "zh": "这个事业”“汽船、飞机的领班”“事情”“义 事务很重要。"
+      }
+    ]
+  },
+  {
+    "word": "氏名",
+    "reading": "しめい",
+    "meaning": "姓与名，姓名",
+    "sourceIndex": 1898,
+    "sourceMeaningRaw": "名 姓与名，姓名",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "氏名",
+        "method": "TYPE A1",
+        "bridgeC": "汉字氏名意思是姓与名，姓名"
+      }
+    ],
+    "mergedScene": "氏名这个汉字一看就像姓与名，姓名。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しめい - 氏名 - 姓与名，姓名",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この氏名は大切です。",
+        "zh": "这个姓与名，姓名很重要。"
+      }
+    ]
+  },
+  {
+    "word": "締め切り",
+    "reading": "しめきり",
+    "meaning": "截止",
+    "sourceIndex": 1899,
+    "sourceMeaningRaw": "名 截止；届满",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "締め切り",
+        "method": "TYPE A1",
+        "bridgeC": "汉字締め切り意思是截止"
+      },
+      {
+        "element": "しめきり",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しめ+きり\"来记"
+      }
+    ],
+    "mergedScene": "しめきり拆分记忆，意思是截止",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しめきり - 拆分记忆 - 截止",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この締め切りは大切です。",
+        "zh": "这个截止很重要。"
+      }
+    ]
+  },
+  {
+    "word": "締め切る",
+    "reading": "しめきる",
+    "meaning": "五 届满，截止",
+    "sourceIndex": 1900,
+    "sourceMeaningRaw": "他动·五 届满，截止，结束；作为“閉め切る”时:关 段 紧，紧闭",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "締め切る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字締め切る意思是五 届满，截止"
+      },
+      {
+        "element": "しめきる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しめ+きる\"来记"
+      }
+    ],
+    "mergedScene": "しめきる拆分记忆，意思是五 届满，截止",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しめきる - 拆分记忆 - 五 届满，截止",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この締め切るは大切です。",
+        "zh": "这个五 届满，截止很重要。"
+      }
+    ]
+  },
+  {
+    "word": "示す",
+    "reading": "しめす",
+    "meaning": "五 出示，拿出来给对方",
+    "sourceIndex": 1901,
+    "sourceMeaningRaw": "他动·五 出示，拿出来给（对方）看；表示；指示； 段 指教；开导",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "示す",
+        "method": "TYPE A1",
+        "bridgeC": "汉字示す意思是五 出示，拿出来给对方"
+      }
+    ],
+    "mergedScene": "示す这个汉字一看就像五 出示，拿出来给对方。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しめす - 示す - 五 出示，拿出来给对方",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この示すは大切です。",
+        "zh": "这个五 出示，拿出来给对方很重要。"
+      }
+    ]
+  },
+  {
+    "word": "湿る",
+    "reading": "しめる",
+    "meaning": "忧郁气氛沉闷",
+    "sourceIndex": 1902,
+    "sourceMeaningRaw": "忧郁气氛沉闷；（风势、雨势）减弱；火熄 湿，潮湿；弄湿，沾湿含有水气返潮；心情 自动·五 段 灭火灾被扑灭",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "湿る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字湿る意思是忧郁气氛沉闷"
+      }
+    ],
+    "mergedScene": "湿る这个汉字一看就像忧郁气氛沉闷。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しめる - 湿る - 忧郁气氛沉闷",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この湿るは大切です。",
+        "zh": "这个忧郁气氛沉闷很重要。"
+      }
+    ]
+  },
+  {
+    "word": "霜",
+    "reading": "しも",
+    "meaning": "结",
+    "sourceIndex": 1903,
+    "sourceMeaningRaw": "名 （冰柜）结。；。；白发。",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "霜",
+        "method": "TYPE A1",
+        "bridgeC": "汉字霜意思是结"
+      }
+    ],
+    "mergedScene": "霜这个汉字一看就像结。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しも - 霜 - 结",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この霜は大切です。",
+        "zh": "这个结很重要。"
+      }
+    ]
+  },
+  {
+    "word": "地元",
+    "reading": "じもと",
+    "meaning": "当地，与某事直接相关的地方",
+    "sourceIndex": 1904,
+    "sourceMeaningRaw": "名 当地，与某事直接相关的地方。；自己居住 的地方。",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "地元",
+        "method": "TYPE A1",
+        "bridgeC": "汉字地元意思是当地，与某事直接相关的地方"
+      }
+    ],
+    "mergedScene": "地元这个汉字一看就像当地，与某事直接相关的地方。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じもと - 地元 - 当地，与某事直接相关的地方",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この地元は大切です。",
+        "zh": "这个当地，与某事直接相关的地方很重要。"
+      }
+    ]
+  },
+  {
+    "word": "者",
+    "reading": "しゃ",
+    "meaning": "。人",
+    "sourceIndex": 1905,
+    "sourceMeaningRaw": "名 。人。",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "者",
+        "method": "TYPE A1",
+        "bridgeC": "汉字者意思是。人"
+      }
+    ],
+    "mergedScene": "者这个汉字一看就像。人。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゃ - 者 - 。人",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この者は大切です。",
+        "zh": "这个。人很重要。"
+      }
+    ]
+  },
+  {
+    "word": "車",
+    "reading": "しゃ",
+    "meaning": "车，辆",
+    "sourceIndex": 1906,
+    "sourceMeaningRaw": "名 车，辆；车",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "車",
+        "method": "TYPE A1",
+        "bridgeC": "汉字車意思是车，辆"
+      }
+    ],
+    "mergedScene": "車这个汉字一看就像车，辆。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゃ - 車 - 车，辆",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この車は大切です。",
+        "zh": "这个车，辆很重要。"
+      }
+    ]
+  },
+  {
+    "word": "社会",
+    "reading": "しゃかい",
+    "meaning": "，世间",
+    "sourceIndex": 1907,
+    "sourceMeaningRaw": "名 ，世间；（某）界，领域",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "社会",
+        "method": "TYPE A1",
+        "bridgeC": "汉字社会意思是，世间"
+      },
+      {
+        "element": "しゃかい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しゃ+かい\"来记"
+      }
+    ],
+    "mergedScene": "しゃかい拆分记忆，意思是，世间",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゃかい - 拆分记忆 - ，世间",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この社会は大切です。",
+        "zh": "这个，世间很重要。"
+      }
+    ]
+  },
+  {
+    "word": "しゃがむ",
+    "reading": "しゃがむ",
+    "meaning": "蹲，蹲下 自动·五 段",
+    "sourceIndex": 1908,
+    "sourceMeaningRaw": "蹲，蹲下 自动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "しゃがむ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しゃ+がむ\"来记"
+      }
+    ],
+    "mergedScene": "しゃがむ拆分记忆，意思是蹲，蹲下 自动·五 段",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゃがむ - 拆分记忆 - 蹲，蹲下 自动·五 段",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このしゃがむは大切です。",
+        "zh": "这个蹲，蹲下 自动·五 段很重要。"
+      }
+    ]
+  },
+  {
+    "word": "蛇口",
+    "reading": "じゃぐち",
+    "meaning": "水龙头",
+    "sourceIndex": 1909,
+    "sourceMeaningRaw": "名 水龙头",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "蛇口",
+        "method": "TYPE A1",
+        "bridgeC": "汉字蛇口意思是水龙头"
+      },
+      {
+        "element": "じゃぐち",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"じゃ+ぐち\"来记"
+      }
+    ],
+    "mergedScene": "じゃぐち拆分记忆，意思是水龙头",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じゃぐち - 拆分记忆 - 水龙头",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この蛇口は大切です。",
+        "zh": "这个水龙头很重要。"
+      }
+    ]
+  },
+  {
+    "word": "借家",
+    "reading": "しゃくや",
+    "meaning": "租房，租的房屋",
+    "sourceIndex": 1910,
+    "sourceMeaningRaw": "名 租房，租的房屋",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "借家",
+        "method": "TYPE A1",
+        "bridgeC": "汉字借家意思是租房，租的房屋"
+      },
+      {
+        "element": "しゃくや",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しゃ+くや\"来记"
+      }
+    ],
+    "mergedScene": "しゃくや拆分记忆，意思是租房，租的房屋",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゃくや - 拆分记忆 - 租房，租的房屋",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この借家は大切です。",
+        "zh": "这个租房，租的房屋很重要。"
+      }
+    ]
+  },
+  {
+    "word": "車庫",
+    "reading": "しゃこ",
+    "meaning": "车库",
+    "sourceIndex": 1911,
+    "sourceMeaningRaw": "名 车库",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "車庫",
+        "method": "TYPE A1",
+        "bridgeC": "汉字車庫意思是车库"
+      }
+    ],
+    "mergedScene": "車庫这个汉字一看就像车库。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゃこ - 車庫 - 车库",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この車庫は大切です。",
+        "zh": "这个车库很重要。"
+      }
+    ]
+  },
+  {
+    "word": "車内",
+    "reading": "しゃない",
+    "meaning": "车内，车上",
+    "sourceIndex": 1912,
+    "sourceMeaningRaw": "名 车内，车上，车厢里",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "車内",
+        "method": "TYPE A1",
+        "bridgeC": "汉字車内意思是车内，车上"
+      },
+      {
+        "element": "しゃない",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しゃ+ない\"来记"
+      }
+    ],
+    "mergedScene": "しゃない拆分记忆，意思是车内，车上",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゃない - 拆分记忆 - 车内，车上",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この車内は大切です。",
+        "zh": "这个车内，车上很重要。"
+      }
+    ]
+  },
+  {
+    "word": "社内",
+    "reading": "しゃない",
+    "meaning": "公司内部，公司组织或建筑物的内部",
+    "sourceIndex": 1913,
+    "sourceMeaningRaw": "名 公司内部，公司组织或建筑物的内部； 神亦指神殿内",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "社内",
+        "method": "TYPE A1",
+        "bridgeC": "汉字社内意思是公司内部，公司组织或建筑物的内部"
+      },
+      {
+        "element": "しゃない",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しゃ+ない\"来记"
+      }
+    ],
+    "mergedScene": "しゃない拆分记忆，意思是公司内部，公司组织或建筑物的内部",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゃない - 拆分记忆 - 公司内部，公司组织或建筑物的内部",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この社内は大切です。",
+        "zh": "这个公司内部，公司组织或建筑物的内部很重要。"
+      }
+    ]
+  },
+  {
+    "word": "喋る",
+    "reading": "しゃべる",
+    "meaning": "五 说出，泄漏",
+    "sourceIndex": 1914,
+    "sourceMeaningRaw": "自动·五 说出，泄漏；说，讲；喋喋不休，多嘴多 段 舌，饶舌，能言善辩，能说会道",
+    "partOfSpeech": "自动·五",
+    "elements": [
+      {
+        "element": "喋る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字喋る意思是五 说出，泄漏"
+      },
+      {
+        "element": "しゃべる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しゃ+べる\"来记"
+      }
+    ],
+    "mergedScene": "しゃべる拆分记忆，意思是五 说出，泄漏",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゃべる - 拆分记忆 - 五 说出，泄漏",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この喋るは大切です。",
+        "zh": "这个五 说出，泄漏很重要。"
+      }
+    ]
+  },
+  {
+    "word": "杓文字",
+    "reading": "しゃもじ",
+    "meaning": "勺子，饭勺",
+    "sourceIndex": 1915,
+    "sourceMeaningRaw": "名 勺子，饭勺",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "杓文字",
+        "method": "TYPE A1",
+        "bridgeC": "汉字杓文字意思是勺子，饭勺"
+      },
+      {
+        "element": "しゃもじ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しゃ+もじ\"来记"
+      }
+    ],
+    "mergedScene": "しゃもじ拆分记忆，意思是勺子，饭勺",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゃもじ - 拆分记忆 - 勺子，饭勺",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この杓文字は大切です。",
+        "zh": "这个勺子，饭勺很重要。"
+      }
+    ]
+  },
+  {
+    "word": "シャワー",
+    "reading": "しゃわー",
+    "meaning": "shower淋浴器",
+    "sourceIndex": 1916,
+    "sourceMeaningRaw": "名 shower淋浴器",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "シャワー",
+        "method": "外来语",
+        "bridgeC": "シャワー来自英语，意思是shower淋浴器"
+      }
+    ],
+    "mergedScene": "シャワー是外来语，来自英语，意思是shower淋浴器。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "シャワー - 外来语英语 - shower淋浴器",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このシャワーは大切です。",
+        "zh": "这个shower淋浴器很重要。"
+      }
+    ]
+  },
+  {
+    "word": "週",
+    "reading": "しゅう",
+    "meaning": "周，星期",
+    "sourceIndex": 1917,
+    "sourceMeaningRaw": "名 周,星期,礼拜",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "週",
+        "method": "TYPE A1",
+        "bridgeC": "汉字週意思是周，星期"
+      }
+    ],
+    "mergedScene": "週这个汉字一看就像周，星期。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゅう - 週 - 周，星期",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この週は大切です。",
+        "zh": "这个周，星期很重要。"
+      }
+    ]
+  },
+  {
+    "word": "従業員",
+    "reading": "ぎょうい",
+    "meaning": "工作人员，业务员",
+    "sourceIndex": 1918,
+    "sourceMeaningRaw": "名 工作人员，业务员，职工",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "従業員",
+        "method": "TYPE A1",
+        "bridgeC": "汉字従業員意思是工作人员，业务员"
+      },
+      {
+        "element": "ぎょうい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ぎょ+うい\"来记"
+      }
+    ],
+    "mergedScene": "ぎょうい拆分记忆，意思是工作人员，业务员",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぎょうい - 拆分记忆 - 工作人员，业务员",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この従業員は大切です。",
+        "zh": "这个工作人员，业务员很重要。"
+      }
+    ]
+  },
+  {
+    "word": "重視",
+    "reading": "じゅうし",
+    "meaning": "重视 名·他动 ·サ变",
+    "sourceIndex": 1919,
+    "sourceMeaningRaw": "重视 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "重視",
+        "method": "TYPE A1",
+        "bridgeC": "汉字重視意思是重视 名·他动 ·サ变"
+      },
+      {
+        "element": "じゅうし",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"じゅ+うし\"来记"
+      }
+    ],
+    "mergedScene": "じゅうし拆分记忆，意思是重视 名·他动 ·サ变",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じゅうし - 拆分记忆 - 重视 名·他动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この重視は大切です。",
+        "zh": "这个重视 名·他动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ジュース",
+    "reading": "じゅーす",
+    "meaning": "juice 汁，汁液",
+    "sourceIndex": 1920,
+    "sourceMeaningRaw": "名 juice 汁，汁液",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ジュース",
+        "method": "外来语",
+        "bridgeC": "ジュース来自英语，意思是juice 汁，汁液"
+      }
+    ],
+    "mergedScene": "ジュース是外来语，来自英语，意思是juice 汁，汁液。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ジュース - 外来语英语 - juice 汁，汁液",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このジュースは大切です。",
+        "zh": "这个juice 汁，汁液很重要。"
+      }
+    ]
+  }
+]

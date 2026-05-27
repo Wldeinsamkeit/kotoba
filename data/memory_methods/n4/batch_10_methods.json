@@ -1,0 +1,1377 @@
+[
+  {
+    "word": "全国",
+    "reading": "ぜんこく",
+    "meaning": "全国，整个国家",
+    "sourceIndex": 361,
+    "sourceMeaningRaw": "[名] （各地）；整个国家",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "全国",
+        "method": "TYPE A1",
+        "bridgeC": "全国 的字面先给出“全国”这个方向。"
+      },
+      {
+        "element": "ぜんこく",
+        "method": "TYPE B2",
+        "bridgeC": "ぜんこく - “全+国”直接看懂 - 地图从北海道圈到冲绳，整个国家都包括 - 全国"
+      }
+    ],
+    "mergedScene": "旅行社柜台前，小田把日本地图从北海道一路圈到冲绳，店员说“全国都能去”。全国两个汉字就把“整个国家”框住了。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぜんこく - “全+国”直接看懂 - 地图从北海道圈到冲绳，整个国家都包括 - 全国",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "全国でこの番組を見られます。",
+        "zh": "全国都能看到这个节目。"
+      }
+    ]
+  },
+  {
+    "word": "何時でも",
+    "reading": "いつでも",
+    "meaning": "无论什么时候，随时",
+    "sourceIndex": 362,
+    "sourceMeaningRaw": "[副词] 无论什么时候，随时，经常，总是",
+    "partOfSpeech": "副词",
+    "elements": [
+      {
+        "element": "何時でも",
+        "method": "TYPE A1",
+        "bridgeC": "何時でも 的字面先给出“无论什么时候”这个方向。"
+      },
+      {
+        "element": "いつでも",
+        "method": "TYPE B2",
+        "bridgeC": "いつでも - いつ=什么时候 + でも=都可以 - 什么时候都可以就是随时 - 无论什么时候，随时"
+      }
+    ],
+    "mergedScene": "朋友问小田几点能来，小田指着手机日历说：早上、晚上、周末都行，いつでも。何時でも就是“不管什么时候都可以”。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "いつでも - いつ=什么时候 + でも=都可以 - 什么时候都可以就是随时 - 无论什么时候，随时",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "何時でも電話してください。",
+        "zh": "请随时打电话。"
+      }
+    ]
+  },
+  {
+    "word": "給料",
+    "reading": "きゅうりょう",
+    "meaning": "工资，薪金",
+    "sourceIndex": 363,
+    "sourceMeaningRaw": "[名] 工资，薪金，薪水",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "給料",
+        "method": "TYPE A1",
+        "bridgeC": "給料 的字面先给出“工资”这个方向。"
+      },
+      {
+        "element": "きゅうりょう",
+        "method": "TYPE B2",
+        "bridgeC": "きゅうりょう - 谐音“求粮” - 打工人月底求粮，老板发的就是工资 - 工资，薪金"
+      }
+    ],
+    "mergedScene": "打工店休息室里，小田月底摸着空钱包喊“求粮”。店长把工资袋递给他：給料就是每月发下来的粮草钱。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "きゅうりょう - 谐音“求粮” - 打工人月底求粮，老板发的就是工资 - 工资，薪金",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "今月の給料をもらいました。",
+        "zh": "领到了这个月的工资。"
+      }
+    ]
+  },
+  {
+    "word": "アニメ",
+    "reading": "あにめ",
+    "meaning": "动画，动漫",
+    "sourceIndex": 364,
+    "sourceMeaningRaw": "[名] 动画片，卡通",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "あにめ",
+        "method": "外来语",
+        "bridgeC": "アニメ - 外来语 animation - 放学后追的动画就是アニメ - 动画，动漫"
+      }
+    ],
+    "mergedScene": "放学后的房间里，小田打开平板追动画，片头音乐一响就想到 animation。日语缩成 アニメ，就是动画、动漫。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "アニメ - 外来语 animation - 放学后追的动画就是アニメ - 动画，动漫",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "夜にアニメを見ます。",
+        "zh": "晚上看动漫。"
+      }
+    ]
+  },
+  {
+    "word": "長ネギ",
+    "reading": "ながねぎ",
+    "meaning": "大葱",
+    "sourceIndex": 365,
+    "sourceMeaningRaw": "[名] 大葱",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "長ネギ",
+        "method": "TYPE A1",
+        "bridgeC": "長ネギ 的字面先给出“大葱”这个方向。"
+      },
+      {
+        "element": "ながねぎ",
+        "method": "TYPE B2",
+        "bridgeC": "ながネギ - 長=长，ネギ=葱 - 拉面碗里那根长长的葱就是大葱 - 大葱"
+      }
+    ],
+    "mergedScene": "拉面店里，师傅把一根长长的ネギ斜着切进碗里，小田夹起来发现比筷子还长。長ネギ就是长葱、大葱。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ながネギ - 長=长，ネギ=葱 - 拉面碗里那根长长的葱就是大葱 - 大葱",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "ラーメンに長ネギを入れます。",
+        "zh": "往拉面里放大葱。"
+      }
+    ]
+  },
+  {
+    "word": "エネルギー",
+    "reading": "えねるぎー",
+    "meaning": "能量",
+    "sourceIndex": 366,
+    "sourceMeaningRaw": "[名] 能量；精力，气力",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "えねるぎー",
+        "method": "外来语",
+        "bridgeC": "エネルギー - 外来语 energy - 运动饮料补进去的就是能量 - 能量"
+      }
+    ],
+    "mergedScene": "跑完步的小田瘫在操场边，喝下一口运动饮料，像电池重新充满。energy 变成 エネルギー，就是能量。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "エネルギー - 外来语 energy - 运动饮料补进去的就是能量 - 能量",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "朝ご飯でエネルギーを取ります。",
+        "zh": "通过早饭补充能量。"
+      }
+    ]
+  },
+  {
+    "word": "アルバイト",
+    "reading": "あるばいと",
+    "meaning": "打工",
+    "sourceIndex": 367,
+    "sourceMeaningRaw": "[名·サ变] [德]Arbeit打工。一边进行学业或从事本职工作一边做副业劳动，亦指 这样的劳动者；学术成就，学术成果，学问上的业绩",
+    "partOfSpeech": "名·サ变",
+    "elements": [
+      {
+        "element": "あるばいと",
+        "method": "TYPE B2",
+        "bridgeC": "アルバイト - 来自德语 Arbeit - 留学生课后去便利店打工 - 打工"
+      }
+    ],
+    "mergedScene": "下课后，小田换上便利店制服，站到收银台前开始晚班。アルバイト 来自 Arbeit，日语里常说学生打工。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "アルバイト - 来自德语 Arbeit - 留学生课后去便利店打工 - 打工",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "コンビニでアルバイトをしています。",
+        "zh": "在便利店打工。"
+      }
+    ]
+  },
+  {
+    "word": "湯",
+    "reading": "ゆ",
+    "meaning": "开水，热水",
+    "sourceIndex": 368,
+    "sourceMeaningRaw": "[名] 开水，热水；洗澡水；浴池，澡堂；温泉；融化的液体金属",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "湯",
+        "method": "TYPE A1",
+        "bridgeC": "湯 的字面先给出“开水”这个方向。"
+      },
+      {
+        "element": "ゆ",
+        "method": "TYPE B2",
+        "bridgeC": "ゆ - 像“浴”的开头 - 浴室里放出来的热水就是湯 - 开水，热水"
+      }
+    ],
+    "mergedScene": "冬天回家，小田拧开水龙头，热气一下冒起来，像要去“浴”室泡澡。ゆ 就记热水，湯=开水、热水。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ゆ - 像“浴”的开头 - 浴室里放出来的热水就是湯 - 开水，热水",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "湯を沸かします。",
+        "zh": "烧热水。"
+      }
+    ]
+  },
+  {
+    "word": "希望",
+    "reading": "きぼう",
+    "meaning": "期望，愿望",
+    "sourceIndex": 369,
+    "sourceMeaningRaw": "[名·他动·サ变] ，期望，愿望；寄予将来的期望",
+    "partOfSpeech": "名·他动·サ变",
+    "elements": [
+      {
+        "element": "希望",
+        "method": "TYPE A1",
+        "bridgeC": "希望 的字面先给出“期望”这个方向。"
+      },
+      {
+        "element": "きぼう",
+        "method": "固定读音",
+        "bridgeC": "读音 きぼう 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 きぼう 作为固定读法记住，再用 希望 的汉字确认意思，这个小插曲就代表“期望”。重点抓汉字直觉和读音绑定：希望=期望，愿望。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "希望 - 汉字直觉 + 固定读音 きぼう - 放进生活场景记“期望” - 期望，愿望",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "希望しました。",
+        "zh": "期望了。"
+      }
+    ]
+  },
+  {
+    "word": "お釣り",
+    "reading": "おつり",
+    "meaning": "有剩余",
+    "sourceIndex": 370,
+    "sourceMeaningRaw": "[名] 有剩余；找零，找头",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "お釣り",
+        "method": "TYPE A1",
+        "bridgeC": "お釣り 的字面先给出“有剩余”这个方向。"
+      },
+      {
+        "element": "おつり",
+        "method": "固定读音",
+        "bridgeC": "读音 おつり 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 おつり 作为固定读法记住，再用 お釣り 的汉字确认意思，这个小插曲就代表“有剩余”。重点抓汉字直觉和读音绑定：お釣り=有剩余。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "お釣り - 汉字直觉 + 固定读音 おつり - 放进生活场景记“有剩余” - 有剩余",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "お釣りを使います。",
+        "zh": "使用有剩余。"
+      }
+    ]
+  },
+  {
+    "word": "早く",
+    "reading": "はやく",
+    "meaning": "早早",
+    "sourceIndex": 371,
+    "sourceMeaningRaw": "[副词] 早早；早，早就；快，迅速",
+    "partOfSpeech": "副词",
+    "elements": [
+      {
+        "element": "早く",
+        "method": "TYPE A1",
+        "bridgeC": "早く 的字面先给出“早早”这个方向。"
+      },
+      {
+        "element": "はやく",
+        "method": "固定读音",
+        "bridgeC": "读音 はやく 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 はやく 作为固定读法记住，再用 早く 的汉字确认意思，这个小插曲就代表“早早”。重点抓汉字直觉和读音绑定：早く=早早。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "早く - 汉字直觉 + 固定读音 はやく - 放进生活场景记“早早” - 早早",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "早くことがあります。",
+        "zh": "有时会早早。"
+      }
+    ]
+  },
+  {
+    "word": "美しい",
+    "reading": "うつくしい",
+    "meaning": "美，美丽",
+    "sourceIndex": 372,
+    "sourceMeaningRaw": "[形] 美，美丽，好看，漂亮；美好，优美",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "美しい",
+        "method": "TYPE A1",
+        "bridgeC": "美しい 的字面先给出“美”这个方向。"
+      },
+      {
+        "element": "うつくしい",
+        "method": "固定读音",
+        "bridgeC": "读音 うつくしい 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 うつくしい 作为固定读法记住，再用 美しい 的汉字确认意思，这个小插曲就代表“美”。重点抓汉字直觉和读音绑定：美しい=美，美丽。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "美しい - 汉字直觉 + 固定读音 うつくしい - 放进生活场景记“美” - 美，美丽",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "美しいです。",
+        "zh": "很美。"
+      }
+    ]
+  },
+  {
+    "word": "続く",
+    "reading": "つづく",
+    "meaning": "继续",
+    "sourceIndex": 373,
+    "sourceMeaningRaw": "[自动·五段] 继续；连续；连绵；接连发生；继……之后，接着，跟着；连着，通 到；接得上，够用；后继，跟上，沿袭",
+    "partOfSpeech": "自动·五段",
+    "elements": [
+      {
+        "element": "続く",
+        "method": "TYPE A1",
+        "bridgeC": "続く 的字面先给出“继续”这个方向。"
+      },
+      {
+        "element": "つづく",
+        "method": "固定读音",
+        "bridgeC": "读音 つづく 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 つづく 作为固定读法记住，再用 続く 的汉字确认意思，这个小插曲就代表“继续”。重点抓汉字直觉和读音绑定：続く=继续。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "続く - 汉字直觉 + 固定读音 つづく - 放进生活场景记“继续” - 继续",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "続くことがあります。",
+        "zh": "有时会继续。"
+      }
+    ]
+  },
+  {
+    "word": "参る",
+    "reading": "まいる",
+    "meaning": "去，来（的自谦语",
+    "sourceIndex": 374,
+    "sourceMeaningRaw": "[自动·五段] 去，来（「行く」「来る」的自谦语，表示对对方的敬意）；参拜； 认输，败；受不了，吃不消；叫人为难；不堪，累垮",
+    "partOfSpeech": "自动·五段",
+    "elements": [
+      {
+        "element": "参る",
+        "method": "TYPE A1",
+        "bridgeC": "参る 的字面先给出“去”这个方向。"
+      },
+      {
+        "element": "まいる",
+        "method": "固定读音",
+        "bridgeC": "读音 まいる 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 まいる 作为固定读法记住，再用 参る 的汉字确认意思，这个小插曲就代表“去”。重点抓汉字直觉和读音绑定：参る=去，来（的自谦语。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "参る - 汉字直觉 + 固定读音 まいる - 放进生活场景记“去” - 去，来（的自谦语",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "参ることがあります。",
+        "zh": "有时会去。"
+      }
+    ]
+  },
+  {
+    "word": "差し上げる",
+    "reading": "さしあげる",
+    "meaning": "举，举起",
+    "sourceIndex": 375,
+    "sourceMeaningRaw": "[他动·一段] 举，举起；（「上げる」「やる」「与える」的自谦语）敬献，呈 送；（补助动词「～て」）给您…",
+    "partOfSpeech": "他动·一段",
+    "elements": [
+      {
+        "element": "差し上げる",
+        "method": "TYPE A1",
+        "bridgeC": "差し上げる 的字面先给出“举”这个方向。"
+      },
+      {
+        "element": "さしあげる",
+        "method": "固定读音",
+        "bridgeC": "读音 さしあげる 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 さしあげる 作为固定读法记住，再用 差し上げる 的汉字确认意思，这个小插曲就代表“举”。重点抓汉字直觉和读音绑定：差し上げる=举，举起。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "差し上げる - 汉字直觉 + 固定读音 さしあげる - 放进生活场景记“举” - 举，举起",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "差し上げることがあります。",
+        "zh": "有时会举。"
+      }
+    ]
+  },
+  {
+    "word": "胡瓜",
+    "reading": "きゅうり",
+    "meaning": "黄瓜葫芦科一年生草本植物",
+    "sourceIndex": 376,
+    "sourceMeaningRaw": "[名] 黄瓜葫芦科一年生草本植物",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "胡瓜",
+        "method": "TYPE A1",
+        "bridgeC": "胡瓜 的字面先给出“黄瓜葫芦科一年生草本植物”这个方向。"
+      },
+      {
+        "element": "きゅうり",
+        "method": "固定读音",
+        "bridgeC": "读音 きゅうり 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在房间里的日历前，小田拿着红笔在日历上圈出日期，读音 きゅうり 作为固定读法记住，再用 胡瓜 的汉字确认意思，时间格子直接提醒“黄瓜葫芦科一年生草本植物”。重点抓汉字直觉和读音绑定：胡瓜=黄瓜葫芦科一年生草本植物。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "胡瓜 - 汉字直觉 + 固定读音 きゅうり - 放进生活场景记“黄瓜葫芦科一年生草本植物” - 黄瓜葫芦科一年生草本植物",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "胡瓜を使います。",
+        "zh": "使用黄瓜葫芦科一年生草本植物。"
+      }
+    ]
+  },
+  {
+    "word": "出発",
+    "reading": "しゅっぱつ",
+    "meaning": "出发，动身",
+    "sourceIndex": 377,
+    "sourceMeaningRaw": "[名·サ变] 出发，动身，启程朝目的地地方向进发；开头，开始做……事物的开端",
+    "partOfSpeech": "名·サ变",
+    "elements": [
+      {
+        "element": "出発",
+        "method": "TYPE A1",
+        "bridgeC": "出発 的字面先给出“出发”这个方向。"
+      },
+      {
+        "element": "しゅっぱつ",
+        "method": "固定读音",
+        "bridgeC": "读音 しゅっぱつ 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 しゅっぱつ 作为固定读法记住，再用 出発 的汉字确认意思，这个小插曲就代表“出发”。重点抓汉字直觉和读音绑定：出発=出发，动身。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "出発 - 汉字直觉 + 固定读音 しゅっぱつ - 放进生活场景记“出发” - 出发，动身",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "出発しました。",
+        "zh": "出发了。"
+      }
+    ]
+  },
+  {
+    "word": "展覧会",
+    "reading": "てんらんかい",
+    "meaning": "展览会",
+    "sourceIndex": 378,
+    "sourceMeaningRaw": "[名] 展览会",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "展覧会",
+        "method": "TYPE A1",
+        "bridgeC": "展覧会 的字面先给出“展览会”这个方向。"
+      },
+      {
+        "element": "てんらんかい",
+        "method": "固定读音",
+        "bridgeC": "读音 てんらんかい 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 てんらんかい 作为固定读法记住，再用 展覧会 的汉字确认意思，这个小插曲就代表“展览会”。重点抓汉字直觉和读音绑定：展覧会=展览会。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "展覧会 - 汉字直觉 + 固定读音 てんらんかい - 放进生活场景记“展览会” - 展览会",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "展覧会を使います。",
+        "zh": "使用展览会。"
+      }
+    ]
+  },
+  {
+    "word": "島",
+    "reading": "しま",
+    "meaning": "岛屿，岛子",
+    "sourceIndex": 379,
+    "sourceMeaningRaw": "[名] 岛屿，岛子，岛",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "島",
+        "method": "TYPE A1",
+        "bridgeC": "島 的字面先给出“岛屿”这个方向。"
+      },
+      {
+        "element": "しま",
+        "method": "固定读音",
+        "bridgeC": "读音 しま 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 しま 作为固定读法记住，再用 島 的汉字确认意思，这个小插曲就代表“岛屿”。重点抓汉字直觉和读音绑定：島=岛屿，岛子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "島 - 汉字直觉 + 固定读音 しま - 放进生活场景记“岛屿” - 岛屿，岛子",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "島を使います。",
+        "zh": "使用岛屿。"
+      }
+    ]
+  },
+  {
+    "word": "そうしたら",
+    "reading": "そうしたら",
+    "meaning": "这样一来，要是那样的话",
+    "sourceIndex": 380,
+    "sourceMeaningRaw": "[副词] 这样一来，要是那样的话，如果那样",
+    "partOfSpeech": "副词",
+    "elements": [
+      {
+        "element": "そうしたら",
+        "method": "固定读音",
+        "bridgeC": "纯假名词先拆成 そう + したら，再放进生活场景绑定“这样一来，要是那样的话”。"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，把 そうしたら 拆成 そう + したら 慢慢读，这个小插曲就代表“这样一来”。重点抓假名拆读：そうしたら=这样一来，要是那样的话。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "そうしたら - 纯假名拆读 そう + したら - 用生活场景记住它的用法 - 这样一来，要是那样的话",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "そうしたらを使います。",
+        "zh": "使用这样一来。"
+      }
+    ]
+  },
+  {
+    "word": "慣れる",
+    "reading": "なれる",
+    "meaning": "习惯，习以为常",
+    "sourceIndex": 381,
+    "sourceMeaningRaw": "[自动·一段] 习惯，习以为常；熟练；惯，合；味道恰到好处；亲近",
+    "partOfSpeech": "自动·一段",
+    "elements": [
+      {
+        "element": "慣れる",
+        "method": "TYPE A1",
+        "bridgeC": "慣れる 的字面先给出“习惯”这个方向。"
+      },
+      {
+        "element": "なれる",
+        "method": "固定读音",
+        "bridgeC": "读音 なれる 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 なれる 作为固定读法记住，再用 慣れる 的汉字确认意思，这个小插曲就代表“习惯”。重点抓汉字直觉和读音绑定：慣れる=习惯，习以为常。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "慣れる - 汉字直觉 + 固定读音 なれる - 放进生活场景记“习惯” - 习惯，习以为常",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "慣れることがあります。",
+        "zh": "有时会习惯。"
+      }
+    ]
+  },
+  {
+    "word": "地球",
+    "reading": "ちきゅう",
+    "meaning": "地球",
+    "sourceIndex": 382,
+    "sourceMeaningRaw": "[名] ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "地球",
+        "method": "TYPE A1",
+        "bridgeC": "地球 的字面先给出“地球”这个方向。"
+      },
+      {
+        "element": "ちきゅう",
+        "method": "固定读音",
+        "bridgeC": "读音 ちきゅう 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ちきゅう 作为固定读法记住，再用 地球 的汉字确认意思，这个小插曲就代表“地球”。重点抓汉字直觉和读音绑定：地球=地球。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "地球 - 汉字直觉 + 固定读音 ちきゅう - 放进生活场景记“地球” - 地球",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "地球を守ります。",
+        "zh": "保护地球。"
+      }
+    ]
+  },
+  {
+    "word": "引っ越す",
+    "reading": "ひっこす",
+    "meaning": "搬家，搬迁",
+    "sourceIndex": 383,
+    "sourceMeaningRaw": "[自动·五段] 搬家，搬迁，迁居",
+    "partOfSpeech": "自动·五段",
+    "elements": [
+      {
+        "element": "引っ越す",
+        "method": "TYPE A1",
+        "bridgeC": "引っ越す 的字面先给出“搬家”这个方向。"
+      },
+      {
+        "element": "ひっこす",
+        "method": "固定读音",
+        "bridgeC": "读音 ひっこす 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在小田的房间，小田蹲在地板上在房间里翻找东西，读音 ひっこす 作为固定读法记住，再用 引っ越す 的汉字确认意思，手边的物品自然对应“搬家”。重点抓汉字直觉和读音绑定：引っ越す=搬家，搬迁。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "引っ越す - 汉字直觉 + 固定读音 ひっこす - 放进生活场景记“搬家” - 搬家，搬迁",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "引っ越すことがあります。",
+        "zh": "有时会搬家。"
+      }
+    ]
+  },
+  {
+    "word": "急ぐ",
+    "reading": "いそぐ",
+    "meaning": "赶路",
+    "sourceIndex": 384,
+    "sourceMeaningRaw": "[自他动·五段] 赶路；快，急，加快，赶紧，着急",
+    "partOfSpeech": "自他动·五段",
+    "elements": [
+      {
+        "element": "急ぐ",
+        "method": "TYPE A1",
+        "bridgeC": "急ぐ 的字面先给出“赶路”这个方向。"
+      },
+      {
+        "element": "いそぐ",
+        "method": "固定读音",
+        "bridgeC": "读音 いそぐ 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在东京车站，小田拖着行李箱盯着车站指示牌，读音 いそぐ 作为固定读法记住，再用 急ぐ 的汉字确认意思，人群和广播声一起把“赶路”钉住。重点抓汉字直觉和读音绑定：急ぐ=赶路。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "急ぐ - 汉字直觉 + 固定读音 いそぐ - 放进生活场景记“赶路” - 赶路",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "急ぐへ行きます。",
+        "zh": "去赶路。"
+      }
+    ]
+  },
+  {
+    "word": "準備",
+    "reading": "じゅんび",
+    "meaning": "准备，预备",
+    "sourceIndex": 385,
+    "sourceMeaningRaw": "[名·サ变] 准备，预备；筹备",
+    "partOfSpeech": "名·サ变",
+    "elements": [
+      {
+        "element": "準備",
+        "method": "TYPE A1",
+        "bridgeC": "準備 的字面先给出“准备”这个方向。"
+      },
+      {
+        "element": "じゅんび",
+        "method": "固定读音",
+        "bridgeC": "读音 じゅんび 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 じゅんび 作为固定读法记住，再用 準備 的汉字确认意思，这个小插曲就代表“准备”。重点抓汉字直觉和读音绑定：準備=准备，预备。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "準備 - 汉字直觉 + 固定读音 じゅんび - 放进生活场景记“准备” - 准备，预备",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "準備しました。",
+        "zh": "准备了。"
+      }
+    ]
+  },
+  {
+    "word": "大型",
+    "reading": "おおがた",
+    "meaning": "大型，大号",
+    "sourceIndex": 386,
+    "sourceMeaningRaw": "[名·形动] 在同类物品中形状大；形状或规模大的东西",
+    "partOfSpeech": "名·形动",
+    "elements": [
+      {
+        "element": "大型",
+        "method": "TYPE A1",
+        "bridgeC": "大型 的字面先给出“大型”这个方向。"
+      },
+      {
+        "element": "おおがた",
+        "method": "固定读音",
+        "bridgeC": "读音 おおがた 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 おおがた 作为固定读法记住，再用 大型 的汉字确认意思，这个小插曲就代表“大型”。重点抓汉字直觉和读音绑定：大型=大型，大号。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "大型 - 汉字直觉 + 固定读音 おおがた - 放进生活场景记“大型” - 大型，大号",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "大型です。",
+        "zh": "很大型。"
+      }
+    ]
+  },
+  {
+    "word": "交通",
+    "reading": "こうつう",
+    "meaning": "通信，往来",
+    "sourceIndex": 387,
+    "sourceMeaningRaw": "[名·自动·サ变] ；通信，往来",
+    "partOfSpeech": "名·自动·サ变",
+    "elements": [
+      {
+        "element": "交通",
+        "method": "TYPE A1",
+        "bridgeC": "交通 的字面先给出“通信”这个方向。"
+      },
+      {
+        "element": "こうつう",
+        "method": "固定读音",
+        "bridgeC": "读音 こうつう 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 こうつう 作为固定读法记住，再用 交通 的汉字确认意思，这个小插曲就代表“通信”。重点抓汉字直觉和读音绑定：交通=通信，往来。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "交通 - 汉字直觉 + 固定读音 こうつう - 放进生活场景记“通信” - 通信，往来",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "交通しました。",
+        "zh": "通信了。"
+      }
+    ]
+  },
+  {
+    "word": "蝦",
+    "reading": "えび",
+    "meaning": "虾",
+    "sourceIndex": 388,
+    "sourceMeaningRaw": "[名] 虾",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "蝦",
+        "method": "TYPE A1",
+        "bridgeC": "蝦 的字面先给出“虾”这个方向。"
+      },
+      {
+        "element": "えび",
+        "method": "固定读音",
+        "bridgeC": "读音 えび 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 えび 作为固定读法记住，再用 蝦 的汉字确认意思，这个小插曲就代表“虾”。重点抓汉字直觉和读音绑定：蝦=虾。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "蝦 - 汉字直觉 + 固定读音 えび - 放进生活场景记“虾” - 虾",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "蝦を使います。",
+        "zh": "使用虾。"
+      }
+    ]
+  },
+  {
+    "word": "与える",
+    "reading": "あたえる",
+    "meaning": "给与，给予",
+    "sourceIndex": 389,
+    "sourceMeaningRaw": "[他动·一段] 给与，给予，供给；授予；分配派定，布置；使蒙受，使遭到",
+    "partOfSpeech": "他动·一段",
+    "elements": [
+      {
+        "element": "与える",
+        "method": "TYPE A1",
+        "bridgeC": "与える 的字面先给出“给与”这个方向。"
+      },
+      {
+        "element": "あたえる",
+        "method": "固定读音",
+        "bridgeC": "读音 あたえる 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 あたえる 作为固定读法记住，再用 与える 的汉字确认意思，这个小插曲就代表“给与”。重点抓汉字直觉和读音绑定：与える=给与，给予。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "与える - 汉字直觉 + 固定读音 あたえる - 放进生活场景记“给与” - 给与，给予",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "与えることがあります。",
+        "zh": "有时会给与。"
+      }
+    ]
+  },
+  {
+    "word": "捨てる",
+    "reading": "すてる",
+    "meaning": "抛弃，放弃",
+    "sourceIndex": 390,
+    "sourceMeaningRaw": "抛弃，放弃，遗弃，丢弃；抛弃（俗世）出家；下（车）；（接动词连用形后）弃 [他动·一段] 置之不理，不顾不理；（将无用的东西、无价值的东西）扔掉抛弃； 之不管，搁置不管",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "捨てる",
+        "method": "TYPE A1",
+        "bridgeC": "捨てる 的字面先给出“抛弃”这个方向。"
+      },
+      {
+        "element": "すてる",
+        "method": "固定读音",
+        "bridgeC": "读音 すてる 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 すてる 作为固定读法记住，再用 捨てる 的汉字确认意思，这个小插曲就代表“抛弃”。重点抓汉字直觉和读音绑定：捨てる=抛弃，放弃。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "捨てる - 汉字直觉 + 固定读音 すてる - 放进生活场景记“抛弃” - 抛弃，放弃",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "捨てることがあります。",
+        "zh": "有时会抛弃。"
+      }
+    ]
+  },
+  {
+    "word": "係り",
+    "reading": "かかり",
+    "meaning": "负责人",
+    "sourceIndex": 391,
+    "sourceMeaningRaw": "[名] 负责人",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "係り",
+        "method": "TYPE A1",
+        "bridgeC": "係り 的字面先给出“负责人”这个方向。"
+      },
+      {
+        "element": "かかり",
+        "method": "固定读音",
+        "bridgeC": "读音 かかり 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 かかり 作为固定读法记住，再用 係り 的汉字确认意思，这个小插曲就代表“负责人”。重点抓汉字直觉和读音绑定：係り=负责人。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "係り - 汉字直觉 + 固定读音 かかり - 放进生活场景记“负责人” - 负责人",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "係りを使います。",
+        "zh": "使用负责人。"
+      }
+    ]
+  },
+  {
+    "word": "コンサート",
+    "reading": "こんさーと",
+    "meaning": "音乐会",
+    "sourceIndex": 392,
+    "sourceMeaningRaw": "[名] 音乐会，演奏会",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "コンサート",
+        "method": "外来语",
+        "bridgeC": "コンサート 来自 concert（音乐会），先用来源词绑定意思“音乐会”。"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，看到片假名 コンサート，马上联想到 concert（音乐会），这个小插曲就代表“音乐会”。重点抓外来语来源：コンサート=音乐会。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "コンサート - 外来语 concert（音乐会） - 从来源词直接联想到音乐会的使用场景 - 音乐会",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "コンサートを使います。",
+        "zh": "使用音乐会。"
+      }
+    ]
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "记，记住",
+    "sourceIndex": 393,
+    "sourceMeaningRaw": "[他动·一段] 记，记住，记得，记忆；学会；领会，掌握，懂得；感觉，感到，觉 得",
+    "partOfSpeech": "他动·一段",
+    "elements": [
+      {
+        "element": "覚える",
+        "method": "TYPE A1",
+        "bridgeC": "覚える 的字面先给出“记”这个方向。"
+      },
+      {
+        "element": "おぼえる",
+        "method": "固定读音",
+        "bridgeC": "读音 おぼえる 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 おぼえる 作为固定读法记住，再用 覚える 的汉字确认意思，这个小插曲就代表“记”。重点抓汉字直觉和读音绑定：覚える=记，记住。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "覚える - 汉字直觉 + 固定读音 おぼえる - 放进生活场景记“记” - 记，记住",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "覚えることがあります。",
+        "zh": "有时会记。"
+      }
+    ]
+  },
+  {
+    "word": "葡萄",
+    "reading": "ぶどう",
+    "meaning": "紫红色",
+    "sourceIndex": 394,
+    "sourceMeaningRaw": "[名] ，紫红色",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "葡萄",
+        "method": "TYPE A1",
+        "bridgeC": "葡萄 的字面先给出“紫红色”这个方向。"
+      },
+      {
+        "element": "ぶどう",
+        "method": "固定读音",
+        "bridgeC": "读音 ぶどう 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ぶどう 作为固定读法记住，再用 葡萄 的汉字确认意思，这个小插曲就代表“紫红色”。重点抓汉字直觉和读音绑定：葡萄=紫红色。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "葡萄 - 汉字直觉 + 固定读音 ぶどう - 放进生活场景记“紫红色” - 紫红色",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "葡萄を使います。",
+        "zh": "使用紫红色。"
+      }
+    ]
+  },
+  {
+    "word": "怠い",
+    "reading": "だるい",
+    "meaning": "懒倦的，慵懒的",
+    "sourceIndex": 395,
+    "sourceMeaningRaw": "[形] 懒倦的，慵懒的，发酸的，又懒又乏的",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "怠い",
+        "method": "TYPE A1",
+        "bridgeC": "怠い 的字面先给出“懒倦的”这个方向。"
+      },
+      {
+        "element": "だるい",
+        "method": "固定读音",
+        "bridgeC": "读音 だるい 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 だるい 作为固定读法记住，再用 怠い 的汉字确认意思，这个小插曲就代表“懒倦的”。重点抓汉字直觉和读音绑定：怠い=懒倦的，慵懒的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "怠い - 汉字直觉 + 固定读音 だるい - 放进生活场景记“懒倦的” - 懒倦的，慵懒的",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "怠いです。",
+        "zh": "很懒倦的。"
+      }
+    ]
+  },
+  {
+    "word": "悲しい",
+    "reading": "かなしい",
+    "meaning": "悲哀的，悲伤的",
+    "sourceIndex": 396,
+    "sourceMeaningRaw": "[形] 悲哀的，悲伤的，悲愁的，可悲的，遗憾的。",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "悲しい",
+        "method": "TYPE A1",
+        "bridgeC": "悲しい 的字面先给出“悲哀的”这个方向。"
+      },
+      {
+        "element": "かなしい",
+        "method": "固定读音",
+        "bridgeC": "读音 かなしい 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在下课后的走廊，小田和同学在走廊里夸张表演刚才的心情，读音 かなしい 作为固定读法记住，再用 悲しい 的汉字确认意思，表情越夸张越容易记住“悲哀的”。重点抓汉字直觉和读音绑定：悲しい=悲哀的，悲伤的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "悲しい - 汉字直觉 + 固定读音 かなしい - 放进生活场景记“悲哀的” - 悲哀的，悲伤的",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "悲しいです。",
+        "zh": "很悲哀的。"
+      }
+    ]
+  },
+  {
+    "word": "片付ける",
+    "reading": "かたづける",
+    "meaning": "整理，收拾",
+    "sourceIndex": 397,
+    "sourceMeaningRaw": "[他动·一段] 整理，收拾，拾掇；解决，处理；嫁给；除掉，消灭；杀死",
+    "partOfSpeech": "他动·一段",
+    "elements": [
+      {
+        "element": "片付ける",
+        "method": "TYPE A1",
+        "bridgeC": "片付ける 的字面先给出“整理”这个方向。"
+      },
+      {
+        "element": "かたづける",
+        "method": "固定读音",
+        "bridgeC": "读音 かたづける 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 かたづける 作为固定读法记住，再用 片付ける 的汉字确认意思，这个小插曲就代表“整理”。重点抓汉字直觉和读音绑定：片付ける=整理，收拾。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "片付ける - 汉字直觉 + 固定读音 かたづける - 放进生活场景记“整理” - 整理，收拾",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "片付けることがあります。",
+        "zh": "有时会整理。"
+      }
+    ]
+  },
+  {
+    "word": "実際",
+    "reading": "じっさい",
+    "meaning": "实际",
+    "sourceIndex": 398,
+    "sourceMeaningRaw": "[名·副词] 实际；事实；原来（是）；实际上；的确，真的",
+    "partOfSpeech": "名·副词",
+    "elements": [
+      {
+        "element": "実際",
+        "method": "TYPE A1",
+        "bridgeC": "実際 的字面先给出“实际”这个方向。"
+      },
+      {
+        "element": "じっさい",
+        "method": "固定读音",
+        "bridgeC": "读音 じっさい 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 じっさい 作为固定读法记住，再用 実際 的汉字确认意思，这个小插曲就代表“实际”。重点抓汉字直觉和读音绑定：実際=实际。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "実際 - 汉字直觉 + 固定读音 じっさい - 放进生活场景记“实际” - 实际",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "実際を使います。",
+        "zh": "使用实际。"
+      }
+    ]
+  },
+  {
+    "word": "漬ける",
+    "reading": "つける",
+    "meaning": "腌，泡（菜等",
+    "sourceIndex": 399,
+    "sourceMeaningRaw": "[他动·一段] 腌，泡（菜等）",
+    "partOfSpeech": "他动·一段",
+    "elements": [
+      {
+        "element": "漬ける",
+        "method": "TYPE A1",
+        "bridgeC": "漬ける 的字面先给出“腌”这个方向。"
+      },
+      {
+        "element": "つける",
+        "method": "固定读音",
+        "bridgeC": "读音 つける 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在学校食堂，小田端着餐盘闻到热气和酱汁味，读音 つける 作为固定读法记住，再用 漬ける 的汉字确认意思，马上想到餐盘里的“腌”。重点抓汉字直觉和读音绑定：漬ける=腌，泡（菜等。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "漬ける - 汉字直觉 + 固定读音 つける - 放进生活场景记“腌” - 腌，泡（菜等",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "漬けるを食べます。",
+        "zh": "吃腌。"
+      }
+    ]
+  },
+  {
+    "word": "不親切",
+    "reading": "ふしんせつ",
+    "meaning": "不亲切",
+    "sourceIndex": 400,
+    "sourceMeaningRaw": "[惯用] 不亲切；不热情；冷淡；不周到",
+    "partOfSpeech": "惯用",
+    "elements": [
+      {
+        "element": "不親切",
+        "method": "TYPE A1",
+        "bridgeC": "不親切 的字面先给出“不亲切”这个方向。"
+      },
+      {
+        "element": "ふしんせつ",
+        "method": "固定读音",
+        "bridgeC": "读音 ふしんせつ 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在下课后的走廊，小田和同学在走廊里夸张表演刚才的心情，读音 ふしんせつ 作为固定读法记住，再用 不親切 的汉字确认意思，表情越夸张越容易记住“不亲切”。重点抓汉字直觉和读音绑定：不親切=不亲切。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "不親切 - 汉字直觉 + 固定读音 ふしんせつ - 放进生活场景记“不亲切” - 不亲切",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "不親切です。",
+        "zh": "很不亲切。"
+      }
+    ]
+  }
+]

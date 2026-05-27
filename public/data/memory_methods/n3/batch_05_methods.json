@@ -1,0 +1,1292 @@
+[
+  {
+    "word": "煙突",
+    "reading": "えんとつ",
+    "meaning": "车的牌子接载客人，以此赚取额外的收入这 烟筒",
+    "sourceIndex": 161,
+    "sourceMeaningRaw": "名 车的牌子接载客人，以此赚取额外的收入这 烟筒,烟囱；计程车司机间的隐语，指挂着空 种不正当的行为",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "煙突",
+        "method": "TYPE A1",
+        "bridgeC": "汉字煙突意思是车的牌子接载客人，以此赚取额外的收入这 烟筒"
+      },
+      {
+        "element": "えんとつ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"えん+とつ\"来记"
+      }
+    ],
+    "mergedScene": "えんとつ拆分记忆，意思是车的牌子接载客人，以此赚取额外的收入这 烟筒",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "えんとつ - 拆分记忆 - 车的牌子接载客人，以此赚取额外的收入这 烟筒",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この煙突は大切です。",
+        "zh": "这个车的牌子接载客人，以此赚取额外的收入这 烟筒很重要。"
+      }
+    ]
+  },
+  {
+    "word": "演奏",
+    "reading": "えんそう",
+    "meaning": "他动 ·サ变",
+    "sourceIndex": 162,
+    "sourceMeaningRaw": " 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "演奏",
+        "method": "TYPE A1",
+        "bridgeC": "汉字演奏意思是他动 ·サ变"
+      },
+      {
+        "element": "えんそう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"えん+そう\"来记"
+      }
+    ],
+    "mergedScene": "えんそう拆分记忆，意思是他动 ·サ变",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "えんそう - 拆分记忆 - 他动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この演奏は大切です。",
+        "zh": "这个他动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "おい",
+    "reading": "おい",
+    "meaning": "感动 喂，欸",
+    "sourceIndex": 163,
+    "sourceMeaningRaw": "感动 喂，欸；哎，呀",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "おい",
+        "method": "TYPE B2",
+        "bridgeC": "おい表示感动 喂，欸"
+      }
+    ],
+    "mergedScene": "おい的意思就是感动 喂，欸。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おい - 感动 喂，欸",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このおいは大切です。",
+        "zh": "这个感动 喂，欸很重要。"
+      }
+    ]
+  },
+  {
+    "word": "甥",
+    "reading": "おい",
+    "meaning": "侄，侄儿",
+    "sourceIndex": 164,
+    "sourceMeaningRaw": "名 侄，侄儿，侄子；，外",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "甥",
+        "method": "TYPE A1",
+        "bridgeC": "汉字甥意思是侄，侄儿"
+      }
+    ],
+    "mergedScene": "甥这个汉字一看就像侄，侄儿。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おい - 甥 - 侄，侄儿",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この甥は大切です。",
+        "zh": "这个侄，侄儿很重要。"
+      }
+    ]
+  },
+  {
+    "word": "追い越す",
+    "reading": "おいこす",
+    "meaning": "五 赶过，超过赶超从后面追上并超越前面的 段 人",
+    "sourceIndex": 165,
+    "sourceMeaningRaw": "他动·五 赶过，超过赶超从后面追上并超越前面的 段 人；赶超，超越，超过劣势者胜过优势者",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "追い越す",
+        "method": "TYPE A1",
+        "bridgeC": "汉字追い越す意思是五 赶过，超过赶超从后面追上并超越前面的 段 人"
+      },
+      {
+        "element": "おいこす",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おい+こす\"来记"
+      }
+    ],
+    "mergedScene": "おいこす拆分记忆，意思是五 赶过，超过赶超从后面追上并超越前面的 段 人",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おいこす - 拆分记忆 - 五 赶过，超过赶超从后面追上并超越前面的 段 人",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この追い越すは大切です。",
+        "zh": "这个五 赶过，超过赶超从后面追上并超越前面的 段 人很重要。"
+      }
+    ]
+  },
+  {
+    "word": "追い付く",
+    "reading": "おいつく",
+    "meaning": "追上，赶上 自动·五 段",
+    "sourceIndex": 166,
+    "sourceMeaningRaw": "追上，赶上 自动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "追い付く",
+        "method": "TYPE A1",
+        "bridgeC": "汉字追い付く意思是追上，赶上 自动·五 段"
+      },
+      {
+        "element": "おいつく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おい+つく\"来记"
+      }
+    ],
+    "mergedScene": "おいつく拆分记忆，意思是追上，赶上 自动·五 段",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おいつく - 拆分记忆 - 追上，赶上 自动·五 段",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この追い付くは大切です。",
+        "zh": "这个追上，赶上 自动·五 段很重要。"
+      }
+    ]
+  },
+  {
+    "word": "おいで",
+    "reading": "おいで",
+    "meaning": "惯用 召唤幼儿“过来过来”的动作",
+    "sourceIndex": 167,
+    "sourceMeaningRaw": "惯用 召唤幼儿“过来过来”的动作。",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "おいで",
+        "method": "TYPE B2",
+        "bridgeC": "おいで表示惯用 召唤幼儿“过来过来”的动作"
+      }
+    ],
+    "mergedScene": "おいで的意思就是惯用 召唤幼儿“过来过来”的动作。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おいで - 惯用 召唤幼儿“过来过来”的动作",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このおいでは大切です。",
+        "zh": "这个惯用 召唤幼儿“过来过来”的动作很重要。"
+      }
+    ]
+  },
+  {
+    "word": "オイル",
+    "reading": "おいる",
+    "meaning": "oil食用油,油类",
+    "sourceIndex": 168,
+    "sourceMeaningRaw": "名 oil食用油,油类；石油；擦身油",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "オイル",
+        "method": "外来语",
+        "bridgeC": "オイル来自英语，意思是oil食用油,油类"
+      }
+    ],
+    "mergedScene": "オイル是外来语，来自英语，意思是oil食用油,油类。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "オイル - 外来语英语 - oil食用油,油类",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このオイルは大切です。",
+        "zh": "这个oil食用油,油类很重要。"
+      }
+    ]
+  },
+  {
+    "word": "追う",
+    "reading": "おう",
+    "meaning": "循序随着时间 逐……",
+    "sourceIndex": 169,
+    "sourceMeaningRaw": "循序随着（时间）按照（顺序）逐……； 走；撵走；轰走；赶驱；赶迫；使其前进； 他动·五 段 （以「…におわれる」的形式）催逼忙于忙 迫",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "追う",
+        "method": "TYPE A1",
+        "bridgeC": "汉字追う意思是循序随着时间 逐……"
+      }
+    ],
+    "mergedScene": "追う这个汉字一看就像循序随着时间 逐……。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おう - 追う - 循序随着时间 逐……",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この追うは大切です。",
+        "zh": "这个循序随着时间 逐……很重要。"
+      }
+    ]
+  },
+  {
+    "word": "応援",
+    "reading": "おうえん",
+    "meaning": "声援，从旁助威",
+    "sourceIndex": 170,
+    "sourceMeaningRaw": "名·サ变 声援，从旁助威",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "応援",
+        "method": "TYPE A1",
+        "bridgeC": "汉字応援意思是声援，从旁助威"
+      },
+      {
+        "element": "おうえん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おう+えん\"来记"
+      }
+    ],
+    "mergedScene": "おうえん拆分记忆，意思是声援，从旁助威",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おうえん - 拆分记忆 - 声援，从旁助威",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この応援は大切です。",
+        "zh": "这个声援，从旁助威很重要。"
+      }
+    ]
+  },
+  {
+    "word": "応接",
+    "reading": "おうせつ",
+    "meaning": "接待，应接",
+    "sourceIndex": 171,
+    "sourceMeaningRaw": "名·サ变 接待，应接",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "応接",
+        "method": "TYPE A1",
+        "bridgeC": "汉字応接意思是接待，应接"
+      },
+      {
+        "element": "おうせつ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おう+せつ\"来记"
+      }
+    ],
+    "mergedScene": "おうせつ拆分记忆，意思是接待，应接",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おうせつ - 拆分记忆 - 接待，应接",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この応接は大切です。",
+        "zh": "这个接待，应接很重要。"
+      }
+    ]
+  },
+  {
+    "word": "応対",
+    "reading": "おうたい",
+    "meaning": "应对，接待",
+    "sourceIndex": 172,
+    "sourceMeaningRaw": "名·サ变 应对，接待，应酬",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "応対",
+        "method": "TYPE A1",
+        "bridgeC": "汉字応対意思是应对，接待"
+      },
+      {
+        "element": "おうたい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おう+たい\"来记"
+      }
+    ],
+    "mergedScene": "おうたい拆分记忆，意思是应对，接待",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おうたい - 拆分记忆 - 应对，接待",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この応対は大切です。",
+        "zh": "这个应对，接待很重要。"
+      }
+    ]
+  },
+  {
+    "word": "横断",
+    "reading": "おうだん",
+    "meaning": "；横渡，横穿 名·他动 ·サ变",
+    "sourceIndex": 173,
+    "sourceMeaningRaw": "；横渡，横穿 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "横断",
+        "method": "TYPE A1",
+        "bridgeC": "汉字横断意思是；横渡，横穿 名·他动 ·サ变"
+      },
+      {
+        "element": "おうだん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おう+だん\"来记"
+      }
+    ],
+    "mergedScene": "おうだん拆分记忆，意思是；横渡，横穿 名·他动 ·サ变",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おうだん - 拆分记忆 - ；横渡，横穿 名·他动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この横断は大切です。",
+        "zh": "这个；横渡，横穿 名·他动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "往復",
+    "reading": "おうふく",
+    "meaning": "往返，往复",
+    "sourceIndex": 174,
+    "sourceMeaningRaw": "名·サ变 往返，往复，来回；（语言、书信等）来 往，往返",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "往復",
+        "method": "TYPE A1",
+        "bridgeC": "汉字往復意思是往返，往复"
+      },
+      {
+        "element": "おうふく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おう+ふく\"来记"
+      }
+    ],
+    "mergedScene": "おうふく拆分记忆，意思是往返，往复",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おうふく - 拆分记忆 - 往返，往复",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この往復は大切です。",
+        "zh": "这个往返，往复很重要。"
+      }
+    ]
+  },
+  {
+    "word": "欧米",
+    "reading": "おうべい",
+    "meaning": "欧美",
+    "sourceIndex": 175,
+    "sourceMeaningRaw": "名 欧美",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "欧米",
+        "method": "TYPE A1",
+        "bridgeC": "汉字欧米意思是欧美"
+      },
+      {
+        "element": "おうべい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おう+べい\"来记"
+      }
+    ],
+    "mergedScene": "おうべい拆分记忆，意思是欧美",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おうべい - 拆分记忆 - 欧美",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この欧米は大切です。",
+        "zh": "这个欧美很重要。"
+      }
+    ]
+  },
+  {
+    "word": "応募",
+    "reading": "おうぼ",
+    "meaning": "应募，参加",
+    "sourceIndex": 176,
+    "sourceMeaningRaw": "应募，参加，报名 名·自动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "応募",
+        "method": "TYPE A1",
+        "bridgeC": "汉字応募意思是应募，参加"
+      }
+    ],
+    "mergedScene": "応募这个汉字一看就像应募，参加。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おうぼ - 応募 - 应募，参加",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この応募は大切です。",
+        "zh": "这个应募，参加很重要。"
+      }
+    ]
+  },
+  {
+    "word": "応用",
+    "reading": "おうよう",
+    "meaning": "他动 应用，适用",
+    "sourceIndex": 177,
+    "sourceMeaningRaw": "名·他动 应用，适用；实用，运用，利用；应用，适 ·サ变 用；实用，运用，利用",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "応用",
+        "method": "TYPE A1",
+        "bridgeC": "汉字応用意思是他动 应用，适用"
+      },
+      {
+        "element": "おうよう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おう+よう\"来记"
+      }
+    ],
+    "mergedScene": "おうよう拆分记忆，意思是他动 应用，适用",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おうよう - 拆分记忆 - 他动 应用，适用",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この応用は大切です。",
+        "zh": "这个他动 应用，适用很重要。"
+      }
+    ]
+  },
+  {
+    "word": "終える",
+    "reading": "おえる",
+    "meaning": "一 做完，完成",
+    "sourceIndex": 178,
+    "sourceMeaningRaw": "他动·一 做完，完成，结束；接动词连用形，表示做 段 完某事",
+    "partOfSpeech": "他动·一",
+    "elements": [
+      {
+        "element": "終える",
+        "method": "TYPE A1",
+        "bridgeC": "汉字終える意思是一 做完，完成"
+      }
+    ],
+    "mergedScene": "終える这个汉字一看就像一 做完，完成。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おえる - 終える - 一 做完，完成",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この終えるは大切です。",
+        "zh": "这个一 做完，完成很重要。"
+      }
+    ]
+  },
+  {
+    "word": "おお",
+    "reading": "おお",
+    "meaning": "感动 神乐等的衬词，杂子词日本歌中喊号子的部 表示答应、应答时 啊",
+    "sourceIndex": 179,
+    "sourceMeaningRaw": "感动 神乐等的衬词，杂子词日本歌中喊号子的部 （表示答应、应答时）啊，嗯；（表示感 动、惊讶时）啊；（表示想起某事时）啊； 分，为调整曲调或突出谣曲而加在唱词里的 并无特别含义的词",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "おお",
+        "method": "TYPE B2",
+        "bridgeC": "おお表示感动 神乐等的衬词，杂子词日本歌中喊号子的部 表示答应、应答时 啊"
+      }
+    ],
+    "mergedScene": "おお的意思就是感动 神乐等的衬词，杂子词日本歌中喊号子的部 表示答应、应答时 啊。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おお - 感动 神乐等的衬词，杂子词日本歌中喊号子的部 表示答应、应答时 啊",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このおおは大切です。",
+        "zh": "这个感动 神乐等的衬词，杂子词日本歌中喊号子的部 表示答应、应答时 啊很重要。"
+      }
+    ]
+  },
+  {
+    "word": "覆う",
+    "reading": "おおう",
+    "meaning": "五 蒙上，盖上",
+    "sourceIndex": 180,
+    "sourceMeaningRaw": "他动·五 蒙上，盖上，覆盖，遮盖，遮蔽；罩；掩 段 盖，掩饰，掩藏；笼罩，充满；包括，概括",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "覆う",
+        "method": "TYPE A1",
+        "bridgeC": "汉字覆う意思是五 蒙上，盖上"
+      }
+    ],
+    "mergedScene": "覆う这个汉字一看就像五 蒙上，盖上。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おおう - 覆う - 五 蒙上，盖上",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この覆うは大切です。",
+        "zh": "这个五 蒙上，盖上很重要。"
+      }
+    ]
+  },
+  {
+    "word": "大いに",
+    "reading": "おおいに",
+    "meaning": "词 很，甚",
+    "sourceIndex": 181,
+    "sourceMeaningRaw": "副词 很，甚，颇，非常；从形容动词「大いな り」的连用形而来的",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "大いに",
+        "method": "TYPE A1",
+        "bridgeC": "汉字大いに意思是词 很，甚"
+      },
+      {
+        "element": "おおいに",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おお+いに\"来记"
+      }
+    ],
+    "mergedScene": "おおいに拆分记忆，意思是词 很，甚",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おおいに - 拆分记忆 - 词 很，甚",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この大いには大切です。",
+        "zh": "这个词 很，甚很重要。"
+      }
+    ]
+  },
+  {
+    "word": "大型",
+    "reading": "おおがた",
+    "meaning": "形动 在同类物品中形状大",
+    "sourceIndex": 182,
+    "sourceMeaningRaw": "名·形动 在同类物品中形状大；形状或规模大的 东西",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "大型",
+        "method": "TYPE A1",
+        "bridgeC": "汉字大型意思是形动 在同类物品中形状大"
+      },
+      {
+        "element": "おおがた",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おお+がた\"来记"
+      }
+    ],
+    "mergedScene": "おおがた拆分记忆，意思是形动 在同类物品中形状大",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おおがた - 拆分记忆 - 形动 在同类物品中形状大",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この大型は大切です。",
+        "zh": "这个形动 在同类物品中形状大很重要。"
+      }
+    ]
+  },
+  {
+    "word": "メーショ",
+    "reading": "めーしょ",
+    "meaning": "化，自动化生产方式",
+    "sourceIndex": 183,
+    "sourceMeaningRaw": "名 化，自动化生产方式，自动控制装置，自动 おーと オート automation〈機〉自动操作〔控制〕，自动 ん ン 化",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "メーショ",
+        "method": "外来语",
+        "bridgeC": "メーショ来自英语，意思是化，自动化生产方式"
+      }
+    ],
+    "mergedScene": "メーショ是外来语，来自英语，意思是化，自动化生产方式。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "メーショ - 外来语英语 - 化，自动化生产方式",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このメーショは大切です。",
+        "zh": "这个化，自动化生产方式很重要。"
+      }
+    ]
+  },
+  {
+    "word": "オープン",
+    "reading": "おーぷん",
+    "meaning": "open开，开放",
+    "sourceIndex": 184,
+    "sourceMeaningRaw": "名·サ变 open开，开放，敞开，公开；开业开张；开 场，开馆；开放，公开；公开比赛，自由 赛；表演赛；户外，露天，野外；无盖，敞 篷",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "オープン",
+        "method": "外来语",
+        "bridgeC": "オープン来自英语，意思是open开，开放"
+      }
+    ],
+    "mergedScene": "オープン是外来语，来自英语，意思是open开，开放。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "オープン - 外来语英语 - open开，开放",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このオープンは大切です。",
+        "zh": "这个open开，开放很重要。"
+      }
+    ]
+  },
+  {
+    "word": "大家",
+    "reading": "おおや",
+    "meaning": "正房，上房",
+    "sourceIndex": 185,
+    "sourceMeaningRaw": "名 正房，上房，主房；房东，房主",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "大家",
+        "method": "TYPE A1",
+        "bridgeC": "汉字大家意思是正房，上房"
+      }
+    ],
+    "mergedScene": "大家这个汉字一看就像正房，上房。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おおや - 大家 - 正房，上房",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この大家は大切です。",
+        "zh": "这个正房，上房很重要。"
+      }
+    ]
+  },
+  {
+    "word": "大よそ",
+    "reading": "おおよそ",
+    "meaning": "形动 概况、大要、事物的梗概",
+    "sourceIndex": 186,
+    "sourceMeaningRaw": "名·形动 概况、大要、事物的梗概；大体、大半、大 约、大致",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "大よそ",
+        "method": "TYPE A1",
+        "bridgeC": "汉字大よそ意思是形动 概况、大要、事物的梗概"
+      },
+      {
+        "element": "おおよそ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おお+よそ\"来记"
+      }
+    ],
+    "mergedScene": "おおよそ拆分记忆，意思是形动 概况、大要、事物的梗概",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おおよそ - 拆分记忆 - 形动 概况、大要、事物的梗概",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この大よそは大切です。",
+        "zh": "这个形动 概况、大要、事物的梗概很重要。"
+      }
+    ]
+  },
+  {
+    "word": "丘",
+    "reading": "おか",
+    "meaning": "陵，山岗",
+    "sourceIndex": 187,
+    "sourceMeaningRaw": "名 陵，山岗，陵",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "丘",
+        "method": "TYPE A1",
+        "bridgeC": "汉字丘意思是陵，山岗"
+      }
+    ],
+    "mergedScene": "丘这个汉字一看就像陵，山岗。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おか - 丘 - 陵，山岗",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この丘は大切です。",
+        "zh": "这个陵，山岗很重要。"
+      }
+    ]
+  },
+  {
+    "word": "岡",
+    "reading": "おか",
+    "meaning": "丘陵",
+    "sourceIndex": 188,
+    "sourceMeaningRaw": "名 丘陵；山岗",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "岡",
+        "method": "TYPE A1",
+        "bridgeC": "汉字岡意思是丘陵"
+      }
+    ],
+    "mergedScene": "岡这个汉字一看就像丘陵。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おか - 岡 - 丘陵",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この岡は大切です。",
+        "zh": "这个丘陵很重要。"
+      }
+    ]
+  },
+  {
+    "word": "犯す",
+    "reading": "おかす",
+    "meaning": "犯，违犯",
+    "sourceIndex": 189,
+    "sourceMeaningRaw": "犯，违犯；冒犯，干犯；奸污，强奸 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "犯す",
+        "method": "TYPE A1",
+        "bridgeC": "汉字犯す意思是犯，违犯"
+      }
+    ],
+    "mergedScene": "犯す这个汉字一看就像犯，违犯。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おかす - 犯す - 犯，违犯",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この犯すは大切です。",
+        "zh": "这个犯，违犯很重要。"
+      }
+    ]
+  },
+  {
+    "word": "おかず",
+    "reading": "おかず",
+    "meaning": "菜，菜肴［备齐多种东西之意",
+    "sourceIndex": 190,
+    "sourceMeaningRaw": "名 菜，菜肴［备齐多种东西之意，原为女性用 语］",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "おかず",
+        "method": "TYPE B2",
+        "bridgeC": "おかず表示菜，菜肴［备齐多种东西之意"
+      }
+    ],
+    "mergedScene": "おかず的意思就是菜，菜肴［备齐多种东西之意。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おかず - 菜，菜肴［备齐多种东西之意",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このおかずは大切です。",
+        "zh": "这个菜，菜肴［备齐多种东西之意很重要。"
+      }
+    ]
+  },
+  {
+    "word": "お代わり",
+    "reading": "おかわり",
+    "meaning": "再来一份，再添一碗",
+    "sourceIndex": 191,
+    "sourceMeaningRaw": "名 再来一份，再添一碗",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "お代わり",
+        "method": "TYPE A1",
+        "bridgeC": "汉字お代わり意思是再来一份，再添一碗"
+      },
+      {
+        "element": "おかわり",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おか+わり\"来记"
+      }
+    ],
+    "mergedScene": "おかわり拆分记忆，意思是再来一份，再添一碗",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おかわり - 拆分记忆 - 再来一份，再添一碗",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このお代わりは大切です。",
+        "zh": "这个再来一份，再添一碗很重要。"
+      }
+    ]
+  },
+  {
+    "word": "奥",
+    "reading": "おく",
+    "meaning": "里头，内部",
+    "sourceIndex": 192,
+    "sourceMeaningRaw": "名 里头，内部；深处；里屋，里院；上房，内 宅；尽头；末尾；最后",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "奥",
+        "method": "TYPE A1",
+        "bridgeC": "汉字奥意思是里头，内部"
+      }
+    ],
+    "mergedScene": "奥这个汉字一看就像里头，内部。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おく - 奥 - 里头，内部",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この奥は大切です。",
+        "zh": "这个里头，内部很重要。"
+      }
+    ]
+  },
+  {
+    "word": "遅れる",
+    "reading": "おくれる",
+    "meaning": "工作/计划的时间拖延",
+    "sourceIndex": 193,
+    "sourceMeaningRaw": "工作/计划的时间拖延；迟到；没赶上；误， 自动·一 耽误；钟表走得比正确时间慢；落后于人, 段 输，负，差；比同伴活得更久（略带“幸 存”或“孤单”语感）",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "遅れる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字遅れる意思是工作/计划的时间拖延"
+      },
+      {
+        "element": "おくれる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おく+れる\"来记"
+      }
+    ],
+    "mergedScene": "おくれる拆分记忆，意思是工作/计划的时间拖延",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おくれる - 拆分记忆 - 工作/计划的时间拖延",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この遅れるは大切です。",
+        "zh": "这个工作/计划的时间拖延很重要。"
+      }
+    ]
+  },
+  {
+    "word": "奢り",
+    "reading": "おごり",
+    "meaning": "奢侈，奢华",
+    "sourceIndex": 194,
+    "sourceMeaningRaw": "名 奢侈，奢华；请客，做东",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "奢り",
+        "method": "TYPE A1",
+        "bridgeC": "汉字奢り意思是奢侈，奢华"
+      }
+    ],
+    "mergedScene": "奢り这个汉字一看就像奢侈，奢华。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おごり - 奢り - 奢侈，奢华",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この奢りは大切です。",
+        "zh": "这个奢侈，奢华很重要。"
+      }
+    ]
+  },
+  {
+    "word": "奢る",
+    "reading": "おごる",
+    "meaning": "奢，奢侈",
+    "sourceIndex": 195,
+    "sourceMeaningRaw": "自他动· 奢，奢侈，奢华，铺张浪费，过于讲究；请 五段 客，做东",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "奢る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字奢る意思是奢，奢侈"
+      }
+    ],
+    "mergedScene": "奢る这个汉字一看就像奢，奢侈。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おごる - 奢る - 奢，奢侈",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この奢るは大切です。",
+        "zh": "这个奢，奢侈很重要。"
+      }
+    ]
+  },
+  {
+    "word": "押さえる",
+    "reading": "おさえる",
+    "meaning": "一 抓住",
+    "sourceIndex": 196,
+    "sourceMeaningRaw": "他动·一 抓住；压，摁，按；堵住，捂；认识，理 段 解；确保，掌握",
+    "partOfSpeech": "他动·一",
+    "elements": [
+      {
+        "element": "押さえる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字押さえる意思是一 抓住"
+      },
+      {
+        "element": "おさえる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おさ+える\"来记"
+      }
+    ],
+    "mergedScene": "おさえる拆分记忆，意思是一 抓住",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おさえる - 拆分记忆 - 一 抓住",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この押さえるは大切です。",
+        "zh": "这个一 抓住很重要。"
+      }
+    ]
+  },
+  {
+    "word": "お札",
+    "reading": "おふだ",
+    "meaning": "符纸",
+    "sourceIndex": 197,
+    "sourceMeaningRaw": "名 符纸",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "お札",
+        "method": "TYPE A1",
+        "bridgeC": "汉字お札意思是符纸"
+      }
+    ],
+    "mergedScene": "お札这个汉字一看就像符纸。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おふだ - お札 - 符纸",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このお札は大切です。",
+        "zh": "这个符纸很重要。"
+      }
+    ]
+  },
+  {
+    "word": "幼い",
+    "reading": "おさない",
+    "meaning": "幼，幼小",
+    "sourceIndex": 198,
+    "sourceMeaningRaw": "形 幼，幼小，幼年；幼稚，孩子气；不够成熟",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "幼い",
+        "method": "TYPE A1",
+        "bridgeC": "汉字幼い意思是幼，幼小"
+      },
+      {
+        "element": "おさない",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"おさ+ない\"来记"
+      }
+    ],
+    "mergedScene": "おさない拆分记忆，意思是幼，幼小",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おさない - 拆分记忆 - 幼，幼小",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この幼いは大切です。",
+        "zh": "这个幼，幼小很重要。"
+      }
+    ]
+  },
+  {
+    "word": "叔父",
+    "reading": "おじ",
+    "meaning": "伯父",
+    "sourceIndex": 199,
+    "sourceMeaningRaw": "名 伯父；；舅父；姑丈；姨丈",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "叔父",
+        "method": "TYPE A1",
+        "bridgeC": "汉字叔父意思是伯父"
+      }
+    ],
+    "mergedScene": "叔父这个汉字一看就像伯父。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おじ - 叔父 - 伯父",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この叔父は大切です。",
+        "zh": "这个伯父很重要。"
+      }
+    ]
+  },
+  {
+    "word": "惜しい",
+    "reading": "おしい",
+    "meaning": "可惜，遗憾",
+    "sourceIndex": 200,
+    "sourceMeaningRaw": "形 可惜，遗憾；吝惜，舍不得；值得爱惜，珍 惜",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "惜しい",
+        "method": "TYPE A1",
+        "bridgeC": "汉字惜しい意思是可惜，遗憾"
+      }
+    ],
+    "mergedScene": "惜しい这个汉字一看就像可惜，遗憾。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おしい - 惜しい - 可惜，遗憾",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この惜しいは大切です。",
+        "zh": "这个可惜，遗憾很重要。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1272 @@
+[
+  {
+    "word": "どれ",
+    "reading": "どれ",
+    "meaning": "哪个",
+    "elements": [
+      {
+        "element": "ど",
+        "method": "疑问词",
+        "bridgeC": "ど系列常表示疑问：哪个、哪里、怎样"
+      },
+      {
+        "element": "どれ",
+        "method": "TYPE B2",
+        "bridgeC": "どれ→夺嘞；一堆东西里到底夺哪一个"
+      }
+    ],
+    "mergedScene": "桌上摆了一堆礼物，你伸手想夺一个，却纠结：どれ？到底哪个？どれ就是从多个东西里问“哪个”。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "どれ - 谐音“夺嘞” - 一堆东西里不知道夺哪一个 - 哪个\n🔗 これ=这个，どれ=哪个。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "どれが好きですか。",
+        "zh": "你喜欢哪个？"
+      }
+    ]
+  },
+  {
+    "word": "ナイフ",
+    "reading": "ナイフ",
+    "meaning": "刀",
+    "elements": [
+      {
+        "element": "ナイフ",
+        "method": "外来语",
+        "bridgeC": "来自 knife，表示刀"
+      }
+    ],
+    "mergedScene": "餐桌上摆着一把 knife，日语读成ナイフ。ナイフ=刀。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ナイフ - 近似 knife - 餐桌上切东西的刀 - 刀",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ナイフでパンを切ります。",
+        "zh": "用刀切面包。"
+      }
+    ]
+  },
+  {
+    "word": "中",
+    "reading": "なか",
+    "meaning": "里面",
+    "elements": [
+      {
+        "element": "中",
+        "method": "TYPE A1",
+        "bridgeC": "中=里面、中间"
+      },
+      {
+        "element": "なか",
+        "method": "TYPE B2",
+        "bridgeC": "なか→拿卡；把卡拿出来看，它原来在钱包里面"
+      }
+    ],
+    "mergedScene": "你找银行卡，最后从钱包中拿卡(なか)出来。中=里面，所以なか=里面。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "なか - 谐音“拿卡” - 从钱包里面拿卡出来 - 里面",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "箱の中に本があります。",
+        "zh": "箱子里面有书。"
+      }
+    ]
+  },
+  {
+    "word": "長い",
+    "reading": "ながい",
+    "meaning": "长的",
+    "elements": [
+      {
+        "element": "長",
+        "method": "TYPE A1",
+        "bridgeC": "長=长"
+      },
+      {
+        "element": "ながい",
+        "method": "TYPE B2",
+        "bridgeC": "ながい→拿个一；拿个一米长的尺子量，还是很长"
+      }
+    ],
+    "mergedScene": "你拿个一米长的尺子去量绳子，发现绳子还超出去很多：ながい。長い=长的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ながい - 谐音“拿个一” - 拿个一米尺量还量不完 - 长的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "長い道を歩きます。",
+        "zh": "走一条长路。"
+      }
+    ]
+  },
+  {
+    "word": "鳴く",
+    "reading": "なく",
+    "meaning": "叫（动物）",
+    "elements": [
+      {
+        "element": "鳴",
+        "method": "TYPE A1",
+        "bridgeC": "鳴=鸣叫"
+      },
+      {
+        "element": "なく",
+        "method": "TYPE B2",
+        "bridgeC": "なく→那哭；动物叫得像在那哭"
+      }
+    ],
+    "mergedScene": "半夜窗外传来一阵叫声，听起来像“那哭”(なく)。鳴く=动物叫、鸣叫。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なく - 谐音“那哭” - 动物在那边叫得像哭 - 叫（动物）\n⚠️ 無くす(なくす)=丢失，多一个す。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "鳥が鳴いています。",
+        "zh": "鸟在叫。"
+      }
+    ]
+  },
+  {
+    "word": "無くす",
+    "reading": "なくす",
+    "meaning": "丢失",
+    "elements": [
+      {
+        "element": "無",
+        "method": "TYPE A1",
+        "bridgeC": "無=没有"
+      },
+      {
+        "element": "なくす",
+        "method": "TYPE B2",
+        "bridgeC": "なくす→哪哭死；在哪里丢掉，就在哪里哭死"
+      }
+    ],
+    "mergedScene": "你把钱包丢在车站，就蹲在车站哭死；丢在教室，就在教室哭死。なくす像“哪哭死”：在哪里丢掉，就在哪里哭死。無くす=丢失。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なくす - 谐音“哪哭死” - 在哪里丢掉，就在哪里哭死 - 丢失\n🔗 鳴く(なく)=动物叫；無くす(なくす)=弄丢。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "財布を無くしました。",
+        "zh": "钱包丢了。"
+      }
+    ]
+  },
+  {
+    "word": "なぜ",
+    "reading": "なぜ",
+    "meaning": "为什么",
+    "elements": [
+      {
+        "element": "なぜ",
+        "method": "TYPE B2",
+        "bridgeC": "なぜ→哪则；到底是哪一则原因"
+      }
+    ],
+    "mergedScene": "老师问你迟到原因，你脑子里疯狂翻：哪则(なぜ)理由能解释？なぜ=为什么。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なぜ - 谐音“哪则” - 到底是哪一则原因 - 为什么",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "なぜ遅れましたか。",
+        "zh": "为什么迟到了？"
+      }
+    ]
+  },
+  {
+    "word": "夏",
+    "reading": "なつ",
+    "meaning": "夏天",
+    "elements": [
+      {
+        "element": "夏",
+        "method": "TYPE A1",
+        "bridgeC": "夏=夏天"
+      },
+      {
+        "element": "なつ",
+        "method": "TYPE B2",
+        "bridgeC": "なつ→拿刺；夏天蚊子多，拿着刺来叮你"
+      }
+    ],
+    "mergedScene": "一到夏天，蚊子像拿刺(なつ)一样到处扎你。夏=夏天，なつ=夏天。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なつ - 谐音“拿刺” - 夏天蚊子拿刺一样叮人 - 夏天",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "夏は暑いです。",
+        "zh": "夏天很热。"
+      }
+    ]
+  },
+  {
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "meaning": "暑假",
+    "elements": [
+      {
+        "element": "夏",
+        "method": "固定读音",
+        "bridgeC": "夏读なつ，表示夏天"
+      },
+      {
+        "element": "休み",
+        "method": "TYPE A1",
+        "bridgeC": "休み=休息、假期"
+      },
+      {
+        "element": "なつやすみ",
+        "method": "关联记忆",
+        "bridgeC": "夏天休息就是暑假"
+      }
+    ],
+    "mergedScene": "夏天到了，书包一丢开始休息：夏休み。夏(なつ)+休み(やすみ)=暑假。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なつやすみ - 无谐音 - 夏なつ + 休みやすみ，夏天的假期 - 暑假",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "夏休みに旅行します。",
+        "zh": "暑假去旅行。"
+      }
+    ]
+  },
+  {
+    "word": "など",
+    "reading": "など",
+    "meaning": "等等",
+    "elements": [
+      {
+        "element": "など",
+        "method": "TYPE B2",
+        "bridgeC": "など→拿多；东西拿多了，就说苹果、香蕉等等"
+      }
+    ],
+    "mergedScene": "你从超市拿多(など)了：苹果、牛奶、面包等等，一口气列不完。など=等等。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "など - 谐音“拿多” - 拿多了列不完，只能说等等 - 等等",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "犬や猫などが好きです。",
+        "zh": "喜欢狗、猫等等。"
+      }
+    ]
+  },
+  {
+    "word": "七つ",
+    "reading": "ななつ",
+    "meaning": "七个",
+    "elements": [
+      {
+        "element": "七",
+        "method": "固定读音",
+        "bridgeC": "七つ固定读ななつ，表示七个"
+      },
+      {
+        "element": "ななつ",
+        "method": "TYPE B2",
+        "bridgeC": "ななつ→拿拿吃；拿了七个点心吃"
+      }
+    ],
+    "mergedScene": "桌上有七个点心，你拿拿吃(ななつ)，一口气拿了七个。七つ=七个。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ななつ - 谐音“拿拿吃” - 拿了七个点心吃 - 七个\n⚠️ 七月读しちがつ，七つ读ななつ。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "七つください。",
+        "zh": "请给我七个。"
+      }
+    ]
+  },
+  {
+    "word": "七日",
+    "reading": "なのか",
+    "meaning": "七号",
+    "elements": [
+      {
+        "element": "七日",
+        "method": "固定读音",
+        "bridgeC": "七日固定读なのか，表示七号/七天"
+      },
+      {
+        "element": "なのか",
+        "method": "TYPE B2",
+        "bridgeC": "なのか→哪闹卡；日历卡在第七号，闹钟一直响"
+      }
+    ],
+    "mergedScene": "日历卡在七号那天，闹钟一直响：哪闹卡(なのか)？七日=七号。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なのか - 谐音“哪闹卡” - 日历卡在第七号，闹钟一直闹 - 七号\n⚠️ 七つ=ななつ，七日=なのか。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "七日に会いましょう。",
+        "zh": "七号见吧。"
+      }
+    ]
+  },
+  {
+    "word": "名前",
+    "reading": "なまえ",
+    "meaning": "名字",
+    "elements": [
+      {
+        "element": "名",
+        "method": "TYPE A1",
+        "bridgeC": "名=名字"
+      },
+      {
+        "element": "前",
+        "method": "关联记忆",
+        "bridgeC": "名字写在胸牌前面"
+      },
+      {
+        "element": "なまえ",
+        "method": "跨语言相似",
+        "bridgeC": "なまえ罗马音写作namae，和英语name很像，都是名字"
+      }
+    ],
+    "mergedScene": "开学第一天，你看到表格上写着 namae，第一眼就像英语 name。名前(なまえ)=名字。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "なまえ - 罗马音namae像英语name - 表格上的name栏就是写名字 - 名字",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "名前を書いてください。",
+        "zh": "请写名字。"
+      }
+    ]
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "meaning": "学习",
+    "elements": [
+      {
+        "element": "習",
+        "method": "TYPE A1",
+        "bridgeC": "習=学习、练习"
+      },
+      {
+        "element": "ならう",
+        "method": "TYPE B2",
+        "bridgeC": "ならう→拿来哦；把知识拿来学习"
+      }
+    ],
+    "mergedScene": "老师把新知识递过来，你说拿来哦(ならう)，我要学。習う=学习。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ならう - 谐音“拿来哦” - 把老师的知识拿来学 - 学习\n⚠️ 勉強する偏学习这个动作，習う偏跟别人学。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "日本語を習います。",
+        "zh": "学习日语。"
+      }
+    ]
+  },
+  {
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "meaning": "排列",
+    "elements": [
+      {
+        "element": "並",
+        "method": "TYPE A1",
+        "bridgeC": "並=并排、排列"
+      },
+      {
+        "element": "ならぶ",
+        "method": "TYPE B2",
+        "bridgeC": "ならぶ→拿来布；一块块布自己排成一排"
+      }
+    ],
+    "mergedScene": "你把布拿来，结果一块块布自己排成队：ならぶ。並ぶ=排列、排队（自动）。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ならぶ - 谐音“拿来布” - 布一块块排成一排 - 排列/排队\n🔗 並ぶ=自己排好；並べる=把它们摆好。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "店の前に人が並んでいます。",
+        "zh": "店前有人在排队。"
+      }
+    ]
+  },
+  {
+    "word": "並べる",
+    "reading": "ならべる",
+    "meaning": "排列",
+    "elements": [
+      {
+        "element": "並",
+        "method": "TYPE A1",
+        "bridgeC": "並=并排、排列"
+      },
+      {
+        "element": "ならべる",
+        "method": "TYPE B2",
+        "bridgeC": "ならべる→拿来摆了；你亲手把东西摆成一排"
+      }
+    ],
+    "mergedScene": "你把杯子一个个拿来摆了(ならべる)，整整齐齐排成一列。並べる=把东西排列好（他动）。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ならべる - 谐音“拿来摆了” - 你把东西拿来摆成一排 - 排列\n⚠️ 並ぶ=自己排；並べる=把它摆。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "本を並べます。",
+        "zh": "把书排列好。"
+      }
+    ]
+  },
+  {
+    "word": "なる",
+    "reading": "なる",
+    "meaning": "变成",
+    "elements": [
+      {
+        "element": "なる",
+        "method": "TYPE B2",
+        "bridgeC": "なる→那了；怎么变成那样了"
+      }
+    ],
+    "mergedScene": "魔法一挥，苹果突然变成蛋糕，你惊讶：怎么变成那了(なる)？なる=变成。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なる - 谐音“那了” - 东西变成那样了 - 变成\n例：先生になる=成为老师。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "先生になります。",
+        "zh": "成为老师。"
+      }
+    ]
+  },
+  {
+    "word": "何",
+    "reading": "なん",
+    "meaning": "什么",
+    "elements": [
+      {
+        "element": "何",
+        "method": "TYPE A1",
+        "bridgeC": "何=什么"
+      },
+      {
+        "element": "なん",
+        "method": "TYPE B2",
+        "bridgeC": "なん→难；听不懂时只会问：什么？好难"
+      }
+    ],
+    "mergedScene": "老师讲得太快，你一脸懵：なん？什么？太难了。何=什么。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なん - 谐音“难” - 听不懂觉得难，就问什么 - 什么\n⚠️ 何也常读なに，看后面接续变化。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "これは何ですか。",
+        "zh": "这是什么？"
+      }
+    ]
+  },
+  {
+    "word": "二",
+    "reading": "に",
+    "meaning": "二",
+    "elements": [
+      {
+        "element": "二",
+        "method": "TYPE A1",
+        "bridgeC": "二=2，中日同义"
+      },
+      {
+        "element": "に",
+        "method": "固定读音",
+        "bridgeC": "二常读に"
+      }
+    ],
+    "mergedScene": "两条横线就是二。读に，像把数字2轻轻念出来。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "に - 固定读音 - 二就是数字2，常读に - 二",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "二人で行きます。",
+        "zh": "两个人一起去。"
+      }
+    ]
+  },
+  {
+    "word": "賑やか",
+    "reading": "にぎやか",
+    "meaning": "热闹的",
+    "elements": [
+      {
+        "element": "賑",
+        "method": "关联记忆",
+        "bridgeC": "賑有热闹、繁盛的感觉"
+      },
+      {
+        "element": "にぎやか",
+        "method": "TYPE B2",
+        "bridgeC": "にぎやか→你给鸭卡；你到热闹的地方，给了鸭一张卡"
+      }
+    ],
+    "mergedScene": "庙会特别热闹，人群里居然还有一只鸭。你挤过去“你给鸭卡”(にぎやか)，给鸭子递了一张卡。賑やか=热闹的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にぎやか - 谐音“你给鸭卡” - 到热闹的地方给鸭一张卡 - 热闹的\n⚠️ な形容词：賑やかな町。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "町は賑やかです。",
+        "zh": "街上很热闹。"
+      }
+    ]
+  },
+  {
+    "word": "肉",
+    "reading": "にく",
+    "meaning": "肉",
+    "elements": [
+      {
+        "element": "肉",
+        "method": "TYPE A1",
+        "bridgeC": "肉=肉，中日同义"
+      },
+      {
+        "element": "にく",
+        "method": "TYPE B2",
+        "bridgeC": "にく→你啃；肉就是拿来啃的"
+      }
+    ],
+    "mergedScene": "烤肉一上桌，朋友说你啃(にく)吧。肉=にく=肉。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "にく - 谐音“你啃” - 肉上桌了你啃 - 肉",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "肉を食べます。",
+        "zh": "吃肉。"
+      }
+    ]
+  },
+  {
+    "word": "西",
+    "reading": "にし",
+    "meaning": "西方",
+    "elements": [
+      {
+        "element": "西",
+        "method": "TYPE A1",
+        "bridgeC": "西=西方"
+      },
+      {
+        "element": "にし",
+        "method": "TYPE B2",
+        "bridgeC": "にし→你西；太阳落下时你往西走"
+      }
+    ],
+    "mergedScene": "太阳快落山了，朋友指路：你西(にし)边走。西=にし=西方。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "にし - 谐音“你西” - 你往太阳落下的西边走 - 西方",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "西に山があります。",
+        "zh": "西边有山。"
+      }
+    ]
+  },
+  {
+    "word": "日曜日",
+    "reading": "にちようび",
+    "meaning": "星期日",
+    "elements": [
+      {
+        "element": "日",
+        "method": "固定读音",
+        "bridgeC": "日曜日开头的日读にち"
+      },
+      {
+        "element": "曜",
+        "method": "固定读音",
+        "bridgeC": "曜固定读よう"
+      },
+      {
+        "element": "日",
+        "method": "固定读音",
+        "bridgeC": "曜日末尾的日读び"
+      }
+    ],
+    "mergedScene": "星期日就是太阳日，一周最后可以晒太阳休息。日(にち)+曜(よう)+日(び)=日曜日。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "にちようび - 固定读音 - 日读にち，曜读よう，曜日尾巴日读び - 星期日\n🔗 水曜日=すいようび。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "日曜日に休みます。",
+        "zh": "星期日休息。"
+      }
+    ]
+  },
+  {
+    "word": "荷物",
+    "reading": "にもつ",
+    "meaning": "行李",
+    "elements": [
+      {
+        "element": "荷",
+        "method": "TYPE A1",
+        "bridgeC": "荷=负荷、行李"
+      },
+      {
+        "element": "物",
+        "method": "TYPE A1",
+        "bridgeC": "物=东西"
+      },
+      {
+        "element": "にもつ",
+        "method": "TYPE B2",
+        "bridgeC": "にもつ→你摸此；出门前摸摸这个包，那就是行李"
+      }
+    ],
+    "mergedScene": "出门前你摸此(にもつ)大包小包，确认行李都带了。荷+物=要背负的东西=行李。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "にもつ - 谐音“你摸此” - 出门摸这个包确认要带的东西 - 行李",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "荷物が重いです。",
+        "zh": "行李很重。"
+      }
+    ]
+  },
+  {
+    "word": "ニュース",
+    "reading": "ニュース",
+    "meaning": "新闻",
+    "elements": [
+      {
+        "element": "ニュース",
+        "method": "外来语",
+        "bridgeC": "来自 news，表示新闻"
+      }
+    ],
+    "mergedScene": "电视上正在播 news，日语拉长读ニュース。ニュース=新闻。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ニュース - 近似 news - 电视里播出的新闻 - 新闻\n⚠️ 新聞(しんぶん)=报纸。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ニュースを見ます。",
+        "zh": "看新闻。"
+      }
+    ]
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "meaning": "庭院、院子",
+    "elements": [
+      {
+        "element": "庭",
+        "method": "TYPE A1",
+        "bridgeC": "庭=庭院"
+      },
+      {
+        "element": "にわ",
+        "method": "TYPE B2",
+        "bridgeC": "にわ→你挖；你在院子里挖土种花"
+      }
+    ],
+    "mergedScene": "你在自家庭院里挖土种花：你挖(にわ)。庭=院子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "にわ - 谐音“你挖” - 你在院子里挖土种花 - 庭院/院子",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "庭に花があります。",
+        "zh": "院子里有花。"
+      }
+    ]
+  },
+  {
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "meaning": "脱掉",
+    "elements": [
+      {
+        "element": "脱",
+        "method": "TYPE A1",
+        "bridgeC": "脱=脱掉"
+      },
+      {
+        "element": "ぬぐ",
+        "method": "TYPE B2",
+        "bridgeC": "ぬぐ→奴家；奴家帮你脱衣服"
+      }
+    ],
+    "mergedScene": "古装剧里有人娇滴滴地说：“奴家(ぬぐ)帮你脱衣服。”脱ぐ=脱掉。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ぬぐ - 谐音“奴家” - 奴家帮你脱衣服 - 脱掉\n例：靴を脱ぐ=脱鞋。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "靴を脱ぎます。",
+        "zh": "脱鞋。"
+      }
+    ]
+  },
+  {
+    "word": "温い",
+    "reading": "ぬるい",
+    "meaning": "温的",
+    "elements": [
+      {
+        "element": "温",
+        "method": "TYPE A1",
+        "bridgeC": "温=温、不冷不热"
+      },
+      {
+        "element": "ぬるい",
+        "method": "TYPE B2",
+        "bridgeC": "ぬるい→怒了诶；调水温时要么太烫要么太冷，总调不到不冷不热，所以怒了"
+      }
+    ],
+    "mergedScene": "你洗澡调水温，左边太烫，右边太冷，怎么都调不到不冷不热的位置，气得说：怒了诶(ぬるい)！温い=温的、不冷不热。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぬるい - 谐音“怒了诶” - 调水温总是太烫或太冷，调不到不冷不热所以怒了 - 温的\n⚠️ 暖かい=暖和，温い=温吞、不够热。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このお湯は温いです。",
+        "zh": "这个热水温温的。"
+      }
+    ]
+  },
+  {
+    "word": "ネクタイ",
+    "reading": "ネクタイ",
+    "meaning": "领带",
+    "elements": [
+      {
+        "element": "ネクタイ",
+        "method": "外来语",
+        "bridgeC": "来自 necktie，表示领带"
+      },
+      {
+        "element": "ネク",
+        "method": "关联记忆",
+        "bridgeC": "neck=脖子，领带系在脖子上"
+      }
+    ],
+    "mergedScene": "上班前你把 necktie 系在脖子上，日语读ネクタイ。ネクタイ=领带。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ネクタイ - 近似 necktie - 系在脖子 neck 上的带子 - 领带",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ネクタイを締めます。",
+        "zh": "系领带。"
+      }
+    ]
+  },
+  {
+    "word": "猫",
+    "reading": "ねこ",
+    "meaning": "猫",
+    "elements": [
+      {
+        "element": "猫",
+        "method": "TYPE A1",
+        "bridgeC": "猫=猫，中日同义"
+      },
+      {
+        "element": "ねこ",
+        "method": "跨语言相似",
+        "bridgeC": "ねこ罗马音neko很常见；再联想到Nike，一只猫很喜欢穿耐克鞋"
+      }
+    ],
+    "mergedScene": "一只猫特别潮，天天穿耐克鞋；你看到 neko/Nike 的感觉，就想起这只猫。猫(ねこ)=猫。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねこ - 罗马音neko，联想到Nike - 一只猫很喜欢穿耐克鞋 - 猫",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "猫が寝ています。",
+        "zh": "猫在睡觉。"
+      }
+    ]
+  },
+  {
+    "word": "寝る",
+    "reading": "ねる",
+    "meaning": "睡觉",
+    "elements": [
+      {
+        "element": "寝",
+        "method": "TYPE A1",
+        "bridgeC": "寝=睡觉"
+      },
+      {
+        "element": "ねる",
+        "method": "TYPE B2",
+        "bridgeC": "ねる→累噜；因为太累了，所以直接就睡了"
+      }
+    ],
+    "mergedScene": "晚上学习到眼皮打架，你嘟囔一句“累噜”(ねる)，倒头就睡。寝る=睡觉。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ねる - 谐音“累噜” - 因为太累了，所以直接就睡了 - 睡觉",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "早く寝ます。",
+        "zh": "早点睡觉。"
+      }
+    ]
+  },
+  {
+    "word": "ノート",
+    "reading": "ノート",
+    "meaning": "笔记本",
+    "elements": [
+      {
+        "element": "ノート",
+        "method": "外来语",
+        "bridgeC": "来自 note，表示笔记本/笔记"
+      }
+    ],
+    "mergedScene": "上课时你打开 note 写笔记，日语读ノート。ノート=笔记本。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ノート - 近似 note - 上课记笔记的本子 - 笔记本",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ノートに書きます。",
+        "zh": "写在笔记本上。"
+      }
+    ]
+  },
+  {
+    "word": "登る",
+    "reading": "のぼる",
+    "meaning": "攀登",
+    "elements": [
+      {
+        "element": "登",
+        "method": "TYPE A1",
+        "bridgeC": "登=登上、攀登"
+      },
+      {
+        "element": "のぼる",
+        "method": "TYPE B2",
+        "bridgeC": "のぼる→挪步了；爬山时一步一步往上挪"
+      }
+    ],
+    "mergedScene": "爬山爬到腿软，只能一步一步挪步了(のぼる)。登る=攀登、上升。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のぼる - 谐音“挪步了” - 爬山时一步一步往上挪 - 攀登",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "山に登ります。",
+        "zh": "爬山。"
+      }
+    ]
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "meaning": "饮料",
+    "elements": [
+      {
+        "element": "飲み",
+        "method": "关联记忆",
+        "bridgeC": "飲む=喝，飲み=喝的"
+      },
+      {
+        "element": "物",
+        "method": "TYPE A1",
+        "bridgeC": "物=东西"
+      },
+      {
+        "element": "のみもの",
+        "method": "TYPE B2",
+        "bridgeC": "のみもの→糯米磨呢；糯米磨成能喝的东西"
+      }
+    ],
+    "mergedScene": "糯米被磨成一杯甜甜的饮料：のみもの。飲み=喝，物=东西，喝的东西就是饮料。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のみもの - 谐音“糯米磨呢” - 糯米磨成能喝的东西 - 饮料\n🔗 飲む(のむ)=喝，飲み物=喝的东西。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "飲み物を買います。",
+        "zh": "买饮料。"
+      }
+    ]
+  },
+  {
+    "word": "飲む",
+    "reading": "のむ",
+    "meaning": "喝",
+    "elements": [
+      {
+        "element": "飲",
+        "method": "TYPE A1",
+        "bridgeC": "飲=喝"
+      },
+      {
+        "element": "のむ",
+        "method": "TYPE B2",
+        "bridgeC": "のむ→浓沫；把有浓浓泡沫的饮料喝下去"
+      }
+    ],
+    "mergedScene": "杯子上有一层浓沫(のむ)，你一口喝掉。飲む=喝。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "のむ - 谐音“浓沫” - 把有浓沫的饮料喝下去 - 喝",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "水を飲みます。",
+        "zh": "喝水。"
+      }
+    ]
+  },
+  {
+    "word": "乗る",
+    "reading": "のる",
+    "meaning": "乘坐",
+    "elements": [
+      {
+        "element": "乗",
+        "method": "TYPE A1",
+        "bridgeC": "乗=乘坐、搭乘"
+      },
+      {
+        "element": "のる",
+        "method": "TYPE B2",
+        "bridgeC": "のる→挪入；挪进车里就是乘坐"
+      }
+    ],
+    "mergedScene": "公交来了，你一点点挪入(のる)车厢。乗る=乘坐。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "のる - 谐音“挪入” - 挪进车里 - 乘坐\n例：バスに乗る=坐公交。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "電車に乗ります。",
+        "zh": "坐电车。"
+      }
+    ]
+  },
+  {
+    "word": "歯",
+    "reading": "は",
+    "meaning": "牙齿",
+    "elements": [
+      {
+        "element": "歯",
+        "method": "TYPE A1",
+        "bridgeC": "歯=牙齿"
+      },
+      {
+        "element": "は",
+        "method": "TYPE B2",
+        "bridgeC": "は→哈；张嘴哈一声，露出牙齿"
+      }
+    ],
+    "mergedScene": "医生让你张嘴：哈(は)！一排牙齿都露出来了。歯=牙齿。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "は - 谐音“哈” - 张嘴哈一声露出牙齿 - 牙齿",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "歯を磨きます。",
+        "zh": "刷牙。"
+      }
+    ]
+  },
+  {
+    "word": "パーティー",
+    "reading": "パーティー",
+    "meaning": "聚会",
+    "elements": [
+      {
+        "element": "パーティー",
+        "method": "外来语",
+        "bridgeC": "来自 party，表示聚会"
+      }
+    ],
+    "mergedScene": "周末大家一起开 party，日语读パーティー。パーティー=聚会。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "パーティー - 近似 party - 周末大家一起吃喝聊天 - 聚会",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "パーティーに行きます。",
+        "zh": "去聚会。"
+      }
+    ]
+  },
+  {
+    "word": "はい",
+    "reading": "はい",
+    "meaning": "是的",
+    "elements": [
+      {
+        "element": "はい",
+        "method": "TYPE B2",
+        "bridgeC": "はい→嗨；别人点名，你嗨一声答应"
+      }
+    ],
+    "mergedScene": "老师点名，你立刻嗨(はい)一声回应：是的，我在。はい=是的/好的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "はい - 谐音“嗨” - 被点名时嗨一声答应 - 是的/好的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "はい、分かりました。",
+        "zh": "是的，我明白了。"
+      }
+    ]
+  },
+  {
+    "word": "灰皿",
+    "reading": "はいざら",
+    "meaning": "烟灰缸",
+    "elements": [
+      {
+        "element": "灰",
+        "method": "TYPE A1",
+        "bridgeC": "灰=烟灰、灰"
+      },
+      {
+        "element": "皿",
+        "method": "TYPE A1",
+        "bridgeC": "皿=盘子、器皿"
+      },
+      {
+        "element": "はいざら",
+        "method": "TYPE B2",
+        "bridgeC": "はいざら→害了，砸了；想戒烟的人看见烟灰缸心痒，干脆把烟灰缸砸了"
+      }
+    ],
+    "mergedScene": "一个人想戒烟，但一看见烟灰缸就心痒想抽。他大喊“害了，砸了！”(はいざら)，直接把烟灰缸砸了。灰+皿=装烟灰的器皿=烟灰缸。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "はいざら - 谐音“害了，砸了” - 戒烟的人看见烟灰缸心痒，干脆把它砸了 - 烟灰缸",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "灰皿を片付けます。",
+        "zh": "收拾烟灰缸。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1242 @@
+[
+  {
+    "word": "ブザー",
+    "reading": "ぶざー",
+    "meaning": "buzzer",
+    "sourceIndex": 1121,
+    "sourceMeaningRaw": "名 (英) buzzer; 蜂鸣器，信号器，报警器",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ブザー",
+        "method": "外来语",
+        "bridgeC": "ブザー来自英语，意思是buzzer"
+      }
+    ],
+    "mergedScene": "ブザー是外来语，来自英语，意思是buzzer。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ブザー - 外来语英语 - buzzer",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このブザーは大切です。",
+        "zh": "这个buzzer很重要。"
+      }
+    ]
+  },
+  {
+    "word": "夫妻",
+    "reading": "ふさい",
+    "meaning": "，夫妇，两口子",
+    "sourceIndex": 1122,
+    "sourceMeaningRaw": "名 ，夫妇，两口子",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "夫妻",
+        "method": "TYPE A1",
+        "bridgeC": "汉字夫妻意思是，夫妇，两口子"
+      }
+    ],
+    "mergedScene": "夫妻这个汉字一看就像，夫妇，两口子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふさい - 夫妻 - ，夫妇，两口子",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この夫妻は大切です。",
+        "zh": "这个，夫妇，两口子很重要。"
+      }
+    ]
+  },
+  {
+    "word": "塞がる",
+    "reading": "ふさがる",
+    "meaning": "堵，塞堵塞塞满了",
+    "sourceIndex": 1123,
+    "sourceMeaningRaw": "堵，塞堵塞塞满了，不通了；关，合，闭； 自动·五 占用，占满，占着因其他东西占据而进入余 段 地；堵，闷，憋因有放心不下的事等而感到 心里不舒畅",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "塞がる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字塞がる意思是堵，塞堵塞塞满了"
+      },
+      {
+        "element": "ふさがる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ふさ+がる\"来记"
+      }
+    ],
+    "mergedScene": "ふさがる拆分记忆，意思是堵，塞堵塞塞满了",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふさがる - 拆分记忆 - 堵，塞堵塞塞满了",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この塞がるは大切です。",
+        "zh": "这个堵，塞堵塞塞满了很重要。"
+      }
+    ]
+  },
+  {
+    "word": "塞ぐ",
+    "reading": "ふさぐ",
+    "meaning": "郁闷，不痛快",
+    "sourceIndex": 1124,
+    "sourceMeaningRaw": "自他动· 郁闷，不痛快，不快乐，不开心，心情不舒 五段 畅；堵，塞；占占据场所地方；挡，阻挡",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "塞ぐ",
+        "method": "TYPE A1",
+        "bridgeC": "汉字塞ぐ意思是郁闷，不痛快"
+      }
+    ],
+    "mergedScene": "塞ぐ这个汉字一看就像郁闷，不痛快。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふさぐ - 塞ぐ - 郁闷，不痛快",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この塞ぐは大切です。",
+        "zh": "这个郁闷，不痛快很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ふざける",
+    "reading": "ふざける",
+    "meaning": "嘲笑",
+    "sourceIndex": 1125,
+    "sourceMeaningRaw": "嘲笑。 自动·一 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "ふざける",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ふざ+ける\"来记"
+      }
+    ],
+    "mergedScene": "ふざける拆分记忆，意思是嘲笑",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふざける - 拆分记忆 - 嘲笑",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このふざけるは大切です。",
+        "zh": "这个嘲笑很重要。"
+      }
+    ]
+  },
+  {
+    "word": "無事",
+    "reading": "ぶじ",
+    "meaning": "平安，太平无事",
+    "sourceIndex": 1126,
+    "sourceMeaningRaw": "名 平安，太平无事；健康有活力。平安；最 好，没毛病；没有过失；无聊，闲散",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "無事",
+        "method": "TYPE A1",
+        "bridgeC": "汉字無事意思是平安，太平无事"
+      }
+    ],
+    "mergedScene": "無事这个汉字一看就像平安，太平无事。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶじ - 無事 - 平安，太平无事",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この無事は大切です。",
+        "zh": "这个平安，太平无事很重要。"
+      }
+    ]
+  },
+  {
+    "word": "不思議",
+    "reading": "ふしぎ",
+    "meaning": "形动 怪，奇",
+    "sourceIndex": 1127,
+    "sourceMeaningRaw": "名·形动 怪，奇，奇怪，奇异；难以想象，不可思议",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "不思議",
+        "method": "TYPE A1",
+        "bridgeC": "汉字不思議意思是形动 怪，奇"
+      }
+    ],
+    "mergedScene": "不思議这个汉字一看就像形动 怪，奇。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふしぎ - 不思議 - 形动 怪，奇",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この不思議は大切です。",
+        "zh": "这个形动 怪，奇很重要。"
+      }
+    ]
+  },
+  {
+    "word": "不自由",
+    "reading": "ふじゆう",
+    "meaning": "形动，不随便",
+    "sourceIndex": 1128,
+    "sourceMeaningRaw": "名·形动 ，不随便，不如意；不充裕；不好 使，不听用；不方便",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "不自由",
+        "method": "TYPE A1",
+        "bridgeC": "汉字不自由意思是形动，不随便"
+      },
+      {
+        "element": "ふじゆう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ふじ+ゆう\"来记"
+      }
+    ],
+    "mergedScene": "ふじゆう拆分记忆，意思是形动，不随便",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふじゆう - 拆分记忆 - 形动，不随便",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この不自由は大切です。",
+        "zh": "这个形动，不随便很重要。"
+      }
+    ]
+  },
+  {
+    "word": "婦人",
+    "reading": "ふじん",
+    "meaning": "妇女，女子",
+    "sourceIndex": 1129,
+    "sourceMeaningRaw": "名 妇女，女子",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "婦人",
+        "method": "TYPE A1",
+        "bridgeC": "汉字婦人意思是妇女，女子"
+      }
+    ],
+    "mergedScene": "婦人这个汉字一看就像妇女，女子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふじん - 婦人 - 妇女，女子",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この婦人は大切です。",
+        "zh": "这个妇女，女子很重要。"
+      }
+    ]
+  },
+  {
+    "word": "襖",
+    "reading": "ふすま",
+    "meaning": "隔扇",
+    "sourceIndex": 1130,
+    "sourceMeaningRaw": "名 隔扇",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "襖",
+        "method": "TYPE A1",
+        "bridgeC": "汉字襖意思是隔扇"
+      }
+    ],
+    "mergedScene": "襖这个汉字一看就像隔扇。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふすま - 襖 - 隔扇",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この襖は大切です。",
+        "zh": "这个隔扇很重要。"
+      }
+    ]
+  },
+  {
+    "word": "防ぐ",
+    "reading": "ふせぐ",
+    "meaning": "五 防御，防守",
+    "sourceIndex": 1131,
+    "sourceMeaningRaw": "他动·五 防御，防守，防卫，防止；预防，防备；防 段 御，防守，防卫，防止",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "防ぐ",
+        "method": "TYPE A1",
+        "bridgeC": "汉字防ぐ意思是五 防御，防守"
+      }
+    ],
+    "mergedScene": "防ぐ这个汉字一看就像五 防御，防守。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふせぐ - 防ぐ - 五 防御，防守",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この防ぐは大切です。",
+        "zh": "这个五 防御，防守很重要。"
+      }
+    ]
+  },
+  {
+    "word": "不足",
+    "reading": "ふそく",
+    "meaning": "形动 不够，，短缺",
+    "sourceIndex": 1132,
+    "sourceMeaningRaw": "名·形动 不够，，短缺；缺乏；不满，不平；不 满足，不满意",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "不足",
+        "method": "TYPE A1",
+        "bridgeC": "汉字不足意思是形动 不够，，短缺"
+      }
+    ],
+    "mergedScene": "不足这个汉字一看就像形动 不够，，短缺。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふそく - 不足 - 形动 不够，，短缺",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この不足は大切です。",
+        "zh": "这个形动 不够，，短缺很重要。"
+      }
+    ]
+  },
+  {
+    "word": "蓋",
+    "reading": "ふた",
+    "meaning": "盖儿，盖子",
+    "sourceIndex": 1133,
+    "sourceMeaningRaw": "名 盖儿，盖子",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "蓋",
+        "method": "TYPE A1",
+        "bridgeC": "汉字蓋意思是盖儿，盖子"
+      }
+    ],
+    "mergedScene": "蓋这个汉字一看就像盖儿，盖子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふた - 蓋 - 盖儿，盖子",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この蓋は大切です。",
+        "zh": "这个盖儿，盖子很重要。"
+      }
+    ]
+  },
+  {
+    "word": "豚",
+    "reading": "ぶた",
+    "meaning": "猪",
+    "sourceIndex": 1134,
+    "sourceMeaningRaw": "名 猪",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "豚",
+        "method": "TYPE A1",
+        "bridgeC": "汉字豚意思是猪"
+      }
+    ],
+    "mergedScene": "豚这个汉字一看就像猪。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶた - 豚 - 猪",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この豚は大切です。",
+        "zh": "这个猪很重要。"
+      }
+    ]
+  },
+  {
+    "word": "舞台",
+    "reading": "ぶたい",
+    "meaning": "；大显身手的地方；表演，演出；演技",
+    "sourceIndex": 1135,
+    "sourceMeaningRaw": "名 ；大显身手的地方；表演，演出；演技",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "舞台",
+        "method": "TYPE A1",
+        "bridgeC": "汉字舞台意思是；大显身手的地方；表演，演出；演技"
+      }
+    ],
+    "mergedScene": "舞台这个汉字一看就像；大显身手的地方；表演，演出；演技。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶたい - 舞台 - ；大显身手的地方；表演，演出；演技",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この舞台は大切です。",
+        "zh": "这个；大显身手的地方；表演，演出；演技很重要。"
+      }
+    ]
+  },
+  {
+    "word": "部長",
+    "reading": "ぶちょう",
+    "meaning": "监督其部下的职务名称",
+    "sourceIndex": 1136,
+    "sourceMeaningRaw": "名 监督其部下的职务名称；部长负责全权处理 部长在官厅或公司等中管理一个部的事物并 俱乐部或球队事务的人",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "部長",
+        "method": "TYPE A1",
+        "bridgeC": "汉字部長意思是监督其部下的职务名称"
+      },
+      {
+        "element": "ぶちょう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ぶち+ょう\"来记"
+      }
+    ],
+    "mergedScene": "ぶちょう拆分记忆，意思是监督其部下的职务名称",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶちょう - 拆分记忆 - 监督其部下的职务名称",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この部長は大切です。",
+        "zh": "这个监督其部下的职务名称很重要。"
+      }
+    ]
+  },
+  {
+    "word": "物価",
+    "reading": "ぶっか",
+    "meaning": "物价",
+    "sourceIndex": 1137,
+    "sourceMeaningRaw": "名 物价；行市",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "物価",
+        "method": "TYPE A1",
+        "bridgeC": "汉字物価意思是物价"
+      }
+    ],
+    "mergedScene": "物価这个汉字一看就像物价。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶっか - 物価 - 物价",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この物価は大切です。",
+        "zh": "这个物价很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ぶつかる",
+    "reading": "ぶつかる",
+    "meaning": "遇上，碰上",
+    "sourceIndex": 1138,
+    "sourceMeaningRaw": "（偶然）遇上，碰上。碰到障碍物。；直接 冲突，争吵。；碰，撞。猛地接触上。； 自动·五 段 谈判直接试试。；正当,赶上,适逢。",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "ぶつかる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ぶつ+かる\"来记"
+      }
+    ],
+    "mergedScene": "ぶつかる拆分记忆，意思是遇上，碰上",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶつかる - 拆分记忆 - 遇上，碰上",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このぶつかるは大切です。",
+        "zh": "这个遇上，碰上很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ぶつける",
+    "reading": "ぶつける",
+    "meaning": "一 发泄情绪",
+    "sourceIndex": 1139,
+    "sourceMeaningRaw": "他动·一 发泄情绪。；投中，打中，碰撞上。；编 段 组，组合。",
+    "partOfSpeech": "他动·一",
+    "elements": [
+      {
+        "element": "ぶつける",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ぶつ+ける\"来记"
+      }
+    ],
+    "mergedScene": "ぶつける拆分记忆，意思是一 发泄情绪",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶつける - 拆分记忆 - 一 发泄情绪",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このぶつけるは大切です。",
+        "zh": "这个一 发泄情绪很重要。"
+      }
+    ]
+  },
+  {
+    "word": "筆",
+    "reading": "ふで",
+    "meaning": "笔，毛笔",
+    "sourceIndex": 1140,
+    "sourceMeaningRaw": "名 笔，毛笔；写，画；写的字，画的画儿；笔 迹",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "筆",
+        "method": "TYPE A1",
+        "bridgeC": "汉字筆意思是笔，毛笔"
+      }
+    ],
+    "mergedScene": "筆这个汉字一看就像笔，毛笔。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふで - 筆 - 笔，毛笔",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この筆は大切です。",
+        "zh": "这个笔，毛笔很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ふと",
+    "reading": "ふと",
+    "meaning": "词 突然，不经意间",
+    "sourceIndex": 1141,
+    "sourceMeaningRaw": "副词 突然，不经意间，偶然。",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "ふと",
+        "method": "TYPE B2",
+        "bridgeC": "ふと表示词 突然，不经意间"
+      }
+    ],
+    "mergedScene": "ふと的意思就是词 突然，不经意间。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふと - 词 突然，不经意间",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このふとは大切です。",
+        "zh": "这个词 突然，不经意间很重要。"
+      }
+    ]
+  },
+  {
+    "word": "部品",
+    "reading": "ぶひん",
+    "meaning": "零部件，零件",
+    "sourceIndex": 1142,
+    "sourceMeaningRaw": "名 零部件，零件，部件",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "部品",
+        "method": "TYPE A1",
+        "bridgeC": "汉字部品意思是零部件，零件"
+      }
+    ],
+    "mergedScene": "部品这个汉字一看就像零部件，零件。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶひん - 部品 - 零部件，零件",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この部品は大切です。",
+        "zh": "这个零部件，零件很重要。"
+      }
+    ]
+  },
+  {
+    "word": "部分",
+    "reading": "ぶぶん",
+    "meaning": "名 ",
+    "sourceIndex": 1143,
+    "sourceMeaningRaw": "名 ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "部分",
+        "method": "TYPE A1",
+        "bridgeC": "汉字部分意思是名 "
+      }
+    ],
+    "mergedScene": "部分这个汉字一看就像名 。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶぶん - 部分 - 名 ",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この部分は大切です。",
+        "zh": "这个名 很重要。"
+      }
+    ]
+  },
+  {
+    "word": "父母",
+    "reading": "ふぼ",
+    "meaning": "名 ",
+    "sourceIndex": 1144,
+    "sourceMeaningRaw": "名 ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "父母",
+        "method": "TYPE A1",
+        "bridgeC": "汉字父母意思是名 "
+      }
+    ],
+    "mergedScene": "父母这个汉字一看就像名 。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふぼ - 父母 - 名 ",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この父母は大切です。",
+        "zh": "这个名 很重要。"
+      }
+    ]
+  },
+  {
+    "word": "不満",
+    "reading": "ふまん",
+    "meaning": "形动 不满，不满足",
+    "sourceIndex": 1145,
+    "sourceMeaningRaw": "名·形动 不满，不满足，不满意",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "不満",
+        "method": "TYPE A1",
+        "bridgeC": "汉字不満意思是形动 不满，不满足"
+      }
+    ],
+    "mergedScene": "不満这个汉字一看就像形动 不满，不满足。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふまん - 不満 - 形动 不满，不满足",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この不満は大切です。",
+        "zh": "这个形动 不满，不满足很重要。"
+      }
+    ]
+  },
+  {
+    "word": "踏み切り",
+    "reading": "ふみきり",
+    "meaning": "外",
+    "sourceIndex": 1146,
+    "sourceMeaningRaw": "名 外；下定决心，毅然决然；道口铁路与公路 （体育）起跳，起跳点；（相扑）脚踩到圈 在同一平面上的交叉处",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "踏み切り",
+        "method": "TYPE A1",
+        "bridgeC": "汉字踏み切り意思是外"
+      },
+      {
+        "element": "ふみきり",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ふみ+きり\"来记"
+      }
+    ],
+    "mergedScene": "ふみきり拆分记忆，意思是外",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふみきり - 拆分记忆 - 外",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この踏み切りは大切です。",
+        "zh": "这个外很重要。"
+      }
+    ]
+  },
+  {
+    "word": "踏む",
+    "reading": "ふむ",
+    "meaning": "经验",
+    "sourceIndex": 1147,
+    "sourceMeaningRaw": "经验；估价，估计，评价；遵守；经历，经 踏，踩，践踏；跺脚；走上，踏上；实践， 他动·五 段 过",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "踏む",
+        "method": "TYPE A1",
+        "bridgeC": "汉字踏む意思是经验"
+      }
+    ],
+    "mergedScene": "踏む这个汉字一看就像经验。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふむ - 踏む - 经验",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この踏むは大切です。",
+        "zh": "这个经验很重要。"
+      }
+    ]
+  },
+  {
+    "word": "麓",
+    "reading": "ふもと",
+    "meaning": "山脚，山",
+    "sourceIndex": 1148,
+    "sourceMeaningRaw": "名 山脚，山",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "麓",
+        "method": "TYPE A1",
+        "bridgeC": "汉字麓意思是山脚，山"
+      }
+    ],
+    "mergedScene": "麓这个汉字一看就像山脚，山。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふもと - 麓 - 山脚，山",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この麓は大切です。",
+        "zh": "这个山脚，山很重要。"
+      }
+    ]
+  },
+  {
+    "word": "増やす",
+    "reading": "ふやす",
+    "meaning": "繁殖，增殖",
+    "sourceIndex": 1149,
+    "sourceMeaningRaw": "繁殖，增殖，增加；添 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "増やす",
+        "method": "TYPE A1",
+        "bridgeC": "汉字増やす意思是繁殖，增殖"
+      }
+    ],
+    "mergedScene": "増やす这个汉字一看就像繁殖，增殖。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふやす - 増やす - 繁殖，增殖",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この増やすは大切です。",
+        "zh": "这个繁殖，增殖很重要。"
+      }
+    ]
+  },
+  {
+    "word": "不愉快",
+    "reading": "ふゆかい",
+    "meaning": "形动，不痛快",
+    "sourceIndex": 1150,
+    "sourceMeaningRaw": "名·形动 ，不痛快，不舒服，不高兴",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "不愉快",
+        "method": "TYPE A1",
+        "bridgeC": "汉字不愉快意思是形动，不痛快"
+      },
+      {
+        "element": "ふゆかい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ふゆ+かい\"来记"
+      }
+    ],
+    "mergedScene": "ふゆかい拆分记忆，意思是形动，不痛快",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふゆかい - 拆分记忆 - 形动，不痛快",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この不愉快は大切です。",
+        "zh": "这个形动，不痛快很重要。"
+      }
+    ]
+  },
+  {
+    "word": "プラス",
+    "reading": "ぷらす",
+    "meaning": "plus加号，正数记号",
+    "sourceIndex": 1151,
+    "sourceMeaningRaw": "名·サ变 plus加号，正数记号，“+”的符号；<数> 正数；利益，好处，盈余；加，加上；阳 性，阳性反应；阳性符号；阳极，正极；正 极符号",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "プラス",
+        "method": "外来语",
+        "bridgeC": "プラス来自英语，意思是plus加号，正数记号"
+      }
+    ],
+    "mergedScene": "プラス是外来语，来自英语，意思是plus加号，正数记号。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "プラス - 外来语英语 - plus加号，正数记号",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このプラスは大切です。",
+        "zh": "这个plus加号，正数记号很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ブラシ",
+    "reading": "ぶらし",
+    "meaning": "brush刷子",
+    "sourceIndex": 1152,
+    "sourceMeaningRaw": "名 brush刷子；电棒",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ブラシ",
+        "method": "外来语",
+        "bridgeC": "ブラシ来自英语，意思是brush刷子"
+      }
+    ],
+    "mergedScene": "ブラシ是外来语，来自英语，意思是brush刷子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ブラシ - 外来语英语 - brush刷子",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このブラシは大切です。",
+        "zh": "这个brush刷子很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ぶらぶら",
+    "reading": "ぶらぶら",
+    "meaning": "摇晃，摆动",
+    "sourceIndex": 1153,
+    "sourceMeaningRaw": "摇晃，摆动，晃荡，下垂而摇晃的样子；溜 名·副词 达，信步而行，闲逛，漫步；无所事事，无 ·サ变 工作，赋闲，闲呆着；（病）拖长，缠绵； （不停地）摇晃晃荡",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "ぶらぶら",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ぶら+ぶら\"来记"
+      }
+    ],
+    "mergedScene": "ぶらぶら拆分记忆，意思是摇晃，摆动",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ぶらぶら - 拆分记忆 - 摇晃，摆动",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このぶらぶらは大切です。",
+        "zh": "这个摇晃，摆动很重要。"
+      }
+    ]
+  },
+  {
+    "word": "振り",
+    "reading": "ふり",
+    "meaning": "振动，摆动",
+    "sourceIndex": 1154,
+    "sourceMeaningRaw": "名 振动，摆动；（外表的）样子，打扮；装 做，假装；（舞蹈、戏剧的）动作，姿势； 陌生；突然；临时；振袖女式和服从腋下到 袖下的不缝合的部分",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "振り",
+        "method": "TYPE A1",
+        "bridgeC": "汉字振り意思是振动，摆动"
+      }
+    ],
+    "mergedScene": "振り这个汉字一看就像振动，摆动。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふり - 振り - 振动，摆动",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この振りは大切です。",
+        "zh": "这个振动，摆动很重要。"
+      }
+    ]
+  },
+  {
+    "word": "振り込む",
+    "reading": "ふりこむ",
+    "meaning": "撒入、撒进",
+    "sourceIndex": 1155,
+    "sourceMeaningRaw": "撒入、撒进；转账；汇款；点炮 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "振り込む",
+        "method": "TYPE A1",
+        "bridgeC": "汉字振り込む意思是撒入、撒进"
+      },
+      {
+        "element": "ふりこむ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ふり+こむ\"来记"
+      }
+    ],
+    "mergedScene": "ふりこむ拆分记忆，意思是撒入、撒进",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふりこむ - 拆分记忆 - 撒入、撒进",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この振り込むは大切です。",
+        "zh": "这个撒入、撒进很重要。"
+      }
+    ]
+  },
+  {
+    "word": "振る",
+    "reading": "ふる",
+    "meaning": "白扔，白丢",
+    "sourceIndex": 1156,
+    "sourceMeaningRaw": "白扔，白丢；拒绝，甩；分派，分配；标注 挥，摇，摆；撒；丢扔，掷；放弃，牺牲， 他动·五 段 （假名）",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "振る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字振る意思是白扔，白丢"
+      }
+    ],
+    "mergedScene": "振る这个汉字一看就像白扔，白丢。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふる - 振る - 白扔，白丢",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この振るは大切です。",
+        "zh": "这个白扔，白丢很重要。"
+      }
+    ]
+  },
+  {
+    "word": "フリー",
+    "reading": "ふりー",
+    "meaning": "形动 free",
+    "sourceIndex": 1157,
+    "sourceMeaningRaw": "名·形动 （free）自由，无拘束，不受制约；免费； 无所属",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "フリー",
+        "method": "外来语",
+        "bridgeC": "フリー来自英语，意思是形动 free"
+      }
+    ],
+    "mergedScene": "フリー是外来语，来自英语，意思是形动 free。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "フリー - 外来语英语 - 形动 free",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このフリーは大切です。",
+        "zh": "这个形动 free很重要。"
+      }
+    ]
+  },
+  {
+    "word": "振り向く",
+    "reading": "ふりむく",
+    "meaning": "回头",
+    "sourceIndex": 1158,
+    "sourceMeaningRaw": "回头；回顾，理睬 自动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "振り向く",
+        "method": "TYPE A1",
+        "bridgeC": "汉字振り向く意思是回头"
+      },
+      {
+        "element": "ふりむく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ふり+むく\"来记"
+      }
+    ],
+    "mergedScene": "ふりむく拆分记忆，意思是回头",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふりむく - 拆分记忆 - 回头",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この振り向くは大切です。",
+        "zh": "这个回头很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ブルー",
+    "reading": "ぶるー",
+    "meaning": "形动 blue，蓝色",
+    "sourceIndex": 1159,
+    "sourceMeaningRaw": "名·形动 blue，蓝色，天蓝色；忧郁",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ブルー",
+        "method": "外来语",
+        "bridgeC": "ブルー来自英语，意思是形动 blue，蓝色"
+      }
+    ],
+    "mergedScene": "ブルー是外来语，来自英语，意思是形动 blue，蓝色。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ブルー - 外来语英语 - 形动 blue，蓝色",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このブルーは大切です。",
+        "zh": "这个形动 blue，蓝色很重要。"
+      }
+    ]
+  },
+  {
+    "word": "震える",
+    "reading": "ふるえる",
+    "meaning": "震动",
+    "sourceIndex": 1160,
+    "sourceMeaningRaw": "震动；发抖 自动·一 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "震える",
+        "method": "TYPE A1",
+        "bridgeC": "汉字震える意思是震动"
+      },
+      {
+        "element": "ふるえる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ふる+える\"来记"
+      }
+    ],
+    "mergedScene": "ふるえる拆分记忆，意思是震动",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふるえる - 拆分记忆 - 震动",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この震えるは大切です。",
+        "zh": "这个震动很重要。"
+      }
+    ]
+  }
+]

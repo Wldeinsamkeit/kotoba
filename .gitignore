@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.vercel
+.playwright-mcp
+.codepilot-uploads
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.bak
+*.backup
+
+# 红宝书 OCR 中间产物（整页 PNG 体积大，文本见 data/redbook-ocr/text/）
+data/redbook-ocr/pages/*.png
+data/redbook-ocr/pages_ai/*.png
+
+# 本地整理出的闲置/旧版本文件，不上传 GitHub
+闲置文件夹/
+
+# 本地资料库/设计参考，不参与前端部署
+项目资料/
+资源汇总/
+UI设计/
+资源汇总
+UI设计
+
+# Supertonic 本地模型超过 GitHub 普通仓库单文件限制，后续应迁到 LFS/CDN/对象存储
+public/supertonic/assets/onnx/*.onnx

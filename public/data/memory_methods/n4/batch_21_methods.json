@@ -1,0 +1,1292 @@
+[
+  {
+    "word": "合格",
+    "reading": "ごうかく",
+    "meaning": "及格，考上",
+    "sourceIndex": 801,
+    "sourceMeaningRaw": "[名·自动·サ变] 及格，考上；；及格，考上",
+    "partOfSpeech": "名·自动·サ变",
+    "elements": [
+      {
+        "element": "合格",
+        "method": "TYPE A1",
+        "bridgeC": "汉字合格意思是及格，考上"
+      },
+      {
+        "element": "ごうかく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ごう+かく\"来记"
+      }
+    ],
+    "mergedScene": "ごうかく拆分记忆，意思是及格，考上",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ごうかく - 拆分记忆 - 及格，考上",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この合格は大切です。",
+        "zh": "这个及格，考上很重要。"
+      }
+    ]
+  },
+  {
+    "word": "普通",
+    "reading": "ふつう",
+    "meaning": "没有特别异常之处的事物",
+    "sourceIndex": 802,
+    "sourceMeaningRaw": "[名·形动] 没有特别异常之处的事物。寻常之物。；一般，；通常，平常，往 常，寻常；正常",
+    "partOfSpeech": "名·形动",
+    "elements": [
+      {
+        "element": "普通",
+        "method": "TYPE A1",
+        "bridgeC": "汉字普通意思是没有特别异常之处的事物"
+      }
+    ],
+    "mergedScene": "普通这个汉字一看就像没有特别异常之处的事物。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ふつう - 普通 - 没有特别异常之处的事物",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この普通は大切です。",
+        "zh": "这个没有特别异常之处的事物很重要。"
+      }
+    ]
+  },
+  {
+    "word": "移す",
+    "reading": "うつす",
+    "meaning": "移",
+    "sourceIndex": 803,
+    "sourceMeaningRaw": "[他动·五段] 移；挪；搬；迁；转移，改变；度，度过；调动，变动；薰染，染上 颜色、香味；（病）传染；开始，着手",
+    "partOfSpeech": "他动·五段",
+    "elements": [
+      {
+        "element": "移す",
+        "method": "TYPE A1",
+        "bridgeC": "汉字移す意思是移"
+      }
+    ],
+    "mergedScene": "移す这个汉字一看就像移。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "うつす - 移す - 移",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この移すは大切です。",
+        "zh": "这个移很重要。"
+      }
+    ]
+  },
+  {
+    "word": "主婦",
+    "reading": "しゅふ",
+    "meaning": "家庭主妇，家庭妇女作为妻子对家庭生活的安排及管理负有责任的女性",
+    "sourceIndex": 804,
+    "sourceMeaningRaw": "[名] 家庭主妇，家庭妇女作为妻子对家庭生活的安排及管理负有责任的女性",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "主婦",
+        "method": "TYPE A1",
+        "bridgeC": "汉字主婦意思是家庭主妇，家庭妇女作为妻子对家庭生活的安排及管理负有责任的女性"
+      }
+    ],
+    "mergedScene": "主婦这个汉字一看就像家庭主妇，家庭妇女作为妻子对家庭生活的安排及管理负有责任的女性。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しゅふ - 主婦 - 家庭主妇，家庭妇女作为妻子对家庭生活的安排及管理负有责任的女性",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この主婦は大切です。",
+        "zh": "这个家庭主妇，家庭妇女作为妻子对家庭生活的安排及管理负有责任的女性很重要。"
+      }
+    ]
+  },
+  {
+    "word": "残り",
+    "reading": "のこり",
+    "meaning": "残余，剩余",
+    "sourceIndex": 805,
+    "sourceMeaningRaw": "[名] 残余，剩余",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "残り",
+        "method": "TYPE A1",
+        "bridgeC": "汉字残り意思是残余，剩余"
+      }
+    ],
+    "mergedScene": "残り这个汉字一看就像残余，剩余。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "のこり - 残り - 残余，剩余",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この残りは大切です。",
+        "zh": "这个残余，剩余很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ワープロ",
+    "reading": "わーぷろ",
+    "meaning": "文字处理机，语言处理机",
+    "sourceIndex": 806,
+    "sourceMeaningRaw": "[名] 文字处理机，语言处理机",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ワープロ",
+        "method": "外来语",
+        "bridgeC": "ワープロ来自英语外来语，意思是文字处理机，语言处理机"
+      }
+    ],
+    "mergedScene": "ワープロ是外来语，来自英语外来语，意思是文字处理机，语言处理机。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ワープロ - 外来语英语外来语 - 文字处理机，语言处理机",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このワープロは大切です。",
+        "zh": "这个文字处理机，语言处理机很重要。"
+      }
+    ]
+  },
+  {
+    "word": "何で",
+    "reading": "なんで",
+    "meaning": "何故",
+    "sourceIndex": 807,
+    "sourceMeaningRaw": "[副词] 何故；为什么",
+    "partOfSpeech": "副词",
+    "elements": [
+      {
+        "element": "何で",
+        "method": "TYPE A1",
+        "bridgeC": "汉字何で意思是何故"
+      }
+    ],
+    "mergedScene": "何で这个汉字一看就像何故。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なんで - 何で - 何故",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この何では大切です。",
+        "zh": "这个何故很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ギター",
+    "reading": "ぎたー",
+    "meaning": "guitar吉他，六弦琴",
+    "sourceIndex": 808,
+    "sourceMeaningRaw": "[名] guitar吉他，六弦琴",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ギター",
+        "method": "外来语",
+        "bridgeC": "ギター来自英语外来语，意思是guitar吉他，六弦琴"
+      }
+    ],
+    "mergedScene": "ギター是外来语，来自英语外来语，意思是guitar吉他，六弦琴。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ギター - 外来语英语外来语 - guitar吉他，六弦琴",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このギターは大切です。",
+        "zh": "这个guitar吉他，六弦琴很重要。"
+      }
+    ]
+  },
+  {
+    "word": "高速バス",
+    "reading": "こうそくばす",
+    "meaning": "高速大巴，长途大巴",
+    "sourceIndex": 809,
+    "sourceMeaningRaw": "[名] 高速大巴，长途大巴。",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "高速バス",
+        "method": "TYPE A1",
+        "bridgeC": "汉字高速バス意思是高速大巴，长途大巴"
+      },
+      {
+        "element": "こうそくばす",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"こうそ+くばす\"来记"
+      }
+    ],
+    "mergedScene": "こうそくばす拆分记忆，意思是高速大巴，长途大巴",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "こうそくばす - 拆分记忆 - 高速大巴，长途大巴",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "この高速バスは大切です。",
+        "zh": "这个高速大巴，长途大巴很重要。"
+      }
+    ]
+  },
+  {
+    "word": "開く",
+    "reading": "ひらく",
+    "meaning": "敞开",
+    "sourceIndex": 810,
+    "sourceMeaningRaw": "[自他动·五段] 敞开；开放；开始，开张；加大、拉开（数量、距离、价格等的差 距）；开朗、开阔；开拓，开辟；举办，开设；开导，教导",
+    "partOfSpeech": "自他动·五段",
+    "elements": [
+      {
+        "element": "開く",
+        "method": "TYPE A1",
+        "bridgeC": "汉字開く意思是敞开"
+      }
+    ],
+    "mergedScene": "開く这个汉字一看就像敞开。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ひらく - 開く - 敞开",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この開くは大切です。",
+        "zh": "这个敞开很重要。"
+      }
+    ]
+  },
+  {
+    "word": "床",
+    "reading": "ゆか",
+    "meaning": "地板，地上",
+    "sourceIndex": 811,
+    "sourceMeaningRaw": "[名] 地板，地上；（歌舞伎）净琉璃太夫等人坐的地方",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "床",
+        "method": "TYPE A1",
+        "bridgeC": "汉字床意思是地板，地上"
+      }
+    ],
+    "mergedScene": "床这个汉字一看就像地板，地上。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ゆか - 床 - 地板，地上",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この床は大切です。",
+        "zh": "这个地板，地上很重要。"
+      }
+    ]
+  },
+  {
+    "word": "バレーボール",
+    "reading": "ばれーぼーる",
+    "meaning": "Volleyball，排球",
+    "sourceIndex": 812,
+    "sourceMeaningRaw": "[名] Volleyball，排球，排球运动",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "バレーボール",
+        "method": "外来语",
+        "bridgeC": "バレーボール来自英语外来语，意思是Volleyball，排球"
+      }
+    ],
+    "mergedScene": "バレーボール是外来语，来自英语外来语，意思是Volleyball，排球。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "バレーボール - 外来语英语外来语 - Volleyball，排球",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このバレーボールは大切です。",
+        "zh": "这个Volleyball，排球很重要。"
+      }
+    ]
+  },
+  {
+    "word": "見物人",
+    "reading": "けんぶつにん",
+    "meaning": "游客，观众",
+    "sourceIndex": 813,
+    "sourceMeaningRaw": "[名] 游客，观众",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "見物人",
+        "method": "TYPE A1",
+        "bridgeC": "汉字見物人意思是游客，观众"
+      },
+      {
+        "element": "けんぶつにん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"けんぶ+つにん\"来记"
+      }
+    ],
+    "mergedScene": "けんぶつにん拆分记忆，意思是游客，观众",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "けんぶつにん - 拆分记忆 - 游客，观众",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "この見物人は大切です。",
+        "zh": "这个游客，观众很重要。"
+      }
+    ]
+  },
+  {
+    "word": "アニメーション",
+    "reading": "あにめーしょん",
+    "meaning": "animation动画片，动画",
+    "sourceIndex": 814,
+    "sourceMeaningRaw": "[名] animation动画片，动画",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "アニメーション",
+        "method": "外来语",
+        "bridgeC": "アニメーション来自英语外来语，意思是animation动画片，动画"
+      }
+    ],
+    "mergedScene": "アニメーション是外来语，来自英语外来语，意思是animation动画片，动画。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "アニメーション - 外来语英语外来语 - animation动画片，动画",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このアニメーションは大切です。",
+        "zh": "这个animation动画片，动画很重要。"
+      }
+    ]
+  },
+  {
+    "word": "暖める",
+    "reading": "あたためる",
+    "meaning": "温",
+    "sourceIndex": 815,
+    "sourceMeaningRaw": "[他动·一段] 温；热；烫；恢复；悄悄地据为己有",
+    "partOfSpeech": "他动·一段",
+    "elements": [
+      {
+        "element": "暖める",
+        "method": "TYPE A1",
+        "bridgeC": "汉字暖める意思是温"
+      },
+      {
+        "element": "あたためる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"あた+ためる\"来记"
+      }
+    ],
+    "mergedScene": "あたためる拆分记忆，意思是温",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "あたためる - 拆分记忆 - 温",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "この暖めるは大切です。",
+        "zh": "这个温很重要。"
+      }
+    ]
+  },
+  {
+    "word": "取り替える",
+    "reading": "とりかえる",
+    "meaning": "交换，互换",
+    "sourceIndex": 816,
+    "sourceMeaningRaw": "[他动·一段] 交换，互换；换，更换，调换，换成新的",
+    "partOfSpeech": "他动·一段",
+    "elements": [
+      {
+        "element": "取り替える",
+        "method": "TYPE A1",
+        "bridgeC": "汉字取り替える意思是交换，互换"
+      },
+      {
+        "element": "とりかえる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"とり+かえる\"来记"
+      }
+    ],
+    "mergedScene": "とりかえる拆分记忆，意思是交换，互换",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "とりかえる - 拆分记忆 - 交换，互换",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "この取り替えるは大切です。",
+        "zh": "这个交换，互换很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ボール",
+    "reading": "ぼーる",
+    "meaning": "ball球",
+    "sourceIndex": 817,
+    "sourceMeaningRaw": "[名] ball球；球状物；[棒球]坏球",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ボール",
+        "method": "外来语",
+        "bridgeC": "ボール来自英语外来语，意思是ball球"
+      }
+    ],
+    "mergedScene": "ボール是外来语，来自英语外来语，意思是ball球。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ボール - 外来语英语外来语 - ball球",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このボールは大切です。",
+        "zh": "这个ball球很重要。"
+      }
+    ]
+  },
+  {
+    "word": "泊まる",
+    "reading": "とまる",
+    "meaning": "靠岸，停泊",
+    "sourceIndex": 818,
+    "sourceMeaningRaw": "[自动·五段] （船）靠岸，停泊；住下，投宿，住宿，过夜；值宿，值夜班",
+    "partOfSpeech": "自动·五段",
+    "elements": [
+      {
+        "element": "泊まる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字泊まる意思是靠岸，停泊"
+      },
+      {
+        "element": "とまる",
+        "method": "TYPE B2",
+        "bridgeC": "谐音\"偷妈\" - \"偷妈\"停下来 - 停下"
+      }
+    ],
+    "mergedScene": "谐音：とまる→\"偷妈\"，\"偷妈\"停下来 - 停下",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "とまる - 谐音\"偷妈\" - 靠岸，停泊",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この泊まるは大切です。",
+        "zh": "这个靠岸，停泊很重要。"
+      }
+    ]
+  },
+  {
+    "word": "治る",
+    "reading": "なおる",
+    "meaning": "病医好，痊愈",
+    "sourceIndex": 819,
+    "sourceMeaningRaw": "[自动·五段] 病医好，痊愈",
+    "partOfSpeech": "自动·五段",
+    "elements": [
+      {
+        "element": "治る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字治る意思是病医好，痊愈"
+      }
+    ],
+    "mergedScene": "治る这个汉字一看就像病医好，痊愈。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なおる - 治る - 病医好，痊愈",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この治るは大切です。",
+        "zh": "这个病医好，痊愈很重要。"
+      }
+    ]
+  },
+  {
+    "word": "起きる",
+    "reading": "おきる",
+    "meaning": "起，起来",
+    "sourceIndex": 820,
+    "sourceMeaningRaw": "[自动·一段] 起，起来，立起来；坐起来；起床；不睡；发生",
+    "partOfSpeech": "自动·一段",
+    "elements": [
+      {
+        "element": "起きる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字起きる意思是起，起来"
+      }
+    ],
+    "mergedScene": "起きる这个汉字一看就像起，起来。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おきる - 起きる - 起，起来",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この起きるは大切です。",
+        "zh": "这个起，起来很重要。"
+      }
+    ]
+  },
+  {
+    "word": "任せる",
+    "reading": "まかせる",
+    "meaning": "委托",
+    "sourceIndex": 821,
+    "sourceMeaningRaw": "[他动·一段] 委托；托付；交给；听任；任凭，一任；尽力，尽量；随心",
+    "partOfSpeech": "他动·一段",
+    "elements": [
+      {
+        "element": "任せる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字任せる意思是委托"
+      },
+      {
+        "element": "まかせる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"まか+せる\"来记"
+      }
+    ],
+    "mergedScene": "まかせる拆分记忆，意思是委托",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まかせる - 拆分记忆 - 委托",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この任せるは大切です。",
+        "zh": "这个委托很重要。"
+      }
+    ]
+  },
+  {
+    "word": "受付係",
+    "reading": "うけつけがかり",
+    "meaning": "旅馆、事务所等雇用的",
+    "sourceIndex": 822,
+    "sourceMeaningRaw": "[名] 旅馆、事务所等雇用的)接待员，受理员",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "受付係",
+        "method": "TYPE A1",
+        "bridgeC": "汉字受付係意思是旅馆、事务所等雇用的"
+      },
+      {
+        "element": "うけつけがかり",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"うけつ+けがかり\"来记"
+      }
+    ],
+    "mergedScene": "うけつけがかり拆分记忆，意思是旅馆、事务所等雇用的",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "うけつけがかり - 拆分记忆 - 旅馆、事务所等雇用的",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "この受付係は大切です。",
+        "zh": "这个旅馆、事务所等雇用的很重要。"
+      }
+    ]
+  },
+  {
+    "word": "事項",
+    "reading": "じこう",
+    "meaning": "事项，项目",
+    "sourceIndex": 823,
+    "sourceMeaningRaw": "[名] 事项，项目",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "事項",
+        "method": "TYPE A1",
+        "bridgeC": "汉字事項意思是事项，项目"
+      }
+    ],
+    "mergedScene": "事項这个汉字一看就像事项，项目。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じこう - 事項 - 事项，项目",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この事項は大切です。",
+        "zh": "这个事项，项目很重要。"
+      }
+    ]
+  },
+  {
+    "word": "簡単",
+    "reading": "かんたん",
+    "meaning": "简单",
+    "sourceIndex": 824,
+    "sourceMeaningRaw": "[名·形动] 简单；简易，容易；轻易；简便",
+    "partOfSpeech": "名·形动",
+    "elements": [
+      {
+        "element": "簡単",
+        "method": "TYPE A1",
+        "bridgeC": "汉字簡単意思是简单"
+      },
+      {
+        "element": "かんたん",
+        "method": "TYPE B2",
+        "bridgeC": "谐音\"简单\" - \"简单\"的饭菜 - 简单"
+      }
+    ],
+    "mergedScene": "谐音：かんたん→\"简单\"，\"简单\"的饭菜 - 简单",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かんたん - 谐音\"简单\" - 简单",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この簡単は大切です。",
+        "zh": "这个简单很重要。"
+      }
+    ]
+  },
+  {
+    "word": "オフィス",
+    "reading": "おふぃす",
+    "meaning": "office办公室",
+    "sourceIndex": 825,
+    "sourceMeaningRaw": "[名] office办公室；办事处；事务所；营业所；公司",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "オフィス",
+        "method": "外来语",
+        "bridgeC": "オフィス来自英语外来语，意思是office办公室"
+      }
+    ],
+    "mergedScene": "オフィス是外来语，来自英语外来语，意思是office办公室。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "オフィス - 外来语英语外来语 - office办公室",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このオフィスは大切です。",
+        "zh": "这个office办公室很重要。"
+      }
+    ]
+  },
+  {
+    "word": "包む",
+    "reading": "つつむ",
+    "meaning": "包",
+    "sourceIndex": 826,
+    "sourceMeaningRaw": "[他动·五段] （用纸或布等）包；裹；包上；穿上；笼罩，覆盖；隐没；沉浸；藏 在心里，隐藏；隐瞒",
+    "partOfSpeech": "他动·五段",
+    "elements": [
+      {
+        "element": "包む",
+        "method": "TYPE A1",
+        "bridgeC": "汉字包む意思是包"
+      }
+    ],
+    "mergedScene": "包む这个汉字一看就像包。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つつむ - 包む - 包",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この包むは大切です。",
+        "zh": "这个包很重要。"
+      }
+    ]
+  },
+  {
+    "word": "見える",
+    "reading": "みえる",
+    "meaning": "看见，看得见",
+    "sourceIndex": 827,
+    "sourceMeaningRaw": "[自动·一段] 看见，看得见，能看见；好象是，看起来是，似乎；看来，看起来； 看（得）到，找到；来；光临",
+    "partOfSpeech": "自动·一段",
+    "elements": [
+      {
+        "element": "見える",
+        "method": "TYPE A1",
+        "bridgeC": "汉字見える意思是看见，看得见"
+      }
+    ],
+    "mergedScene": "見える这个汉字一看就像看见，看得见。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みえる - 見える - 看见，看得见",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この見えるは大切です。",
+        "zh": "这个看见，看得见很重要。"
+      }
+    ]
+  },
+  {
+    "word": "考え方",
+    "reading": "かんがえかた",
+    "meaning": "想法，看法",
+    "sourceIndex": 828,
+    "sourceMeaningRaw": "[名] 想法，看法，见解，观点",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "考え方",
+        "method": "TYPE A1",
+        "bridgeC": "汉字考え方意思是想法，看法"
+      },
+      {
+        "element": "かんがえかた",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"かんが+えかた\"来记"
+      }
+    ],
+    "mergedScene": "かんがえかた拆分记忆，意思是想法，看法",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かんがえかた - 拆分记忆 - 想法，看法",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "この考え方は大切です。",
+        "zh": "这个想法，看法很重要。"
+      }
+    ]
+  },
+  {
+    "word": "手伝う",
+    "reading": "てつだう",
+    "meaning": "帮忙，帮助",
+    "sourceIndex": 829,
+    "sourceMeaningRaw": "[他动·五段] 帮忙，帮助；（与……有关系）加上，还由于",
+    "partOfSpeech": "他动·五段",
+    "elements": [
+      {
+        "element": "手伝う",
+        "method": "TYPE A1",
+        "bridgeC": "汉字手伝う意思是帮忙，帮助"
+      },
+      {
+        "element": "てつだう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"てつ+だう\"来记"
+      }
+    ],
+    "mergedScene": "てつだう拆分记忆，意思是帮忙，帮助",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "てつだう - 拆分记忆 - 帮忙，帮助",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この手伝うは大切です。",
+        "zh": "这个帮忙，帮助很重要。"
+      }
+    ]
+  },
+  {
+    "word": "前に",
+    "reading": "まえに",
+    "meaning": "……的前面、……前",
+    "sourceIndex": 830,
+    "sourceMeaningRaw": "[文法] ……的前面、……前；……之前、……前；面对……、面临……",
+    "partOfSpeech": "文法",
+    "elements": [
+      {
+        "element": "前に",
+        "method": "TYPE A1",
+        "bridgeC": "汉字前に意思是……的前面、……前"
+      }
+    ],
+    "mergedScene": "前に这个汉字一看就像……的前面、……前。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まえに - 前に - ……的前面、……前",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この前には大切です。",
+        "zh": "这个……的前面、……前很重要。"
+      }
+    ]
+  },
+  {
+    "word": "内",
+    "reading": "うち",
+    "meaning": "部，里面",
+    "sourceIndex": 831,
+    "sourceMeaningRaw": "[名] 部，里面，里边，里头；；中；时候；期间；以前；趁；，中；我，我 们；我",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "内",
+        "method": "TYPE A1",
+        "bridgeC": "汉字内意思是部，里面"
+      }
+    ],
+    "mergedScene": "内这个汉字一看就像部，里面。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "うち - 内 - 部，里面",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この内は大切です。",
+        "zh": "这个部，里面很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ほうれん草",
+    "reading": "ほうれんそう",
+    "meaning": "菠菜",
+    "sourceIndex": 832,
+    "sourceMeaningRaw": "[名] 菠菜；（公司团队合作三大法宝的简称）报告、联系、商讨",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ほうれん草",
+        "method": "TYPE A1",
+        "bridgeC": "汉字ほうれん草意思是菠菜"
+      },
+      {
+        "element": "ほうれんそう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ほうれ+んそう\"来记"
+      }
+    ],
+    "mergedScene": "ほうれんそう拆分记忆，意思是菠菜",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ほうれんそう - 拆分记忆 - 菠菜",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "このほうれん草は大切です。",
+        "zh": "这个菠菜很重要。"
+      }
+    ]
+  },
+  {
+    "word": "中止",
+    "reading": "ちゅうし",
+    "meaning": "，中途停止或取消预定计划的行动",
+    "sourceIndex": 833,
+    "sourceMeaningRaw": "[名·他动·サ变] ，中途停止或取消预定计划的行动",
+    "partOfSpeech": "名·他动·サ变",
+    "elements": [
+      {
+        "element": "中止",
+        "method": "TYPE A1",
+        "bridgeC": "汉字中止意思是，中途停止或取消预定计划的行动"
+      },
+      {
+        "element": "ちゅうし",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ちゅ+うし\"来记"
+      }
+    ],
+    "mergedScene": "ちゅうし拆分记忆，意思是，中途停止或取消预定计划的行动",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちゅうし - 拆分记忆 - ，中途停止或取消预定计划的行动",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この中止は大切です。",
+        "zh": "这个，中途停止或取消预定计划的行动很重要。"
+      }
+    ]
+  },
+  {
+    "word": "泥棒",
+    "reading": "どろぼう",
+    "meaning": "小偷",
+    "sourceIndex": 834,
+    "sourceMeaningRaw": "[名] 小偷",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "泥棒",
+        "method": "TYPE A1",
+        "bridgeC": "汉字泥棒意思是小偷"
+      },
+      {
+        "element": "どろぼう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"どろ+ぼう\"来记"
+      }
+    ],
+    "mergedScene": "どろぼう拆分记忆，意思是小偷",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "どろぼう - 拆分记忆 - 小偷",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この泥棒は大切です。",
+        "zh": "这个小偷很重要。"
+      }
+    ]
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "meaning": "静，寂静",
+    "sourceIndex": 835,
+    "sourceMeaningRaw": "[形动] 静，寂静，沉寂，肃静，静悄悄，清静，平静；平静，安静，沉静，文静； 轻轻，慢慢；静止，不动",
+    "partOfSpeech": "形动",
+    "elements": [
+      {
+        "element": "静か",
+        "method": "TYPE A1",
+        "bridgeC": "汉字静か意思是静，寂静"
+      }
+    ],
+    "mergedScene": "静か这个汉字一看就像静，寂静。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しずか - 静か - 静，寂静",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この静かは大切です。",
+        "zh": "这个静，寂静很重要。"
+      }
+    ]
+  },
+  {
+    "word": "家事",
+    "reading": "かじ",
+    "meaning": "家务，家政",
+    "sourceIndex": 836,
+    "sourceMeaningRaw": "[名·サ变] 家务，家政；家庭内发生的事情",
+    "partOfSpeech": "名·サ变",
+    "elements": [
+      {
+        "element": "家事",
+        "method": "TYPE A1",
+        "bridgeC": "汉字家事意思是家务，家政"
+      }
+    ],
+    "mergedScene": "家事这个汉字一看就像家务，家政。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かじ - 家事 - 家务，家政",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この家事は大切です。",
+        "zh": "这个家务，家政很重要。"
+      }
+    ]
+  },
+  {
+    "word": "法律",
+    "reading": "ほうりつ",
+    "meaning": "[名] ",
+    "sourceIndex": 837,
+    "sourceMeaningRaw": "[名] ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "法律",
+        "method": "TYPE A1",
+        "bridgeC": "汉字法律意思是[名] "
+      },
+      {
+        "element": "ほうりつ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ほう+りつ\"来记"
+      }
+    ],
+    "mergedScene": "ほうりつ拆分记忆，意思是[名] ",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ほうりつ - 拆分记忆 - [名] ",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この法律は大切です。",
+        "zh": "这个[名] 很重要。"
+      }
+    ]
+  },
+  {
+    "word": "性格",
+    "reading": "せいかく",
+    "meaning": "，性情",
+    "sourceIndex": 838,
+    "sourceMeaningRaw": "[名] ，性情；脾气；性质；特性",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "性格",
+        "method": "TYPE A1",
+        "bridgeC": "汉字性格意思是，性情"
+      },
+      {
+        "element": "せいかく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"せい+かく\"来记"
+      }
+    ],
+    "mergedScene": "せいかく拆分记忆，意思是，性情",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "せいかく - 拆分记忆 - ，性情",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この性格は大切です。",
+        "zh": "这个，性情很重要。"
+      }
+    ]
+  },
+  {
+    "word": "出来るだけ",
+    "reading": "できるだけ",
+    "meaning": "尽量地",
+    "sourceIndex": 839,
+    "sourceMeaningRaw": "[副词] 尽量地；尽可能地",
+    "partOfSpeech": "副词",
+    "elements": [
+      {
+        "element": "出来るだけ",
+        "method": "TYPE A1",
+        "bridgeC": "汉字出来るだけ意思是尽量地"
+      },
+      {
+        "element": "できるだけ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"でき+るだけ\"来记"
+      }
+    ],
+    "mergedScene": "できるだけ拆分记忆，意思是尽量地",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "できるだけ - 拆分记忆 - 尽量地",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "この出来るだけは大切です。",
+        "zh": "这个尽量地很重要。"
+      }
+    ]
+  },
+  {
+    "word": "亡くなる",
+    "reading": "なくなる",
+    "meaning": "死",
+    "sourceIndex": 840,
+    "sourceMeaningRaw": "[自动·五段] 死；杀；灭亡；亡故，去世",
+    "partOfSpeech": "自动·五段",
+    "elements": [
+      {
+        "element": "亡くなる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字亡くなる意思是死"
+      },
+      {
+        "element": "なくなる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なく+なる\"来记"
+      }
+    ],
+    "mergedScene": "なくなる拆分记忆，意思是死",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なくなる - 拆分记忆 - 死",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この亡くなるは大切です。",
+        "zh": "这个死很重要。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,517 @@
+[
+  {
+    "word": "ずっと",
+    "reading": "ずっと",
+    "meaning": "一直，远远地",
+    "sourceIndex": 1161,
+    "sourceMeaningRaw": "[副词] 远远，很；时间、空间上的遥远貌；（比……）……得多，……得很，还 要……；（从……）一直，始终，从头至尾；径直（走,去,进）",
+    "partOfSpeech": "副词",
+    "elements": [
+      {
+        "element": "ずっと",
+        "method": "TYPE B2",
+        "bridgeC": "ずっと - 促音っ像把时间拉住 - 从早到晚一直等，时间被拖得很长 - 一直，远远地"
+      }
+    ],
+    "mergedScene": "车站月台上，小田从早上等到天黑，手机电量都快没了，人还没来。ずっと 的っ像把时间卡住，表示一直、很久。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ずっと - 促音っ像把时间拉住 - 从早到晚一直等，时间被拖得很长 - 一直，远远地",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "ずっと待っていました。",
+        "zh": "一直在等。"
+      }
+    ]
+  },
+  {
+    "word": "土曜",
+    "reading": "どよう",
+    "meaning": "星期六",
+    "sourceIndex": 1162,
+    "sourceMeaningRaw": "[名·副词] 星期六",
+    "partOfSpeech": "名·副词",
+    "elements": [
+      {
+        "element": "土曜",
+        "method": "TYPE A1",
+        "bridgeC": "土曜 的字面先给出“星期六”这个方向。"
+      },
+      {
+        "element": "どよう",
+        "method": "TYPE B2",
+        "bridgeC": "どよう - 土曜日的缩略 - 周六没有课，像终于能摸到土地出去玩 - 星期六"
+      }
+    ],
+    "mergedScene": "周六早上，小田不用上课，穿上鞋就往公园跑。土曜就是土曜日的缩略，表示星期六。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "どよう - 土曜日的缩略 - 周六没有课，像终于能摸到土地出去玩 - 星期六",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "土曜に映画を見ます。",
+        "zh": "星期六看电影。"
+      }
+    ]
+  },
+  {
+    "word": "規模",
+    "reading": "きぼ",
+    "meaning": "规模",
+    "sourceIndex": 1163,
+    "sourceMeaningRaw": "[名] 规模；范围",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "規模",
+        "method": "TYPE A1",
+        "bridgeC": "規模 的字面先给出“规模”这个方向。"
+      },
+      {
+        "element": "きぼ",
+        "method": "TYPE B2",
+        "bridgeC": "きぼ - 谐音“气魄” - 场面大到有气魄，就是规模大 - 规模"
+      }
+    ],
+    "mergedScene": "学校文化祭布置得像大型展会，入口、舞台、摊位一眼望不到头。小田感叹“有气魄”，規模就是规模。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "きぼ - 谐音“气魄” - 场面大到有气魄，就是规模大 - 规模",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "大きな規模のイベントです。",
+        "zh": "这是大规模的活动。"
+      }
+    ]
+  },
+  {
+    "word": "迷惑",
+    "reading": "めいわく",
+    "meaning": "麻烦，烦扰",
+    "sourceIndex": 1164,
+    "sourceMeaningRaw": "[名·形动] 麻烦，烦扰，为难，打搅，困扰",
+    "partOfSpeech": "名·形动",
+    "elements": [
+      {
+        "element": "迷惑",
+        "method": "TYPE A1",
+        "bridgeC": "迷惑 的字面先给出“麻烦”这个方向。"
+      },
+      {
+        "element": "めいわく",
+        "method": "TYPE B2",
+        "bridgeC": "めいわく - 谐音“没一窝哭” - 一个人添乱，害得一窝人都想哭 - 麻烦，烦扰"
+      }
+    ],
+    "mergedScene": "小田忘记带钥匙，害得室友、房东、同学一整窝人都被叫来帮忙，大家都快哭了。迷惑就是给别人添麻烦。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "めいわく - 谐音“没一窝哭” - 一个人添乱，害得一窝人都想哭 - 麻烦，烦扰",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "人に迷惑をかけないでください。",
+        "zh": "请不要给别人添麻烦。"
+      }
+    ]
+  },
+  {
+    "word": "主",
+    "reading": "おも",
+    "meaning": "主要，重要",
+    "sourceIndex": 1165,
+    "sourceMeaningRaw": "[形动] 要，重要",
+    "partOfSpeech": "形动",
+    "elements": [
+      {
+        "element": "主",
+        "method": "TYPE A1",
+        "bridgeC": "主 的字面先给出“主要”这个方向。"
+      },
+      {
+        "element": "おも",
+        "method": "TYPE B2",
+        "bridgeC": "おも - 主=主要 - 一堆理由里最重的那个，就是主要原因 - 主要，重要"
+      }
+    ],
+    "mergedScene": "讨论迟到原因时，小田列了十条，老师只圈出最重要的一条说：这是主な理由。主在这里表示主要、重要。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "おも - 主=主要 - 一堆理由里最重的那个，就是主要原因 - 主要，重要",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "主な理由を説明します。",
+        "zh": "说明主要理由。"
+      }
+    ]
+  },
+  {
+    "word": "パスポート",
+    "reading": "ぱすぽーと",
+    "meaning": "护照",
+    "sourceIndex": 1166,
+    "sourceMeaningRaw": "[名] 护照",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "パスポート",
+        "method": "外来语",
+        "bridgeC": "パスポート 来自 passport（护照），先用来源词绑定意思“护照”。"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，看到片假名 パスポート，马上联想到 passport（护照），这个小插曲就代表“护照”。重点抓外来语来源：パスポート=护照。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "パスポート - 外来语 passport（护照） - 从来源词直接联想到护照的使用场景 - 护照",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "パスポートを使います。",
+        "zh": "使用护照。"
+      }
+    ]
+  },
+  {
+    "word": "掛ける",
+    "reading": "かける",
+    "meaning": "挂上，打电话，花费",
+    "sourceIndex": 1167,
+    "sourceMeaningRaw": "上；捆上；搭上；发动，开动（机器等）；乘；撩（水）；浇；泼；倒，灌；称， [他动·一段] 挂上，悬挂；拉，挂（幕等）；戴上；蒙上；盖上；花费，花；系 衡量；坐（在…上）；放（在…上）；课（税等）；缴（款）",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "掛ける",
+        "method": "TYPE A1",
+        "bridgeC": "掛ける 的字面先给出“挂上”这个方向。"
+      },
+      {
+        "element": "かける",
+        "method": "TYPE B2",
+        "bridgeC": "かける - 挂这个动作最直观 - 把外套挂上去，也可引申为打电话、花时间 - 挂上，打电话等"
+      }
+    ],
+    "mergedScene": "回到房间，小田把外套掛ける到衣架上，又拿起手机给朋友打电话。掛ける有“挂、打电话、花费”等常见用法。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "かける - 挂这个动作最直观 - 把外套挂上去，也可引申为打电话、花时间 - 挂上，打电话等",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "友だちに電話を掛けます。",
+        "zh": "给朋友打电话。"
+      }
+    ]
+  },
+  {
+    "word": "情報",
+    "reading": "じょうほう",
+    "meaning": "情报，信息",
+    "sourceIndex": 1168,
+    "sourceMeaningRaw": "[名] 情报；消息，信息",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "情報",
+        "method": "TYPE A1",
+        "bridgeC": "情報 的字面先给出“情报”这个方向。"
+      },
+      {
+        "element": "じょうほう",
+        "method": "TYPE B2",
+        "bridgeC": "じょうほう - 情=情况，報=报告 - 把情况报告出来就是信息 - 情报，信息"
+      }
+    ],
+    "mergedScene": "活动前，小田把时间、地点、费用都写在群消息里发给同学。情報就是整理出来的信息、情报。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じょうほう - 情=情况，報=报告 - 把情况报告出来就是信息 - 情报，信息",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "新しい情報を集めます。",
+        "zh": "收集新的信息。"
+      }
+    ]
+  },
+  {
+    "word": "全て",
+    "reading": "すべて",
+    "meaning": "一切，所有",
+    "sourceIndex": 1169,
+    "sourceMeaningRaw": "[名·副词] 一切，所有，全部；都，所有，一切，统统，整个",
+    "partOfSpeech": "名·副词",
+    "elements": [
+      {
+        "element": "全て",
+        "method": "TYPE A1",
+        "bridgeC": "全て 的字面先给出“一切”这个方向。"
+      },
+      {
+        "element": "すべて",
+        "method": "固定读音",
+        "bridgeC": "读音 すべて 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 すべて 作为固定读法记住，再用 全て 的汉字确认意思，这个小插曲就代表“一切”。重点抓汉字直觉和读音绑定：全て=一切，所有。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "全て - 汉字直觉 + 固定读音 すべて - 放进生活场景记“一切” - 一切，所有",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "全てを使います。",
+        "zh": "使用一切。"
+      }
+    ]
+  },
+  {
+    "word": "日記",
+    "reading": "にっき",
+    "meaning": "日记，日记本",
+    "sourceIndex": 1170,
+    "sourceMeaningRaw": "[名] 日记，日记本",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "日記",
+        "method": "TYPE A1",
+        "bridgeC": "日記 的字面先给出“日记”这个方向。"
+      },
+      {
+        "element": "にっき",
+        "method": "固定读音",
+        "bridgeC": "读音 にっき 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在房间里的日历前，小田拿着红笔在日历上圈出日期，读音 にっき 作为固定读法记住，再用 日記 的汉字确认意思，时间格子直接提醒“日记”。重点抓汉字直觉和读音绑定：日記=日记，日记本。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "日記 - 汉字直觉 + 固定读音 にっき - 放进生活场景记“日记” - 日记，日记本",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "日記を使います。",
+        "zh": "使用日记。"
+      }
+    ]
+  },
+  {
+    "word": "伺う",
+    "reading": "うかがう",
+    "meaning": "请教，打听",
+    "sourceIndex": 1171,
+    "sourceMeaningRaw": "[他动·五段] 请教，打听。「聞く·尋ねる·問う」的谦让语；拜访，访问。「訪 ねる·訪問する」的谦让语",
+    "partOfSpeech": "他动·五段",
+    "elements": [
+      {
+        "element": "伺う",
+        "method": "TYPE A1",
+        "bridgeC": "伺う 的字面先给出“请教”这个方向。"
+      },
+      {
+        "element": "うかがう",
+        "method": "固定读音",
+        "bridgeC": "读音 うかがう 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 うかがう 作为固定读法记住，再用 伺う 的汉字确认意思，这个小插曲就代表“请教”。重点抓汉字直觉和读音绑定：伺う=请教，打听。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "伺う - 汉字直觉 + 固定读音 うかがう - 放进生活场景记“请教” - 请教，打听",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "伺うことがあります。",
+        "zh": "有时会请教。"
+      }
+    ]
+  },
+  {
+    "word": "行き先",
+    "reading": "いきさき",
+    "meaning": "去的地方，目的地",
+    "sourceIndex": 1172,
+    "sourceMeaningRaw": "[名] 去的地方，目的地",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "行き先",
+        "method": "TYPE A1",
+        "bridgeC": "行き先 的字面先给出“去的地方”这个方向。"
+      },
+      {
+        "element": "いきさき",
+        "method": "固定读音",
+        "bridgeC": "读音 いきさき 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 いきさき 作为固定读法记住，再用 行き先 的汉字确认意思，这个小插曲就代表“去的地方”。重点抓汉字直觉和读音绑定：行き先=去的地方，目的地。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "行き先 - 汉字直觉 + 固定读音 いきさき - 放进生活场景记“去的地方” - 去的地方，目的地",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "行き先を使います。",
+        "zh": "使用去的地方。"
+      }
+    ]
+  },
+  {
+    "word": "夢",
+    "reading": "ゆめ",
+    "meaning": "梦",
+    "sourceIndex": 1173,
+    "sourceMeaningRaw": "[名] 梦；梦想，幻想；理想",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "夢",
+        "method": "TYPE A1",
+        "bridgeC": "夢 的字面先给出“梦”这个方向。"
+      },
+      {
+        "element": "ゆめ",
+        "method": "固定读音",
+        "bridgeC": "读音 ゆめ 作为固定读法记住"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ゆめ 作为固定读法记住，再用 夢 的汉字确认意思，这个小插曲就代表“梦”。重点抓汉字直觉和读音绑定：夢=梦。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "夢 - 汉字直觉 + 固定读音 ゆめ - 放进生活场景记“梦” - 梦",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "夢を使います。",
+        "zh": "使用梦。"
+      }
+    ]
+  },
+  {
+    "word": "連れる",
+    "reading": "つれる",
+    "meaning": "带，领",
+    "sourceIndex": 1174,
+    "sourceMeaningRaw": "[自他动·一段] 带，领；（常用\"に連れて\"的形式）伴随着；跟随",
+    "partOfSpeech": "自他动·一段",
+    "elements": [
+      {
+        "element": "連れる",
+        "method": "TYPE A1",
+        "bridgeC": "連れる 的汉字先提示核心意思“带，领”。"
+      },
+      {
+        "element": "つれる",
+        "method": "TYPE B2",
+        "bridgeC": "谐音\"椅子\" - \"椅子\"跟着走 - 带领"
+      }
+    ],
+    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，听到 つれる 像“椅子”，这个小插曲就代表“带”。重点抓发音钩子：連れる=带，领。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つれる - 谐音“椅子” - \"椅子\"跟着走 - 带领 - 带，领",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "連れることがあります。",
+        "zh": "有时会带。"
+      }
+    ]
+  },
+  {
+    "word": "運動",
+    "reading": "うんどう",
+    "meaning": "运动",
+    "sourceIndex": 1175,
+    "sourceMeaningRaw": "[名·自动·サ变] 运动；运动，体育运动；运动，活动",
+    "partOfSpeech": "名·自动·サ变",
+    "elements": [
+      {
+        "element": "運動",
+        "method": "TYPE A1",
+        "bridgeC": "運動 的字面先给出“运动”这个方向。"
+      },
+      {
+        "element": "うんどう",
+        "method": "TYPE B2",
+        "bridgeC": "うんどう - 運=运转，動=动 - 身体运转起来就是运动 - 运动"
+      }
+    ],
+    "mergedScene": "清晨操场上，小田边跑边喘，手脚都动起来，身体像机器一样开始运转。運動就是让身体动起来的运动。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "うんどう - 運=运转，動=动 - 身体运转起来就是运动 - 运动",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "毎朝、運動します。",
+        "zh": "每天早上运动。"
+      }
+    ]
+  }
+]

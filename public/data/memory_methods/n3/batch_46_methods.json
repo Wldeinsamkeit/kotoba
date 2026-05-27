@@ -1,0 +1,1287 @@
+[
+  {
+    "word": "零度",
+    "reading": "れいど",
+    "meaning": "名 ",
+    "sourceIndex": 1801,
+    "sourceMeaningRaw": "名 ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "零度",
+        "method": "TYPE A1",
+        "bridgeC": "汉字零度意思是名 "
+      }
+    ],
+    "mergedScene": "零度这个汉字一看就像名 。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "れいど - 零度 - 名 ",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この零度は大切です。",
+        "zh": "这个名 很重要。"
+      }
+    ]
+  },
+  {
+    "word": "冷凍",
+    "reading": "れいとう",
+    "meaning": "冷冻 名·他动 ·サ变",
+    "sourceIndex": 1802,
+    "sourceMeaningRaw": "冷冻 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "冷凍",
+        "method": "TYPE A1",
+        "bridgeC": "汉字冷凍意思是冷冻 名·他动 ·サ变"
+      },
+      {
+        "element": "れいとう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"れい+とう\"来记"
+      }
+    ],
+    "mergedScene": "れいとう拆分记忆，意思是冷冻 名·他动 ·サ变",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "れいとう - 拆分记忆 - 冷冻 名·他动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この冷凍は大切です。",
+        "zh": "这个冷冻 名·他动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "冷房",
+    "reading": "れいぼう",
+    "meaning": "制冷设备，冷气设备",
+    "sourceIndex": 1803,
+    "sourceMeaningRaw": "名·サ变 制冷设备，冷气设备；冷气使室内变凉爽的 设备；制冷，开冷气",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "冷房",
+        "method": "TYPE A1",
+        "bridgeC": "汉字冷房意思是制冷设备，冷气设备"
+      },
+      {
+        "element": "れいぼう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"れい+ぼう\"来记"
+      }
+    ],
+    "mergedScene": "れいぼう拆分记忆，意思是制冷设备，冷气设备",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "れいぼう - 拆分记忆 - 制冷设备，冷气设备",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この冷房は大切です。",
+        "zh": "这个制冷设备，冷气设备很重要。"
+      }
+    ]
+  },
+  {
+    "word": "レジ",
+    "reading": "れじ",
+    "meaning": "银机",
+    "sourceIndex": 1804,
+    "sourceMeaningRaw": "名 银机；收银台 自动记录器，寄存器，现金出 register登记，注册；登记簿，注册簿；收 纳机；现金出纳员，收款员",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "レジ",
+        "method": "外来语",
+        "bridgeC": "レジ来自英语，意思是银机"
+      }
+    ],
+    "mergedScene": "レジ是外来语，来自英语，意思是银机。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "レジ - 外来语英语 - 银机",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このレジは大切です。",
+        "zh": "这个银机很重要。"
+      }
+    ]
+  },
+  {
+    "word": "列車",
+    "reading": "れっしゃ",
+    "meaning": "列车，火车",
+    "sourceIndex": 1805,
+    "sourceMeaningRaw": "名 列车，火车",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "列車",
+        "method": "TYPE A1",
+        "bridgeC": "汉字列車意思是列车，火车"
+      },
+      {
+        "element": "れっしゃ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"れっ+しゃ\"来记"
+      }
+    ],
+    "mergedScene": "れっしゃ拆分记忆，意思是列车，火车",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "れっしゃ - 拆分记忆 - 列车，火车",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この列車は大切です。",
+        "zh": "这个列车，火车很重要。"
+      }
+    ]
+  },
+  {
+    "word": "列島",
+    "reading": "れっとう",
+    "meaning": "列岛，群岛",
+    "sourceIndex": 1806,
+    "sourceMeaningRaw": "名 列岛，群岛",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "列島",
+        "method": "TYPE A1",
+        "bridgeC": "汉字列島意思是列岛，群岛"
+      },
+      {
+        "element": "れっとう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"れっ+とう\"来记"
+      }
+    ],
+    "mergedScene": "れっとう拆分记忆，意思是列岛，群岛",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "れっとう - 拆分记忆 - 列岛，群岛",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この列島は大切です。",
+        "zh": "这个列岛，群岛很重要。"
+      }
+    ]
+  },
+  {
+    "word": "レバー",
+    "reading": "ればあ",
+    "meaning": "liver肝，肝脏",
+    "sourceIndex": 1807,
+    "sourceMeaningRaw": "名 liver肝，肝脏；lever杠杆；手柄利用杠杆做 成的把手",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "レバー",
+        "method": "外来语",
+        "bridgeC": "レバー来自英语，意思是liver肝，肝脏"
+      }
+    ],
+    "mergedScene": "レバー是外来语，来自英语，意思是liver肝，肝脏。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "レバー - 外来语英语 - liver肝，肝脏",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このレバーは大切です。",
+        "zh": "这个liver肝，肝脏很重要。"
+      }
+    ]
+  },
+  {
+    "word": "レベル",
+    "reading": "れべる",
+    "meaning": "水平仪，水准仪",
+    "sourceIndex": 1808,
+    "sourceMeaningRaw": "名 水平仪，水准仪；水平，水平线；阶段",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "レベル",
+        "method": "外来语",
+        "bridgeC": "レベル来自英语，意思是水平仪，水准仪"
+      }
+    ],
+    "mergedScene": "レベル是外来语，来自英语，意思是水平仪，水准仪。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "レベル - 外来语英语 - 水平仪，水准仪",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このレベルは大切です。",
+        "zh": "这个水平仪，水准仪很重要。"
+      }
+    ]
+  },
+  {
+    "word": "恋愛",
+    "reading": "れんあい",
+    "meaning": "爱情，恋爱 名·自动 ·サ变",
+    "sourceIndex": 1809,
+    "sourceMeaningRaw": "爱情，恋爱 名·自动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "恋愛",
+        "method": "TYPE A1",
+        "bridgeC": "汉字恋愛意思是爱情，恋爱 名·自动 ·サ变"
+      },
+      {
+        "element": "れんあい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"れん+あい\"来记"
+      }
+    ],
+    "mergedScene": "れんあい拆分记忆，意思是爱情，恋爱 名·自动 ·サ变",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "れんあい - 拆分记忆 - 爱情，恋爱 名·自动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この恋愛は大切です。",
+        "zh": "这个爱情，恋爱 名·自动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "連日",
+    "reading": "れんじつ",
+    "meaning": "副词 连日，接连几天",
+    "sourceIndex": 1810,
+    "sourceMeaningRaw": "名·副词 连日，接连几天",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "連日",
+        "method": "TYPE A1",
+        "bridgeC": "汉字連日意思是副词 连日，接连几天"
+      },
+      {
+        "element": "れんじつ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"れん+じつ\"来记"
+      }
+    ],
+    "mergedScene": "れんじつ拆分记忆，意思是副词 连日，接连几天",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "れんじつ - 拆分记忆 - 副词 连日，接连几天",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この連日は大切です。",
+        "zh": "这个副词 连日，接连几天很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ローマ字",
+    "reading": "ろーまじ",
+    "meaning": "罗马字，罗马字母",
+    "sourceIndex": 1811,
+    "sourceMeaningRaw": "名 罗马字，罗马字母",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ローマ字",
+        "method": "TYPE A1",
+        "bridgeC": "汉字ローマ字意思是罗马字，罗马字母"
+      },
+      {
+        "element": "ろーまじ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ろー+まじ\"来记"
+      }
+    ],
+    "mergedScene": "ろーまじ拆分记忆，意思是罗马字，罗马字母",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ろーまじ - 拆分记忆 - 罗马字，罗马字母",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このローマ字は大切です。",
+        "zh": "这个罗马字，罗马字母很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ロビー",
+    "reading": "ろびー",
+    "meaning": "lobby前厅，门厅",
+    "sourceIndex": 1812,
+    "sourceMeaningRaw": "名 lobby前厅，门厅，门廊，休息厅；议会接 待室，休息室，走廊",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ロビー",
+        "method": "外来语",
+        "bridgeC": "ロビー来自lobby，意思是lobby前厅，门厅"
+      }
+    ],
+    "mergedScene": "ロビー是外来语，来自lobby，意思是lobby前厅，门厅。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ロビー - 外来语lobby - lobby前厅，门厅",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このロビーは大切です。",
+        "zh": "这个lobby前厅，门厅很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ロボット",
+    "reading": "ろぼっと",
+    "meaning": "器，自动装置遥控设备",
+    "sourceIndex": 1813,
+    "sourceMeaningRaw": "名 器，自动装置遥控设备，遥控机械装置；傀 robot机器人，机械人；自动机，自动仪 儡",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ロボット",
+        "method": "外来语",
+        "bridgeC": "ロボット来自英语，意思是器，自动装置遥控设备"
+      }
+    ],
+    "mergedScene": "ロボット是外来语，来自英语，意思是器，自动装置遥控设备。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ロボット - 外来语英语 - 器，自动装置遥控设备",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このロボットは大切です。",
+        "zh": "这个器，自动装置遥控设备很重要。"
+      }
+    ]
+  },
+  {
+    "word": "論文",
+    "reading": "ろんぶん",
+    "meaning": "论文用理论性的条理对某种事物加以阐述的 文章",
+    "sourceIndex": 1814,
+    "sourceMeaningRaw": "名 论文用理论性的条理对某种事物加以阐述的 文章；论文理论性记叙学术研究成果的文章",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "論文",
+        "method": "TYPE A1",
+        "bridgeC": "汉字論文意思是论文用理论性的条理对某种事物加以阐述的 文章"
+      },
+      {
+        "element": "ろんぶん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ろん+ぶん\"来记"
+      }
+    ],
+    "mergedScene": "ろんぶん拆分记忆，意思是论文用理论性的条理对某种事物加以阐述的 文章",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ろんぶん - 拆分记忆 - 论文用理论性的条理对某种事物加以阐述的 文章",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この論文は大切です。",
+        "zh": "这个论文用理论性的条理对某种事物加以阐述的 文章很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ワイパー",
+    "reading": "わいぱー",
+    "meaning": "汽车雨刷，揩抹器",
+    "sourceIndex": 1815,
+    "sourceMeaningRaw": "名 汽车雨刷，揩抹器，车窗〔风挡〕刮水器， 风挡雨刷子",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ワイパー",
+        "method": "外来语",
+        "bridgeC": "ワイパー来自英语，意思是汽车雨刷，揩抹器"
+      }
+    ],
+    "mergedScene": "ワイパー是外来语，来自英语，意思是汽车雨刷，揩抹器。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ワイパー - 外来语英语 - 汽车雨刷，揩抹器",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このワイパーは大切です。",
+        "zh": "这个汽车雨刷，揩抹器很重要。"
+      }
+    ]
+  },
+  {
+    "word": "我が",
+    "reading": "わが",
+    "meaning": "连体词 我的，我们的",
+    "sourceIndex": 1816,
+    "sourceMeaningRaw": "连体词 我的，我们的",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "我が",
+        "method": "TYPE A1",
+        "bridgeC": "汉字我が意思是连体词 我的，我们的"
+      }
+    ],
+    "mergedScene": "我が这个汉字一看就像连体词 我的，我们的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わが - 我が - 连体词 我的，我们的",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この我がは大切です。",
+        "zh": "这个连体词 我的，我们的很重要。"
+      }
+    ]
+  },
+  {
+    "word": "わがまま",
+    "reading": "わがまま",
+    "meaning": "形动 任性",
+    "sourceIndex": 1817,
+    "sourceMeaningRaw": "名·形动 任性；恣意；放肆",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "わがまま",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"わが+まま\"来记"
+      }
+    ],
+    "mergedScene": "わがまま拆分记忆，意思是形动 任性",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わがまま - 拆分记忆 - 形动 任性",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このわがままは大切です。",
+        "zh": "这个形动 任性很重要。"
+      }
+    ]
+  },
+  {
+    "word": "沸かす",
+    "reading": "わかす",
+    "meaning": "五 烧开，烧热",
+    "sourceIndex": 1818,
+    "sourceMeaningRaw": "他动·五 烧开，烧热；使……沸腾，使……狂热 段 使……兴高采烈",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "沸かす",
+        "method": "TYPE A1",
+        "bridgeC": "汉字沸かす意思是五 烧开，烧热"
+      }
+    ],
+    "mergedScene": "沸かす这个汉字一看就像五 烧开，烧热。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わかす - 沸かす - 五 烧开，烧热",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この沸かすは大切です。",
+        "zh": "这个五 烧开，烧热很重要。"
+      }
+    ]
+  },
+  {
+    "word": "若者",
+    "reading": "わかもの",
+    "meaning": "年轻人，青年",
+    "sourceIndex": 1819,
+    "sourceMeaningRaw": "名 年轻人，青年",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "若者",
+        "method": "TYPE A1",
+        "bridgeC": "汉字若者意思是年轻人，青年"
+      },
+      {
+        "element": "わかもの",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"わか+もの\"来记"
+      }
+    ],
+    "mergedScene": "わかもの拆分记忆，意思是年轻人，青年",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わかもの - 拆分记忆 - 年轻人，青年",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この若者は大切です。",
+        "zh": "这个年轻人，青年很重要。"
+      }
+    ]
+  },
+  {
+    "word": "別れ",
+    "reading": "わかれ",
+    "meaning": "离别",
+    "sourceIndex": 1820,
+    "sourceMeaningRaw": "名 离别（）；辞别",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "別れ",
+        "method": "TYPE A1",
+        "bridgeC": "汉字別れ意思是离别"
+      }
+    ],
+    "mergedScene": "別れ这个汉字一看就像离别。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わかれ - 別れ - 离别",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この別れは大切です。",
+        "zh": "这个离别很重要。"
+      }
+    ]
+  },
+  {
+    "word": "沸く",
+    "reading": "わく",
+    "meaning": "五 沸腾，烧开",
+    "sourceIndex": 1821,
+    "sourceMeaningRaw": "自动·五 沸腾，烧开，烧热；激动，兴奋；熔化；哄 段 闹，吵嚷",
+    "partOfSpeech": "自动·五",
+    "elements": [
+      {
+        "element": "沸く",
+        "method": "TYPE A1",
+        "bridgeC": "汉字沸く意思是五 沸腾，烧开"
+      }
+    ],
+    "mergedScene": "沸く这个汉字一看就像五 沸腾，烧开。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わく - 沸く - 五 沸腾，烧开",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この沸くは大切です。",
+        "zh": "这个五 沸腾，烧开很重要。"
+      }
+    ]
+  },
+  {
+    "word": "輪ゴム",
+    "reading": "わごむ",
+    "meaning": "橡皮圈",
+    "sourceIndex": 1822,
+    "sourceMeaningRaw": "名 （捆物等用的）橡皮圈",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "輪ゴム",
+        "method": "TYPE A1",
+        "bridgeC": "汉字輪ゴム意思是橡皮圈"
+      }
+    ],
+    "mergedScene": "輪ゴム这个汉字一看就像橡皮圈。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わごむ - 輪ゴム - 橡皮圈",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この輪ゴムは大切です。",
+        "zh": "这个橡皮圈很重要。"
+      }
+    ]
+  },
+  {
+    "word": "わざと",
+    "reading": "わざと",
+    "meaning": "词 故意地",
+    "sourceIndex": 1823,
+    "sourceMeaningRaw": "副词 故意地。",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "わざと",
+        "method": "TYPE B2",
+        "bridgeC": "わざと表示词 故意地"
+      }
+    ],
+    "mergedScene": "わざと的意思就是词 故意地。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わざと - 词 故意地",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このわざとは大切です。",
+        "zh": "这个词 故意地很重要。"
+      }
+    ]
+  },
+  {
+    "word": "わざわざ",
+    "reading": "わざわざ",
+    "meaning": "词 故意",
+    "sourceIndex": 1824,
+    "sourceMeaningRaw": "副词 故意；特地",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "わざわざ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"わざ+わざ\"来记"
+      }
+    ],
+    "mergedScene": "わざわざ拆分记忆，意思是词 故意",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わざわざ - 拆分记忆 - 词 故意",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このわざわざは大切です。",
+        "zh": "这个词 故意很重要。"
+      }
+    ]
+  },
+  {
+    "word": "和食",
+    "reading": "わしょく",
+    "meaning": "日餐，日式饭菜",
+    "sourceIndex": 1825,
+    "sourceMeaningRaw": "名 日餐，日式饭菜",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "和食",
+        "method": "TYPE A1",
+        "bridgeC": "汉字和食意思是日餐，日式饭菜"
+      },
+      {
+        "element": "わしょく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"わし+ょく\"来记"
+      }
+    ],
+    "mergedScene": "わしょく拆分记忆，意思是日餐，日式饭菜",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わしょく - 拆分记忆 - 日餐，日式饭菜",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この和食は大切です。",
+        "zh": "这个日餐，日式饭菜很重要。"
+      }
+    ]
+  },
+  {
+    "word": "わずか",
+    "reading": "わずか",
+    "meaning": "词 仅，才",
+    "sourceIndex": 1826,
+    "sourceMeaningRaw": "副词 仅，才，稍微，一点点",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "わずか",
+        "method": "TYPE B2",
+        "bridgeC": "わずか表示词 仅，才"
+      }
+    ],
+    "mergedScene": "わずか的意思就是词 仅，才。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わずか - 词 仅，才",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このわずかは大切です。",
+        "zh": "这个词 仅，才很重要。"
+      }
+    ]
+  },
+  {
+    "word": "話題",
+    "reading": "わだい",
+    "meaning": "话题，成为谈话中心的题目和材料",
+    "sourceIndex": 1827,
+    "sourceMeaningRaw": "名 话题，成为谈话中心的题目和材料。",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "話題",
+        "method": "TYPE A1",
+        "bridgeC": "汉字話題意思是话题，成为谈话中心的题目和材料"
+      }
+    ],
+    "mergedScene": "話題这个汉字一看就像话题，成为谈话中心的题目和材料。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わだい - 話題 - 话题，成为谈话中心的题目和材料",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この話題は大切です。",
+        "zh": "这个话题，成为谈话中心的题目和材料很重要。"
+      }
+    ]
+  },
+  {
+    "word": "詫びる",
+    "reading": "わびる",
+    "meaning": "道歉，赔不是",
+    "sourceIndex": 1828,
+    "sourceMeaningRaw": "道歉，赔不是，谢罪，承认错误 他动·一 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "詫びる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字詫びる意思是道歉，赔不是"
+      }
+    ],
+    "mergedScene": "詫びる这个汉字一看就像道歉，赔不是。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わびる - 詫びる - 道歉，赔不是",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この詫びるは大切です。",
+        "zh": "这个道歉，赔不是很重要。"
+      }
+    ]
+  },
+  {
+    "word": "笑い",
+    "reading": "わらい",
+    "meaning": "笑",
+    "sourceIndex": 1829,
+    "sourceMeaningRaw": "名 笑；嘲笑,冷笑",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "笑い",
+        "method": "TYPE A1",
+        "bridgeC": "汉字笑い意思是笑"
+      }
+    ],
+    "mergedScene": "笑い这个汉字一看就像笑。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わらい - 笑い - 笑",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この笑いは大切です。",
+        "zh": "这个笑很重要。"
+      }
+    ]
+  },
+  {
+    "word": "笑える",
+    "reading": "わらえる",
+    "meaning": "一 自然而然地笑起来，情不自禁地笑",
+    "sourceIndex": 1830,
+    "sourceMeaningRaw": "自动·一 自然而然地笑起来，情不自禁地笑；能笑， 段 值得笑",
+    "partOfSpeech": "自动·一",
+    "elements": [
+      {
+        "element": "笑える",
+        "method": "TYPE A1",
+        "bridgeC": "汉字笑える意思是一 自然而然地笑起来，情不自禁地笑"
+      },
+      {
+        "element": "わらえる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"わら+える\"来记"
+      }
+    ],
+    "mergedScene": "わらえる拆分记忆，意思是一 自然而然地笑起来，情不自禁地笑",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わらえる - 拆分记忆 - 一 自然而然地笑起来，情不自禁地笑",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この笑えるは大切です。",
+        "zh": "这个一 自然而然地笑起来，情不自禁地笑很重要。"
+      }
+    ]
+  },
+  {
+    "word": "割り勘",
+    "reading": "わりかん",
+    "meaning": "分担费用，大家均摊AA制",
+    "sourceIndex": 1831,
+    "sourceMeaningRaw": "名 分担费用，大家均摊AA制",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "割り勘",
+        "method": "TYPE A1",
+        "bridgeC": "汉字割り勘意思是分担费用，大家均摊AA制"
+      },
+      {
+        "element": "わりかん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"わり+かん\"来记"
+      }
+    ],
+    "mergedScene": "わりかん拆分记忆，意思是分担费用，大家均摊AA制",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わりかん - 拆分记忆 - 分担费用，大家均摊AA制",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この割り勘は大切です。",
+        "zh": "这个分担费用，大家均摊AA制很重要。"
+      }
+    ]
+  },
+  {
+    "word": "割り算",
+    "reading": "わりざん",
+    "meaning": "〈数〉除法",
+    "sourceIndex": 1832,
+    "sourceMeaningRaw": "名 〈数〉除法",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "割り算",
+        "method": "TYPE A1",
+        "bridgeC": "汉字割り算意思是〈数〉除法"
+      },
+      {
+        "element": "わりざん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"わり+ざん\"来记"
+      }
+    ],
+    "mergedScene": "わりざん拆分记忆，意思是〈数〉除法",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わりざん - 拆分记忆 - 〈数〉除法",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この割り算は大切です。",
+        "zh": "这个〈数〉除法很重要。"
+      }
+    ]
+  },
+  {
+    "word": "割りに",
+    "reading": "わりに",
+    "meaning": "词 比较",
+    "sourceIndex": 1833,
+    "sourceMeaningRaw": "副词 比较；相对",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "割りに",
+        "method": "TYPE A1",
+        "bridgeC": "汉字割りに意思是词 比较"
+      }
+    ],
+    "mergedScene": "割りに这个汉字一看就像词 比较。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わりに - 割りに - 词 比较",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この割りには大切です。",
+        "zh": "这个词 比较很重要。"
+      }
+    ]
+  },
+  {
+    "word": "割引",
+    "reading": "わりびき",
+    "meaning": "打折，折扣",
+    "sourceIndex": 1834,
+    "sourceMeaningRaw": "打折，折扣，减价；贴现 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "割引",
+        "method": "TYPE A1",
+        "bridgeC": "汉字割引意思是打折，折扣"
+      },
+      {
+        "element": "わりびき",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"わり+びき\"来记"
+      }
+    ],
+    "mergedScene": "わりびき拆分记忆，意思是打折，折扣",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わりびき - 拆分记忆 - 打折，折扣",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この割引は大切です。",
+        "zh": "这个打折，折扣很重要。"
+      }
+    ]
+  },
+  {
+    "word": "割り引く",
+    "reading": "わりびく",
+    "meaning": "五 打折，减价",
+    "sourceIndex": 1835,
+    "sourceMeaningRaw": "他动·五 打折，减价；保守估计，低估；（把期票） 段 贴现",
+    "partOfSpeech": "他动·五",
+    "elements": [
+      {
+        "element": "割り引く",
+        "method": "TYPE A1",
+        "bridgeC": "汉字割り引く意思是五 打折，减价"
+      },
+      {
+        "element": "わりびく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"わり+びく\"来记"
+      }
+    ],
+    "mergedScene": "わりびく拆分记忆，意思是五 打折，减价",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わりびく - 拆分记忆 - 五 打折，减价",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この割り引くは大切です。",
+        "zh": "这个五 打折，减价很重要。"
+      }
+    ]
+  },
+  {
+    "word": "割る",
+    "reading": "わる",
+    "meaning": "瞒地说出来",
+    "sourceIndex": 1836,
+    "sourceMeaningRaw": "瞒地说出来；敞开；亮出；挑明；坦白；数 开；分开；挤开；推开；稀释，兑；毫不隐 他动·五 段 量降到某一基准点以下；低于；降到…以 下；打破；相扑比赛时，被摔出圈外；出 （圈儿）",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "割る",
+        "method": "TYPE A1",
+        "bridgeC": "汉字割る意思是瞒地说出来"
+      }
+    ],
+    "mergedScene": "割る这个汉字一看就像瞒地说出来。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わる - 割る - 瞒地说出来",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この割るは大切です。",
+        "zh": "这个瞒地说出来很重要。"
+      }
+    ]
+  },
+  {
+    "word": "悪口",
+    "reading": "わるくち",
+    "meaning": "坏话，诽谤",
+    "sourceIndex": 1837,
+    "sourceMeaningRaw": "名 坏话，诽谤，骂人",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "悪口",
+        "method": "TYPE A1",
+        "bridgeC": "汉字悪口意思是坏话，诽谤"
+      },
+      {
+        "element": "わるくち",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"わる+くち\"来记"
+      }
+    ],
+    "mergedScene": "わるくち拆分记忆，意思是坏话，诽谤",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "わるくち - 拆分记忆 - 坏话，诽谤",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この悪口は大切です。",
+        "zh": "这个坏话，诽谤很重要。"
+      }
+    ]
+  },
+  {
+    "word": "割れる",
+    "reading": "われる",
+    "meaning": "破，破碎",
+    "sourceIndex": 1838,
+    "sourceMeaningRaw": "破，破碎；破裂，分裂；裂开；暴露；除尽 自动·一 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "割れる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字割れる意思是破，破碎"
+      }
+    ],
+    "mergedScene": "割れる这个汉字一看就像破，破碎。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "われる - 割れる - 破，破碎",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この割れるは大切です。",
+        "zh": "这个破，破碎很重要。"
+      }
+    ]
+  },
+  {
+    "word": "我",
+    "reading": "われわれ",
+    "meaning": "々 名 们，咱们",
+    "sourceIndex": 1839,
+    "sourceMeaningRaw": "々 名 们，咱们，等",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "我",
+        "method": "TYPE A1",
+        "bridgeC": "汉字我意思是々 名 们，咱们"
+      },
+      {
+        "element": "われわれ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"われ+われ\"来记"
+      }
+    ],
+    "mergedScene": "われわれ拆分记忆，意思是々 名 们，咱们",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "われわれ - 拆分记忆 - 々 名 们，咱们",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この我は大切です。",
+        "zh": "这个々 名 们，咱们很重要。"
+      }
+    ]
+  },
+  {
+    "word": "事実",
+    "reading": "じじつ",
+    "meaning": "副词 事实",
+    "sourceIndex": 1840,
+    "sourceMeaningRaw": "名·副词 事实；真实；事实上，实际上；确实",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "事実",
+        "method": "TYPE A1",
+        "bridgeC": "汉字事実意思是副词 事实"
+      }
+    ],
+    "mergedScene": "事実这个汉字一看就像副词 事实。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じじつ - 事実 - 副词 事实",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この事実は大切です。",
+        "zh": "这个副词 事实很重要。"
+      }
+    ]
+  }
+]

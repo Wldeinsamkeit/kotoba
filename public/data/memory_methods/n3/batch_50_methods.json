@@ -1,0 +1,1327 @@
+[
+  {
+    "word": "印",
+    "reading": "しるし",
+    "meaning": "记号，标记",
+    "sourceIndex": 1961,
+    "sourceMeaningRaw": "名 记号，标记；证据；信号；心意",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "印",
+        "method": "TYPE A1",
+        "bridgeC": "汉字印意思是记号，标记"
+      }
+    ],
+    "mergedScene": "印这个汉字一看就像记号，标记。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しるし - 印 - 记号，标记",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この印は大切です。",
+        "zh": "这个记号，标记很重要。"
+      }
+    ]
+  },
+  {
+    "word": "白黒",
+    "reading": "しろくろ",
+    "meaning": "黑白，白和黑",
+    "sourceIndex": 1962,
+    "sourceMeaningRaw": "名·サ变 黑白，白和黑；是非，皂白，有罪无罪；好 歹；黑白",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "白黒",
+        "method": "TYPE A1",
+        "bridgeC": "汉字白黒意思是黑白，白和黑"
+      },
+      {
+        "element": "しろくろ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しろ+くろ\"来记"
+      }
+    ],
+    "mergedScene": "しろくろ拆分记忆，意思是黑白，白和黑",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しろくろ - 拆分记忆 - 黑白，白和黑",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この白黒は大切です。",
+        "zh": "这个黑白，白和黑很重要。"
+      }
+    ]
+  },
+  {
+    "word": "皺",
+    "reading": "しわ",
+    "meaning": "皱纹皱折，褶子",
+    "sourceIndex": 1963,
+    "sourceMeaningRaw": "名 皱纹皱折，褶子",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "皺",
+        "method": "TYPE A1",
+        "bridgeC": "汉字皺意思是皱纹皱折，褶子"
+      }
+    ],
+    "mergedScene": "皺这个汉字一看就像皱纹皱折，褶子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しわ - 皺 - 皱纹皱折，褶子",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この皺は大切です。",
+        "zh": "这个皱纹皱折，褶子很重要。"
+      }
+    ]
+  },
+  {
+    "word": "進学",
+    "reading": "しんがく",
+    "meaning": "进，升学 名·自动 ·サ变",
+    "sourceIndex": 1964,
+    "sourceMeaningRaw": "进，升学 名·自动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "進学",
+        "method": "TYPE A1",
+        "bridgeC": "汉字進学意思是进，升学 名·自动 ·サ变"
+      },
+      {
+        "element": "しんがく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+がく\"来记"
+      }
+    ],
+    "mergedScene": "しんがく拆分记忆，意思是进，升学 名·自动 ·サ变",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんがく - 拆分记忆 - 进，升学 名·自动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この進学は大切です。",
+        "zh": "这个进，升学 名·自动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "信号",
+    "reading": "しんごう",
+    "meaning": "，暗号",
+    "sourceIndex": 1965,
+    "sourceMeaningRaw": "名 ，暗号；红绿灯；器",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "信号",
+        "method": "TYPE A1",
+        "bridgeC": "汉字信号意思是，暗号"
+      },
+      {
+        "element": "しんごう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+ごう\"来记"
+      }
+    ],
+    "mergedScene": "しんごう拆分记忆，意思是，暗号",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんごう - 拆分记忆 - ，暗号",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この信号は大切です。",
+        "zh": "这个，暗号很重要。"
+      }
+    ]
+  },
+  {
+    "word": "人口",
+    "reading": "じんこう",
+    "meaning": "名 ",
+    "sourceIndex": 1966,
+    "sourceMeaningRaw": "名 ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "人口",
+        "method": "TYPE A1",
+        "bridgeC": "汉字人口意思是名 "
+      },
+      {
+        "element": "じんこう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"じん+こう\"来记"
+      }
+    ],
+    "mergedScene": "じんこう拆分记忆，意思是名 ",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じんこう - 拆分记忆 - 名 ",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この人口は大切です。",
+        "zh": "这个名 很重要。"
+      }
+    ]
+  },
+  {
+    "word": "人工",
+    "reading": "じんこう",
+    "meaning": "，人造，人为",
+    "sourceIndex": 1967,
+    "sourceMeaningRaw": "名 ，人造，人为",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "人工",
+        "method": "TYPE A1",
+        "bridgeC": "汉字人工意思是，人造，人为"
+      },
+      {
+        "element": "じんこう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"じん+こう\"来记"
+      }
+    ],
+    "mergedScene": "じんこう拆分记忆，意思是，人造，人为",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じんこう - 拆分记忆 - ，人造，人为",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この人工は大切です。",
+        "zh": "这个，人造，人为很重要。"
+      }
+    ]
+  },
+  {
+    "word": "深刻",
+    "reading": "しんこく",
+    "meaning": "严肃",
+    "sourceIndex": 1968,
+    "sourceMeaningRaw": "形动 严肃；严重，重大；；尖锐；打动人心",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "深刻",
+        "method": "TYPE A1",
+        "bridgeC": "汉字深刻意思是严肃"
+      },
+      {
+        "element": "しんこく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+こく\"来记"
+      }
+    ],
+    "mergedScene": "しんこく拆分记忆，意思是严肃",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんこく - 拆分记忆 - 严肃",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この深刻は大切です。",
+        "zh": "这个严肃很重要。"
+      }
+    ]
+  },
+  {
+    "word": "診察",
+    "reading": "しんさつ",
+    "meaning": "看病，检查身体、患部",
+    "sourceIndex": 1969,
+    "sourceMeaningRaw": "看病，检查（身体、患部），诊察 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "診察",
+        "method": "TYPE A1",
+        "bridgeC": "汉字診察意思是看病，检查身体、患部"
+      },
+      {
+        "element": "しんさつ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+さつ\"来记"
+      }
+    ],
+    "mergedScene": "しんさつ拆分记忆，意思是看病，检查身体、患部",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんさつ - 拆分记忆 - 看病，检查身体、患部",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この診察は大切です。",
+        "zh": "这个看病，检查身体、患部很重要。"
+      }
+    ]
+  },
+  {
+    "word": "人事",
+    "reading": "じんじ",
+    "meaning": "世间的事，世事",
+    "sourceIndex": 1970,
+    "sourceMeaningRaw": "名 世间的事，世事；（人类能做到的事）人 事；（职务）；；工作",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "人事",
+        "method": "TYPE A1",
+        "bridgeC": "汉字人事意思是世间的事，世事"
+      }
+    ],
+    "mergedScene": "人事这个汉字一看就像世间的事，世事。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じんじ - 人事 - 世间的事，世事",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この人事は大切です。",
+        "zh": "这个世间的事，世事很重要。"
+      }
+    ]
+  },
+  {
+    "word": "寝室",
+    "reading": "しんしつ",
+    "meaning": "卧室,卧房",
+    "sourceIndex": 1971,
+    "sourceMeaningRaw": "名 卧室,卧房",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "寝室",
+        "method": "TYPE A1",
+        "bridgeC": "汉字寝室意思是卧室,卧房"
+      },
+      {
+        "element": "しんしつ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+しつ\"来记"
+      }
+    ],
+    "mergedScene": "しんしつ拆分记忆，意思是卧室,卧房",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんしつ - 拆分记忆 - 卧室,卧房",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この寝室は大切です。",
+        "zh": "这个卧室,卧房很重要。"
+      }
+    ]
+  },
+  {
+    "word": "人生",
+    "reading": "じんせい",
+    "meaning": "人的一生一生",
+    "sourceIndex": 1972,
+    "sourceMeaningRaw": "名 人的一生（一生）；生涯；，人的生活",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "人生",
+        "method": "TYPE A1",
+        "bridgeC": "汉字人生意思是人的一生一生"
+      },
+      {
+        "element": "じんせい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"じん+せい\"来记"
+      }
+    ],
+    "mergedScene": "じんせい拆分记忆，意思是人的一生一生",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じんせい - 拆分记忆 - 人的一生一生",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この人生は大切です。",
+        "zh": "这个人的一生一生很重要。"
+      }
+    ]
+  },
+  {
+    "word": "心臓",
+    "reading": "しんぞう",
+    "meaning": "心脏，心",
+    "sourceIndex": 1973,
+    "sourceMeaningRaw": "名 心脏，心；厚脸皮；勇气；胆量；心脏，比 喻组织，事物中最重要的部分",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "心臓",
+        "method": "TYPE A1",
+        "bridgeC": "汉字心臓意思是心脏，心"
+      },
+      {
+        "element": "しんぞう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+ぞう\"来记"
+      }
+    ],
+    "mergedScene": "しんぞう拆分记忆，意思是心脏，心",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんぞう - 拆分记忆 - 心脏，心",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この心臓は大切です。",
+        "zh": "这个心脏，心很重要。"
+      }
+    ]
+  },
+  {
+    "word": "診断",
+    "reading": "しんだん",
+    "meaning": "诊断",
+    "sourceIndex": 1974,
+    "sourceMeaningRaw": "诊断；判断 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "診断",
+        "method": "TYPE A1",
+        "bridgeC": "汉字診断意思是诊断"
+      },
+      {
+        "element": "しんだん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+だん\"来记"
+      }
+    ],
+    "mergedScene": "しんだん拆分记忆，意思是诊断",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんだん - 拆分记忆 - 诊断",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この診断は大切です。",
+        "zh": "这个诊断很重要。"
+      }
+    ]
+  },
+  {
+    "word": "しんと",
+    "reading": "しんと",
+    "meaning": "词 平静下来下去",
+    "sourceIndex": 1975,
+    "sourceMeaningRaw": "副词 平静下来（下去），安静下来（下去）；寂 静，肃静，静悄悄的，鸦雀无声，默然无声",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "しんと",
+        "method": "TYPE B2",
+        "bridgeC": "しんと表示词 平静下来下去"
+      }
+    ],
+    "mergedScene": "しんと的意思就是词 平静下来下去。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんと - 词 平静下来下去",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このしんとは大切です。",
+        "zh": "这个词 平静下来下去很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ぶつ",
+    "reading": "じん",
+    "meaning": "① 人物 名 人，人物",
+    "sourceIndex": 1976,
+    "sourceMeaningRaw": "① 人物 名 人，人物；为人，人品；人材；〔小说等 的〕人物",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "じん",
+        "method": "TYPE B2",
+        "bridgeC": "じん表示① 人物 名 人，人物"
+      }
+    ],
+    "mergedScene": "じん的意思就是① 人物 名 人，人物。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じん - ① 人物 名 人，人物",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このぶつは大切です。",
+        "zh": "这个① 人物 名 人，人物很重要。"
+      }
+    ]
+  },
+  {
+    "word": "進歩",
+    "reading": "しんぽ",
+    "meaning": "进步 名·自动 ·サ变",
+    "sourceIndex": 1977,
+    "sourceMeaningRaw": "进步 名·自动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "進歩",
+        "method": "TYPE A1",
+        "bridgeC": "汉字進歩意思是进步 名·自动 ·サ变"
+      }
+    ],
+    "mergedScene": "進歩这个汉字一看就像进步 名·自动 ·サ变。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんぽ - 進歩 - 进步 名·自动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この進歩は大切です。",
+        "zh": "这个进步 名·自动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "親友",
+    "reading": "しんゆう",
+    "meaning": "非常亲近推心置腹的朋友，亲密的朋友",
+    "sourceIndex": 1978,
+    "sourceMeaningRaw": "名 非常亲近推心置腹的朋友，亲密的朋友，至 交，挚友，密友",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "親友",
+        "method": "TYPE A1",
+        "bridgeC": "汉字親友意思是非常亲近推心置腹的朋友，亲密的朋友"
+      },
+      {
+        "element": "しんゆう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+ゆう\"来记"
+      }
+    ],
+    "mergedScene": "しんゆう拆分记忆，意思是非常亲近推心置腹的朋友，亲密的朋友",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんゆう - 拆分记忆 - 非常亲近推心置腹的朋友，亲密的朋友",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この親友は大切です。",
+        "zh": "这个非常亲近推心置腹的朋友，亲密的朋友很重要。"
+      }
+    ]
+  },
+  {
+    "word": "信用",
+    "reading": "しんよう",
+    "meaning": "信，相信",
+    "sourceIndex": 1979,
+    "sourceMeaningRaw": "名·サ变 信，相信；坚信，确信；置信；信誉，信 用；信任，信赖。",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "信用",
+        "method": "TYPE A1",
+        "bridgeC": "汉字信用意思是信，相信"
+      },
+      {
+        "element": "しんよう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+よう\"来记"
+      }
+    ],
+    "mergedScene": "しんよう拆分记忆，意思是信，相信",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんよう - 拆分记忆 - 信，相信",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この信用は大切です。",
+        "zh": "这个信，相信很重要。"
+      }
+    ]
+  },
+  {
+    "word": "信頼",
+    "reading": "しんらい",
+    "meaning": "信赖 名·他动 ·サ变",
+    "sourceIndex": 1980,
+    "sourceMeaningRaw": "信赖 名·他动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "信頼",
+        "method": "TYPE A1",
+        "bridgeC": "汉字信頼意思是信赖 名·他动 ·サ变"
+      },
+      {
+        "element": "しんらい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+らい\"来记"
+      }
+    ],
+    "mergedScene": "しんらい拆分记忆，意思是信赖 名·他动 ·サ变",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんらい - 拆分记忆 - 信赖 名·他动 ·サ变",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この信頼は大切です。",
+        "zh": "这个信赖 名·他动 ·サ变很重要。"
+      }
+    ]
+  },
+  {
+    "word": "心理",
+    "reading": "しんり",
+    "meaning": "；“学”的省略",
+    "sourceIndex": 1981,
+    "sourceMeaningRaw": "名 ；“学”的省略",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "心理",
+        "method": "TYPE A1",
+        "bridgeC": "汉字心理意思是；“学”的省略"
+      }
+    ],
+    "mergedScene": "心理这个汉字一看就像；“学”的省略。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんり - 心理 - ；“学”的省略",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この心理は大切です。",
+        "zh": "这个；“学”的省略很重要。"
+      }
+    ]
+  },
+  {
+    "word": "森林",
+    "reading": "しんりん",
+    "meaning": "名 ",
+    "sourceIndex": 1982,
+    "sourceMeaningRaw": "名 ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "森林",
+        "method": "TYPE A1",
+        "bridgeC": "汉字森林意思是名 "
+      },
+      {
+        "element": "しんりん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+りん\"来记"
+      }
+    ],
+    "mergedScene": "しんりん拆分记忆，意思是名 ",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんりん - 拆分记忆 - 名 ",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この森林は大切です。",
+        "zh": "这个名 很重要。"
+      }
+    ]
+  },
+  {
+    "word": "親類",
+    "reading": "しんるい",
+    "meaning": "亲属，亲戚",
+    "sourceIndex": 1983,
+    "sourceMeaningRaw": "名 亲属，亲戚，亲家；同类，类似",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "親類",
+        "method": "TYPE A1",
+        "bridgeC": "汉字親類意思是亲属，亲戚"
+      },
+      {
+        "element": "しんるい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"しん+るい\"来记"
+      }
+    ],
+    "mergedScene": "しんるい拆分记忆，意思是亲属，亲戚",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しんるい - 拆分记忆 - 亲属，亲戚",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この親類は大切です。",
+        "zh": "这个亲属，亲戚很重要。"
+      }
+    ]
+  },
+  {
+    "word": "人類",
+    "reading": "じんるい",
+    "meaning": "人类将人和其他生物相区别时的用语，生物 学上属于脊椎动物门哺乳纲灵长目人科",
+    "sourceIndex": 1984,
+    "sourceMeaningRaw": "名 人类将人和其他生物相区别时的用语，生物 学上属于脊椎动物门哺乳纲灵长目人科",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "人類",
+        "method": "TYPE A1",
+        "bridgeC": "汉字人類意思是人类将人和其他生物相区别时的用语，生物 学上属于脊椎动物门哺乳纲灵长目人科"
+      },
+      {
+        "element": "じんるい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"じん+るい\"来记"
+      }
+    ],
+    "mergedScene": "じんるい拆分记忆，意思是人类将人和其他生物相区别时的用语，生物 学上属于脊椎动物门哺乳纲灵长目人科",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じんるい - 拆分记忆 - 人类将人和其他生物相区别时的用语，生物 学上属于脊椎动物门哺乳纲灵长目人科",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この人類は大切です。",
+        "zh": "这个人类将人和其他生物相区别时的用语，生物 学上属于脊椎动物门哺乳纲灵长目人科很重要。"
+      }
+    ]
+  },
+  {
+    "word": "酢",
+    "reading": "す",
+    "meaning": "醋",
+    "sourceIndex": 1985,
+    "sourceMeaningRaw": "名 醋",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "酢",
+        "method": "TYPE A1",
+        "bridgeC": "汉字酢意思是醋"
+      }
+    ],
+    "mergedScene": "酢这个汉字一看就像醋。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "す - 酢 - 醋",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この酢は大切です。",
+        "zh": "这个醋很重要。"
+      }
+    ]
+  },
+  {
+    "word": "図",
+    "reading": "ず",
+    "meaning": "图，图表",
+    "sourceIndex": 1986,
+    "sourceMeaningRaw": "名 图，图表，绘图；地图；设计图；图画；情 况，光景，情景，样子；心意",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "図",
+        "method": "TYPE A1",
+        "bridgeC": "汉字図意思是图，图表"
+      }
+    ],
+    "mergedScene": "図这个汉字一看就像图，图表。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ず - 図 - 图，图表",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この図は大切です。",
+        "zh": "这个图，图表很重要。"
+      }
+    ]
+  },
+  {
+    "word": "水温",
+    "reading": "すいおん",
+    "meaning": "名 ",
+    "sourceIndex": 1987,
+    "sourceMeaningRaw": "名 ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "水温",
+        "method": "TYPE A1",
+        "bridgeC": "汉字水温意思是名 "
+      },
+      {
+        "element": "すいおん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"すい+おん\"来记"
+      }
+    ],
+    "mergedScene": "すいおん拆分记忆，意思是名 ",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すいおん - 拆分记忆 - 名 ",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この水温は大切です。",
+        "zh": "这个名 很重要。"
+      }
+    ]
+  },
+  {
+    "word": "西瓜",
+    "reading": "すいか",
+    "meaning": "名 ",
+    "sourceIndex": 1988,
+    "sourceMeaningRaw": "名 ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "西瓜",
+        "method": "TYPE A1",
+        "bridgeC": "汉字西瓜意思是名 "
+      }
+    ],
+    "mergedScene": "西瓜这个汉字一看就像名 。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すいか - 西瓜 - 名 ",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この西瓜は大切です。",
+        "zh": "这个名 很重要。"
+      }
+    ]
+  },
+  {
+    "word": "水産",
+    "reading": "すいさん",
+    "meaning": "水产",
+    "sourceIndex": 1989,
+    "sourceMeaningRaw": "名 水产",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "水産",
+        "method": "TYPE A1",
+        "bridgeC": "汉字水産意思是水产"
+      },
+      {
+        "element": "すいさん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"すい+さん\"来记"
+      }
+    ],
+    "mergedScene": "すいさん拆分记忆，意思是水产",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すいさん - 拆分记忆 - 水产",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この水産は大切です。",
+        "zh": "这个水产很重要。"
+      }
+    ]
+  },
+  {
+    "word": "炊事",
+    "reading": "すいじ",
+    "meaning": "，烹调伙食做饭",
+    "sourceIndex": 1990,
+    "sourceMeaningRaw": "名·サ变 ，烹调伙食做饭",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "炊事",
+        "method": "TYPE A1",
+        "bridgeC": "汉字炊事意思是，烹调伙食做饭"
+      }
+    ],
+    "mergedScene": "炊事这个汉字一看就像，烹调伙食做饭。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すいじ - 炊事 - ，烹调伙食做饭",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この炊事は大切です。",
+        "zh": "这个，烹调伙食做饭很重要。"
+      }
+    ]
+  },
+  {
+    "word": "スイッチ",
+    "reading": "すいっち",
+    "meaning": "开关转换器",
+    "sourceIndex": 1991,
+    "sourceMeaningRaw": "名·サ变 开关转换器；电门，开关；转辙器，路闸； 转换，交替",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "スイッチ",
+        "method": "外来语",
+        "bridgeC": "スイッチ来自英语，意思是开关转换器"
+      }
+    ],
+    "mergedScene": "スイッチ是外来语，来自英语，意思是开关转换器。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "スイッチ - 外来语英语 - 开关转换器",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このスイッチは大切です。",
+        "zh": "这个开关转换器很重要。"
+      }
+    ]
+  },
+  {
+    "word": "水分",
+    "reading": "すいぶん",
+    "meaning": "；水果、青菜所含的",
+    "sourceIndex": 1992,
+    "sourceMeaningRaw": "名 ；（水果、青菜所含的）汁液",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "水分",
+        "method": "TYPE A1",
+        "bridgeC": "汉字水分意思是；水果、青菜所含的"
+      },
+      {
+        "element": "すいぶん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"すい+ぶん\"来记"
+      }
+    ],
+    "mergedScene": "すいぶん拆分记忆，意思是；水果、青菜所含的",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すいぶん - 拆分记忆 - ；水果、青菜所含的",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この水分は大切です。",
+        "zh": "这个；水果、青菜所含的很重要。"
+      }
+    ]
+  },
+  {
+    "word": "睡眠",
+    "reading": "すいみん",
+    "meaning": "，睡觉",
+    "sourceIndex": 1993,
+    "sourceMeaningRaw": "，睡觉；休眠，停止活动 名·自动 ·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "睡眠",
+        "method": "TYPE A1",
+        "bridgeC": "汉字睡眠意思是，睡觉"
+      },
+      {
+        "element": "すいみん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"すい+みん\"来记"
+      }
+    ],
+    "mergedScene": "すいみん拆分记忆，意思是，睡觉",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すいみん - 拆分记忆 - ，睡觉",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この睡眠は大切です。",
+        "zh": "这个，睡觉很重要。"
+      }
+    ]
+  },
+  {
+    "word": "数字",
+    "reading": "すうじ",
+    "meaning": "数据",
+    "sourceIndex": 1994,
+    "sourceMeaningRaw": "名 数据",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "数字",
+        "method": "TYPE A1",
+        "bridgeC": "汉字数字意思是数据"
+      }
+    ],
+    "mergedScene": "数字这个汉字一看就像数据。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すうじ - 数字 - 数据",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この数字は大切です。",
+        "zh": "这个数据很重要。"
+      }
+    ]
+  },
+  {
+    "word": "数人",
+    "reading": "すうにん",
+    "meaning": "，几个人",
+    "sourceIndex": 1995,
+    "sourceMeaningRaw": "名 ，几个人",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "数人",
+        "method": "TYPE A1",
+        "bridgeC": "汉字数人意思是，几个人"
+      },
+      {
+        "element": "すうにん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"すう+にん\"来记"
+      }
+    ],
+    "mergedScene": "すうにん拆分记忆，意思是，几个人",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すうにん - 拆分记忆 - ，几个人",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この数人は大切です。",
+        "zh": "这个，几个人很重要。"
+      }
+    ]
+  },
+  {
+    "word": "数年",
+    "reading": "すうねん",
+    "meaning": "，几年",
+    "sourceIndex": 1996,
+    "sourceMeaningRaw": "名 ，几年",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "数年",
+        "method": "TYPE A1",
+        "bridgeC": "汉字数年意思是，几年"
+      },
+      {
+        "element": "すうねん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"すう+ねん\"来记"
+      }
+    ],
+    "mergedScene": "すうねん拆分记忆，意思是，几年",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すうねん - 拆分记忆 - ，几年",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この数年は大切です。",
+        "zh": "这个，几年很重要。"
+      }
+    ]
+  },
+  {
+    "word": "末",
+    "reading": "すえ",
+    "meaning": "微节，支流节",
+    "sourceIndex": 1997,
+    "sourceMeaningRaw": "名 微节，支流节，无足轻重；鸡毛蒜皮的 尾，了，终了；端（はし），头；尽 头；将来，未来，前途；无关紧要的事，细 小事；琐事，小事一段；子孙（子孫）；后 裔；（兄弟姐妹中）最年幼者；乱世，世",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "末",
+        "method": "TYPE A1",
+        "bridgeC": "汉字末意思是微节，支流节"
+      }
+    ],
+    "mergedScene": "末这个汉字一看就像微节，支流节。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すえ - 末 - 微节，支流节",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この末は大切です。",
+        "zh": "这个微节，支流节很重要。"
+      }
+    ]
+  },
+  {
+    "word": "末っ子",
+    "reading": "すえっこ",
+    "meaning": "最小的儿子〔女儿〕",
+    "sourceIndex": 1998,
+    "sourceMeaningRaw": "名 最小的儿子〔女儿〕；老小；（兄弟姐妹 中）最年幼者；老儿子，小闺女",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "末っ子",
+        "method": "TYPE A1",
+        "bridgeC": "汉字末っ子意思是最小的儿子〔女儿〕"
+      },
+      {
+        "element": "すえっこ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"すえ+っこ\"来记"
+      }
+    ],
+    "mergedScene": "すえっこ拆分记忆，意思是最小的儿子〔女儿〕",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すえっこ - 拆分记忆 - 最小的儿子〔女儿〕",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この末っ子は大切です。",
+        "zh": "这个最小的儿子〔女儿〕很重要。"
+      }
+    ]
+  },
+  {
+    "word": "スカーフ",
+    "reading": "すかーふ",
+    "meaning": "scarf 方形或长方形头巾，围巾",
+    "sourceIndex": 1999,
+    "sourceMeaningRaw": "名 scarf 方形或长方形头巾，围巾，披肩",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "スカーフ",
+        "method": "外来语",
+        "bridgeC": "スカーフ来自英语，意思是scarf 方形或长方形头巾，围巾"
+      }
+    ],
+    "mergedScene": "スカーフ是外来语，来自英语，意思是scarf 方形或长方形头巾，围巾。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "スカーフ - 外来语英语 - scarf 方形或长方形头巾，围巾",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このスカーフは大切です。",
+        "zh": "这个scarf 方形或长方形头巾，围巾很重要。"
+      }
+    ]
+  },
+  {
+    "word": "好き好き",
+    "reading": "すきずき",
+    "meaning": "不同的爱好",
+    "sourceIndex": 2000,
+    "sourceMeaningRaw": "名 不同的爱好",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "好き好き",
+        "method": "TYPE A1",
+        "bridgeC": "汉字好き好き意思是不同的爱好"
+      },
+      {
+        "element": "すきずき",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"すき+ずき\"来记"
+      }
+    ],
+    "mergedScene": "すきずき拆分记忆，意思是不同的爱好",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すきずき - 拆分记忆 - 不同的爱好",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この好き好きは大切です。",
+        "zh": "这个不同的爱好很重要。"
+      }
+    ]
+  }
+]

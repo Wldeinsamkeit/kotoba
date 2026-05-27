@@ -1,0 +1,180 @@
+.japanese-input-guide-overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(20, 20, 19, 0.7);
+  backdrop-filter: blur(4px);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-6);
+}
+
+.japanese-input-guide-card {
+  background-color: var(--ivory);
+  border-radius: var(--radius-maximum);
+  max-width: 800px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.4);
+  position: relative;
+  border: 1px solid var(--border-cream);
+}
+
+.japanese-input-guide-close {
+  position: absolute;
+  top: var(--space-4);
+  right: var(--space-4);
+  width: 36px;
+  height: 36px;
+  border: none;
+  background: var(--warm-sand);
+  border-radius: 50%;
+  font-size: 24px;
+  cursor: pointer;
+  color: var(--charcoal-warm);
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.japanese-input-guide-close:hover {
+  background: var(--terracotta-brand);
+  color: white;
+  transform: scale(1.05);
+}
+
+.japanese-input-guide-header {
+  text-align: center;
+  padding: var(--space-10) var(--space-8) var(--space-6);
+  border-bottom: 1px solid var(--border-cream);
+}
+
+.japanese-input-guide-icon {
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+  line-height: 64px;
+  font-size: 40px;
+  font-family: var(--font-ja);
+  background: linear-gradient(135deg, var(--terracotta-brand), var(--coral-accent));
+  color: white;
+  border-radius: 50%;
+  margin-bottom: var(--space-4);
+}
+
+.japanese-input-guide-header h2 {
+  font-family: var(--font-serif);
+  font-size: var(--text-heading);
+  color: var(--anthropic-near-black);
+  margin: 0 0 var(--space-2);
+}
+
+.japanese-input-guide-header p {
+  color: var(--olive-gray);
+  font-size: var(--text-body);
+  margin: 0;
+}
+
+.japanese-input-guide-platforms {
+  padding: var(--space-8);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: var(--space-6);
+}
+
+.japanese-input-guide-platform {
+  background-color: var(--parchment);
+  padding: var(--space-5);
+  border-radius: var(--radius-generous);
+  border: 1px solid var(--border-cream);
+}
+
+.japanese-input-guide-platform h3 {
+  font-size: var(--text-subheading);
+  color: var(--terracotta-brand);
+  margin: 0 0 var(--space-3);
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.japanese-input-guide-platform ol {
+  margin: 0;
+  padding-left: var(--space-5);
+  color: var(--charcoal-warm);
+  line-height: var(--leading-relaxed);
+}
+
+.japanese-input-guide-platform li {
+  margin-bottom: var(--space-3);
+  font-size: var(--text-body);
+}
+
+.japanese-input-guide-platform code {
+  background-color: var(--warm-sand);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  color: var(--terracotta-brand);
+  white-space: nowrap;
+}
+
+.japanese-input-guide-footer {
+  padding: var(--space-6) var(--space-8);
+  border-top: 1px solid var(--border-cream);
+  text-align: center;
+}
+
+.japanese-input-guide-note {
+  color: var(--stone-gray);
+  font-size: var(--text-label);
+  margin: 0 0 var(--space-4);
+}
+
+.japanese-input-guide-dismiss-btn {
+  background-color: var(--terracotta-brand);
+  color: white;
+  border: none;
+  padding: var(--space-3) var(--space-8);
+  border-radius: var(--radius-generous);
+  font-size: var(--text-body);
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.japanese-input-guide-dismiss-btn:hover {
+  background-color: var(--coral-accent);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 768px) {
+  .japanese-input-guide-card {
+    margin: var(--space-4);
+    max-height: calc(100vh - var(--space-8));
+  }
+
+  .japanese-input-guide-header {
+    padding: var(--space-8) var(--space-6) var(--space-5);
+  }
+
+  .japanese-input-guide-icon {
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    font-size: 32px;
+  }
+
+  .japanese-input-guide-platforms {
+    padding: var(--space-5);
+    grid-template-columns: 1fr;
+  }
+
+  .japanese-input-guide-platform {
+    padding: var(--space-4);
+  }
+}

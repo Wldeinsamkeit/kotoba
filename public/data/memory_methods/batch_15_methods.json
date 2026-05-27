@@ -1,0 +1,1302 @@
+[
+  {
+    "word": "欲しい",
+    "reading": "ほしい",
+    "meaning": "想要的",
+    "elements": [
+      {
+        "element": "ほしい",
+        "method": "TYPE B2",
+        "bridgeC": "ほしい→好稀；稀有的东西越看越想要"
+      },
+      {
+        "element": "欲",
+        "method": "TYPE A1",
+        "bridgeC": "欲=欲望、想要；汉字直接补强意思"
+      }
+    ],
+    "mergedScene": "你在店里看到一个特别稀有的限定包，嘴里念着“好稀(ほしい)啊”，越看越想要。欲しい就是想要的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ほしい - 谐音“好稀” - 稀有东西太好，越看越想要 - 想要的。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "新しいかばんが欲しいです。",
+        "zh": "我想要新包。"
+      }
+    ]
+  },
+  {
+    "word": "ポスト",
+    "reading": "ポスト",
+    "meaning": "邮筒",
+    "elements": [
+      {
+        "element": "ポスト",
+        "method": "外来语",
+        "bridgeC": "ポスト来自英语post；寄信要post进邮筒"
+      }
+    ],
+    "mergedScene": "你写好信后说“我要post出去”，顺手把信投进红色邮筒。ポスト就是邮筒。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ポスト - 外来语post - 信要post出去，就投进邮筒 - 邮筒。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "手紙をポストに入れます。",
+        "zh": "把信放进邮筒。"
+      }
+    ]
+  },
+  {
+    "word": "細い",
+    "reading": "ほそい",
+    "meaning": "细的",
+    "elements": [
+      {
+        "element": "ほそい",
+        "method": "TYPE B2",
+        "bridgeC": "ほそい→好瘦哎；瘦到很细"
+      },
+      {
+        "element": "細",
+        "method": "TYPE A1",
+        "bridgeC": "細=细；汉字直接提示意思"
+      }
+    ],
+    "mergedScene": "你看到一根线瘦得像没吃饭一样，忍不住说“好瘦哎(ほそい)”，所以它很细。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ほそい - 谐音“好瘦哎” - 线瘦得很细 - 细的。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "この道は細いです。",
+        "zh": "这条路很窄。"
+      }
+    ]
+  },
+  {
+    "word": "ボタン",
+    "reading": "ボタン",
+    "meaning": "按钮、纽扣",
+    "elements": [
+      {
+        "element": "ボタン",
+        "method": "外来语",
+        "bridgeC": "ボタン来自button；按钮和衣服纽扣都可对应button"
+      }
+    ],
+    "mergedScene": "看到按钮就想到英语button，电梯按钮要按，衬衫纽扣也叫button。ボタン就是按钮、纽扣。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ボタン - 外来语button - button既能按，也能扣在衣服上 - 按钮、纽扣。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このボタンを押してください。",
+        "zh": "请按这个按钮。"
+      }
+    ]
+  },
+  {
+    "word": "ホテル",
+    "reading": "ホテル",
+    "meaning": "酒店",
+    "elements": [
+      {
+        "element": "ホテル",
+        "method": "外来语",
+        "bridgeC": "ホテル来自hotel；发音和hotel很接近"
+      }
+    ],
+    "mergedScene": "旅行到晚上找hotel住，日语里就是ホテル。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ホテル - 外来语hotel - 旅行住hotel - 酒店。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ホテルに泊まります。",
+        "zh": "住酒店。"
+      }
+    ]
+  },
+  {
+    "word": "本",
+    "reading": "ほん",
+    "meaning": "书",
+    "elements": [
+      {
+        "element": "本",
+        "method": "TYPE A1",
+        "bridgeC": "本=书；中日汉字意思直接相通"
+      },
+      {
+        "element": "ほん",
+        "method": "固定读音",
+        "bridgeC": "本常读ほん，后面本棚、ほんとう会继续遇到"
+      }
+    ],
+    "mergedScene": "一本书放在桌上，汉字“本”直接告诉你是书，读作ほん。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "本 - 汉字直觉，本=书，常读ほん - 书。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "本を読みます。",
+        "zh": "读书。"
+      }
+    ]
+  },
+  {
+    "word": "本棚",
+    "reading": "ほんだな",
+    "meaning": "书架",
+    "elements": [
+      {
+        "element": "本",
+        "method": "固定读音",
+        "bridgeC": "书固定读ほん；后面很多含“本”的词都要先想到这个音"
+      },
+      {
+        "element": "ほんだな",
+        "method": "TYPE B2",
+        "bridgeC": "ほんだな→红的呐；看到红色书架忍不住感叹“红的呐”"
+      },
+      {
+        "element": "棚",
+        "method": "固定读音",
+        "bridgeC": "棚在本棚里读だな，表示架子"
+      }
+    ],
+    "mergedScene": "你走进房间，发现一个人的书架居然是大红色，忍不住说“红的呐(ほんだな)”。本固定读ほん，放本子的架子就是本棚。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ほんだな - 谐音“红的呐” - 一个人的书架居然是红的呐；书固定发ほん - 书架。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "本棚に本を置きます。",
+        "zh": "把书放到书架上。"
+      }
+    ]
+  },
+  {
+    "word": "ほんとう",
+    "reading": "ほんとう",
+    "meaning": "真的",
+    "elements": [
+      {
+        "element": "ほんとう",
+        "method": "TYPE B2",
+        "bridgeC": "ほんとう/ほんとうに常被玩成“红豆泥”；这个梗对应“真的吗/真的”"
+      },
+      {
+        "element": "本当",
+        "method": "关联记忆",
+        "bridgeC": "本当=真的；ほんとう是“真的”的核心读音"
+      }
+    ],
+    "mergedScene": "网上常把“ほんとうに”玩成“红豆泥”，别人问“红豆泥？”其实就是“真的吗？”。前面的ほんとう就是“真的”。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ほんとう - 谐音梗“红豆泥” - “红豆泥？”就是“真的吗？”；前面的ほんとう就是“真的” - 真的。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "それはほんとうですか。",
+        "zh": "那是真的吗？"
+      }
+    ]
+  },
+  {
+    "word": "毎朝",
+    "reading": "まいあさ",
+    "meaning": "每天早上",
+    "elements": [
+      {
+        "element": "毎",
+        "method": "固定读音",
+        "bridgeC": "毎=まい，表示每个、每次"
+      },
+      {
+        "element": "朝",
+        "method": "固定读音",
+        "bridgeC": "朝=あさ，早上"
+      }
+    ],
+    "mergedScene": "每天(まい)早上(あさ)都重复同一个起床闹钟，毎朝就是每天早上。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まいあさ - 毎=まい，朝=あさ - 每一个早上 - 每天早上。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "毎朝六時に起きます。",
+        "zh": "每天早上六点起床。"
+      }
+    ]
+  },
+  {
+    "word": "毎月",
+    "reading": "まいげつ",
+    "meaning": "每个月",
+    "elements": [
+      {
+        "element": "毎",
+        "method": "固定读音",
+        "bridgeC": "毎=まい，表示每个"
+      },
+      {
+        "element": "月",
+        "method": "固定读音",
+        "bridgeC": "月在月份相关词里常读げつ"
+      }
+    ],
+    "mergedScene": "工资、房租、会员费每个月都来一次：毎(まい)+月(げつ)=毎月。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まいげつ - 毎=まい，月=げつ - 每一个月都发生 - 每个月。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "毎月本を買います。",
+        "zh": "每个月买书。"
+      }
+    ]
+  },
+  {
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "meaning": "每周",
+    "elements": [
+      {
+        "element": "毎",
+        "method": "固定读音",
+        "bridgeC": "毎=まい，表示每个"
+      },
+      {
+        "element": "週",
+        "method": "固定读音",
+        "bridgeC": "週=しゅう，周、星期"
+      }
+    ],
+    "mergedScene": "你每周都安排一次日语课，毎(まい)+週(しゅう)=毎週。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まいしゅう - 毎=まい，週=しゅう - 每一个星期 - 每周。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "毎週日本語を勉強します。",
+        "zh": "每周学习日语。"
+      }
+    ]
+  },
+  {
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaning": "每天",
+    "elements": [
+      {
+        "element": "毎",
+        "method": "固定读音",
+        "bridgeC": "毎=まい，表示每个"
+      },
+      {
+        "element": "日",
+        "method": "固定读音",
+        "bridgeC": "日这里读にち，表示一天"
+      }
+    ],
+    "mergedScene": "日语学习打卡每一天都不能断，毎(まい)+日(にち)=毎日。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まいにち - 毎=まい，日=にち - 每一天 - 每天。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "毎日学校へ行きます。",
+        "zh": "每天去学校。"
+      }
+    ]
+  },
+  {
+    "word": "毎年",
+    "reading": "まいねん",
+    "meaning": "每年",
+    "elements": [
+      {
+        "element": "毎",
+        "method": "固定读音",
+        "bridgeC": "毎=まい，表示每个"
+      },
+      {
+        "element": "年",
+        "method": "固定读音",
+        "bridgeC": "年=ねん；这里按词表读まいねん，也常见まいとし"
+      }
+    ],
+    "mergedScene": "每年生日、春节、考试都会循环一次，毎(まい)+年(ねん)=毎年。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まいねん - 毎=まい，年=ねん - 每一年都会来 - 每年。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "毎年旅行します。",
+        "zh": "每年旅行。"
+      }
+    ]
+  },
+  {
+    "word": "毎晩",
+    "reading": "まいばん",
+    "meaning": "每天晚上",
+    "elements": [
+      {
+        "element": "毎",
+        "method": "固定读音",
+        "bridgeC": "毎=まい，表示每个"
+      },
+      {
+        "element": "晩",
+        "method": "固定读音",
+        "bridgeC": "晩=ばん，晚上；前面半/晩已用两点区分过"
+      }
+    ],
+    "mergedScene": "每天晚上都刷一会儿单词，毎(まい)+晩(ばん)=毎晩。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まいばん - 毎=まい，晩=ばん - 每一个晚上 - 每天晚上。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "毎晩テレビを見ます。",
+        "zh": "每天晚上看电视。"
+      }
+    ]
+  },
+  {
+    "word": "前",
+    "reading": "まえ",
+    "meaning": "前面",
+    "elements": [
+      {
+        "element": "前",
+        "method": "TYPE A1",
+        "bridgeC": "前=前面；汉字意思直接提示"
+      },
+      {
+        "element": "まえ",
+        "method": "TYPE B2",
+        "bridgeC": "まえ→马诶；马在你前面突然“诶”一声停住"
+      }
+    ],
+    "mergedScene": "一匹马走在你前面，突然回头“诶(まえ)”了一声，你立刻记住它在前面。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まえ - 谐音“马诶” - 马在你前面突然诶一声停住 - 前面。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "駅の前で待ちます。",
+        "zh": "在车站前面等。"
+      }
+    ]
+  },
+  {
+    "word": "曲る",
+    "reading": "まがる",
+    "meaning": "转弯",
+    "elements": [
+      {
+        "element": "曲",
+        "method": "TYPE A1",
+        "bridgeC": "曲=弯曲；意思直接提示转弯"
+      },
+      {
+        "element": "まがる",
+        "method": "TYPE B2",
+        "bridgeC": "まがる→马拐了；马拐弯"
+      }
+    ],
+    "mergedScene": "一匹马跑到路口突然拐了(まがる)，整条路线弯过去了，所以是转弯。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まがる - 谐音“马拐了” - 马到路口拐弯 - 转弯。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "次の角を右に曲がります。",
+        "zh": "在下一个路口向右转。"
+      }
+    ]
+  },
+  {
+    "word": "まずい",
+    "reading": "まずい",
+    "meaning": "难吃的",
+    "elements": [
+      {
+        "element": "まずい",
+        "method": "TYPE B2",
+        "bridgeC": "まずい→妈醉；妈妈喝醉后做饭翻车"
+      }
+    ],
+    "mergedScene": "妈妈喝醉(まずい)后做菜，把糖盐都放错了，全家一尝都说难吃。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まずい - 谐音“妈醉” - 妈妈喝醉做饭翻车 - 难吃的。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この料理はまずいです。",
+        "zh": "这道菜很难吃。"
+      }
+    ]
+  },
+  {
+    "word": "また",
+    "reading": "また",
+    "meaning": "又、还",
+    "elements": [
+      {
+        "element": "また",
+        "method": "TYPE B2",
+        "bridgeC": "また反过来像“他嘛”；大家希望老师再叫那个学霸"
+      },
+      {
+        "element": "また/まだ",
+        "method": "字形对比",
+        "bridgeC": "た卸了两点包袱跑得快，所以又来了；だ背两个点走不快，所以まだ=还没到"
+      }
+    ],
+    "mergedScene": "老师提问时，班上同学都在心里默念“他嘛他嘛”，希望老师再喊那个学霸。结果每一次又是学霸回答，所以また记“又、再”。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "また - 反过来像“他嘛” - 老师提问时大家心里默念“他嘛他嘛”，结果又是学霸回答 - 又、还。关联：た没两点跑得快，所以また=又来了；だ背两点走得慢，所以まだ=还没到。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "また明日会いましょう。",
+        "zh": "明天再见吧。"
+      }
+    ]
+  },
+  {
+    "word": "まだ",
+    "reading": "まだ",
+    "meaning": "还（未）",
+    "elements": [
+      {
+        "element": "まだ",
+        "method": "字形对比",
+        "bridgeC": "だ背着两个浊点像背包，走不快，所以还没到"
+      },
+      {
+        "element": "また/まだ",
+        "method": "对比记忆",
+        "bridgeC": "た卸了包袱跑得快→また又来了；だ背着两点走不快→まだ还没到"
+      }
+    ],
+    "mergedScene": "た把两个点卸掉，跑得很快，所以また是“又来了”。だ背着两个点像背包，走得慢，还没到，所以まだ是“还未”。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まだ - 和また对比 - だ背着两个点走不快，所以还没到；た卸了包袱跑得快，所以又来了 - 还未。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "まだ宿題をしていません。",
+        "zh": "还没有做作业。"
+      }
+    ]
+  },
+  {
+    "word": "町",
+    "reading": "まち",
+    "meaning": "城市、城镇",
+    "elements": [
+      {
+        "element": "町",
+        "method": "TYPE A1",
+        "bridgeC": "町=城镇；汉字可直接积累"
+      },
+      {
+        "element": "まち",
+        "method": "TYPE B2",
+        "bridgeC": "まち→马骑；小城镇里有人骑马穿过街道"
+      }
+    ],
+    "mergedScene": "一个小镇街道不宽，有人骑着马(まち)慢慢经过，整个画面就是町。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まち - 谐音“马骑” - 小城镇街道上有人骑马经过 - 城市、城镇。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この町は静かです。",
+        "zh": "这个城镇很安静。"
+      }
+    ]
+  },
+  {
+    "word": "待つ",
+    "reading": "まつ",
+    "meaning": "等待",
+    "elements": [
+      {
+        "element": "待",
+        "method": "TYPE A1",
+        "bridgeC": "待=等待；汉字直接提示意思"
+      },
+      {
+        "element": "まつ",
+        "method": "TYPE B2",
+        "bridgeC": "まつ→马停住；马停住等你"
+      }
+    ],
+    "mergedScene": "你赶到路边，朋友的马停住(まつ)不走了，一直在等你。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まつ - 谐音“马停住” - 马停住不走，在原地等你 - 等待。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "バスを待ちます。",
+        "zh": "等公交车。"
+      }
+    ]
+  },
+  {
+    "word": "まっすぐ",
+    "reading": "まっすぐ",
+    "meaning": "一直",
+    "elements": [
+      {
+        "element": "まっすぐ",
+        "method": "TYPE B2",
+        "bridgeC": "まっすぐ→马速咕；马保持速度咕噜咕噜直线向前"
+      },
+      {
+        "element": "っ",
+        "method": "字形联想",
+        "bridgeC": "促音っ像突然绷紧，路线不拐，直直向前"
+      }
+    ],
+    "mergedScene": "一匹马速度很稳，“咕噜咕噜”一直往前冲，路上一点都不拐。まっすぐ就是一直、笔直。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まっすぐ - 谐音“马速咕” - 马保持速度直直往前冲 - 一直、笔直。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "まっすぐ行ってください。",
+        "zh": "请一直往前走。"
+      }
+    ]
+  },
+  {
+    "word": "マッチ",
+    "reading": "マッチ",
+    "meaning": "火柴",
+    "elements": [
+      {
+        "element": "マッチ",
+        "method": "外来语",
+        "bridgeC": "マッチ来自match；match有火柴的意思"
+      }
+    ],
+    "mergedScene": "想到英语match，轻轻一划就点燃火柴。マッチ就是火柴。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "マッチ - 外来语match - match一划就能点火 - 火柴。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "マッチで火をつけます。",
+        "zh": "用火柴点火。"
+      }
+    ]
+  },
+  {
+    "word": "窓",
+    "reading": "まど",
+    "meaning": "窗户",
+    "elements": [
+      {
+        "element": "まど",
+        "method": "TYPE B2",
+        "bridgeC": "まど→马洞；墙上给马看的洞像窗户"
+      },
+      {
+        "element": "窓",
+        "method": "TYPE A1",
+        "bridgeC": "窓=窗户，汉字可直接认"
+      }
+    ],
+    "mergedScene": "墙上开了一个大洞，马把头伸进洞(まど)里往屋里看，这个洞就是窗户。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まど - 谐音“马洞” - 墙上让马探头看的洞 - 窗户。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "窓を開けます。",
+        "zh": "打开窗户。"
+      }
+    ]
+  },
+  {
+    "word": "丸い",
+    "reading": "まるい",
+    "meaning": "圆的",
+    "elements": [
+      {
+        "element": "丸",
+        "method": "TYPE A1",
+        "bridgeC": "丸=丸子、圆滚滚的东西"
+      },
+      {
+        "element": "まるい",
+        "method": "TYPE B2",
+        "bridgeC": "まるい→马路一圈；绕一圈是圆的"
+      },
+      {
+        "element": "丸い/円い",
+        "method": "对比记忆",
+        "bridgeC": "同读まるい；丸い偏圆滚滚，円い偏平面圆形"
+      }
+    ],
+    "mergedScene": "你让马沿着路跑一圈(まるい)，最后路线变成圆形；丸い更像圆滚滚的东西。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まるい - 谐音“马路一圈” - 沿马路绕一圈形成圆 - 圆的。关联：丸い偏圆滚滚，円い偏平面圆。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "丸いテーブルがあります。",
+        "zh": "有一张圆桌。"
+      }
+    ]
+  },
+  {
+    "word": "円い",
+    "reading": "まるい",
+    "meaning": "圆的",
+    "elements": [
+      {
+        "element": "円",
+        "method": "TYPE A1",
+        "bridgeC": "円=圆；汉字直接提示圆形"
+      },
+      {
+        "element": "まるい",
+        "method": "关联记忆",
+        "bridgeC": "和丸い同读まるい；用汉字区分圆的类型"
+      }
+    ],
+    "mergedScene": "画圆的时候写“円”，像一个平面圆圈；读音和丸い一样都是まるい。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "円い - 円=圆，读まるい - 和丸い同音；円い更偏圆形、圆圈 - 圆的。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "円い皿があります。",
+        "zh": "有一个圆盘子。"
+      }
+    ]
+  },
+  {
+    "word": "万",
+    "reading": "まん",
+    "meaning": "万",
+    "elements": [
+      {
+        "element": "万",
+        "method": "TYPE A1",
+        "bridgeC": "万=一万；中日汉字意思相通"
+      },
+      {
+        "element": "まん",
+        "method": "TYPE B2",
+        "bridgeC": "まん→满；存钱存满一万"
+      }
+    ],
+    "mergedScene": "存钱罐终于存满(まん)到一万，汉字万也直接告诉你数量。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まん - 谐音“满” - 存钱存满一万 - 万。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "一万円あります。",
+        "zh": "有一万日元。"
+      }
+    ]
+  },
+  {
+    "word": "万年筆",
+    "reading": "まんねんひつ",
+    "meaning": "钢笔",
+    "elements": [
+      {
+        "element": "万年",
+        "method": "TYPE A1",
+        "bridgeC": "万年=很多年、长久"
+      },
+      {
+        "element": "年",
+        "method": "固定读音",
+        "bridgeC": "年固定读ねん，先记住"
+      },
+      {
+        "element": "筆",
+        "method": "固定读音",
+        "bridgeC": "筆固定读ひつ，表示笔"
+      }
+    ],
+    "mergedScene": "万年筆可以拆成万年+筆：年固定读ねん，筆固定读ひつ。能写很多年的笔，就是钢笔。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "まんねんひつ - 年固定读ねん，筆固定读ひつ - 能写很多年的笔 - 钢笔。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "万年筆で名前を書きます。",
+        "zh": "用钢笔写名字。"
+      }
+    ]
+  },
+  {
+    "word": "磨く",
+    "reading": "みがく",
+    "meaning": "刷、磨",
+    "elements": [
+      {
+        "element": "磨",
+        "method": "TYPE A1",
+        "bridgeC": "磨=打磨、磨亮"
+      },
+      {
+        "element": "みがく",
+        "method": "TYPE B2",
+        "bridgeC": "みがく→蜜瓜苦；蜜瓜表皮苦，要反复打磨/刷掉"
+      }
+    ],
+    "mergedScene": "你咬了一口蜜瓜皮发现很苦，于是把蜜瓜表面反复打磨，想把苦味磨掉。みがく就是刷、磨。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みがく - 谐音“蜜瓜苦” - 蜜瓜表面的皮是苦的，所以需要反复打磨 - 刷、磨。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "毎朝歯を磨きます。",
+        "zh": "每天早上刷牙。"
+      }
+    ]
+  },
+  {
+    "word": "右",
+    "reading": "みぎ",
+    "meaning": "右边",
+    "elements": [
+      {
+        "element": "右",
+        "method": "TYPE A1",
+        "bridgeC": "右=右边；汉字直接提示意思"
+      },
+      {
+        "element": "みぎ",
+        "method": "对比记忆",
+        "bridgeC": "右みぎ联想美国；左ひだり联想意大利，左右成对区分"
+      }
+    ],
+    "mergedScene": "地图上左边放意大利(ひだり)，右边放美国(みぎ)，两个国家一左一右固定住。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みぎ - 联想“美国” - 左边意大利ひだり，右边美国みぎ - 右边。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "右に曲がってください。",
+        "zh": "请向右转。"
+      }
+    ]
+  },
+  {
+    "word": "短い",
+    "reading": "みじかい",
+    "meaning": "短的",
+    "elements": [
+      {
+        "element": "短",
+        "method": "TYPE A1",
+        "bridgeC": "短=短；汉字直接提示意思"
+      },
+      {
+        "element": "みじかい",
+        "method": "TYPE B2",
+        "bridgeC": "みじかい→秘籍开；游戏开秘籍后短时间内提升战斗力"
+      }
+    ],
+    "mergedScene": "打游戏时秘籍一开，战斗力短时间内暴涨，但持续不了多久。みじかい用“秘籍开”记短的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みじかい - 谐音“秘籍开” - 打游戏一开秘籍，就会短时间内提升战斗力 - 短的。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この鉛筆は短いです。",
+        "zh": "这支铅笔很短。"
+      }
+    ]
+  },
+  {
+    "word": "水",
+    "reading": "みず",
+    "meaning": "水",
+    "elements": [
+      {
+        "element": "水",
+        "method": "TYPE A1",
+        "bridgeC": "水=水；中日汉字意思相通"
+      },
+      {
+        "element": "みず",
+        "method": "TYPE B2",
+        "bridgeC": "みず→米煮；煮米饭必须加水"
+      }
+    ],
+    "mergedScene": "煮米饭时一定要加水，不然米煮(みず)不熟。水就是みず。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みず - 谐音“米煮” - 煮米饭必须加水 - 水。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "水を飲みます。",
+        "zh": "喝水。"
+      }
+    ]
+  },
+  {
+    "word": "店",
+    "reading": "みせ",
+    "meaning": "商店",
+    "elements": [
+      {
+        "element": "店",
+        "method": "TYPE A1",
+        "bridgeC": "店=商店；汉字直接提示意思"
+      },
+      {
+        "element": "みせ",
+        "method": "TYPE B2",
+        "bridgeC": "みせ→米社；专门卖米的小店"
+      },
+      {
+        "element": "店/見せる",
+        "method": "对比记忆",
+        "bridgeC": "店=みせ是名词商店；見せる=みせる是动词给别人看"
+      }
+    ],
+    "mergedScene": "路边有个“米社(みせ)”小店，专门卖米，所以店就是商店。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みせ - 谐音“米社” - 卖米的小店 - 商店。关联：店=みせ，見せる=给别人看。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "あの店でパンを買います。",
+        "zh": "在那家店买面包。"
+      }
+    ]
+  },
+  {
+    "word": "見せる",
+    "reading": "みせる",
+    "meaning": "给…看",
+    "elements": [
+      {
+        "element": "見",
+        "method": "TYPE A1",
+        "bridgeC": "見=看"
+      },
+      {
+        "element": "せる",
+        "method": "语法记忆",
+        "bridgeC": "せる有“让/使”的感觉；見せる=让别人看"
+      },
+      {
+        "element": "店/見せる",
+        "method": "对比记忆",
+        "bridgeC": "みせ加る变动作，表示把东西给别人看"
+      }
+    ],
+    "mergedScene": "你把照片拿出来，让朋友看；見=看，せる像“使别人做”，所以見せる就是给别人看。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みせる - 見=看，せる≈让别人 - 让别人看见 - 给…看。关联：みせ是店，みせる是动词。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "写真を見せてください。",
+        "zh": "请给我看照片。"
+      }
+    ]
+  },
+  {
+    "word": "道",
+    "reading": "みち",
+    "meaning": "道路",
+    "elements": [
+      {
+        "element": "道",
+        "method": "TYPE A1",
+        "bridgeC": "道=道路；汉字直接提示意思"
+      },
+      {
+        "element": "みち",
+        "method": "TYPE B2",
+        "bridgeC": "みち→米奇；米奇走在大路上"
+      }
+    ],
+    "mergedScene": "想象一个米奇背着包，正走在一条很宽的大路上。米奇(みち)走的地方就是道。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みち - 谐音“米奇” - 想象一个米奇走在大路上 - 道路。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この道を行きます。",
+        "zh": "走这条路。"
+      }
+    ]
+  },
+  {
+    "word": "三日",
+    "reading": "みっか",
+    "meaning": "三天、三号",
+    "elements": [
+      {
+        "element": "三",
+        "method": "TYPE A1",
+        "bridgeC": "三=3"
+      },
+      {
+        "element": "みっか",
+        "method": "固定读音",
+        "bridgeC": "三日特殊读みっか，表示三天或三号"
+      },
+      {
+        "element": "みっか/三つ",
+        "method": "对比记忆",
+        "bridgeC": "三日=みっか，三つ=みっつ；小つ后面不同，意思不同"
+      }
+    ],
+    "mergedScene": "三号那天大家都要打卡，嘴里喊“三卡(みっか)”，所以三日记三号/三天。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みっか - 谐音“三卡” - 三号那天打卡；也表示三天 - 三天、三号。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "三日休みます。",
+        "zh": "休息三天。"
+      }
+    ]
+  },
+  {
+    "word": "三つ",
+    "reading": "みっつ",
+    "meaning": "三个",
+    "elements": [
+      {
+        "element": "三",
+        "method": "TYPE A1",
+        "bridgeC": "三=3"
+      },
+      {
+        "element": "つ",
+        "method": "语法记忆",
+        "bridgeC": "日语数物品常用つ系列；三つ表示三个"
+      },
+      {
+        "element": "三日/三つ",
+        "method": "对比记忆",
+        "bridgeC": "みっか是三日；みっつ是三个，后面つ像一个小物品"
+      }
+    ],
+    "mergedScene": "桌上摆着三个小东西，每个都像一个小つ，合起来三つ就是三个。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みっつ - 三+つ系列 - 桌上三个小物品，每个像つ - 三个。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "りんごを三つください。",
+        "zh": "请给我三个苹果。"
+      }
+    ]
+  },
+  {
+    "word": "緑",
+    "reading": "みどり",
+    "meaning": "绿色",
+    "elements": [
+      {
+        "element": "緑",
+        "method": "TYPE A1",
+        "bridgeC": "緑=绿色；汉字可直接认"
+      },
+      {
+        "element": "みどり",
+        "method": "TYPE B2",
+        "bridgeC": "みどり→米多绿；稻田里米苗很多很绿"
+      }
+    ],
+    "mergedScene": "一大片稻田里米苗多得发绿，“米多绿(みどり)”就是绿色。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みどり - 谐音“米多绿” - 稻田里米苗很多很绿 - 绿色。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "緑のかばんがあります。",
+        "zh": "有一个绿色的包。"
+      }
+    ]
+  },
+  {
+    "word": "皆さん",
+    "reading": "みなさん",
+    "meaning": "大家",
+    "elements": [
+      {
+        "element": "皆",
+        "method": "TYPE A1",
+        "bridgeC": "皆=大家、全体"
+      },
+      {
+        "element": "みなさん",
+        "method": "语气对比",
+        "bridgeC": "みなさん=みな+さん；さん是礼貌称呼，所以更正式礼貌"
+      },
+      {
+        "element": "みんな",
+        "method": "假名联想",
+        "bridgeC": "みんな少了さん，两个ん挤在一起，像朋友们挤成一团，更口语亲近"
+      }
+    ],
+    "mergedScene": "上课时老师对全班说“みなさん”，因为每个人都被礼貌地加上さん。下课后朋友们挤成一团，さん省掉了，两个ん挤在一起，就喊“みんな”。两个都是大家，但语气不同。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みなさん - 和みんな都是“大家” - みなさん=みな+さん，带さん更礼貌；みんな少了さん，两个ん挤成一团，更口语亲近 - 大家。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "皆さん、おはようございます。",
+        "zh": "大家，早上好。"
+      }
+    ]
+  },
+  {
+    "word": "南",
+    "reading": "みなみ",
+    "meaning": "南",
+    "elements": [
+      {
+        "element": "南",
+        "method": "TYPE A1",
+        "bridgeC": "南=南方；汉字直接提示方向"
+      },
+      {
+        "element": "みなみ",
+        "method": "TYPE B2",
+        "bridgeC": "みなみ→米纳米；南方水稻多，把米都纳进米仓"
+      },
+      {
+        "element": "皆さん/南",
+        "method": "对比记忆",
+        "bridgeC": "皆さん=みなさん，南=みなみ；后面さん像称呼大家，后面み像米，联想南方米多"
+      }
+    ],
+    "mergedScene": "南方水稻多，大家把米都纳进米仓，嘴里念“米纳米(みなみ)”，记住南。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "みなみ - 谐音“米纳米” - 南方水稻多，把米纳进米仓 - 南。关联：みなさん=大家，みなみ=南。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "南に海があります。",
+        "zh": "南边有海。"
+      }
+    ]
+  }
+]

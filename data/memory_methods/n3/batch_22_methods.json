@@ -1,0 +1,1282 @@
+[
+  {
+    "word": "内科医",
+    "reading": "ないかい",
+    "meaning": "生",
+    "sourceIndex": 841,
+    "sourceMeaningRaw": "名 生",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "内科医",
+        "method": "TYPE A1",
+        "bridgeC": "汉字内科医意思是生"
+      },
+      {
+        "element": "ないかい",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"ない+かい\"来记"
+      }
+    ],
+    "mergedScene": "ないかい拆分记忆，意思是生",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ないかい - 拆分记忆 - 生",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この内科医は大切です。",
+        "zh": "这个生很重要。"
+      }
+    ]
+  },
+  {
+    "word": "ナイロン",
+    "reading": "ないろん",
+    "meaning": "nylon〈紡〉尼龙，耐纶",
+    "sourceIndex": 842,
+    "sourceMeaningRaw": "名 nylon〈紡〉尼龙，耐纶；锦纶",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "ナイロン",
+        "method": "外来语",
+        "bridgeC": "ナイロン来自英语，意思是nylon〈紡〉尼龙，耐纶"
+      }
+    ],
+    "mergedScene": "ナイロン是外来语，来自英语，意思是nylon〈紡〉尼龙，耐纶。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ナイロン - 外来语英语 - nylon〈紡〉尼龙，耐纶",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このナイロンは大切です。",
+        "zh": "这个nylon〈紡〉尼龙，耐纶很重要。"
+      }
+    ]
+  },
+  {
+    "word": "尚",
+    "reading": "なお",
+    "meaning": "词 还，仍然",
+    "sourceIndex": 843,
+    "sourceMeaningRaw": "副词 还，仍然，依然，犹，；更；还；再； 未；犹，犹如；另外；此外；补充说明",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "尚",
+        "method": "TYPE A1",
+        "bridgeC": "汉字尚意思是词 还，仍然"
+      }
+    ],
+    "mergedScene": "尚这个汉字一看就像词 还，仍然。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なお - 尚 - 词 还，仍然",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この尚は大切です。",
+        "zh": "这个词 还，仍然很重要。"
+      }
+    ]
+  },
+  {
+    "word": "治す",
+    "reading": "なおす",
+    "meaning": "医治 他动·五 段",
+    "sourceIndex": 844,
+    "sourceMeaningRaw": "医治 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "治す",
+        "method": "TYPE A1",
+        "bridgeC": "汉字治す意思是医治 他动·五 段"
+      }
+    ],
+    "mergedScene": "治す这个汉字一看就像医治 他动·五 段。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なおす - 治す - 医治 他动·五 段",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この治すは大切です。",
+        "zh": "这个医治 他动·五 段很重要。"
+      }
+    ]
+  },
+  {
+    "word": "仲",
+    "reading": "なか",
+    "meaning": "交情",
+    "sourceIndex": 845,
+    "sourceMeaningRaw": "名 交情；交谊；(人与人的)关系",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "仲",
+        "method": "TYPE A1",
+        "bridgeC": "汉字仲意思是交情"
+      }
+    ],
+    "mergedScene": "仲这个汉字一看就像交情。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なか - 仲 - 交情",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この仲は大切です。",
+        "zh": "这个交情很重要。"
+      }
+    ]
+  },
+  {
+    "word": "長",
+    "reading": "なが",
+    "meaning": "～ 接头 长……",
+    "sourceIndex": 846,
+    "sourceMeaningRaw": "～ 接头 长……",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "長",
+        "method": "TYPE A1",
+        "bridgeC": "汉字長意思是～ 接头 长……"
+      }
+    ],
+    "mergedScene": "長这个汉字一看就像～ 接头 长……。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なが - 長 - ～ 接头 长……",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この長は大切です。",
+        "zh": "这个～ 接头 长……很重要。"
+      }
+    ]
+  },
+  {
+    "word": "流し",
+    "reading": "ながし",
+    "meaning": "洗身体处，搓背",
+    "sourceIndex": 847,
+    "sourceMeaningRaw": "名 洗身体处，搓背；串街（卖唱、揽客）； 流，冲，流放；洗碗池，水池子；澡堂内冲 （串街揽客的）出租汽车",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "流し",
+        "method": "TYPE A1",
+        "bridgeC": "汉字流し意思是洗身体处，搓背"
+      }
+    ],
+    "mergedScene": "流し这个汉字一看就像洗身体处，搓背。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ながし - 流し - 洗身体处，搓背",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この流しは大切です。",
+        "zh": "这个洗身体处，搓背很重要。"
+      }
+    ]
+  },
+  {
+    "word": "流す",
+    "reading": "ながす",
+    "meaning": "；放逐，流放；流失",
+    "sourceIndex": 848,
+    "sourceMeaningRaw": "（出）；放逐，流放；流失，丢失当掉；失 冲走；倒；泼；使漂浮；使流走；流 他动·五 段 去所有权；使流产，使不成立；播放",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "流す",
+        "method": "TYPE A1",
+        "bridgeC": "汉字流す意思是；放逐，流放；流失"
+      }
+    ],
+    "mergedScene": "流す这个汉字一看就像；放逐，流放；流失。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ながす - 流す - ；放逐，流放；流失",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この流すは大切です。",
+        "zh": "这个；放逐，流放；流失很重要。"
+      }
+    ]
+  },
+  {
+    "word": "長袖",
+    "reading": "ながそで",
+    "meaning": "长袖，长袖衣服",
+    "sourceIndex": 849,
+    "sourceMeaningRaw": "名 长袖，长袖衣服；不事武事的人",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "長袖",
+        "method": "TYPE A1",
+        "bridgeC": "汉字長袖意思是长袖，长袖衣服"
+      },
+      {
+        "element": "ながそで",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なが+そで\"来记"
+      }
+    ],
+    "mergedScene": "ながそで拆分记忆，意思是长袖，长袖衣服",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ながそで - 拆分记忆 - 长袖，长袖衣服",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この長袖は大切です。",
+        "zh": "这个长袖，长袖衣服很重要。"
+      }
+    ]
+  },
+  {
+    "word": "長年",
+    "reading": "ながねん",
+    "meaning": "副词 长年多年漫长岁月",
+    "sourceIndex": 850,
+    "sourceMeaningRaw": "名·副词 长年多年漫长岁月",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "長年",
+        "method": "TYPE A1",
+        "bridgeC": "汉字長年意思是副词 长年多年漫长岁月"
+      },
+      {
+        "element": "ながねん",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なが+ねん\"来记"
+      }
+    ],
+    "mergedScene": "ながねん拆分记忆，意思是副词 长年多年漫长岁月",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ながねん - 拆分记忆 - 副词 长年多年漫长岁月",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この長年は大切です。",
+        "zh": "这个副词 长年多年漫长岁月很重要。"
+      }
+    ]
+  },
+  {
+    "word": "仲間",
+    "reading": "なかま",
+    "meaning": "同志",
+    "sourceIndex": 851,
+    "sourceMeaningRaw": "名 同志；朋友，伙伴，一伙；同事；同类",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "仲間",
+        "method": "TYPE A1",
+        "bridgeC": "汉字仲間意思是同志"
+      }
+    ],
+    "mergedScene": "仲間这个汉字一看就像同志。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なかま - 仲間 - 同志",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この仲間は大切です。",
+        "zh": "这个同志很重要。"
+      }
+    ]
+  },
+  {
+    "word": "中身",
+    "reading": "なかみ",
+    "meaning": "容纳的东西",
+    "sourceIndex": 852,
+    "sourceMeaningRaw": "名 容纳的东西；内容；刀身",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "中身",
+        "method": "TYPE A1",
+        "bridgeC": "汉字中身意思是容纳的东西"
+      }
+    ],
+    "mergedScene": "中身这个汉字一看就像容纳的东西。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なかみ - 中身 - 容纳的东西",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この中身は大切です。",
+        "zh": "这个容纳的东西很重要。"
+      }
+    ]
+  },
+  {
+    "word": "中味",
+    "reading": "なかみ",
+    "meaning": "内装物，容纳物放在容器等中的东西",
+    "sourceIndex": 853,
+    "sourceMeaningRaw": "名 内装物，容纳物放在容器等中的东西；事物 的内容，非外表的实质",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "中味",
+        "method": "TYPE A1",
+        "bridgeC": "汉字中味意思是内装物，容纳物放在容器等中的东西"
+      }
+    ],
+    "mergedScene": "中味这个汉字一看就像内装物，容纳物放在容器等中的东西。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なかみ - 中味 - 内装物，容纳物放在容器等中的东西",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この中味は大切です。",
+        "zh": "这个内装物，容纳物放在容器等中的东西很重要。"
+      }
+    ]
+  },
+  {
+    "word": "眺める",
+    "reading": "ながめる",
+    "meaning": "凝视，注视",
+    "sourceIndex": 854,
+    "sourceMeaningRaw": "凝视，注视；眺望，远眺 他动·一 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "眺める",
+        "method": "TYPE A1",
+        "bridgeC": "汉字眺める意思是凝视，注视"
+      },
+      {
+        "element": "ながめる",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なが+める\"来记"
+      }
+    ],
+    "mergedScene": "ながめる拆分记忆，意思是凝视，注视",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ながめる - 拆分记忆 - 凝视，注视",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この眺めるは大切です。",
+        "zh": "这个凝视，注视很重要。"
+      }
+    ]
+  },
+  {
+    "word": "眺め",
+    "reading": "ながめ",
+    "meaning": "眺望，瞭望",
+    "sourceIndex": 855,
+    "sourceMeaningRaw": "名 眺望，瞭望；景色，风景，景致",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "眺め",
+        "method": "TYPE A1",
+        "bridgeC": "汉字眺め意思是眺望，瞭望"
+      }
+    ],
+    "mergedScene": "眺め这个汉字一看就像眺望，瞭望。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ながめ - 眺め - 眺望，瞭望",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この眺めは大切です。",
+        "zh": "这个眺望，瞭望很重要。"
+      }
+    ]
+  },
+  {
+    "word": "中指",
+    "reading": "なかゆび",
+    "meaning": "名 ",
+    "sourceIndex": 856,
+    "sourceMeaningRaw": "名 ",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "中指",
+        "method": "TYPE A1",
+        "bridgeC": "汉字中指意思是名 "
+      },
+      {
+        "element": "なかゆび",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なか+ゆび\"来记"
+      }
+    ],
+    "mergedScene": "なかゆび拆分记忆，意思是名 ",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なかゆび - 拆分记忆 - 名 ",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この中指は大切です。",
+        "zh": "这个名 很重要。"
+      }
+    ]
+  },
+  {
+    "word": "仲良し",
+    "reading": "なかよし",
+    "meaning": "相好，友好",
+    "sourceIndex": 857,
+    "sourceMeaningRaw": "名 相好，友好；相好的人，好朋友",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "仲良し",
+        "method": "TYPE A1",
+        "bridgeC": "汉字仲良し意思是相好，友好"
+      },
+      {
+        "element": "なかよし",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なか+よし\"来记"
+      }
+    ],
+    "mergedScene": "なかよし拆分记忆，意思是相好，友好",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なかよし - 拆分记忆 - 相好，友好",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この仲良しは大切です。",
+        "zh": "这个相好，友好很重要。"
+      }
+    ]
+  },
+  {
+    "word": "流れ",
+    "reading": "ながれ",
+    "meaning": "成群的人，散会后的小团体活动",
+    "sourceIndex": 858,
+    "sourceMeaningRaw": "名 成群的人，散会后的小团体活动；漂泊 势，推移；河流，流水，水流；后续者，系 统，派别，流派，血统，谱系；小组，三五 （者），流浪（的人）；长辈或上级给斟的 酒；中止，停止；屋顶，斜坡，屋顶上有屋 脊到屋檐的倾斜部分",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "流れ",
+        "method": "TYPE A1",
+        "bridgeC": "汉字流れ意思是成群的人，散会后的小团体活动"
+      }
+    ],
+    "mergedScene": "流れ这个汉字一看就像成群的人，散会后的小团体活动。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ながれ - 流れ - 成群的人，散会后的小团体活动",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この流れは大切です。",
+        "zh": "这个成群的人，散会后的小团体活动很重要。"
+      }
+    ]
+  },
+  {
+    "word": "泣き声",
+    "reading": "なきごえ",
+    "meaning": "哭声",
+    "sourceIndex": 859,
+    "sourceMeaningRaw": "名 哭声；带哭的声音",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "泣き声",
+        "method": "TYPE A1",
+        "bridgeC": "汉字泣き声意思是哭声"
+      },
+      {
+        "element": "なきごえ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なき+ごえ\"来记"
+      }
+    ],
+    "mergedScene": "なきごえ拆分记忆，意思是哭声",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なきごえ - 拆分记忆 - 哭声",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この泣き声は大切です。",
+        "zh": "这个哭声很重要。"
+      }
+    ]
+  },
+  {
+    "word": "鳴き声",
+    "reading": "なきごえ",
+    "meaning": "鸣声，啼声",
+    "sourceIndex": 860,
+    "sourceMeaningRaw": "名 鸣声，啼声；別表記：啼き声多用于狮子或 龙的声音",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "鳴き声",
+        "method": "TYPE A1",
+        "bridgeC": "汉字鳴き声意思是鸣声，啼声"
+      },
+      {
+        "element": "なきごえ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なき+ごえ\"来记"
+      }
+    ],
+    "mergedScene": "なきごえ拆分记忆，意思是鸣声，啼声",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なきごえ - 拆分记忆 - 鸣声，啼声",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この鳴き声は大切です。",
+        "zh": "这个鸣声，啼声很重要。"
+      }
+    ]
+  },
+  {
+    "word": "無くす",
+    "reading": "なくす",
+    "meaning": "丢，丢失",
+    "sourceIndex": 861,
+    "sourceMeaningRaw": "丢，丢失，丢掉；丧失，失掉；消灭，去掉 他动·五 段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "無くす",
+        "method": "TYPE A1",
+        "bridgeC": "汉字無くす意思是丢，丢失"
+      }
+    ],
+    "mergedScene": "無くす这个汉字一看就像丢，丢失。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なくす - 無くす - 丢，丢失",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この無くすは大切です。",
+        "zh": "这个丢，丢失很重要。"
+      }
+    ]
+  },
+  {
+    "word": "泣ける",
+    "reading": "なける",
+    "meaning": "一段 禁不住哭出来，令人感动得流泪",
+    "sourceIndex": 862,
+    "sourceMeaningRaw": "动·一段 禁不住哭出来，令人感动得流泪，能哭",
+    "partOfSpeech": "动",
+    "elements": [
+      {
+        "element": "泣ける",
+        "method": "TYPE A1",
+        "bridgeC": "汉字泣ける意思是一段 禁不住哭出来，令人感动得流泪"
+      }
+    ],
+    "mergedScene": "泣ける这个汉字一看就像一段 禁不住哭出来，令人感动得流泪。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なける - 泣ける - 一段 禁不住哭出来，令人感动得流泪",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この泣けるは大切です。",
+        "zh": "这个一段 禁不住哭出来，令人感动得流泪很重要。"
+      }
+    ]
+  },
+  {
+    "word": "無し",
+    "reading": "なし",
+    "meaning": "无，没有",
+    "sourceIndex": 863,
+    "sourceMeaningRaw": "名 无，没有；（结尾）不做，没有",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "無し",
+        "method": "TYPE A1",
+        "bridgeC": "汉字無し意思是无，没有"
+      }
+    ],
+    "mergedScene": "無し这个汉字一看就像无，没有。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なし - 無し - 无，没有",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この無しは大切です。",
+        "zh": "这个无，没有很重要。"
+      }
+    ]
+  },
+  {
+    "word": "謎",
+    "reading": "なぞ",
+    "meaning": "谜，谜语",
+    "sourceIndex": 864,
+    "sourceMeaningRaw": "名 谜，谜语；暗示；示意；谜，莫名其妙 『成』，闷葫芦",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "謎",
+        "method": "TYPE A1",
+        "bridgeC": "汉字謎意思是谜，谜语"
+      }
+    ],
+    "mergedScene": "謎这个汉字一看就像谜，谜语。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なぞ - 謎 - 谜，谜语",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この謎は大切です。",
+        "zh": "这个谜，谜语很重要。"
+      }
+    ]
+  },
+  {
+    "word": "なだらか",
+    "reading": "なだらか",
+    "meaning": "利，平稳",
+    "sourceIndex": 865,
+    "sourceMeaningRaw": "形动 利，平稳，流利。（物事の進行が順調でつ 坡度小。（斜面の傾斜の緩いさま。）；顺 かえないさま。円滑であるさま。）",
+    "partOfSpeech": "形",
+    "elements": [
+      {
+        "element": "なだらか",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なだ+らか\"来记"
+      }
+    ],
+    "mergedScene": "なだらか拆分记忆，意思是利，平稳",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なだらか - 拆分记忆 - 利，平稳",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "このなだらかは大切です。",
+        "zh": "这个利，平稳很重要。"
+      }
+    ]
+  },
+  {
+    "word": "納豆",
+    "reading": "なっとう",
+    "meaning": "纳豆",
+    "sourceIndex": 866,
+    "sourceMeaningRaw": "名 纳豆",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "納豆",
+        "method": "TYPE A1",
+        "bridgeC": "汉字納豆意思是纳豆"
+      },
+      {
+        "element": "なっとう",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なっ+とう\"来记"
+      }
+    ],
+    "mergedScene": "なっとう拆分记忆，意思是纳豆",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なっとう - 拆分记忆 - 纳豆",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この納豆は大切です。",
+        "zh": "这个纳豆很重要。"
+      }
+    ]
+  },
+  {
+    "word": "納得",
+    "reading": "なっとく",
+    "meaning": "理解，领会",
+    "sourceIndex": 867,
+    "sourceMeaningRaw": "理解，领会；同意，信服；认可 名·自他 动·サ变",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "納得",
+        "method": "TYPE A1",
+        "bridgeC": "汉字納得意思是理解，领会"
+      },
+      {
+        "element": "なっとく",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なっ+とく\"来记"
+      }
+    ],
+    "mergedScene": "なっとく拆分记忆，意思是理解，领会",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なっとく - 拆分记忆 - 理解，领会",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この納得は大切です。",
+        "zh": "这个理解，领会很重要。"
+      }
+    ]
+  },
+  {
+    "word": "撫でる",
+    "reading": "なでる",
+    "meaning": "一 抚摸",
+    "sourceIndex": 868,
+    "sourceMeaningRaw": "他动·一 抚摸；拂，抚摸比喻柔软的物体或风轻轻掠 段 过身体；梳拢用梳子整理头发",
+    "partOfSpeech": "他动·一",
+    "elements": [
+      {
+        "element": "撫でる",
+        "method": "TYPE A1",
+        "bridgeC": "汉字撫でる意思是一 抚摸"
+      }
+    ],
+    "mergedScene": "撫でる这个汉字一看就像一 抚摸。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なでる - 撫でる - 一 抚摸",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この撫でるは大切です。",
+        "zh": "这个一 抚摸很重要。"
+      }
+    ]
+  },
+  {
+    "word": "斜め",
+    "reading": "ななめ",
+    "meaning": "形动 不平常",
+    "sourceIndex": 869,
+    "sourceMeaningRaw": "名·形动 不平常；倾斜；日过正午；非常，十分",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "斜め",
+        "method": "TYPE A1",
+        "bridgeC": "汉字斜め意思是形动 不平常"
+      }
+    ],
+    "mergedScene": "斜め这个汉字一看就像形动 不平常。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ななめ - 斜め - 形动 不平常",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この斜めは大切です。",
+        "zh": "这个形动 不平常很重要。"
+      }
+    ]
+  },
+  {
+    "word": "何事",
+    "reading": "なにごと",
+    "meaning": "，什么事情",
+    "sourceIndex": 870,
+    "sourceMeaningRaw": "名 ，什么事情；怎么回事，怎么搞的；万 事任何的事，所有的事",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "何事",
+        "method": "TYPE A1",
+        "bridgeC": "汉字何事意思是，什么事情"
+      },
+      {
+        "element": "なにごと",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なに+ごと\"来记"
+      }
+    ],
+    "mergedScene": "なにごと拆分记忆，意思是，什么事情",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なにごと - 拆分记忆 - ，什么事情",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この何事は大切です。",
+        "zh": "这个，什么事情很重要。"
+      }
+    ]
+  },
+  {
+    "word": "何しろ",
+    "reading": "なにしろ",
+    "meaning": "词 因为，由于",
+    "sourceIndex": 871,
+    "sourceMeaningRaw": "副词 因为，由于；无论怎样，不管怎样，反正， 总之；毕竟，说到底",
+    "partOfSpeech": "副",
+    "elements": [
+      {
+        "element": "何しろ",
+        "method": "TYPE A1",
+        "bridgeC": "汉字何しろ意思是词 因为，由于"
+      },
+      {
+        "element": "なにしろ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なに+しろ\"来记"
+      }
+    ],
+    "mergedScene": "なにしろ拆分记忆，意思是词 因为，由于",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なにしろ - 拆分记忆 - 词 因为，由于",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この何しろは大切です。",
+        "zh": "这个词 因为，由于很重要。"
+      }
+    ]
+  },
+  {
+    "word": "何より",
+    "reading": "なにより",
+    "meaning": "代名 比什么都好",
+    "sourceIndex": 872,
+    "sourceMeaningRaw": "代名 比什么（都好），再好不过，最好；首先； 最，胜过其他任何东西",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "何より",
+        "method": "TYPE A1",
+        "bridgeC": "汉字何より意思是代名 比什么都好"
+      },
+      {
+        "element": "なにより",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なに+より\"来记"
+      }
+    ],
+    "mergedScene": "なにより拆分记忆，意思是代名 比什么都好",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なにより - 拆分记忆 - 代名 比什么都好",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この何よりは大切です。",
+        "zh": "这个代名 比什么都好很重要。"
+      }
+    ]
+  },
+  {
+    "word": "鍋",
+    "reading": "なべ",
+    "meaning": "锅",
+    "sourceIndex": 873,
+    "sourceMeaningRaw": "名 锅；火锅",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "鍋",
+        "method": "TYPE A1",
+        "bridgeC": "汉字鍋意思是锅"
+      }
+    ],
+    "mergedScene": "鍋这个汉字一看就像锅。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なべ - 鍋 - 锅",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この鍋は大切です。",
+        "zh": "这个锅很重要。"
+      }
+    ]
+  },
+  {
+    "word": "生",
+    "reading": "なま",
+    "meaning": "形动 当场直接欣赏或唱歌",
+    "sourceIndex": 874,
+    "sourceMeaningRaw": "名·形动 当场直接欣赏或唱歌；狂妄；“啤酒”之 ；鲜；湿；自然，直接；现场现场直播在 略；技术等不熟练",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "生",
+        "method": "TYPE A1",
+        "bridgeC": "汉字生意思是形动 当场直接欣赏或唱歌"
+      }
+    ],
+    "mergedScene": "生这个汉字一看就像形动 当场直接欣赏或唱歌。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なま - 生 - 形动 当场直接欣赏或唱歌",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この生は大切です。",
+        "zh": "这个形动 当场直接欣赏或唱歌很重要。"
+      }
+    ]
+  },
+  {
+    "word": "生意気",
+    "reading": "なまいき",
+    "meaning": "形动 自大，傲慢",
+    "sourceIndex": 875,
+    "sourceMeaningRaw": "名·形动 自大，傲慢，不逊，臭美；神气活现；狂妄",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "生意気",
+        "method": "TYPE A1",
+        "bridgeC": "汉字生意気意思是形动 自大，傲慢"
+      },
+      {
+        "element": "なまいき",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なま+いき\"来记"
+      }
+    ],
+    "mergedScene": "なまいき拆分记忆，意思是形动 自大，傲慢",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なまいき - 拆分记忆 - 形动 自大，傲慢",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この生意気は大切です。",
+        "zh": "这个形动 自大，傲慢很重要。"
+      }
+    ]
+  },
+  {
+    "word": "怠ける",
+    "reading": "なまける",
+    "meaning": "懒惰，怠惰 自他动· 一段",
+    "sourceIndex": 876,
+    "sourceMeaningRaw": "懒惰，怠惰 自他动· 一段",
+    "partOfSpeech": "",
+    "elements": [
+      {
+        "element": "怠ける",
+        "method": "TYPE A1",
+        "bridgeC": "汉字怠ける意思是懒惰，怠惰 自他动· 一段"
+      },
+      {
+        "element": "なまける",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なま+ける\"来记"
+      }
+    ],
+    "mergedScene": "なまける拆分记忆，意思是懒惰，怠惰 自他动· 一段",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なまける - 拆分记忆 - 懒惰，怠惰 自他动· 一段",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この怠けるは大切です。",
+        "zh": "这个懒惰，怠惰 自他动· 一段很重要。"
+      }
+    ]
+  },
+  {
+    "word": "生ゴミ",
+    "reading": "なまごみ",
+    "meaning": "厨余垃圾，生活垃圾",
+    "sourceIndex": 877,
+    "sourceMeaningRaw": "名 厨余垃圾，生活垃圾",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "生ゴミ",
+        "method": "TYPE A1",
+        "bridgeC": "汉字生ゴミ意思是厨余垃圾，生活垃圾"
+      },
+      {
+        "element": "なまごみ",
+        "method": "TYPE B2",
+        "bridgeC": "拆成\"なま+ごみ\"来记"
+      }
+    ],
+    "mergedScene": "なまごみ拆分记忆，意思是厨余垃圾，生活垃圾",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なまごみ - 拆分记忆 - 厨余垃圾，生活垃圾",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この生ゴミは大切です。",
+        "zh": "这个厨余垃圾，生活垃圾很重要。"
+      }
+    ]
+  },
+  {
+    "word": "並木",
+    "reading": "なみき",
+    "meaning": "街道树，成排的树",
+    "sourceIndex": 878,
+    "sourceMeaningRaw": "名 街道树，成排的树",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "並木",
+        "method": "TYPE A1",
+        "bridgeC": "汉字並木意思是街道树，成排的树"
+      }
+    ],
+    "mergedScene": "並木这个汉字一看就像街道树，成排的树。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なみき - 並木 - 街道树，成排的树",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この並木は大切です。",
+        "zh": "这个街道树，成排的树很重要。"
+      }
+    ]
+  },
+  {
+    "word": "涙",
+    "reading": "なみだ",
+    "meaning": "泪，眼泪",
+    "sourceIndex": 879,
+    "sourceMeaningRaw": "名·サ变 泪，眼泪；同情；（寿司相关用语）指代芥 末",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "涙",
+        "method": "TYPE A1",
+        "bridgeC": "汉字涙意思是泪，眼泪"
+      }
+    ],
+    "mergedScene": "涙这个汉字一看就像泪，眼泪。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なみだ - 涙 - 泪，眼泪",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この涙は大切です。",
+        "zh": "这个泪，眼泪很重要。"
+      }
+    ]
+  },
+  {
+    "word": "悩み",
+    "reading": "なやみ",
+    "meaning": "烦恼",
+    "sourceIndex": 880,
+    "sourceMeaningRaw": "名 烦恼；苦恼；痛苦",
+    "partOfSpeech": "名",
+    "elements": [
+      {
+        "element": "悩み",
+        "method": "TYPE A1",
+        "bridgeC": "汉字悩み意思是烦恼"
+      }
+    ],
+    "mergedScene": "悩み这个汉字一看就像烦恼。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "なやみ - 悩み - 烦恼",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この悩みは大切です。",
+        "zh": "这个烦恼很重要。"
+      }
+    ]
+  }
+]

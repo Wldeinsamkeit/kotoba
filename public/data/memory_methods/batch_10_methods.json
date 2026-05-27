@@ -1,0 +1,1287 @@
+[
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meaning": "愉快的、快乐的",
+    "elements": [
+      {
+        "element": "楽",
+        "method": "TYPE A1",
+        "bridgeC": "楽=快乐、轻松"
+      },
+      {
+        "element": "たのしい",
+        "method": "TYPE B2",
+        "bridgeC": "たのしい→他闹嬉；他在聚会上又闹又嬉笑，特别快乐"
+      }
+    ],
+    "mergedScene": "朋友在生日会上又闹又嬉笑，大家都被他逗乐了：他闹嬉(たのしい)。楽しい=快乐的、愉快的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たのしい - 谐音“他闹嬉” - 他在聚会上又闹又嬉笑，大家很快乐 - 愉快的/快乐的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "旅行は楽しいです。",
+        "zh": "旅行很开心。"
+      }
+    ]
+  },
+  {
+    "word": "頼む",
+    "reading": "たのむ",
+    "meaning": "请求、委托",
+    "elements": [
+      {
+        "element": "頼",
+        "method": "TYPE A1",
+        "bridgeC": "頼=依赖、拜托"
+      },
+      {
+        "element": "たのむ",
+        "method": "TYPE B2",
+        "bridgeC": "たのむ→他弄嘛；自己不想弄，就请求他弄嘛"
+      }
+    ],
+    "mergedScene": "作业太难，你把本子推给朋友说：他弄嘛(たのむ)！这就是頼む：请求、拜托、委托别人做。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たのむ - 谐音“他弄嘛” - 自己不想弄，请求他帮忙弄 - 请求/委托",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "友だちに仕事を頼みます。",
+        "zh": "拜托朋友做工作。"
+      }
+    ]
+  },
+  {
+    "word": "たばこ",
+    "reading": "たばこ",
+    "meaning": "烟",
+    "elements": [
+      {
+        "element": "たばこ",
+        "method": "外来语",
+        "bridgeC": "来自 tobacco，表示香烟、烟草"
+      },
+      {
+        "element": "たばこ",
+        "method": "TYPE B2",
+        "bridgeC": "たばこ→他罢课；他躲去抽烟，连课都罢了"
+      }
+    ],
+    "mergedScene": "一个学生为了抽烟，居然“他罢课”(たばこ)跑到楼下。たばこ=烟、香烟。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たばこ - 谐音“他罢课” - 他为了抽烟连课都罢了 - 烟",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "たばこを吸いません。",
+        "zh": "不抽烟。"
+      }
+    ]
+  },
+  {
+    "word": "たぶん",
+    "reading": "たぶん",
+    "meaning": "也许",
+    "elements": [
+      {
+        "element": "たぶん",
+        "method": "TYPE B2",
+        "bridgeC": "たぶん→他笨；太笨的人遇到什么事都不敢确定，只会说大概、或许、可能"
+      }
+    ],
+    "mergedScene": "别人问他这题选什么，他因为太笨(たぶん)不敢确定，只会反复回答：大概吧、或许吧、可能吧。たぶん=也许、大概。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たぶん - 谐音“他笨” - 一个人太笨了遇到什么事都只回答“大概、或许、可能” - 也许/大概",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "たぶん雨が降ります。",
+        "zh": "也许会下雨。"
+      }
+    ]
+  },
+  {
+    "word": "食べ物",
+    "reading": "たべもの",
+    "meaning": "食物",
+    "elements": [
+      {
+        "element": "食べ",
+        "method": "关联记忆",
+        "bridgeC": "食べる=吃，食べ=吃的"
+      },
+      {
+        "element": "物",
+        "method": "TYPE A1",
+        "bridgeC": "物=东西"
+      },
+      {
+        "element": "たべもの",
+        "method": "TYPE B2",
+        "bridgeC": "たべもの→他被摸呢；桌上的食物被他摸来摸去"
+      }
+    ],
+    "mergedScene": "桌上摆满吃的东西，他却先把每个食物都摸一遍：他被摸呢(たべもの)。食べる=吃，物=东西，食べ物=食物。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たべもの - 谐音“他被摸呢” - 桌上的吃的东西被他摸来摸去 - 食物\n🔗 食べる=吃，食べ物=吃的东西。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "好きな食べ物は何ですか。",
+        "zh": "你喜欢的食物是什么？"
+      }
+    ]
+  },
+  {
+    "word": "食べる",
+    "reading": "たべる",
+    "meaning": "吃",
+    "elements": [
+      {
+        "element": "食",
+        "method": "TYPE A1",
+        "bridgeC": "食=吃"
+      },
+      {
+        "element": "たべる",
+        "method": "TYPE B2",
+        "bridgeC": "たべる→他背噜；他背着一袋零食边走边吃"
+      }
+    ],
+    "mergedScene": "他背噜(たべる)一大袋零食，边走边往嘴里塞。食べる=吃。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たべる - 谐音“他背噜” - 他背着一袋零食边走边吃 - 吃",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "朝ご飯を食べます。",
+        "zh": "吃早饭。"
+      }
+    ]
+  },
+  {
+    "word": "卵",
+    "reading": "たまご",
+    "meaning": "鸡蛋",
+    "elements": [
+      {
+        "element": "卵",
+        "method": "TYPE A1",
+        "bridgeC": "卵=蛋、卵"
+      },
+      {
+        "element": "ご",
+        "method": "TYPE B2",
+        "bridgeC": "ご→gogo；母鸡下蛋时像在gogo叫"
+      },
+      {
+        "element": "たま",
+        "method": "TYPE B2",
+        "bridgeC": "tama→疼嘛；母鸡下蛋没想到这么疼"
+      }
+    ],
+    "mergedScene": "母鸡下蛋时一边 gogo(ご) 叫，一边后悔：早知道下蛋 tama 这么疼嘛！最后滚出来的就是卵(たまご)=鸡蛋。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たまご - 拆成“tama疼嘛 + ご/gogo” - 母鸡下蛋时gogo叫，没想到下蛋这么疼嘛 - 鸡蛋",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "卵を二つ買います。",
+        "zh": "买两个鸡蛋。"
+      }
+    ]
+  },
+  {
+    "word": "誰",
+    "reading": "だれ",
+    "meaning": "谁",
+    "elements": [
+      {
+        "element": "誰",
+        "method": "TYPE A1",
+        "bridgeC": "誰=谁"
+      },
+      {
+        "element": "だれ",
+        "method": "TYPE B2",
+        "bridgeC": "だれ→打嘞；门口有人敲门，你问谁在打门"
+      }
+    ],
+    "mergedScene": "半夜有人咚咚打门，你吓得问：打嘞(だれ)？誰=谁。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "だれ - 谐音“打嘞” - 有人打门，你问到底是谁 - 谁",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "あの人は誰ですか。",
+        "zh": "那个人是谁？"
+      }
+    ]
+  },
+  {
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "meaning": "生日",
+    "elements": [
+      {
+        "element": "誕生日",
+        "method": "TYPE A1",
+        "bridgeC": "誕生=出生，日=日子，生日就是出生的日子"
+      },
+      {
+        "element": "たんじょうび",
+        "method": "TYPE B2",
+        "bridgeC": "たんじょうび→谈九笔；商人生日当天谈成九笔生意"
+      }
+    ],
+    "mergedScene": "一个商人生日那天谈九笔(たんじょうび)生意，开心到喝了九杯白酒庆祝。誕生日=生日。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "たんじょうび - 谐音“谈九笔” - 商人生日当天谈成九笔生意，开心喝了九杯白酒 - 生日",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "今日は私の誕生日です。",
+        "zh": "今天是我的生日。"
+      }
+    ]
+  },
+  {
+    "word": "だんだん",
+    "reading": "だんだん",
+    "meaning": "渐渐",
+    "elements": [
+      {
+        "element": "だんだん",
+        "method": "TYPE B2",
+        "bridgeC": "だんだん→一段一段；楼梯一段一段走，变化也是渐渐发生"
+      }
+    ],
+    "mergedScene": "你爬楼梯一段一段(だんだん)往上，刚开始不累，后来渐渐喘起来。だんだん=渐渐。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "だんだん - 谐音“一段一段” - 楼梯一段一段走，变化慢慢发生 - 渐渐",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "だんだん寒くなります。",
+        "zh": "渐渐变冷。"
+      }
+    ]
+  },
+  {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meaning": "小的",
+    "elements": [
+      {
+        "element": "小",
+        "method": "TYPE A1",
+        "bridgeC": "小=小"
+      },
+      {
+        "element": "ちいさい",
+        "method": "TYPE B2",
+        "bridgeC": "ちいさい→七一塞；小盒子小到只能塞下七一块钱"
+      }
+    ],
+    "mergedScene": "一个盒子太小了，你只塞进去七一块钱就满了：ちいさい。小さい=小的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちいさい - 谐音“七一塞” - 小盒子只能塞下一点点东西 - 小的\n🔗 小さい可作谓语；小さな只接名词。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このかばんは小さいです。",
+        "zh": "这个包很小。"
+      }
+    ]
+  },
+  {
+    "word": "小さな",
+    "reading": "ちいさな",
+    "meaning": "小的(连体词)",
+    "elements": [
+      {
+        "element": "小",
+        "method": "TYPE A1",
+        "bridgeC": "小=小"
+      },
+      {
+        "element": "な",
+        "method": "语法记忆",
+        "bridgeC": "小さな后面必须接名词"
+      },
+      {
+        "element": "ちいさな",
+        "method": "关联记忆",
+        "bridgeC": "小さな像小さい的名词限定版"
+      }
+    ],
+    "mergedScene": "你指着桌上一只小猫说：小さな猫。小さな只能贴在名词前面，像给名词贴“小的”标签。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "小さな：小=小，な把它贴到名词前 - 小的(连体词)\n⚠️ 小さいです可以结句；小さな后面必须接名词。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "小さな猫がいます。",
+        "zh": "有一只小猫。"
+      }
+    ]
+  },
+  {
+    "word": "近い",
+    "reading": "ちかい",
+    "meaning": "近的",
+    "elements": [
+      {
+        "element": "近",
+        "method": "TYPE A1",
+        "bridgeC": "近=距离近"
+      },
+      {
+        "element": "ちかい",
+        "method": "TYPE B2",
+        "bridgeC": "ちかい→起开；别人靠得太近，需要叫他起开"
+      }
+    ],
+    "mergedScene": "排队时后面的人贴得太近，你忍不住回头说：起开(ちかい)一点！因为离得太近了。近い=近的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちかい - 谐音“起开” - 别人离得太近，所以需要让人起开 - 近的\n🔗 近い=近的；近く=附近。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "駅は家に近いです。",
+        "zh": "车站离家很近。"
+      }
+    ]
+  },
+  {
+    "word": "違う",
+    "reading": "ちがう",
+    "meaning": "不同的、不对",
+    "elements": [
+      {
+        "element": "違",
+        "method": "TYPE A1",
+        "bridgeC": "違=不同、违背"
+      },
+      {
+        "element": "ちがう",
+        "method": "TYPE B2",
+        "bridgeC": "ちがう→气嘎呜；答案不对，老师气到嘎呜一声"
+      }
+    ],
+    "mergedScene": "你把答案写错了，老师气嘎呜(ちがう)一声：不对！違う=不同、不对。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちがう - 谐音“气嘎呜” - 答案不对，老师气到嘎呜 - 不同的/不对",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "答えが違います。",
+        "zh": "答案不对。"
+      }
+    ]
+  },
+  {
+    "word": "近く",
+    "reading": "ちかく",
+    "meaning": "附近、近处",
+    "elements": [
+      {
+        "element": "近",
+        "method": "TYPE A1",
+        "bridgeC": "近=近"
+      },
+      {
+        "element": "ちかく",
+        "method": "TYPE B2",
+        "bridgeC": "ちかく→骑卡哭；骑车卡在家附近，急哭"
+      }
+    ],
+    "mergedScene": "你骑车刚出门就卡住了，还没走远就在家附近哭：骑卡哭(ちかく)。近く=附近、近处。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちかく - 谐音“骑卡哭” - 骑车卡在家附近，没走远 - 附近/近处\n🔗 近い=近的，近く=附近。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "近くにコンビニがあります。",
+        "zh": "附近有便利店。"
+      }
+    ]
+  },
+  {
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "meaning": "地铁",
+    "elements": [
+      {
+        "element": "地下",
+        "method": "TYPE A1",
+        "bridgeC": "地下=地下"
+      },
+      {
+        "element": "鉄",
+        "method": "TYPE A1",
+        "bridgeC": "鉄=铁；地下跑的铁车就是地铁"
+      },
+      {
+        "element": "ちかてつ",
+        "method": "TYPE B2",
+        "bridgeC": "ちかてつ→地下铁直接音近"
+      }
+    ],
+    "mergedScene": "你钻到地下，看见一列铁车轰隆隆开过来。地下+鉄=地下鉄(ちかてつ)=地铁。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ちかてつ - 近似“地下铁” - 地下跑的铁车 - 地铁",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "地下鉄で行きます。",
+        "zh": "坐地铁去。"
+      }
+    ]
+  },
+  {
+    "word": "地図",
+    "reading": "ちず",
+    "meaning": "地图",
+    "elements": [
+      {
+        "element": "地",
+        "method": "TYPE A1",
+        "bridgeC": "地=土地、地点"
+      },
+      {
+        "element": "図",
+        "method": "TYPE A1",
+        "bridgeC": "図=图"
+      },
+      {
+        "element": "ちず",
+        "method": "TYPE B2",
+        "bridgeC": "ちず→棋子；地图上像摆着很多地点棋子"
+      }
+    ],
+    "mergedScene": "你摊开地图，上面每个地点都像一颗棋子(ちず)摆在地面图上。地+図=地图。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ちず - 谐音“棋子” - 地图上每个地点像一颗棋子 - 地图",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "地図を見ます。",
+        "zh": "看地图。"
+      }
+    ]
+  },
+  {
+    "word": "茶色",
+    "reading": "ちゃいろ",
+    "meaning": "茶色",
+    "elements": [
+      {
+        "element": "茶",
+        "method": "固定读音",
+        "bridgeC": "茶固定读ちゃ，意思就是茶"
+      },
+      {
+        "element": "色",
+        "method": "固定读音",
+        "bridgeC": "色固定读いろ，意思就是颜色"
+      }
+    ],
+    "mergedScene": "茶(ちゃ)的色(いろ)就是茶色，不需要硬凑故事；看见汉字直接想“茶的颜色”。茶色=茶色、棕色。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ちゃいろ - 茶固定读“ちゃ”，色固定读“いろ” - 汉字本身就是茶的颜色 - 茶色/棕色",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "茶色のかばんを買いました。",
+        "zh": "买了茶色的包。"
+      }
+    ]
+  },
+  {
+    "word": "ちゃわん",
+    "reading": "ちゃわん",
+    "meaning": "碗、茶碗",
+    "elements": [
+      {
+        "element": "茶",
+        "method": "关联记忆",
+        "bridgeC": "ちゃ=茶"
+      },
+      {
+        "element": "わん",
+        "method": "TYPE B2",
+        "bridgeC": "わん→碗；茶碗就是装茶/饭的碗"
+      }
+    ],
+    "mergedScene": "桌上一个茶碗，ちゃ是茶，わん像中文“碗”。ちゃわん=碗、茶碗。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ちゃわん - 谐音“茶碗” - ちゃ是茶，わん像碗，装饭装茶的小碗 - 碗/茶碗",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ちゃわんを洗います。",
+        "zh": "洗碗。"
+      }
+    ]
+  },
+  {
+    "word": "ちょうど",
+    "reading": "ちょうど",
+    "meaning": "正好",
+    "elements": [
+      {
+        "element": "ちょうど",
+        "method": "TYPE B2",
+        "bridgeC": "ちょうど→敲到；钟敲到十二点，时间正好"
+      },
+      {
+        "element": "ちょうど/ちょっと",
+        "method": "对比记忆",
+        "bridgeC": "ちょうど比ちょっと多一点；正好多了一点，所以是正好"
+      }
+    ],
+    "mergedScene": "钟声敲到(ちょうど)十二点，你刚好走进教室。和ちょっと放一起看：ちょうど正好多了一点，所以意思是正好、刚好。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちょうど - 谐音“敲到” - 钟敲到整点，你正好到；对比ちょっと，ちょうど正好多了一点 - 正好",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ちょうど十時です。",
+        "zh": "正好十点。"
+      }
+    ]
+  },
+  {
+    "word": "ちょっと",
+    "reading": "ちょっと",
+    "meaning": "一点",
+    "elements": [
+      {
+        "element": "ちょっと",
+        "method": "TYPE B2",
+        "bridgeC": "ちょっと→瞧偷；偷偷瞧一点点"
+      },
+      {
+        "element": "ちょうど/ちょっと",
+        "method": "对比记忆",
+        "bridgeC": "ちょっと比ちょうど少一点；少了一个点，所以意思是一点"
+      }
+    ],
+    "mergedScene": "考试时你忍不住“瞧偷”(ちょっと)了一眼，只看了一点点。和ちょうど放一起看：ちょっと少了一个点，所以意思是一点、稍微。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ちょっと - 谐音“瞧偷” - 偷偷瞧一点点；对比ちょうど，ちょっと少了一个点 - 一点/稍微",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ちょっと待ってください。",
+        "zh": "请稍等一下。"
+      }
+    ]
+  },
+  {
+    "word": "使う",
+    "reading": "つかう",
+    "meaning": "使用",
+    "elements": [
+      {
+        "element": "使",
+        "method": "TYPE A1",
+        "bridgeC": "使=使用"
+      },
+      {
+        "element": "つかう",
+        "method": "TYPE B2",
+        "bridgeC": "つかう→磁卡污；磁卡被消磁污染后不能使用"
+      }
+    ],
+    "mergedScene": "刷门禁时发现磁卡污(つかう)了，被消磁污染，怎么刷都不能使用。使う=使用。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つかう - 谐音“磁卡污” - 磁卡被消磁污染了就不能使用 - 使用",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このペンを使います。",
+        "zh": "使用这支笔。"
+      }
+    ]
+  },
+  {
+    "word": "疲れる",
+    "reading": "つかれる",
+    "meaning": "累了",
+    "elements": [
+      {
+        "element": "疲",
+        "method": "TYPE A1",
+        "bridgeC": "疲=疲劳"
+      },
+      {
+        "element": "つかれる",
+        "method": "TYPE B2",
+        "bridgeC": "つかれる→此刻累了；此刻已经累到不行"
+      }
+    ],
+    "mergedScene": "你跑完八百米，瘫在操场上说：此刻累了(つかれる)。疲れる=累了、疲劳。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つかれる - 谐音“此刻累了” - 跑完步此刻累到不行 - 累了",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "今日は疲れました。",
+        "zh": "今天累了。"
+      }
+    ]
+  },
+  {
+    "word": "次",
+    "reading": "つぎ",
+    "meaning": "下一个",
+    "elements": [
+      {
+        "element": "次",
+        "method": "TYPE A1",
+        "bridgeC": "次=下次、下一个"
+      },
+      {
+        "element": "つぎ",
+        "method": "TYPE B2",
+        "bridgeC": "つぎ→次给；这个给完，下一次给下一个"
+      }
+    ],
+    "mergedScene": "老师发卷子，这张给你，次给(つぎ)下一个同学。次=下一个、下一次。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "つぎ - 谐音“次给” - 这次给完，下次给下一个 - 下一个/下次",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "次の駅で降ります。",
+        "zh": "在下一站下车。"
+      }
+    ]
+  },
+  {
+    "word": "着く",
+    "reading": "つく",
+    "meaning": "到达",
+    "elements": [
+      {
+        "element": "着",
+        "method": "TYPE A1",
+        "bridgeC": "着=到达、着陆"
+      },
+      {
+        "element": "つく",
+        "method": "TYPE B2",
+        "bridgeC": "つく→吃苦；吃苦才能到达对岸"
+      }
+    ],
+    "mergedScene": "你划船过河，风浪很大，一路吃苦(つく)才终于到达对岸。着く=到达。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つく - 谐音“吃苦” - 吃苦才能到达对岸 - 到达\n🔗 着く=到达；作る=制作；つける=装上/打开。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "駅に着きました。",
+        "zh": "到车站了。"
+      }
+    ]
+  },
+  {
+    "word": "机",
+    "reading": "つくえ",
+    "meaning": "桌子",
+    "elements": [
+      {
+        "element": "机",
+        "method": "TYPE A1",
+        "bridgeC": "机=桌子、书桌"
+      },
+      {
+        "element": "つくえ",
+        "method": "TYPE B2",
+        "bridgeC": "つくえ→刺哭诶；被桌子的刺扎哭，最后发出e的一声叫"
+      }
+    ],
+    "mergedScene": "你摸旧桌子时被木刺扎到，疼得刺哭诶(つくえ)，最后还“e”地叫了一声。机=桌子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つくえ - 谐音“刺哭诶” - 被桌子的刺扎哭了，发出“e”的一声叫 - 桌子",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "机の上に本があります。",
+        "zh": "桌子上有书。"
+      }
+    ]
+  },
+  {
+    "word": "作る",
+    "reading": "つくる",
+    "meaning": "做、制作",
+    "elements": [
+      {
+        "element": "作",
+        "method": "TYPE A1",
+        "bridgeC": "作=做、制作"
+      },
+      {
+        "element": "つくる",
+        "method": "TYPE B2",
+        "bridgeC": "つくる→吃苦噜；制作东西需要吃苦打磨"
+      }
+    ],
+    "mergedScene": "做木工时你一边打磨一边喊吃苦噜(つくる)，因为制作好作品必须吃一段苦头。作る=做、制作。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つくる - 谐音“吃苦噜” - 制作东西都要吃一段苦头，反复打磨才能做出好作品 - 做/制作\n⚠️ 着く(つく)=到达，作る(つくる)=制作。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "晩ご飯を作ります。",
+        "zh": "做晚饭。"
+      }
+    ]
+  },
+  {
+    "word": "つける",
+    "reading": "つける",
+    "meaning": "安上、装上、打开(灯等)",
+    "elements": [
+      {
+        "element": "つける",
+        "method": "TYPE B2",
+        "bridgeC": "つける→此刻亮；此刻把灯打开，房间亮了"
+      },
+      {
+        "element": "ける",
+        "method": "语法记忆",
+        "bridgeC": "常见他动词感：把某物装上/打开"
+      }
+    ],
+    "mergedScene": "房间太黑，你啪地按下开关：此刻亮(つける)！つける可以表示打开灯，也可以表示装上、安上。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つける - 谐音“此刻亮” - 此刻把灯打开，房间亮了 - 打开/装上\n例：電気をつける=开灯。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "電気をつけます。",
+        "zh": "开灯。"
+      }
+    ]
+  },
+  {
+    "word": "勤める",
+    "reading": "つとめる",
+    "meaning": "工作、任职",
+    "elements": [
+      {
+        "element": "勤",
+        "method": "TYPE A1",
+        "bridgeC": "勤=勤务、工作"
+      },
+      {
+        "element": "つとめる",
+        "method": "TYPE B2",
+        "bridgeC": "つとめる→刺头没了；刺头没了大家才能专心工作"
+      }
+    ],
+    "mergedScene": "办公室里有个刺头总挑事，大家都没法专心工作；后来刺头没了(つとめる)，团队终于能好好上班。勤める=工作、任职。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つとめる - 谐音“刺头没了” - 刺头总挑事，刺头没了大家才能专心工作 - 工作/任职\n⚠️ 会社に勤める=在公司工作。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "会社に勤めています。",
+        "zh": "在公司工作。"
+      }
+    ]
+  },
+  {
+    "word": "つまらない",
+    "reading": "つまらない",
+    "meaning": "无聊的",
+    "elements": [
+      {
+        "element": "つまら",
+        "method": "TYPE B2",
+        "bridgeC": "つまら→吃麻辣；四川人吃饭少不了麻辣"
+      },
+      {
+        "element": "ない",
+        "method": "语法记忆",
+        "bridgeC": "ない=没有"
+      }
+    ],
+    "mergedScene": "四川人打开饭盒发现没有(ない)吃麻辣(つまら)，一顿饭顿时变得索然无味，特别无聊。つまらない=无聊的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つまらない - 拆成“つまら=吃麻辣 + ない=没有” - 四川人饭里没有吃麻辣，就会觉得很无聊 - 无聊的",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "この映画はつまらないです。",
+        "zh": "这部电影很无聊。"
+      }
+    ]
+  },
+  {
+    "word": "冷たい",
+    "reading": "つめたい",
+    "meaning": "凉的(物品)",
+    "elements": [
+      {
+        "element": "冷",
+        "method": "TYPE A1",
+        "bridgeC": "冷=冷、凉"
+      },
+      {
+        "element": "つめたい",
+        "method": "TYPE B2",
+        "bridgeC": "つめたい→吃煤炭；冷到想吃煤炭取暖"
+      }
+    ],
+    "mergedScene": "冬天水杯冰到刺手，你冷到夸张地说要吃煤炭(つめたい)取暖。冷たい=凉的、冷的，多说物体摸起来冷。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つめたい - 谐音“吃煤炭” - 太冷了，冷到想吃煤炭取暖 - 凉的/冷的(物品)\n⚠️ 寒い=天气/身体感觉冷，冷たい=物体摸起来冷。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "冷たい水を飲みます。",
+        "zh": "喝凉水。"
+      }
+    ]
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "meaning": "强的",
+    "elements": [
+      {
+        "element": "強",
+        "method": "TYPE A1",
+        "bridgeC": "強=强"
+      },
+      {
+        "element": "つよい",
+        "method": "TYPE B2",
+        "bridgeC": "つよい→吃药哎；吃了药哎，身体变强"
+      }
+    ],
+    "mergedScene": "病人吃药哎(つよい)，恢复后变得很强壮。強い=强的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "つよい - 谐音“吃药哎” - 吃了药哎，身体变强 - 强的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "彼は強いです。",
+        "zh": "他很强。"
+      }
+    ]
+  },
+  {
+    "word": "手",
+    "reading": "て",
+    "meaning": "手",
+    "elements": [
+      {
+        "element": "手",
+        "method": "TYPE A1",
+        "bridgeC": "手=手，中日同义"
+      },
+      {
+        "element": "て",
+        "method": "TYPE B2",
+        "bridgeC": "て→贴；用手把贴纸贴上去"
+      }
+    ],
+    "mergedScene": "你用手把贴纸“贴”(て)到本子上。手=て=手。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "て - 谐音“贴” - 用手把贴纸贴上去 - 手",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "手を洗います。",
+        "zh": "洗手。"
+      }
+    ]
+  },
+  {
+    "word": "テープ",
+    "reading": "テープ",
+    "meaning": "磁带",
+    "elements": [
+      {
+        "element": "テープ",
+        "method": "外来语",
+        "bridgeC": "来自 tape，表示磁带、胶带"
+      }
+    ],
+    "mergedScene": "你拿起一卷 tape，日语拉长读テープ。テープ=磁带/胶带。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "テープ - 近似 tape - 一卷磁带/胶带 - 磁带",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "テープを聞きます。",
+        "zh": "听磁带。"
+      }
+    ]
+  },
+  {
+    "word": "テーブル",
+    "reading": "テーブル",
+    "meaning": "桌子",
+    "elements": [
+      {
+        "element": "テーブル",
+        "method": "外来语",
+        "bridgeC": "来自 table，表示桌子"
+      }
+    ],
+    "mergedScene": "餐厅里的 table，日语读テーブル。テーブル=桌子，偏外来语的餐桌/桌子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "テーブル - 近似 table - 餐厅里的桌子 - 桌子\n🔗 机(つくえ)=书桌，テーブル=桌子/餐桌。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "テーブルの上に皿があります。",
+        "zh": "桌子上有盘子。"
+      }
+    ]
+  },
+  {
+    "word": "テープレコーダー",
+    "reading": "テープレコーダー",
+    "meaning": "录音机",
+    "elements": [
+      {
+        "element": "テープ",
+        "method": "外来语",
+        "bridgeC": "tape=磁带"
+      },
+      {
+        "element": "レコーダー",
+        "method": "外来语",
+        "bridgeC": "recorder=录音机"
+      }
+    ],
+    "mergedScene": "テープ(tape) + レコーダー(recorder)，把磁带放进去录音/播放的机器，就是テープレコーダー=录音机。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "テープレコーダー - tape + recorder - 用磁带录音的机器 - 录音机",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "テープレコーダーで聞きます。",
+        "zh": "用录音机听。"
+      }
+    ]
+  },
+  {
+    "word": "出かける",
+    "reading": "でかける",
+    "meaning": "出门",
+    "elements": [
+      {
+        "element": "出",
+        "method": "TYPE A1",
+        "bridgeC": "出=出去"
+      },
+      {
+        "element": "でかける",
+        "method": "TYPE B2",
+        "bridgeC": "でかける→得开个门；要出门就得开个门"
+      }
+    ],
+    "mergedScene": "你要出门，第一步就是得开个(でかける)门。出かける=出门、外出。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "でかける - 谐音“得开个门” - 要出门就得开个门 - 出门",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "午後、出かけます。",
+        "zh": "下午出门。"
+      }
+    ]
+  },
+  {
+    "word": "手紙",
+    "reading": "てがみ",
+    "meaning": "信",
+    "elements": [
+      {
+        "element": "手紙",
+        "method": "TYPE A1",
+        "bridgeC": "手+紙=手写在纸上的东西，日语里是信"
+      },
+      {
+        "element": "てがみ",
+        "method": "TYPE B2",
+        "bridgeC": "てがみ→特+加+密；特别加密的信"
+      }
+    ],
+    "mergedScene": "你收到一封特别加密(てがみ)的信，信纸上还有手写暗号。手紙=信。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "てがみ - 拆成“特 + 加 + 密” - 一封特别加密的信 - 信\n⚠️ 中文手纸是厕纸，日语手紙是信。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "友だちに手紙を書きます。",
+        "zh": "给朋友写信。"
+      }
+    ]
+  },
+  {
+    "word": "できる",
+    "reading": "できる",
+    "meaning": "会、能做",
+    "elements": [
+      {
+        "element": "できる",
+        "method": "TYPE B2",
+        "bridgeC": "できる→得给路；事情能做成，就得给自己找条路"
+      }
+    ],
+    "mergedScene": "别人说这题太难，你说得给路(できる)，找到方法就能做。できる=会、能做。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "できる - 谐音“得给路” - 找到路子就能做成 - 会/能做",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "日本語ができます。",
+        "zh": "会日语。"
+      }
+    ]
+  },
+  {
+    "word": "出口",
+    "reading": "でぐち",
+    "meaning": "出口",
+    "elements": [
+      {
+        "element": "出",
+        "method": "TYPE A1",
+        "bridgeC": "出=出去"
+      },
+      {
+        "element": "口",
+        "method": "固定读音",
+        "bridgeC": "口常读くち；口是用来尝味觉的，吃到苦的是嘴，くち可谐音“苦吃”"
+      },
+      {
+        "element": "でぐち",
+        "method": "TYPE B2",
+        "bridgeC": "でぐち→得哭泣；迷路到快哭，才知道出口在哪个口"
+      }
+    ],
+    "mergedScene": "商场里迷路太久，你得哭泣(でぐち)了才终于看见出去的口。也记住口=くち，嘴巴尝到苦就是“苦吃”。出口=出口。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "でぐち - 谐音“得哭泣” - 得哭泣了才知道出口是哪一个；口常读“くち”，像“苦吃”，口是尝味觉的 - 出口\n🔗 入口(いりぐち)=入口，出口(でぐち)=出口。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "出口はどこですか。",
+        "zh": "出口在哪里？"
+      }
+    ]
+  }
+]

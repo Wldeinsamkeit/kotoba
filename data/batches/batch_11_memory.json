@@ -1,0 +1,503 @@
+[
+  {
+    "word": "テスト",
+    "reading": "テスト",
+    "meaning": "考试、测试",
+    "elements": [
+      {"element": "テスト", "method": "TYPE A2-1", "bridgeC": "「テスト」谐音「泰斯特」→ 泰山上的狮子在考试"}
+    ],
+    "mergedScene": "泰山之巅，一只威武的狮子端坐在考场里，面前摆着试卷，严肃地参加日语考试，周围的猴子们都在为它加油鼓劲，最终狮子拿到了满分——这就是传说中的「泰斯特考试」。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：テスト→泰斯特→泰山上的狮子考试→考试、测试",
+    "difficultyStars": 1
+  },
+  {
+    "word": "では",
+    "reading": "では",
+    "meaning": "那么",
+    "elements": [
+      {"element": "で", "method": "TYPE B1-1", "bridgeC": "「で」字形像台灯的手电筒光芒"},
+      {"element": "は", "method": "TYPE B1-2", "bridgeC": "「は」字形像一把打开的扇子"}
+    ],
+    "mergedScene": "在昏暗的房间里，你打开台灯（で），手持一把展开的折扇（は），做出说书人的姿态清了清嗓子说——「那么，故事就要开始了！」台灯的光照在扇子上，扇面闪闪发亮，台下观众屏息以待。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：で（台灯）+ は（扇子）→ 说书人开场的经典动作 → 那么",
+    "difficultyStars": 1
+  },
+  {
+    "word": "デパート",
+    "reading": "デパート",
+    "meaning": "百货商店",
+    "elements": [
+      {"element": "デパート", "method": "TYPE A2-1", "bridgeC": "「デパート」谐音「爹怕他」→ 爹去百货商店花钱太多怕了他"}
+    ],
+    "mergedScene": "你爹带你去逛百货商店，结果你疯狂买买买，从一楼衣服到五楼电器全部扫荡。结账时收银员报了一个天文数字，你爹吓得钱包都在发抖，颤抖着说——「我真怕了他了，再也不带他去百货商店了！」",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "复习要点：デパート→爹怕他→爹怕去百货商店花钱→百货商店",
+    "difficultyStars": 1
+  },
+  {
+    "word": "でも",
+    "reading": "でも",
+    "meaning": "但是",
+    "elements": [
+      {"element": "で", "method": "TYPE B1-1", "bridgeC": "「で」像台灯"},
+      {"element": "も", "method": "TYPE B1-2", "bridgeC": "「も」字形像一把锤子"}
+    ],
+    "mergedScene": "房间里开着台灯（で），你举起锤子（も）正要砸桌子，妈妈突然推门进来大喊——「但是！你不能砸！」你的锤子悬在半空，尴尬地停在台灯的光影下，这个转折就像日语的「但是」来得猝不及防。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：で（台灯）+ も（锤子）→ 正要砸时被制止的转折 → 但是",
+    "difficultyStars": 1
+  },
+  {
+    "word": "出る",
+    "reading": "でる",
+    "meaning": "出去",
+    "elements": [
+      {"element": "出", "method": "TYPE B5-1", "bridgeC": "「出」汉字直接表示'出来、出去'的意思"},
+      {"element": "る", "method": "TYPE A4-1", "bridgeC": "「る」是动词结尾，表示动作"}
+    ],
+    "mergedScene": "一扇紧闭的大门上写着大大的「出」字，你用力推开门，金色的阳光洒进来——出去！就是这个字最直观的含义，看到「出」就想到推门走出的画面。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：出（汉字'出去'）+ る（动词尾缀）→ 出去",
+    "difficultyStars": 1
+  },
+  {
+    "word": "テレビ",
+    "reading": "テレビ",
+    "meaning": "电视",
+    "elements": [
+      {"element": "テレビ", "method": "TYPE A2-1", "bridgeC": "「テレビ」谐音「泰雷壁」→ 泰山打雷劈中墙壁，变成电视"}
+    ],
+    "mergedScene": "一个暴风雨的夜晚，闪电劈中了泰山脚下的一面大墙壁，轰隆一声！墙壁上竟然出现了一个彩色屏幕，正在播放动画片——从此世界上第一台「电视」诞生了，大家都叫它「泰雷壁」。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：テレビ→泰雷壁→雷电劈中墙壁变电视→电视",
+    "difficultyStars": 1
+  },
+  {
+    "word": "天気",
+    "reading": "てんき",
+    "meaning": "天气",
+    "elements": [
+      {"element": "天", "method": "TYPE A1-1", "bridgeC": "「天」音读「てん」=ten，天上、天空"},
+      {"element": "気", "method": "TYPE A1-2", "bridgeC": "「気」音读「き」=ki，空气、气息"}
+    ],
+    "mergedScene": "站在高楼上仰望天空（天/てん），感受到迎面吹来的空气（気/き）——天上的空气，这不就是「天气」吗！蓝天白云、阳光微风，都在天上空气里。",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "复习要点：天(てん) + 気(き) → 天的空气 → 天气",
+    "difficultyStars": 1
+  },
+  {
+    "word": "電気",
+    "reading": "でんき",
+    "meaning": "电灯、电力",
+    "elements": [
+      {"element": "電", "method": "TYPE A1-1", "bridgeC": "「電」音读「でん」=den，电力、电子"},
+      {"element": "気", "method": "TYPE A1-2", "bridgeC": "「気」音读「き」=ki，气息、能量"}
+    ],
+    "mergedScene": "暴风雨之夜停电了，你按了一下开关——「電」的力量通过线路传导，灯泡瞬间亮起温暖的光「気」，这就是「電気」，电的力量化为可见的光芒照亮整个房间。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：電(でん) + 気(き) → 电的能量 → 电灯、电力",
+    "difficultyStars": 1
+  },
+  {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "meaning": "电车",
+    "elements": [
+      {"element": "電", "method": "TYPE A1-1", "bridgeC": "「電」音读「でん」=den，电力"},
+      {"element": "車", "method": "TYPE A1-2", "bridgeC": "「車」音读「しゃ」=sha，车辆"}
+    ],
+    "mergedScene": "一列银白色的列车在铁轨上飞驰，头顶的电线发出蓝白色的电弧光芒——这就是日本街头最常见的「電車」，用电力驱动的车辆，和我们的地铁很像，但跑在地面上。",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "复习要点：電(でん) + 車(しゃ) → 电的车 → 电车",
+    "difficultyStars": 1
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "meaning": "电话",
+    "elements": [
+      {"element": "電", "method": "TYPE A1-1", "bridgeC": "「電」音读「でん」=den，电力"},
+      {"element": "話", "method": "TYPE A1-2", "bridgeC": "「話」音读「わ」=wa，说话、谈话"}
+    ],
+    "mergedScene": "你拿起桌上的电话听筒，电流通过电线传到千里之外——「電」的力量让你能跨越时空与远方的朋友「話」，这就是「電話」的魔力，用电来传达话语。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：電(でん) + 話(わ) → 用电来说话 → 电话",
+    "difficultyStars": 1
+  },
+  {
+    "word": "戸",
+    "reading": "と",
+    "meaning": "门（日式）",
+    "elements": [
+      {"element": "戸", "method": "TYPE B2-1", "bridgeC": "「と」谐音「拖」→ 拖开日式推拉门"}
+    ],
+    "mergedScene": "你来到一间传统的日式房间前，双手握住木框用力往后一「拖」——「嘶啦」一声，日式推拉门（戸）顺滑地滑开了，里面是铺满榻榻米的房间。记住，日式的门都是拖（と）着开的！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：戸→と→拖开推拉门→日式的门",
+    "difficultyStars": 2
+  },
+  {
+    "word": "ドア",
+    "reading": "ドア",
+    "meaning": "门（西式）",
+    "elements": [
+      {"element": "ドア", "method": "TYPE A2-1", "bridgeC": "「ドア」谐音「挡啊」→ 西式大门用来挡人"}
+    ],
+    "mergedScene": "你站在一扇厚重的西式大门前，这扇门又高又大，上面有华丽的把手。你使劲推——「挡啊！挡啊！」这扇门真是太结实了，这就是西式的门（ドア），用来挡住外面的一切。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：ドア→挡啊→使劲推门被挡住→西式门。对比：戸(と/拖)是推拉门，ドア(挡啊)是开关门",
+    "difficultyStars": 1
+  },
+  {
+    "word": "トイレ",
+    "reading": "トイレ",
+    "meaning": "厕所",
+    "elements": [
+      {"element": "トイレ", "method": "TYPE A2-1", "bridgeC": "「トイレ」谐音「托一雷」→ 托着一雷去厕所"}
+    ],
+    "mergedScene": "你肚子突然一阵翻涌，感觉肚子里「托着一雷」马上就要炸了！你捂着肚子疯狂冲向厕所的方向——「トイレ在哪里？！」，终于找到厕所门，冲进去的一刻如释重负。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "复习要点：トイレ→托一雷→肚子里托着一雷急找厕所→厕所",
+    "difficultyStars": 1
+  },
+  {
+    "word": "どう",
+    "reading": "どう",
+    "meaning": "怎样",
+    "elements": [
+      {"element": "どう", "method": "TYPE A2-1", "bridgeC": "「どう」谐音「动」→ 怎样动才好？"}
+    ],
+    "mergedScene": "你站在十字路口迷茫了，不知道该往哪个方向走，于是你扭头问旁边的大叔——「我该怎样走？我该怎样动（どう）？」大叔指了指右边说：「那边！就在那边！」",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：どう→动→不知怎样动→怎样",
+    "difficultyStars": 1
+  },
+  {
+    "word": "どうして",
+    "reading": "どうして",
+    "meaning": "为什么",
+    "elements": [
+      {"element": "どう", "method": "TYPE A2-1", "bridgeC": "「どう」谐音「动」"},
+      {"element": "して", "method": "TYPE A2-2", "bridgeC": "「して」谐音「洗头」"}
+    ],
+    "mergedScene": "你看到邻居大哥在大雨中疯狂地「洗头（して）」，头发湿透了还在搓，你忍不住大喊——「你为什么要这样做？为什么要这样动（どう）着洗头（して）？！」大哥回头笑着说：「因为凉快啊！」",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：どう(动) + して(洗头)→ 为什么在雨中动来动去洗头？→ 为什么",
+    "difficultyStars": 2
+  },
+  {
+    "word": "どうぞ",
+    "reading": "どうぞ",
+    "meaning": "请",
+    "elements": [
+      {"element": "どうぞ", "method": "TYPE A2-1", "bridgeC": "「どうぞ」谐音「都走」→ 请都走吧，别客气"}
+    ],
+    "mergedScene": "你在家里办了一桌丰盛的饭菜，朋友们都站着不动不好意思吃，你张开双臂热情地招呼——「请！都走（どうぞ）到桌边来坐！别客气！」朋友们这才开心地坐下大快朵颐。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：どうぞ→都走→请都走过来别客气→请",
+    "difficultyStars": 1
+  },
+  {
+    "word": "動物",
+    "reading": "どうぶつ",
+    "meaning": "动物",
+    "elements": [
+      {"element": "動", "method": "TYPE A1-1", "bridgeC": "「動」音读「どう」=dou，运动、活动"},
+      {"element": "物", "method": "TYPE A1-2", "bridgeC": "「物」音读「ぶつ」=butsu，东西、生物"}
+    ],
+    "mergedScene": "动物园的大门缓缓打开，各种会「動」（活动）的生「物」（生物）映入眼帘——狮子在奔跑、猴子在荡秋千、小鸟在飞翔。能运动的生物，就是「動物」！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：動(どう) + 物(ぶつ) → 会动的生物 → 动物",
+    "difficultyStars": 1
+  },
+  {
+    "word": "どうも",
+    "reading": "どうも",
+    "meaning": "非常",
+    "elements": [
+      {"element": "どうも", "method": "TYPE A2-1", "bridgeC": "「どうも」谐音「多毛」→ 非常多毛，非常感谢"}
+    ],
+    "mergedScene": "你帮朋友搬了十箱书到六楼，朋友感动得快哭了，他摸着自己的光头说——「非常感谢！你帮了我太多，我感觉头上都长出很多毛（どうも）了！多毛多毛多谢你！」从此你记住，どうも就是「非常感谢」的意思。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：どうも→多毛→非常感谢得多毛→非常",
+    "difficultyStars": 1
+  },
+  {
+    "word": "遠い",
+    "reading": "とおい",
+    "meaning": "远的",
+    "elements": [
+      {"element": "遠", "method": "TYPE A1-1", "bridgeC": "「遠」音读对应「とお」，训读「とおい」表示远"},
+      {"element": "い", "method": "TYPE A4-1", "bridgeC": "「い」是形容词结尾"}
+    ],
+    "mergedScene": "你站在富士山顶望向远方，连绵的山脉一直延伸到天边，天空与大地在地平线交汇——「远（とおい）啊，真的好远啊！」你拼命踮起脚尖想看得更远，但那地平线似乎永远也到不了。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：遠(とおい) → 远方的富士山 → 远的",
+    "difficultyStars": 1
+  },
+  {
+    "word": "十日",
+    "reading": "とおか",
+    "meaning": "十号",
+    "elements": [
+      {"element": "十", "method": "TYPE A2-1", "bridgeC": "「とお」谐音「逃」→ 逃到十号"},
+      {"element": "日", "method": "TYPE A1-2", "bridgeC": "「か/日」=ka，日子"}
+    ],
+    "mergedScene": "你欠了朋友钱不敢还，一直「逃（とお）」避他，朋友追了你整整十天后终于堵住你——「都逃（とお）了十日（か）了，该还钱了吧！」你只好乖乖掏出钱包。逃了十日→十号。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：とおか→逃十日→逃了十天→十号（每月十号）",
+    "difficultyStars": 2
+  },
+  {
+    "word": "時々",
+    "reading": "ときどき",
+    "meaning": "有时",
+    "elements": [
+      {"element": "時", "method": "TYPE B5-1", "bridgeC": "「時」汉字表示'时间'"},
+      {"element": "々", "method": "TYPE B1-1", "bridgeC": "「々」是重复符号，表示'又、再'"}
+    ],
+    "mergedScene": "日历上的时钟指针转了一圈又一圈——「時」出现了「々」（又一个），时间反复出现，不是每次都出现，只是「有时」出现。就像你有时吃火锅，有时吃寿司，时钟的重复标记着那些偶尔降临的时刻。",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "复习要点：時(时间) + 々(重复符号) → 时间重复出现但不是每次 → 有时",
+    "difficultyStars": 1
+  },
+  {
+    "word": "時計",
+    "reading": "とけい",
+    "meaning": "钟表",
+    "elements": [
+      {"element": "時", "method": "TYPE A1-1", "bridgeC": "「時」音读「とけ」的词根「とき」=toki，时间"},
+      {"element": "計", "method": "TYPE A1-2", "bridgeC": "「計」音读「けい」=kei，计算、计量"}
+    ],
+    "mergedScene": "你看着墙上圆形的钟表，秒针滴答滴答地转动——它正在不停地「計」算着「時」间，每一秒、每一分都被精确计量。时间的计算器，这就是钟表（時計）的本职工作。",
+    "sceneScore": {"specific": true, "emotional": false, "personal": false, "total": 1},
+    "reviewTip": "复习要点：時(时间) + 計(计算) → 计算时间的工具 → 钟表",
+    "difficultyStars": 1
+  },
+  {
+    "word": "どこ",
+    "reading": "どこ",
+    "meaning": "哪里",
+    "elements": [
+      {"element": "どこ", "method": "TYPE A2-1", "bridgeC": "「どこ」谐音「兜客」→ 兜客到处问哪里有人"}
+    ],
+    "mergedScene": "你在新城市迷路了，变成了一个到处「兜客（どこ）」的出租车司机，逢人就问——「请问哪里有地铁站？哪里有餐厅？哪里哪里哪里？」你转了一圈又一圈，就是不知道「哪里」是哪里。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：どこ→兜客→到处兜客问哪里→哪里",
+    "difficultyStars": 1
+  },
+  {
+    "word": "所",
+    "reading": "ところ",
+    "meaning": "场所、地方",
+    "elements": [
+      {"element": "所", "method": "TYPE A2-1", "bridgeC": "「ところ」谐音「偷锣鼓」→ 偷锣鼓的地方"}
+    ],
+    "mergedScene": "你听说村子里有个神秘的「地方（ところ）」，是专门「偷锣鼓」的贼藏赃物的地方。你偷偷潜入那个场所，发现里面堆满了各种各样的锣鼓——这真是一个藏锣鼓的「所」啊！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：ところ→偷锣鼓→偷锣鼓的场所→场所、地方",
+    "difficultyStars": 2
+  },
+  {
+    "word": "年",
+    "reading": "とし",
+    "meaning": "年、年度",
+    "elements": [
+      {"element": "とし", "method": "TYPE A2-1", "bridgeC": "「とし」谐音「投资」→ 一年的投资"}
+    ],
+    "mergedScene": "你拿出存了一整年的积蓄进行「投资（とし）」，看着股票账户里的数字从春天到冬天起起落落，不禁感叹——「这一年的投资，就像这一年（とし）的时光一样，有涨有跌啊。」",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：とし→投资→一年的投资规划→年、年度",
+    "difficultyStars": 2
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "meaning": "图书馆",
+    "elements": [
+      {"element": "図", "method": "TYPE A1-1", "bridgeC": "「図」音读「と」=to，图画、图书"},
+      {"element": "書", "method": "TYPE A1-2", "bridgeC": "「書」音读「しょ」=sho，书籍、书写"},
+      {"element": "館", "method": "TYPE A1-3", "bridgeC": "「館」音读「かん」=kan，场馆、馆"}
+    ],
+    "mergedScene": "你走进一座宏伟的建筑，里面整整齐齐排列着成千上万的书架——「図」书和「書」籍堆满了整个「館」。你在安静的书桌前坐下，翻开一本书，阳光透过大窗户洒在书页上。这就是图书馆，书的天堂。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：図(图书) + 書(书籍) + 館(场馆) → 存放图书的场馆 → 图书馆",
+    "difficultyStars": 1
+  },
+  {
+    "word": "どちら",
+    "reading": "どちら",
+    "meaning": "哪边",
+    "elements": [
+      {"element": "どちら", "method": "TYPE A2-1", "bridgeC": "「どちら」谐音「去掉拉」→ 哪边去掉拉哪里"}
+    ],
+    "mergedScene": "你和朋友在搬家具，你喊——「这个柜子去掉拉哪边？去掉拉（どちら）？」朋友指了指左边说——「那边！往哪边拉！」你们合力把柜子搬到了正确的方向。去掉拉→哪边？",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：どちら→去掉拉→往哪边去掉拉→哪边（礼貌说法）",
+    "difficultyStars": 1
+  },
+  {
+    "word": "どっち",
+    "reading": "どっち",
+    "meaning": "哪边",
+    "elements": [
+      {"element": "どっち", "method": "TYPE A2-1", "bridgeC": "「どっち」谐音「躲起」→ 躲在哪边？"}
+    ],
+    "mergedScene": "你在玩捉迷藏，闭着眼睛数到十后大喊——「你躲起（どっち）来了？你躲在哪边了？！」你东找西找，左边看看右边看看，就是不知道对方躲（どっち）在了哪边。注意：どっち是どちら的口语随便说法。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "复习要点：どっち→躲起→躲在哪边→哪边（口语）。对比どちら（礼貌）和どっち（随意）",
+    "difficultyStars": 1
+  },
+  {
+    "word": "とても",
+    "reading": "とても",
+    "meaning": "非常",
+    "elements": [
+      {"element": "とても", "method": "TYPE A2-1", "bridgeC": "「とても」谐音「偷心魔」→ 非常帅的偷心魔"}
+    ],
+    "mergedScene": "演唱会上的偶像明星帅气地一挥手，台下粉丝尖叫——「他非常帅！简直是偷心魔（とても）！」一个偷心魔偷走了所有人的心，因为他「非常（とても）」有魅力。记住，偷心魔就是「非常」。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：とても→偷心魔→非常帅的偷心魔→非常",
+    "difficultyStars": 1
+  },
+  {
+    "word": "どなた",
+    "reading": "どなた",
+    "meaning": "哪位",
+    "elements": [
+      {"element": "どなた", "method": "TYPE A2-1", "bridgeC": "「どなた」谐音「躺他」→ 哪位躺他旁边？"}
+    ],
+    "mergedScene": "医院的病房里，护士看着走廊上焦急等待的家属们，礼貌地问——「请问，您是哪位？哪位是患者的家属？」（你们谁要躺他（どなた）旁边陪护？）家属们纷纷举手。这是尊称版的「谁」。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：どなた→躺他→哪位躺他旁边→哪位（尊称）。对比：誰(だれ)是随意说法，どなた是礼貌说法",
+    "difficultyStars": 1
+  },
+  {
+    "word": "隣",
+    "reading": "となり",
+    "meaning": "旁边",
+    "elements": [
+      {"element": "隣", "method": "TYPE A2-1", "bridgeC": "「となり」谐音「偷那里」→ 偷邻居旁边的东西"}
+    ],
+    "mergedScene": "你发现隔壁「旁边（隣）」的邻居总是半夜偷偷行动，你趴在窗户上偷看——原来他每天晚上都「偷那里（となり）」菜园里的西瓜！你大喊——「别偷旁边的西瓜了！」邻居羞愧地低下了头。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：となり→偷那里→偷旁边那里的东西→旁边",
+    "difficultyStars": 2
+  },
+  {
+    "word": "どの",
+    "reading": "どの",
+    "meaning": "哪个",
+    "elements": [
+      {"element": "どの", "method": "TYPE A2-1", "bridgeC": "「どの」谐音「懂诺」→ 懂了诺言选哪个"}
+    ],
+    "mergedScene": "老师在黑板上写了三道选择题，你指着其中一道问同桌——「哪个是对的？你懂了诺（どの）？」同桌神秘地眨眨眼说——「我懂了！是这个！」你恍然大悟，原来「哪个」就是哪个。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：どの→懂诺→懂了诺言选哪个→哪个",
+    "difficultyStars": 1
+  },
+  {
+    "word": "飛ぶ",
+    "reading": "とぶ",
+    "meaning": "飞",
+    "elements": [
+      {"element": "とぶ", "method": "TYPE A2-1", "bridgeC": "「とぶ」谐音「跳跃」的「头步」→ 飞的头一步"}
+    ],
+    "mergedScene": "一只小鸟站在悬崖边上，它深吸一口气，迈出飞行的「头一步（とぶ）」——嗖！它张开翅膀腾空而起，在蓝天白云间自由翱翔！飞的头一步就是勇敢地跳出去。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：とぶ→头步→飞翔的头一步→飞",
+    "difficultyStars": 1
+  },
+  {
+    "word": "止まる",
+    "reading": "とまる",
+    "meaning": "停下",
+    "elements": [
+      {"element": "と", "method": "TYPE A2-1", "bridgeC": "「と」谐音「堵」→ 堵住了"},
+      {"element": "まる", "method": "TYPE A2-2", "bridgeC": "「まる」谐音「马路」→ 堵住马路"}
+    ],
+    "mergedScene": "前方发生了交通事故，大卡车横在路中间把「马路（まる）」给「堵（と）」住了，所有车辆只能停（止まる）下来。你坐在车里焦急地看着前方的红灯，心里默念——堵住马路，停下停下！",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：と(堵) + まる(马路) → 堵住马路 → 停下",
+    "difficultyStars": 2
+  },
+  {
+    "word": "友達",
+    "reading": "ともだち",
+    "meaning": "朋友",
+    "elements": [
+      {"element": "友", "method": "TYPE A1-1", "bridgeC": "「友」音读「とも」=tomo，友好的"},
+      {"element": "達", "method": "TYPE A1-2", "bridgeC": "「達」音读「たち」=tachi，表示复数'们'"}
+    ],
+    "mergedScene": "放学铃声响起了，你回头一看——身后站着一群朝夕相处的伙伴，他们都是你的「友」们（達）。你们一起踢球、一起吃零食、一起笑。友人们聚集在一起，就是最珍贵的「朋友」。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：友(とも/朋友) + 達(たち/们) → 朋友们 → 朋友",
+    "difficultyStars": 1
+  },
+  {
+    "word": "土曜日",
+    "reading": "どようび",
+    "meaning": "周六",
+    "elements": [
+      {"element": "土", "method": "TYPE A1-1", "bridgeC": "「土」音读「ど」=do，泥土、土地"},
+      {"element": "曜", "method": "TYPE A1-2", "bridgeC": "「曜」音读「よう」=you，星辰、曜日"},
+      {"element": "日", "method": "TYPE A1-3", "bridgeC": "「日」音读「び」=bi，日子"}
+    ],
+    "mergedScene": "周六到了！你终于可以丢掉课本，跑到花园里玩「土」了。你蹲在地上堆泥巴城堡，弄得满脸是泥土，开心地大喊——「今天是土曜日！可以尽情玩土的日子！」一周中最快乐的「玩土之日」。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": true, "total": 3},
+    "reviewTip": "复习要点：土(ど) + 曜日(ようび) → 玩土的曜日 → 周六",
+    "difficultyStars": 1
+  },
+  {
+    "word": "鳥",
+    "reading": "とり",
+    "meaning": "鸟",
+    "elements": [
+      {"element": "とり", "method": "TYPE A2-1", "bridgeC": "「とり」谐音「偷理」→ 偷理羽毛的鸟"}
+    ],
+    "mergedScene": "一只小鸟停在窗台上，用嘴巴仔细地「偷理（とり）」自己身上的羽毛——先理理左翅膀，再理理右翅膀，把自己打扮得漂漂亮亮。这就是鸟类每天早上的必修课——偷着梳理（とり），让自己飞得更美。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：とり→偷理→鸟偷着梳理羽毛→鸟",
+    "difficultyStars": 1
+  },
+  {
+    "word": "とり肉",
+    "reading": "とりにく",
+    "meaning": "鸡肉",
+    "elements": [
+      {"element": "とり", "method": "TYPE A2-1", "bridgeC": "「とり」谐音「偷理」→ 鸟"},
+      {"element": "にく", "method": "TYPE A2-2", "bridgeC": "「にく」谐音「泥窟」→ 泥窟里的鸡肉"}
+    ],
+    "mergedScene": "你来到乡下的一家鸡肉店，老板从后院的「泥窟（にく）」里抓出一只正在「偷理（とり）」羽毛的鸡——这就是传说中的「とりにく」！一锅热腾腾的炖鸡肉端上桌，香气四溢，你忍不住吃了三大碗。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：とり(鸟/鸡) + にく(泥窟/肉) → 泥窟里的鸡肉 → 鸡肉",
+    "difficultyStars": 1
+  },
+  {
+    "word": "取る",
+    "reading": "とる",
+    "meaning": "拿、取得、得",
+    "elements": [
+      {"element": "とる", "method": "TYPE A2-1", "bridgeC": "「とる」谐音「偷入」→ 偷偷拿入怀中"}
+    ],
+    "mergedScene": "你看到桌上放着一颗闪闪发光的金币，趁别人不注意，悄悄把它「偷入（とる）」了自己的口袋——拿（取る）到了！虽然这种行为不对，但你瞬间理解了——取る就是「拿取、获得」的意思。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：とる→偷入→偷偷拿入→拿、取得。注意和撮る（照相）同音不同义",
+    "difficultyStars": 2
+  },
+  {
+    "word": "撮る",
+    "reading": "とる",
+    "meaning": "照相",
+    "elements": [
+      {"element": "撮", "method": "TYPE B5-1", "bridgeC": "「撮」汉字有'拍摄、撮合'的含义，提手旁+最"},
+      {"element": "とる", "method": "TYPE A2-1", "bridgeC": "「とる」谐音「吐露」→ 相机吐露光芒"}
+    ],
+    "mergedScene": "你举起相机对准樱花树，按下快门——「咔嚓！」相机的闪光灯「吐露（とる）」出一道耀眼的白光，把最美的樱花永远定格在照片上。这张「撮」下来的照片，成为你最珍贵的回忆。",
+    "sceneScore": {"specific": true, "emotional": true, "personal": false, "total": 2},
+    "reviewTip": "复习要点：撮(拍摄) + る → 吐露闪光拍照 → 照相。B6对比：取る(拿东西) vs 撮る(拿相机拍)，都是とる，但汉字不同含义不同",
+    "difficultyStars": 2
+  }
+]

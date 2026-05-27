@@ -1,0 +1,1271 @@
+[
+  {
+    "word": "会う",
+    "reading": "あう",
+    "meaning": "见面、会面",
+    "elements": [
+      {
+        "element": "会",
+        "method": "TYPE A1",
+        "bridgeC": "会（カイ）→汉字'会'本身就是见面、相会的意思，中文和日语同义"
+      },
+      {
+        "element": "う",
+        "method": "TYPE B1",
+        "bridgeC": "う的形状像张开的嘴巴，正准备说话打招呼→见面就要张嘴说话"
+      }
+    ],
+    "mergedScene": "你在街上突然看到一位很久不见的老朋友，激动地大喊一声「a！」——原来是你！两个人终于'会'(会う)面了！う是张嘴说话的尾音，见面要张嘴打招呼。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "あ→突然遇到老朋友大喊「a！」+ 会→见面（中日同义）= 会う→见面",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "明日、友だちに会います。",
+        "zh": "明天见朋友。"
+      }
+    ]
+  },
+  {
+    "word": "青",
+    "reading": "あお",
+    "meaning": "蓝色",
+    "elements": [
+      {
+        "element": "青",
+        "method": "TYPE A1",
+        "bridgeC": "青（セイ/あお）→汉字'青'在中日文中都指蓝/青色，直接联想"
+      },
+      {
+        "element": "あお",
+        "method": "TYPE B2",
+        "bridgeC": "あお→'熬'→熬蓝染料→蓝色"
+      }
+    ],
+    "mergedScene": "古人熬(あお)煮蓝草来染布，染出来的就是'青'色——青=蓝。想象你站在一片熬着蓝色染料的大缸旁，缸里的水是深邃的蓝色。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "青→蓝色（中日同义）+ あお→熬蓝染料 = 青(あお)=蓝色",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "空は青です。",
+        "zh": "天空是蓝色的。"
+      }
+    ]
+  },
+  {
+    "word": "青い",
+    "reading": "あおい",
+    "meaning": "蓝色的",
+    "elements": [
+      {
+        "element": "青",
+        "method": "TYPE A1",
+        "bridgeC": "青=蓝色，和中文一样"
+      },
+      {
+        "element": "い",
+        "method": "TYPE B1",
+        "bridgeC": "い的形状像一根竖线，也像一滴蓝色的墨水→形容词尾巴い=蓝色"
+      }
+    ],
+    "mergedScene": "一根蓝色的笔(い→竖线)在白纸上画了一个'青'字，纸变成了蓝色(青い)。日语形容词以い结尾——青い就是蓝色的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "青→蓝色 + い→形容词尾巴 = 青い→蓝色的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "青いシャツを買いました。",
+        "zh": "买了蓝色的衬衫。"
+      }
+    ]
+  },
+  {
+    "word": "赤",
+    "reading": "あか",
+    "meaning": "红色",
+    "elements": [
+      {
+        "element": "赤",
+        "method": "TYPE A1",
+        "bridgeC": "赤（セキ/あか）→汉字'赤'就是红色的意思，中日通用"
+      },
+      {
+        "element": "あか",
+        "method": "TYPE B2",
+        "bridgeC": "あか→'阿卡'→红卡牌→红色"
+      }
+    ],
+    "mergedScene": "一个有着特殊身份的人，脖子上挂着一张红色的ID卡(あか→ID Card)，卡片上印着一个大大的'赤'字——赤就是红色。あか = 红色ID卡。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "赤→红色（中日同义）+ あか→红色ID卡 = 赤(あか)=红色",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "信号は赤です。",
+        "zh": "信号灯是红色。"
+      }
+    ]
+  },
+  {
+    "word": "赤い",
+    "reading": "あかい",
+    "meaning": "红色的",
+    "elements": [
+      {
+        "element": "赤",
+        "method": "TYPE A1",
+        "bridgeC": "赤=红色"
+      },
+      {
+        "element": "い",
+        "method": "TYPE B1",
+        "bridgeC": "い=形容词尾巴，い形形容词的标志"
+      }
+    ],
+    "mergedScene": "红色的'赤'字后面加上い，就成了形容词'红色的'(赤い)。想象你看到一面红色的旗帜(赤)在风中飘扬(い→竖线飘动)。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "赤→红色 + い→形容词尾 = 赤い→红色的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "赤いりんごを食べます。",
+        "zh": "吃红苹果。"
+      }
+    ]
+  },
+  {
+    "word": "明るい",
+    "reading": "あかるい",
+    "meaning": "明亮的、开朗的",
+    "elements": [
+      {
+        "element": "明",
+        "method": "TYPE A1",
+        "bridgeC": "明（メイ/あか）→汉字'明'由日+月组成，日月同辉→明亮"
+      },
+      {
+        "element": "かる",
+        "method": "TYPE B2",
+        "bridgeC": "かる→'卡路'→卡住了去路，但因为太亮了看得清→明亮"
+      },
+      {
+        "element": "い",
+        "method": "TYPE B1",
+        "bridgeC": "い→形容词尾巴"
+      }
+    ],
+    "mergedScene": "我们刚才学的あか是红色——现在想象一栋鲜红色的屋子，被强烈的灯光从内部照射出来，在外面看来显得格外明亮，让人感觉不寒而栗。あか→红色→明亮→明るい！明=日+月同辉=明亮。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "あか=红色→红色屋子灯光照射→格外明亮 + 明→日+月=明 = 明るい→明亮的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "この部屋は明るいです。",
+        "zh": "这个房间很明亮。"
+      }
+    ]
+  },
+  {
+    "word": "秋",
+    "reading": "あき",
+    "meaning": "秋天",
+    "elements": [
+      {
+        "element": "秋",
+        "method": "TYPE A1",
+        "bridgeC": "秋（シュウ/あき）→汉字'秋'=禾+火，秋天收割庄稼、稻谷金黄如火→秋天"
+      },
+      {
+        "element": "あき",
+        "method": "TYPE B2",
+        "bridgeC": "あき→'阿奇'→秋天是个奇妙(奇)的季节→秋天"
+      }
+    ],
+    "mergedScene": "阿奇(あき)站在金黄色的稻田里，左边是沉甸甸的稻穗(禾)，右边堆着篝火(火)——禾+火=秋。秋天的稻田像着了火一样金黄。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "秋→禾+火=秋天 + あき→阿奇在稻田 = 秋(あき)=秋天",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "秋に日本へ行きます。",
+        "zh": "秋天去日本。"
+      }
+    ]
+  },
+  {
+    "word": "開く",
+    "reading": "あく",
+    "meaning": "开（自动）",
+    "elements": [
+      {
+        "element": "開",
+        "method": "TYPE A1",
+        "bridgeC": "開（カイ/あく）→汉字'开/開'就是打开的意思，门开了→自动"
+      },
+      {
+        "element": "く",
+        "method": "TYPE B1",
+        "bridgeC": "く的形状像一张张开的嘴→门自动开了像嘴巴张开了"
+      }
+    ],
+    "mergedScene": "門自己「開」了。開有两个读音：あく（打开具体的门）和ひらく（打开抽象的东西，如打开心扉、打开会议）。あく发a的音，く像嘴巴张开的形状——门像嘴巴一样自己张开了（自动词）。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "開く(あく)=打开具体的门（自动词）/ 開く(ひらく)=打开抽象的东西\n⚠️ あく：门自己开了 / ひらく：打开心扉、打开书本",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ドアが開きます。",
+        "zh": "门开了。"
+      }
+    ]
+  },
+  {
+    "word": "開ける",
+    "reading": "あける",
+    "meaning": "打开（他动）",
+    "elements": [
+      {
+        "element": "開",
+        "method": "TYPE A1",
+        "bridgeC": "開=打开"
+      },
+      {
+        "element": "ける",
+        "method": "TYPE B2",
+        "bridgeC": "ける→'开路'→用手开路→他动词，有人主动去开"
+      }
+    ],
+    "mergedScene": "和あく一样，開ける也是「打开具体的门」，但這是他动词——是你主动去开的。ける→开路→你用手推开门。对比：開く=门自己开了 / 開ける=你去开了门。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "開く(あく)=门自动开了（自动词）/ 開ける(あける)=你主动打开门（他动词）\n⚠️ 開还有另一个读音：ひらく（打开抽象的东西）",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "窓を開けます。",
+        "zh": "打开窗户。"
+      }
+    ]
+  },
+  {
+    "word": "上げる",
+    "reading": "あげる",
+    "meaning": "举起、抬高",
+    "elements": [
+      {
+        "element": "上",
+        "method": "TYPE A1",
+        "bridgeC": "上（ジョウ/あ）→汉字'上'就是向上、抬高的意思"
+      },
+      {
+        "element": "げる",
+        "method": "TYPE B2",
+        "bridgeC": "げる→'给'→给(give)你举起来→抬高、给你举高"
+      }
+    ],
+    "mergedScene": "「上」做动词时只读作あ（a），意思是把xxx向上→就是「举起」。げる→给→举起来给你看。上げる=把东西向上举起。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "上→做动词只读あ(a)，把xxx向上=举起 + げる→给 = 上げる→举起",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "手を上げます。",
+        "zh": "举手。"
+      }
+    ]
+  },
+  {
+    "word": "朝",
+    "reading": "あさ",
+    "meaning": "早上、早晨",
+    "elements": [
+      {
+        "element": "朝",
+        "method": "TYPE A1",
+        "bridgeC": "朝（チョウ/あさ）→汉字'朝'左边是十日(早)，右边是月，日月交替之时→早晨"
+      },
+      {
+        "element": "あさ",
+        "method": "TYPE B2",
+        "bridgeC": "あさ→'阿萨'→阿萨(ASAP)→一大早就要赶路→早晨"
+      }
+    ],
+    "mergedScene": "朝只有一个发音：あさ（asa）。左边十日右边月，日月交替之时=早晨。想象清晨太阳刚升起、月亮还没落下的样子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "朝→十日+月=早晨，只有一个发音 = 朝(あさ)=早晨",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "朝、学校へ行きます。",
+        "zh": "早上去学校。"
+      }
+    ]
+  },
+  {
+    "word": "朝御飯",
+    "reading": "あさごはん",
+    "meaning": "早饭",
+    "elements": [
+      {
+        "element": "朝",
+        "method": "TYPE A1",
+        "bridgeC": "朝=早晨"
+      },
+      {
+        "element": "ごはん",
+        "method": "TYPE B2",
+        "bridgeC": "ごはん→'锅饭'→锅里的饭→米饭、饭食"
+      }
+    ],
+    "mergedScene": "早晨(朝/あさ)起来，妈妈已经在灶台上做好了锅里的饭(ごはん→锅饭)——朝+ごはん=早饭(朝御飯)。想象清晨厨房里飘出的米饭香味。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "朝(あさ)=早晨 + ごはん=锅饭 = 朝御飯(あさごはん)=早饭",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "朝御飯を食べます。",
+        "zh": "吃早饭。"
+      }
+    ]
+  },
+  {
+    "word": "あさって",
+    "reading": "あさって",
+    "meaning": "后天",
+    "elements": [
+      {
+        "element": "さって",
+        "method": "TYPE B2",
+        "bridgeC": "さって→日漫中「さって、さって」=那么、再等等的语气"
+      },
+      {
+        "element": "あ",
+        "method": "TYPE B2",
+        "bridgeC": "加一个あ在前面→再等一天→后天"
+      }
+    ],
+    "mergedScene": "日漫中经常听到「さって、さって…」意思是「那么、再等等」。前面加一个あ→あさって=再等一天=后天。比あした(明天)多等了一天。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "さって=日漫「再等等」+ あ=再多一天 = あさって→后天",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "あさって映画を見ます。",
+        "zh": "后天看电影。"
+      }
+    ]
+  },
+  {
+    "word": "足",
+    "reading": "あし",
+    "meaning": "脚、腿",
+    "elements": [
+      {
+        "element": "足",
+        "method": "TYPE A1",
+        "bridgeC": "足（ソク/あし）→汉字'足'就是脚的意思，中日同义"
+      },
+      {
+        "element": "あし",
+        "method": "TYPE B2",
+        "bridgeC": "あし→'阿肢'→肢体的下部→脚"
+      }
+    ],
+    "mergedScene": "足常见发音就发あし（ashi）。韩语里ashi是「我艹」的意思——想象一个男人的足（脚）臭到旁边的人忍不住大喊「阿西～(あし)」。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "足→脚（中日同义）+ あし→阿西（脚臭到人喊） = 足(あし)=脚",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "足が痛いです。",
+        "zh": "脚疼。"
+      }
+    ]
+  },
+  {
+    "word": "明日",
+    "reading": "あした",
+    "meaning": "明天",
+    "elements": [
+      {
+        "element": "明",
+        "method": "TYPE A1",
+        "bridgeC": "明=明天，日+月交替之后→明天"
+      },
+      {
+        "element": "あした",
+        "method": "TYPE B2",
+        "bridgeC": "あした→'啊西哒'→啊！太阳从西边出来了→不对，是明天的事→明天"
+      }
+    ],
+    "mergedScene": "你指着'明'字对朋友说：'啊，明天(あした)太阳又会照常升起！'——日(日)和月(月)换班之后就是明天(明日)。想象你翻过日历看到明天的日期。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "明日→明(日+月=明天) + あした→明天 = 明日(あした)=明天",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "明日、雨が降ります。",
+        "zh": "明天下雨。"
+      }
+    ]
+  },
+  {
+    "word": "あそこ",
+    "reading": "あそこ",
+    "meaning": "那里",
+    "elements": [
+      {
+        "element": "あ",
+        "method": "TYPE B2",
+        "bridgeC": "あ→'阿'→阿远处→远处"
+      },
+      {
+        "element": "そこ",
+        "method": "TYPE B1",
+        "bridgeC": "そこ→两个こ像两个手指头，指向远处→那里"
+      }
+    ],
+    "mergedScene": "你伸出两个手指头(そこ)指向远处，大喊：'阿(あ)！就是那里(あそこ)！'——こ系词(こ、そ、あ、ど)中，あ开头=远处，そこ指场所=那里。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "あ→远 + そこ→场所 = あそこ→那里（远处）",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "あそこに駅があります。",
+        "zh": "那里有车站。"
+      }
+    ]
+  },
+  {
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "meaning": "玩",
+    "elements": [
+      {
+        "element": "遊",
+        "method": "TYPE A1",
+        "bridgeC": "遊（ユウ/あそ）→汉字'游/遊'就是游玩、玩耍的意思"
+      },
+      {
+        "element": "ぶ",
+        "method": "TYPE B1",
+        "bridgeC": "ぶ的形状像一个人歪着脑袋在哼歌→悠闲地玩"
+      }
+    ],
+    "mergedScene": "周末到了，你跑到'游'乐场，歪着脑袋(ぶ)快乐地哼着歌——遊ぶ就是'玩'。想象你在游乐场里玩得不亦乐乎，连走路都歪歪扭扭的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "遊→游玩 + ぶ→歪头哼歌(开心玩) = 遊ぶ→玩",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "公園で遊びます。",
+        "zh": "在公园玩。"
+      }
+    ]
+  },
+  {
+    "word": "暖かい",
+    "reading": "あたたかい",
+    "meaning": "温暖的",
+    "elements": [
+      {
+        "element": "暖",
+        "method": "TYPE A1",
+        "bridgeC": "暖（ダン/あたた）→汉字'暖'=日+爰，太阳照着→温暖"
+      },
+      {
+        "element": "あたたかい",
+        "method": "TYPE B2",
+        "bridgeC": "あ→啊！たた→烫烫！か→可以了！→试水时先觉得烫，然后刚好合适→温暖"
+      }
+    ],
+    "mergedScene": "一个人在试洗澡水：先伸手进去感觉「啊(a)！烫烫(たた)！」缩回来，再试一次感觉「か(ka)可以了！」——水温太温暖了！暖かい=温暖的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "暖→温暖 + あ→啊！たた→烫烫！か→可以了！ = 暖かい→温暖的",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "今日は暖かいです。",
+        "zh": "今天很暖和。"
+      }
+    ]
+  },
+  {
+    "word": "頭",
+    "reading": "あたま",
+    "meaning": "头",
+    "elements": [
+      {
+        "element": "頭",
+        "method": "TYPE A1",
+        "bridgeC": "頭（トウ/あたま）→汉字'头/頭'就是脑袋的意思，中日同义"
+      },
+      {
+        "element": "あたま",
+        "method": "TYPE B2",
+        "bridgeC": "あたま→'阿塌麻'→阿婆摔了一跤头塌了，头发麻→头"
+      }
+    ],
+    "mergedScene": "汉字'頭'就是头的意思。阿婆不小心摔了一跤，'阿！头好麻！'(あたま)——摸着脑袋说あたま就是'头'。想象你碰到头时那种麻麻的感觉。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "頭→头（中日同义）+ あたま→阿塌麻(碰到头) = 頭(あたま)=头",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "頭が痛いです。",
+        "zh": "头疼。"
+      }
+    ]
+  },
+  {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meaning": "新的",
+    "elements": [
+      {
+        "element": "新",
+        "method": "TYPE A1",
+        "bridgeC": "新（シン/あたら）→汉字'新'就是新的，中日同义"
+      },
+      {
+        "element": "あたら",
+        "method": "TYPE B2",
+        "bridgeC": "あ→啊！たら→他又拉稀了！→因为吃了腥的东西→腥=新"
+      }
+    ],
+    "mergedScene": "啊(a)！他又拉稀了(たら)！——是因为海鲜太腥(新)了！腥→新。あたらしい→新的。あたら=腥=新。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "新→新的 + あたら→啊他又拉稀了(太腥了→腥=新) + い = 新しい→新的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "新しい本を買いました。",
+        "zh": "买了新书。"
+      }
+    ]
+  },
+  {
+    "word": "あちら",
+    "reading": "あちら",
+    "meaning": "那边（敬语）",
+    "elements": [
+      {
+        "element": "あち",
+        "method": "TYPE B2",
+        "bridgeC": "あち→'阿迟'→阿迟在远处的另一边→那边"
+      },
+      {
+        "element": "ら",
+        "method": "TYPE B1",
+        "bridgeC": "ら的形状像弯曲的手指，恭敬地指向远处→敬语指向"
+      }
+    ],
+    "mergedScene": "你恭敬地弯起手指(ら)指向远方，对客人说：'阿迟(あち)先生在那边(あちら)。'——あちら是あそこ的敬语版，更礼貌的说法。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "あち→阿迟(那边的人) + ら→弯指敬语 = あちら→那边（敬语）",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "あちらへどうぞ。",
+        "zh": "请往那边。"
+      }
+    ]
+  },
+  {
+    "word": "暑い",
+    "reading": "あつい",
+    "meaning": "热的（天气）",
+    "elements": [
+      {
+        "element": "暑",
+        "method": "TYPE A1",
+        "bridgeC": "暑（ショ/あつ）→汉字'暑'=日+者，太阳底下的人→天气热"
+      },
+      {
+        "element": "あつい",
+        "method": "TYPE B2",
+        "bridgeC": "あつい→三个词同音！暑い(天气热)/熱い(物品烫)/厚い(厚)"
+      }
+    ],
+    "mergedScene": "【三兄弟串联】一个充满暑气的夏天→暑い(天气热)→太阳底下站着一个人(日+者)，热得满头大汗。旁边的奇怪男人却把自己裹得厚厚(厚い)的，感觉不到一点热——因为他正拿着一杯刚烧开的水(火+执)，烫到不行(熱い)。三个词都读あつい，靠汉字偏旁区分！",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "暑(日)=天气热 / 熱い(火)=物品烫 / 厚(厂)=厚 → 三个都读あつい！",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "今日は暑いです。",
+        "zh": "今天很热。"
+      }
+    ]
+  },
+  {
+    "word": "熱い",
+    "reading": "あつい",
+    "meaning": "烫的（物品）",
+    "elements": [
+      {
+        "element": "熱",
+        "method": "TYPE A1",
+        "bridgeC": "熱（ネツ/あつ）→汉字'熱'=火+执，手拿着火→烫"
+      },
+      {
+        "element": "あつい",
+        "method": "TYPE B2",
+        "bridgeC": "あつい→同音三兄弟之一：暑い/熱い/厚い"
+      }
+    ],
+    "mergedScene": "【三兄弟串联】那个裹得厚厚(厚い)的奇怪男人，手里端着刚烧开的水(火+执)，碰到的一瞬间烫到缩手——熱い是物品烫。关键区分：暑(天热)有日字头，熱(烫)有火字底，厚(厚)有厂字头。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "熱(火)=烫 / 暑(日)=天气热 / 厚(厂)=厚 → 都读あつい，看偏旁！",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "このお茶は熱いです。",
+        "zh": "这杯茶很烫。"
+      }
+    ]
+  },
+  {
+    "word": "厚い",
+    "reading": "あつい",
+    "meaning": "厚的",
+    "elements": [
+      {
+        "element": "厚",
+        "method": "TYPE A1",
+        "bridgeC": "厚（コウ/あつ）→汉字'厚'=厂+日+子，层层叠叠→厚"
+      },
+      {
+        "element": "あつい",
+        "method": "TYPE B2",
+        "bridgeC": "あつい→同音三兄弟之一：暑い/熱い/厚い"
+      }
+    ],
+    "mergedScene": "【三兄弟串联】暑气夏天里，一个奇怪男人把自己裹得厚厚(厚い)的，一点不觉得热(暑い)，因为他正忙着被手中的热水烫(熱い)到跳脚。三个あつい，看偏旁辨义：日=热/火=烫/厂=厚。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "厚(厂)=厚 / 暑(日)=天气热 / 熱(火)=烫 → 三个あつい，看偏旁！",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "厚い本を読みます。",
+        "zh": "读一本厚书。"
+      }
+    ]
+  },
+  {
+    "word": "あっち",
+    "reading": "あっち",
+    "meaning": "那边",
+    "elements": [
+      {
+        "element": "あっ",
+        "method": "TYPE B2",
+        "bridgeC": "あっ→'阿！'→突然看到远处有东西→远处的"
+      },
+      {
+        "element": "ち",
+        "method": "TYPE B1",
+        "bridgeC": "ち的形状像一个数字5→五指张开指向远处→那边"
+      }
+    ],
+    "mergedScene": "你站在河流这边，对岸有东西——あ(这边)和ち(那边)之间隔了一条河。ち就在あ的那边！あっち=那边，和あそこ意思一样但更口语。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "あ(这边) + ち(那边) 中间隔了一条河 = あっち→那边",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "あっちへ行きます。",
+        "zh": "去那边。"
+      }
+    ]
+  },
+  {
+    "word": "後",
+    "reading": "あと",
+    "meaning": "后面、之后",
+    "elements": [
+      {
+        "element": "後",
+        "method": "TYPE A1",
+        "bridgeC": "後（ゴ/あと）→汉字'后/後'就是后面、之后的意思"
+      },
+      {
+        "element": "あと",
+        "method": "TYPE B2",
+        "bridgeC": "あと→a+to(to=头)→刑天每次出门总把自己的头(to)落在后面"
+      }
+    ],
+    "mergedScene": "刑天每次出门总把自己的头(to)落在后面——あと(a+to)=后面/之后。後就是后面，中日同义。常用：あとで(之后做)、あとで(等一下)。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "後→后面（中日同义）+ あと→a+to(to=头落在后面) = 後(あと)=后面/之后",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "授業の後で帰ります。",
+        "zh": "下课后回家。"
+      }
+    ]
+  },
+  {
+    "word": "あなた",
+    "reading": "あなた",
+    "meaning": "您、你",
+    "elements": [],
+    "mergedScene": "",
+    "sceneScore": {
+      "specific": false,
+      "emotional": false,
+      "personal": false,
+      "total": 0
+    },
+    "reviewTip": "あなた→您、你（礼貌说法，也常用于妻子称呼丈夫）",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "あなたの名前は何ですか。",
+        "zh": "你叫什么名字？"
+      }
+    ]
+  },
+  {
+    "word": "兄",
+    "reading": "あに",
+    "meaning": "哥哥",
+    "elements": [
+      {
+        "element": "兄",
+        "method": "TYPE A1",
+        "bridgeC": "兄（キョウ/あに）→汉字'兄'就是哥哥，中日同义"
+      },
+      {
+        "element": "あに",
+        "method": "TYPE B2",
+        "bridgeC": "あに→'阿尼'→阿尼(Ani)动漫里哥哥的角色→哥哥"
+      }
+    ],
+    "mergedScene": "在日本动漫里，妹妹常常喊'あに'(阿尼)来叫哥哥——兄就是哥哥。注意：あに是说自己哥哥(谦称)，お兄さん是叫别人哥哥(敬称)。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "兄→哥哥（中日同义）+ あに→阿尼(动漫常见) = 兄(あに)=哥哥（自己的，谦称）",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "兄は大学生です。",
+        "zh": "哥哥是大学生。"
+      }
+    ]
+  },
+  {
+    "word": "姉",
+    "reading": "あね",
+    "meaning": "姐姐",
+    "elements": [
+      {
+        "element": "姉",
+        "method": "TYPE A1",
+        "bridgeC": "姉（シ/あね）→汉字'姐/姉'就是姐姐的意思"
+      },
+      {
+        "element": "あね",
+        "method": "TYPE B2",
+        "bridgeC": "あね→'阿捏'→阿捏(Ani)动漫里姐姐的角色→姐姐"
+      }
+    ],
+    "mergedScene": "弟弟妹妹叫姐姐的时候会说'あね'(阿捏)，就像动漫里常见的场景——姉就是姐姐。注意：あね是说自己姐姐(谦称)，お姉さん是叫别人姐姐(敬称)。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "姉→姐姐 + あね→阿捏(动漫常见) = 姉(あね)=姐姐（自己的，谦称）",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "姉は先生です。",
+        "zh": "姐姐是老师。"
+      }
+    ]
+  },
+  {
+    "word": "あの",
+    "reading": "あの",
+    "meaning": "那个",
+    "elements": [
+      {
+        "element": "あ",
+        "method": "TYPE B2",
+        "bridgeC": "あ→'阿'→远处的东西→那个"
+      },
+      {
+        "element": "の",
+        "method": "TYPE B1",
+        "bridgeC": "の的形状像一个no(拒绝的手势)→指着远处的那个东西说'no不，不是这个，是那个'"
+      }
+    ],
+    "mergedScene": "你指着远处的那个东西说：'阿(あ)，是那个(あの)！不是这个(の→no)，是远处的那个！'——あの=那个，连接名词用，如あの人(那个人)。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "あ→远处 + の→连接词 = あの→那个（连体词，后接名词）",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "あの人は先生です。",
+        "zh": "那个人是老师。"
+      }
+    ]
+  },
+  {
+    "word": "アパート",
+    "reading": "アパート",
+    "meaning": "公寓",
+    "elements": [
+      {
+        "element": "アパート",
+        "method": "外来语",
+        "bridgeC": "来自英语 apartment（公寓），片假名拼写：ア(pa)パ(pa)ー(长音)ト(to)"
+      }
+    ],
+    "mergedScene": "アパート直接对应英语 apartment = 公寓。片假名 A-Pa-To，注意中间的长音符号ー。想象一栋多层的小公寓楼，门口写着アパート。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "アパート = apartment = 公寓（英语外来语）",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "アパートに住んでいます。",
+        "zh": "住在公寓里。"
+      }
+    ]
+  },
+  {
+    "word": "あびる",
+    "reading": "あびる",
+    "meaning": "淋，流，沐浴",
+    "elements": [
+      {
+        "element": "浴",
+        "method": "TYPE A1",
+        "bridgeC": "浴（ヨク/あび）→汉字'浴'就是沐浴的意思"
+      },
+      {
+        "element": "あびる",
+        "method": "TYPE B2",
+        "bridgeC": "あ(a)+び(冰)+る→淋浴时刚开始的水总是凉的→大喊「a 冰！」"
+      }
+    ],
+    "mergedScene": "你打开花洒准备淋浴，刚开始的水总是凉的，你忍不住大喊「a 冰！(あびる)！」——あびる=沐浴、淋。常用：シャワーをあびる(淋淋浴)、日光をあびる(晒太阳)。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "浴→沐浴 + あびる→a冰！(淋浴水好凉) = あびる→沐浴、淋",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "シャワーをあびます。",
+        "zh": "洗淋浴。"
+      }
+    ]
+  },
+  {
+    "word": "危ない",
+    "reading": "あぶない",
+    "meaning": "危险的",
+    "elements": [
+      {
+        "element": "危",
+        "method": "TYPE A1",
+        "bridgeC": "危（キ/あぶ）→汉字'危'就是危险的意思，中日同义"
+      },
+      {
+        "element": "あぶない",
+        "method": "TYPE B2",
+        "bridgeC": "あぶない→あぶ=啊不！ない=ない(不要)→日漫经典场景"
+      }
+    ],
+    "mergedScene": "日漫里总会有这样的场景：女主看到男主走向危险的地方，大喊「あぶ！ない（不要）！そこは危ない！」——あぶない→啊不！不要！那里危险！危ない=危险的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "危→危险 + あぶない→啊不！ない(不要)！ = 危ない→危险的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ここは危ないです。",
+        "zh": "这里很危险。"
+      }
+    ]
+  },
+  {
+    "word": "甘い",
+    "reading": "あまい",
+    "meaning": "甜的",
+    "elements": [
+      {
+        "element": "甘",
+        "method": "TYPE A1",
+        "bridgeC": "甘（カン/あま）→汉字'甘'就是甜的意思，中日同义"
+      },
+      {
+        "element": "あまい",
+        "method": "TYPE B2",
+        "bridgeC": "あ(a)ま(ma→蚂蚁)い→蚂蚁趴在甜食上→因为食物很甜"
+      }
+    ],
+    "mergedScene": "我们总能看见蚂蚁(ま→ma)趴在掉在地上的甜食上——因为食物很甘い(甜的)！蚂蚁最爱甜的东西。甘字里面像舌头上沾着甜味。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "甘→甜（中日同义）+ あまい→蚂蚁(ま)趴在甜食上 + い = 甘い→甜的",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "このケーキは甘いです。",
+        "zh": "这个蛋糕很甜。"
+      }
+    ]
+  },
+  {
+    "word": "あまり",
+    "reading": "あまり",
+    "meaning": "不太、剩下",
+    "elements": [
+      {
+        "element": "あま",
+        "method": "TYPE B2",
+        "bridgeC": "あま→'阿妈'→阿妈说'不要吃太多'→不太"
+      },
+      {
+        "element": "り",
+        "method": "TYPE B1",
+        "bridgeC": "り的形状像两个小圆点→剩下一点点→剩下"
+      }
+    ],
+    "mergedScene": "阿妈(あま)往你碗里盛饭，只盛了两个小圆点(り)那么少，说：'あまり(不太)要吃太多哦。'——あまり表示'不太...'，后面接否定。也可以表示'剩下的'（あまりのお金=剩下的钱）。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": false,
+      "total": 2
+    },
+    "reviewTip": "あま→阿妈(少盛点) + り→两点=剩下一点 = あまり→不太/剩下",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "あまり寒くないです。",
+        "zh": "不太冷。"
+      }
+    ]
+  },
+  {
+    "word": "雨",
+    "reading": "あめ",
+    "meaning": "雨",
+    "elements": [
+      {
+        "element": "雨",
+        "method": "TYPE A1",
+        "bridgeC": "雨（ウ/あめ）→汉字'雨'就是雨的意思，中日同义"
+      },
+      {
+        "element": "あめ",
+        "method": "TYPE B2",
+        "bridgeC": "あめ→小时候没钱买糖(飴)吃，总会幻想天空会下糖雨(雨)"
+      }
+    ],
+    "mergedScene": "【雨&飴串联】小时候没钱买糖(飴/あめ)吃，总会幻想天空会下糖雨——雨(雨/あめ)和糖(飴/あめ)同音！一个是天上下的，一个是嘴里含的，都是小时候最想要的东西。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "雨→雨（中日同义）+ 飴→糖 → 两个都读あめ！下糖雨的幻想",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "雨が降っています。",
+        "zh": "正在下雨。"
+      }
+    ]
+  },
+  {
+    "word": "飴",
+    "reading": "あめ",
+    "meaning": "糖",
+    "elements": [
+      {
+        "element": "飴",
+        "method": "TYPE A1",
+        "bridgeC": "飴（ベイ/あめ）→汉字'飴'左边是食字旁，右边是台→吃的甜品→糖"
+      },
+      {
+        "element": "あめ",
+        "method": "TYPE B2",
+        "bridgeC": "あめ→小时候没钱买糖(飴)吃，总会幻想天空会下糖雨(雨)"
+      }
+    ],
+    "mergedScene": "【雨&飴串联】小时候没钱买糖吃(飴/あめ)，总会幻想天空会下糖雨——雨和糖同音(あめ)！飴有食字旁，是吃的糖。想象一颗圆滚滚的透明糖果从天上掉下来。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "飴→食+台=糖 + 雨→雨 → 两个都读あめ！雨&飴串联记忆",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "飴を一つ食べます。",
+        "zh": "吃一颗糖。"
+      }
+    ]
+  },
+  {
+    "word": "洗う",
+    "reading": "あらう",
+    "meaning": "洗、清洗",
+    "elements": [
+      {
+        "element": "洗",
+        "method": "TYPE A1",
+        "bridgeC": "洗（セン/あら）→汉字'洗'=氵+先，用水先洗→洗"
+      },
+      {
+        "element": "あらう",
+        "method": "TYPE B2",
+        "bridgeC": "あらう→'阿郎'→阿郎在河边洗衣服→洗"
+      }
+    ],
+    "mergedScene": "阿郎(あらう)蹲在河边，用水(氵)把衣服搓洗干净(洗)——洗う就是'洗'。想象肥皂泡泡在水里飞溅的场景。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "洗→氵+先=用水先洗 + あらう→阿郎洗衣 = 洗う→洗",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "手を洗います。",
+        "zh": "洗手。"
+      }
+    ]
+  },
+  {
+    "word": "ある",
+    "reading": "ある",
+    "meaning": "在（无生命）",
+    "elements": [
+      {
+        "element": "あ",
+        "method": "TYPE B2",
+        "bridgeC": "あ→'啊'→啊，桌上有东西→在"
+      },
+      {
+        "element": "る",
+        "method": "TYPE B1",
+        "bridgeC": "る的形状像一个人弯曲着腿坐在那里→一直待在那里→在"
+      }
+    ],
+    "mergedScene": "你'啊'(あ)了一声，发现桌子上有个杯子一直放在那里(る→坐着不动)——ある表示无生命物体的'存在'。注意：ある(无生命) vs いる(有生命)。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "あ→啊(发现) + る→坐在那里不动 = ある→在（无生命）\n⚠️ ある(物) vs いる(人/动物)",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "机の上に本があります。",
+        "zh": "桌子上有书。"
+      }
+    ]
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "meaning": "步行",
+    "elements": [
+      {
+        "element": "歩",
+        "method": "TYPE A1",
+        "bridgeC": "歩（ホ/ある）→汉字'步/歩'就是走路的意思，中日同义。注意：歩经常读ある(aru)的音"
+      },
+      {
+        "element": "あるく",
+        "method": "TYPE B2",
+        "bridgeC": "ある(aru)是歩的常见音 + く→去→走路去→步行"
+      }
+    ],
+    "mergedScene": "歩经常读ある(aru)的音。歩く=ある(aru)+く(去)=走去→步行。想象你大步流星地走在马路上。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "歩→经常读ある(aru) + く→去 = 歩く(あるく)→步行",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "駅まで歩きます。",
+        "zh": "走到车站。"
+      }
+    ]
+  }
+]
