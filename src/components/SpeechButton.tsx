@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, type MouseEvent } from 'react'
 import { speakWordAsync, speakJapaneseAsync } from '../lib/japaneseSpeech'
 
 type SpeechState = 'idle' | 'loading' | 'playing' | 'error'
@@ -18,7 +18,8 @@ export function SpeechButton({
 }) {
   const [state, setState] = useState<SpeechState>('idle')
 
-  const handleClick = async () => {
+  const handleClick = async (event: MouseEvent<HTMLButtonElement>) => {
+    event.stopPropagation()
     if (state === 'loading' || state === 'playing') return
 
     setState('loading')
@@ -70,7 +71,8 @@ export function MiniSpeechButton({
 }) {
   const [state, setState] = useState<SpeechState>('idle')
 
-  const handleClick = async () => {
+  const handleClick = async (event: MouseEvent<HTMLButtonElement>) => {
+    event.stopPropagation()
     if (state === 'loading' || state === 'playing') return
 
     setState('loading')

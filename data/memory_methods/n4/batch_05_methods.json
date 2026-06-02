@@ -108,24 +108,19 @@
     "partOfSpeech": "副词",
     "elements": [
       {
-        "element": "例えば",
-        "method": "TYPE A1",
-        "bridgeC": "例えば 的字面先给出“譬如”这个方向。"
-      },
-      {
         "element": "たとえば",
-        "method": "固定读音",
-        "bridgeC": "读音 たとえば 作为固定读法记住"
+        "method": "TYPE B2",
+        "bridgeC": "たとえば像“他偷A8”，用偷车案例举例。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 たとえば 作为固定读法记住，再用 例えば 的汉字确认意思，这个小插曲就代表“譬如”。重点抓汉字直觉和读音绑定：例えば=譬如，比如。",
+    "mergedScene": "刑法课上，老师说“比如，他偷A8会怎么判？”同学一下就懂了。たとえば像“他偷A8”，表示比如。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "例えば - 汉字直觉 + 固定读音 たとえば - 放进生活场景记“譬如” - 譬如，比如",
+    "reviewTip": "たとえば - 谐音“他偷A8” - 刑法老师用偷A8案例举例 - 比如",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -167,30 +162,30 @@
   {
     "word": "看護士",
     "reading": "かんごし",
-    "meaning": "男看护，男护士具有护理伤病者等疗养或辅助诊疗资格的男子",
+    "meaning": "护士",
     "sourceIndex": 166,
     "sourceMeaningRaw": "[名] 男看护，男护士具有护理伤病者等疗养或辅助诊疗资格的男子",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "看護士",
-        "method": "TYPE A1",
-        "bridgeC": "看護士 的字面先给出“男看护”这个方向。"
+        "element": "かんごし",
+        "method": "TYPE B2",
+        "bridgeC": "かんごし像“看狗师”，照看小狗的护士。"
       },
       {
-        "element": "かんごし",
-        "method": "固定读音",
-        "bridgeC": "读音 かんごし 作为固定读法记住"
+        "element": "看護",
+        "method": "汉字直觉",
+        "bridgeC": "看護表示护理。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 かんごし 作为固定读法记住，再用 看護士 的汉字确认意思，这个小插曲就代表“男看护”。重点抓汉字直觉和读音绑定：看護士=男看护，男护士具有护理伤病者等疗养或辅助诊疗资格的男子。",
+    "mergedScene": "宠物医院里，小田看到护士照看的不是病人，而是一群小狗，画面滑稽。かんごし像“看狗师”，就是护士。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "看護士 - 汉字直觉 + 固定读音 かんごし - 放进生活场景记“男看护” - 男看护，男护士具有护理伤病者等疗养或辅助诊疗资格的男子",
+    "reviewTip": "かんごし - 谐音“看狗师” - 宠物医院护士照看的全是小狗 - 护士",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -202,30 +197,30 @@
   {
     "word": "形",
     "reading": "かたち",
-    "meaning": "外，状",
+    "meaning": "形状",
     "sourceIndex": 167,
     "sourceMeaningRaw": "[名] 外，状，样子；姿态，容貌，服饰；式上的，表面上的；式，体裁； 使成",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "形",
-        "method": "TYPE A1",
-        "bridgeC": "形 的字面先给出“外”这个方向。"
+        "element": "かたち",
+        "method": "TYPE B2",
+        "bridgeC": "かたち像“可touch”，能摸到轮廓。"
       },
       {
-        "element": "かたち",
-        "method": "固定读音",
-        "bridgeC": "读音 かたち 作为固定读法记住"
+        "element": "形",
+        "method": "汉字直觉",
+        "bridgeC": "形表示形状。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 かたち 作为固定读法记住，再用 形 的汉字确认意思，这个小插曲就代表“外”。重点抓汉字直觉和读音绑定：形=外，状。",
+    "mergedScene": "盲盒雕塑看不清，小田伸手一摸，摸到奇怪轮廓：可touch的东西就有形状。かたち就是形状。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "形 - 汉字直觉 + 固定读音 かたち - 放进生活场景记“外” - 外，状",
+    "reviewTip": "かたち - 谐音“可touch” - 能摸到轮廓，就有形状 - 形状",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -243,24 +238,24 @@
     "partOfSpeech": "接续",
     "elements": [
       {
-        "element": "又は",
-        "method": "TYPE A1",
-        "bridgeC": "又は 的字面先给出“或”这个方向。"
+        "element": "または",
+        "method": "TYPE B2",
+        "bridgeC": "または像“骂他娃”，又去骂那个娃。"
       },
       {
-        "element": "または",
-        "method": "固定读音",
-        "bridgeC": "读音 または 作为固定读法记住"
+        "element": "又は",
+        "method": "汉字直觉",
+        "bridgeC": "又或者，即或者。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 または 作为固定读法记住，再用 又は 的汉字确认意思，这个小插曲就代表“或”。重点抓汉字直觉和读音绑定：又は=或，或者。",
+    "mergedScene": "一个阿姨又逮住隔壁娃挑刺，抓着就开始骂，旁人说怎么又骂他娃。又+は也能帮助记“或者”。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "又は - 汉字直觉 + 固定读音 または - 放进生活场景记“或” - 或，或者",
+    "reviewTip": "または - 谐音“骂他娃” - 阿姨又逮住隔壁娃开骂 - 或者",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -308,24 +303,24 @@
     "partOfSpeech": "名·自动·サ变",
     "elements": [
       {
-        "element": "読書",
-        "method": "TYPE A1",
-        "bridgeC": "読書 的字面先给出“看书”这个方向。"
+        "element": "どくしょ",
+        "method": "TYPE B2",
+        "bridgeC": "どくしょ像“独孤少”，独自在人少处读书。"
       },
       {
-        "element": "どくしょ",
+        "element": "読=どく / 書=しょ",
         "method": "固定读音",
-        "bridgeC": "读音 どくしょ 作为固定读法记住"
+        "bridgeC": "読書固定读どくしょ。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 どくしょ 作为固定读法记住，再用 読書 的汉字确认意思，这个小插曲就代表“看书”。重点抓汉字直觉和读音绑定：読書=看书，读书。",
+    "mergedScene": "图书馆角落里，爱读书的小田独孤地坐在人少的地方看书。読=どく，書=しょ，読書就是读书。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "読書 - 汉字直觉 + 固定读音 どくしょ - 放进生活场景记“看书” - 看书，读书",
+    "reviewTip": "どくしょ - 谐音“独孤少” - 爱读书的人喜欢独孤在人少处读 - 读书",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -477,30 +472,30 @@
   {
     "word": "引き出し",
     "reading": "ひきだし",
-    "meaning": "抽出，提取",
+    "meaning": "抽屉",
     "sourceIndex": 175,
     "sourceMeaningRaw": "[名] 抽出，提取；抽屉",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "引き出し",
-        "method": "TYPE A1",
-        "bridgeC": "引き出し 的字面先给出“抽出”这个方向。"
+        "element": "ひきだし",
+        "method": "TYPE B2",
+        "bridgeC": "ひきだし像“hey key 大喜”，抽屉里找到钥匙。"
       },
       {
-        "element": "ひきだし",
-        "method": "固定读音",
-        "bridgeC": "读音 ひきだし 作为固定读法记住"
+        "element": "引き出し",
+        "method": "汉字直觉",
+        "bridgeC": "拉出来的收纳处。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ひきだし 作为固定读法记住，再用 引き出し 的汉字确认意思，这个小插曲就代表“抽出”。重点抓汉字直觉和读音绑定：引き出し=抽出，提取。",
+    "mergedScene": "小田找车钥匙找疯了，拉开抽屉终于看到 key，立刻大喜。ひきだし就是抽屉。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "引き出し - 汉字直觉 + 固定读音 ひきだし - 放进生活场景记“抽出” - 抽出，提取",
+    "reviewTip": "ひきだし - 谐音“hey key 大喜” - 拉开抽屉找到车钥匙，大喜 - 抽屉",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -542,30 +537,25 @@
   {
     "word": "確り",
     "reading": "しっかり",
-    "meaning": "格坚强，刚强",
+    "meaning": "牢固，踏实",
     "sourceIndex": 177,
     "sourceMeaningRaw": "格）坚强，刚强，高明坚定，可靠人的性格、见识等踏实而无风险；用力地，好好 [副词] 稳固，结实，牢固，牢靠确，明确基础或结构坚固，不易动摇或倒塌的状 态；（身体）健壮，结实清醒，坚实头脑和肉体等健全，能充分发挥其功能；（性 地（动作、行为）扎实，稳健；坚固，牢实，靠紧紧靠在一起使之不分离；（经 济）行情看涨，坚挺行情处于上升趋势",
     "partOfSpeech": "",
     "elements": [
       {
-        "element": "確り",
-        "method": "TYPE A1",
-        "bridgeC": "確り 的字面先给出“格坚强”这个方向。"
-      },
-      {
         "element": "しっかり",
-        "method": "固定读音",
-        "bridgeC": "读音 しっかり 作为固定读法记住"
+        "method": "TYPE B2",
+        "bridgeC": "しっかり像“死死卡里”，死死卡住很稳。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 しっかり 作为固定读法记住，再用 確り 的汉字确认意思，这个小插曲就代表“格坚强”。重点抓汉字直觉和读音绑定：確り=格坚强，刚强。",
+    "mergedScene": "地铁里人群乱挤，小田被推来推去却死死卡住扶手不动。しっかり就是牢固、踏实、可靠。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "確り - 汉字直觉 + 固定读音 しっかり - 放进生活场景记“格坚强” - 格坚强，刚强",
+    "reviewTip": "しっかり - 谐音“死死卡里” - 被推搡也死死卡住不动摇 - 牢固，踏实",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -653,19 +643,24 @@
     "partOfSpeech": "他动·五段",
     "elements": [
       {
+        "element": "いただきます",
+        "method": "固定表达",
+        "bridgeC": "吃饭前常说，表示领受恩惠。"
+      },
+      {
         "element": "いただく",
-        "method": "固定读音",
-        "bridgeC": "纯假名词先拆成 いた + だく，再放进生活场景绑定“领受，拜领”。"
+        "method": "敬语记忆",
+        "bridgeC": "もらう/食べる/飲む的谦让表达之一。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，把 いただく 拆成 いた + だく 慢慢读，这个小插曲就代表“领受”。重点抓假名拆读：いただく=领受，拜领。",
+    "mergedScene": "日漫里吃饭前常说いただきます，本质是感谢并领受食物和对方的恩惠。いただく就是领受、拜领。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "いただく - 纯假名拆读 いた + だく - 用生活场景记住它的用法 - 领受，拜领",
+    "reviewTip": "いただく - 来自吃饭前“いただきます” - 领受恩惠 - 领受（谦语）",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -718,24 +713,24 @@
     "partOfSpeech": "自他动·五段",
     "elements": [
       {
-        "element": "間違う",
-        "method": "TYPE A1",
-        "bridgeC": "間違う 的字面先给出“弄错”这个方向。"
+        "element": "ちがう",
+        "method": "关联记忆",
+        "bridgeC": "ちがう表示不同、不对。"
       },
       {
         "element": "まちがう",
-        "method": "固定读音",
-        "bridgeC": "读音 まちがう 作为固定读法记住"
+        "method": "TYPE B2",
+        "bridgeC": "“嘛，ちがう嘛”，搞错了。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 まちがう 作为固定读法记住，再用 間違う 的汉字确认意思，这个小插曲就代表“弄错”。重点抓汉字直觉和读音绑定：間違う=弄错，搞错。",
+    "mergedScene": "小田写答案时越看越觉得：嘛，这个不对嘛。ちがう前面加ま，まちがう就是搞错、弄错。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "間違う - 汉字直觉 + 固定读音 まちがう - 放进生活场景记“弄错” - 弄错，搞错",
+    "reviewTip": "まちがう - ま + ちがう；ちがう=不同/不对 - 嘛，不对嘛 - 弄错",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -747,30 +742,30 @@
   {
     "word": "海苔",
     "reading": "のり",
-    "meaning": "紫菜红藻类，蓝藻类的海藻中",
+    "meaning": "海苔",
     "sourceIndex": 183,
     "sourceMeaningRaw": "[名] 紫菜红藻类、蓝藻类的海藻中，可供食用的藻类的总称；甘紫菜把红藻类的紫 菜（尤其是浅草甘紫菜）抄制成像纸一样然后晒干的食品",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "海苔",
-        "method": "TYPE A1",
-        "bridgeC": "海苔 的字面先给出“紫菜红藻类”这个方向。"
+        "element": "のり/のる",
+        "method": "关联记忆",
+        "bridgeC": "乗る=乘坐；海苔像乘着米饭。"
       },
       {
-        "element": "のり",
-        "method": "固定读音",
-        "bridgeC": "读音 のり 作为固定读法记住"
+        "element": "海苔",
+        "method": "固定词",
+        "bridgeC": "寿司常用的紫菜、海苔。"
       }
     ],
-    "mergedScene": "在学校食堂，小田端着餐盘闻到热气和酱汁味，读音 のり 作为固定读法记住，再用 海苔 的汉字确认意思，马上想到餐盘里的“紫菜红藻类”。重点抓汉字直觉和读音绑定：海苔=紫菜红藻类，蓝藻类的海藻中。",
+    "mergedScene": "寿司外层的海苔像乘着米饭一样把饭卷起来。のり和乗る(のる)关联记，海苔乘着米饭变寿司。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "海苔 - 汉字直觉 + 固定读音 のり - 放进生活场景记“紫菜红藻类” - 紫菜红藻类，蓝藻类的海藻中",
+    "reviewTip": "のり - 关联乗る(のる) - 海苔乘着米饭就成了寿司 - 海苔",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -859,23 +854,18 @@
     "elements": [
       {
         "element": "流石",
-        "method": "TYPE A1",
-        "bridgeC": "流石 的字面先给出“真不愧”这个方向。"
-      },
-      {
-        "element": "さすが",
-        "method": "固定读音",
-        "bridgeC": "读音 さすが 作为固定读法记住"
+        "method": "典故记忆",
+        "bridgeC": "来自“漱石枕流”典故，表示真不愧。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 さすが 作为固定读法记住，再用 流石 的汉字确认意思，这个小插曲就代表“真不愧”。重点抓汉字直觉和读音绑定：流石=真不愧，到底是。",
+    "mergedScene": "孙楚把“枕石漱流”说反了，还能解释出一套道理，别人佩服得说：真不愧是你。这个典故传到日本，流石表示钦佩、真不愧。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "流石 - 汉字直觉 + 固定读音 さすが - 放进生活场景记“真不愧” - 真不愧，到底是",
+    "reviewTip": "流石 - 典故“漱石枕流” - 说错还能强词夺理，真不愧是你 - 真不愧",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -893,24 +883,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "景色",
-        "method": "TYPE A1",
-        "bridgeC": "景色 的字面先给出“风景”这个方向。"
+        "element": "けしき",
+        "method": "TYPE B2",
+        "bridgeC": "けしき像“可稀奇”，稀奇壮丽的风景。"
       },
       {
-        "element": "けしき",
-        "method": "固定读音",
-        "bridgeC": "读音 けしき 作为固定读法记住"
+        "element": "景色",
+        "method": "汉字直觉",
+        "bridgeC": "景色表示风景。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 けしき 作为固定读法记住，再用 景色 的汉字确认意思，这个小插曲就代表“风景”。重点抓汉字直觉和读音绑定：景色=风景。",
+    "mergedScene": "山顶风景太壮丽，小田一看到就倒吸一口气：可稀奇了。けしき就是风景。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "景色 - 汉字直觉 + 固定读音 けしき - 放进生活场景记“风景” - 风景",
+    "reviewTip": "けしき - 谐音“可稀奇” - 壮丽风景稀奇到让人惊叹 - 风景",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -928,24 +918,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "売り場",
-        "method": "TYPE A1",
-        "bridgeC": "売り場 的字面先给出“出售处”这个方向。"
+        "element": "うりば",
+        "method": "TYPE B2",
+        "bridgeC": "うりば像“屋里吧”，去屋里找卖场。"
       },
       {
-        "element": "うりば",
-        "method": "固定读音",
-        "bridgeC": "读音 うりば 作为固定读法记住"
+        "element": "売り場",
+        "method": "汉字直觉",
+        "bridgeC": "売り=卖，場=场所。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 うりば 作为固定读法记住，再用 売り場 的汉字确认意思，这个小插曲就代表“出售处”。重点抓汉字直觉和读音绑定：売り場=出售处，售品处。",
+    "mergedScene": "商场外面贴满折扣海报，小田问在哪买，店员说“屋里吧”。うりば就是卖场、售货处。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "売り場 - 汉字直觉 + 固定读音 うりば - 放进生活场景记“出售处” - 出售处，售品处",
+    "reviewTip": "うりば - 谐音“屋里吧” - 大卖场外贴折扣，要去屋里找卖场 - 卖场",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1103,24 +1093,29 @@
     "partOfSpeech": "自动·五段",
     "elements": [
       {
-        "element": "乾く",
-        "method": "TYPE A1",
-        "bridgeC": "乾く 的字面先给出“干燥”这个方向。"
+        "element": "かわ",
+        "method": "汉字联想",
+        "bridgeC": "かわ可联想到川。"
       },
       {
-        "element": "かわく",
-        "method": "固定读音",
-        "bridgeC": "读音 かわく 作为固定读法记住"
+        "element": "く",
+        "method": "TYPE B2",
+        "bridgeC": "く像“枯”，干到枯竭。"
+      },
+      {
+        "element": "乾く",
+        "method": "汉字直觉",
+        "bridgeC": "乾表示干。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 かわく 作为固定读法记住，再用 乾く 的汉字确认意思，这个小插曲就代表“干燥”。重点抓汉字直觉和读音绑定：乾く=干燥。",
+    "mergedScene": "天气太干燥，河川都枯得露出河床。かわく前面的かわ像川，く像枯，乾く就是干燥。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "乾く - 汉字直觉 + 固定读音 かわく - 放进生活场景记“干燥” - 干燥",
+    "reviewTip": "かわく - 川(かわ)+く谐音“枯” - 天太干，河流都枯了 - 干燥",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1243,24 +1238,24 @@
     "partOfSpeech": "他动·五段",
     "elements": [
       {
-        "element": "落とす",
-        "method": "TYPE A1",
-        "bridgeC": "落とす 的字面先给出“使降落”这个方向。"
+        "element": "おとす",
+        "method": "TYPE B2",
+        "bridgeC": "おとす像“偶投石”，投石后落下。"
       },
       {
-        "element": "おとす",
-        "method": "固定读音",
-        "bridgeC": "读音 おとす 作为固定读法记住"
+        "element": "落とす",
+        "method": "汉字直觉",
+        "bridgeC": "落表示落下。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 おとす 作为固定读法记住，再用 落とす 的汉字确认意思，这个小插曲就代表“使降落”。重点抓汉字直觉和读音绑定：落とす=使降落，弄下。",
+    "mergedScene": "小田在湖边投石头，石头先打个水漂，然后落进水里。おとす像“偶投石”，对应投下、落下、弄掉。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "落とす - 汉字直觉 + 固定读音 おとす - 放进生活场景记“使降落” - 使降落，弄下",
+    "reviewTip": "おとす - 谐音“偶投石” - 往湖里投石头，石头落下 - 弄掉，落下",
     "difficultyStars": 2,
     "exampleSentences": [
       {

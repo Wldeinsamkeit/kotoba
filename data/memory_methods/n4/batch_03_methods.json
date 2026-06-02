@@ -44,23 +44,23 @@
     "elements": [
       {
         "element": "着物",
-        "method": "TYPE A1",
-        "bridgeC": "着物 的字面先给出“和服”这个方向。"
+        "method": "汉字直觉",
+        "bridgeC": "着=穿，物=东西；穿在身上的衣物。"
       },
       {
         "element": "きもの",
         "method": "固定读音",
-        "bridgeC": "读音 きもの 作为固定读法记住"
+        "bridgeC": "着物固定读きもの。"
       }
     ],
-    "mergedScene": "在小田的房间，小田蹲在地板上在房间里翻找东西，读音 きもの 作为固定读法记住，再用 着物 的汉字确认意思，手边的物品自然对应“和服”。重点抓汉字直觉和读音绑定：着物=和服。",
+    "mergedScene": "日本和服常常直接贴着身体穿，像“着在身上的物”。着物就是和服。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "着物 - 汉字直觉 + 固定读音 きもの - 放进生活场景记“和服” - 和服",
+    "reviewTip": "きもの - 直接挨着身体穿的衣服 - 日本和服一般贴身穿 - 和服",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -78,24 +78,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "後輩",
-        "method": "TYPE A1",
-        "bridgeC": "後輩 的字面先给出“公司的后辈”这个方向。"
+        "element": "こうはい",
+        "method": "TYPE B2",
+        "bridgeC": "こうはい像“口嗨”，嚣张后辈口嗨前辈。"
       },
       {
-        "element": "こうはい",
-        "method": "固定读音",
-        "bridgeC": "读音 こうはい 作为固定读法记住"
+        "element": "後輩",
+        "method": "汉字直觉",
+        "bridgeC": "後面的晚辈、后辈。"
       }
     ],
-    "mergedScene": "在打工店的休息室，店长和小田拿着排班表和收据，读音 こうはい 作为固定读法记住，再用 後輩 的汉字确认意思，紧张又真实的打工场景对应“公司的后辈”。重点抓汉字直觉和读音绑定：後輩=公司的后辈。",
+    "mergedScene": "一个后辈面对前辈不仅不尊敬，反而一直口嗨说脏话，场面很欠揍。こうはい像“口嗨”，记住後輩。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "後輩 - 汉字直觉 + 固定读音 こうはい - 放进生活场景记“公司的后辈” - 公司的后辈",
+    "reviewTip": "こうはい - 谐音“口嗨” - 后辈面对前辈还口嗨，嚣张无礼 - 后辈",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -113,24 +113,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "押し入れ",
-        "method": "TYPE A1",
-        "bridgeC": "押し入れ 的字面先给出“壁橱”这个方向。"
+        "element": "押し",
+        "method": "汉字拆分",
+        "bridgeC": "押し表示按、压。"
       },
       {
-        "element": "おしいれ",
-        "method": "固定读音",
-        "bridgeC": "读音 おしいれ 作为固定读法记住"
+        "element": "入れ",
+        "method": "汉字拆分",
+        "bridgeC": "入れ表示放入。"
       }
     ],
-    "mergedScene": "在小田的房间，小田蹲在地板上在房间里翻找东西，读音 おしいれ 作为固定读法记住，再用 押し入れ 的汉字确认意思，手边的物品自然对应“壁橱”。重点抓汉字直觉和读音绑定：押し入れ=壁橱，壁柜。",
+    "mergedScene": "家里衣服太多，妈妈没有地方放，只好把衣服一件件按着塞进去。押し入れ就是把东西按进去收纳的壁橱。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "押し入れ - 汉字直觉 + 固定读音 おしいれ - 放进生活场景记“壁橱” - 壁橱，壁柜",
+    "reviewTip": "押し=按，入れ=放入 - 衣服太多，只好按着塞进壁柜 - 壁橱",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -148,24 +148,29 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "宝くじ",
-        "method": "TYPE A1",
-        "bridgeC": "宝くじ 的字面先给出“彩票”这个方向。"
+        "element": "たから",
+        "method": "固定读音",
+        "bridgeC": "宝读たから。"
+      },
+      {
+        "element": "くじ",
+        "method": "固定读音",
+        "bridgeC": "籤/くじ表示抽签、彩票。"
       },
       {
         "element": "たからくじ",
-        "method": "固定读音",
-        "bridgeC": "读音 たからくじ 作为固定读法记住"
+        "method": "TYPE B2",
+        "bridgeC": "像“他卡里……哭唧唧”，用买彩票没中奖的画面记。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 たからくじ 作为固定读法记住，再用 宝くじ 的汉字确认意思，这个小插曲就代表“彩票”。重点抓汉字直觉和读音绑定：宝くじ=彩票。",
+    "mergedScene": "朋友查卡里余额，发现自己没买到心仪的彩票，更没中奖，急得哭哭唧唧。宝=たから，くじ=籤，宝くじ就是彩票。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "宝くじ - 汉字直觉 + 固定读音 たからくじ - 放进生活场景记“彩票” - 彩票",
+    "reviewTip": "たからくじ - 谐音“他卡里没中彩票哭唧唧” - 彩票",
     "difficultyStars": 3,
     "exampleSentences": [
       {
@@ -177,30 +182,30 @@
   {
     "word": "場所",
     "reading": "ばしょ",
-    "meaning": "地方场所空间位置现场所在地",
+    "meaning": "场所，地方",
     "sourceIndex": 86,
     "sourceMeaningRaw": "[名] 地方场所空间位置现场所在地；席位座位；（相扑比赛的）地点和赛期",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "場所",
-        "method": "TYPE A1",
-        "bridgeC": "場所 的字面先给出“地方场所空间位置现场所在地”这个方向。"
+        "element": "ばしょ",
+        "method": "TYPE B2",
+        "bridgeC": "ばしょ像“罢休”，找不到场所不罢休。"
       },
       {
-        "element": "ばしょ",
+        "element": "場=ば / 所=しょ",
         "method": "固定读音",
-        "bridgeC": "读音 ばしょ 作为固定读法记住"
+        "bridgeC": "場多读ば，所多读しょ。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ばしょ 作为固定读法记住，再用 場所 的汉字确认意思，这个小插曲就代表“地方场所空间位置现场所在地”。重点抓汉字直觉和读音绑定：場所=地方场所空间位置现场所在地。",
+    "mergedScene": "小田找集合地点找了半小时，气得说“不找到场所决不罢休！”ばしょ像“罢休”，場所就是场所。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "場所 - 汉字直觉 + 固定读音 ばしょ - 放进生活场景记“地方场所空间位置现场所在地” - 地方场所空间位置现场所在地",
+    "reviewTip": "ばしょ - 谐音“罢休” - 找不到场所决不罢休 - 场所",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -253,24 +258,24 @@
     "partOfSpeech": "名·サ变",
     "elements": [
       {
-        "element": "水泳",
-        "method": "TYPE A1",
-        "bridgeC": "水泳 的字面先给出“游泳”这个方向。"
+        "element": "すいえい",
+        "method": "TYPE B2",
+        "bridgeC": "すいえい像“撕衣爱”，爱游泳的人急着下水。"
       },
       {
-        "element": "すいえい",
-        "method": "固定读音",
-        "bridgeC": "读音 すいえい 作为固定读法记住"
+        "element": "水泳",
+        "method": "汉字直觉",
+        "bridgeC": "水中游泳。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 すいえい 作为固定读法记住，再用 水泳 的汉字确认意思，这个小插曲就代表“游泳”。重点抓汉字直觉和读音绑定：水泳=游泳，泅水。",
+    "mergedScene": "一个游泳爱好者急着下水，夸张到像要把衣服撕开一样。すいえい像“撕衣爱”，就是游泳。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "水泳 - 汉字直觉 + 固定读音 すいえい - 放进生活场景记“游泳” - 游泳，泅水",
+    "reviewTip": "すいえい - 谐音“撕衣爱” - 游泳爱好者下水前总想把衣服撕开 - 游泳",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -288,24 +293,19 @@
     "partOfSpeech": "接续",
     "elements": [
       {
-        "element": "其処で",
-        "method": "TYPE A1",
-        "bridgeC": "其処で 的字面先给出“于是”这个方向。"
-      },
-      {
         "element": "そこで",
-        "method": "固定读音",
-        "bridgeC": "读音 そこで 作为固定读法记住"
+        "method": "TYPE B2",
+        "bridgeC": "そこで像“搜口袋”，于是去搜口袋。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 そこで 作为固定读法记住，再用 其処で 的汉字确认意思，这个小插曲就代表“于是”。重点抓汉字直觉和读音绑定：其処で=于是，因此。",
+    "mergedScene": "小田发现钱包不见了，怀疑旁边人偷的，于是伸手要搜口袋。そこで像“搜口袋”，表示于是、因此。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "其処で - 汉字直觉 + 固定读音 そこで - 放进生活场景记“于是” - 于是，因此",
+    "reviewTip": "そこで - 谐音“搜口袋” - 感觉东西被偷，于是去搜别人口袋 - 于是",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -323,24 +323,24 @@
     "partOfSpeech": "他动·五段",
     "elements": [
       {
-        "element": "拾う",
-        "method": "TYPE A1",
-        "bridgeC": "拾う 的字面先给出“拾”这个方向。"
+        "element": "ひろう",
+        "method": "TYPE B2",
+        "bridgeC": "ひろう像“嘿，漏呕”，包漏东西赶紧捡。"
       },
       {
-        "element": "ひろう",
-        "method": "固定读音",
-        "bridgeC": "读音 ひろう 作为固定读法记住"
+        "element": "拾う",
+        "method": "汉字直觉",
+        "bridgeC": "拾表示捡起。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ひろう 作为固定读法记住，再用 拾う 的汉字确认意思，这个小插曲就代表“拾”。重点抓汉字直觉和读音绑定：拾う=拾，捡。",
+    "mergedScene": "前面的人包破了，东西一路掉，小田边捡边喊“嘿，漏完喽！”ひろう就是拾、捡。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "拾う - 汉字直觉 + 固定读音 ひろう - 放进生活场景记“拾” - 拾，捡",
+    "reviewTip": "ひろう - 谐音“嘿，漏呕！” - 前面的人包一直漏东西，赶紧捡 - 拾，捡",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -428,24 +428,24 @@
     "partOfSpeech": "他动·一段",
     "elements": [
       {
-        "element": "苛める",
-        "method": "TYPE A1",
-        "bridgeC": "苛める 的汉字先提示核心意思“欺负”。"
-      },
-      {
         "element": "いじめる",
         "method": "TYPE B2",
-        "bridgeC": "谐音\"伊妹辱\" - \"伊妹\"被欺负了 - 欺负"
+        "bridgeC": "いじめる像“一击没了”，被欺负到没有还手力。"
+      },
+      {
+        "element": "苛める",
+        "method": "汉字直觉",
+        "bridgeC": "表示欺负、虐待。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，听到 いじめる 像“伊妹辱”，这个小插曲就代表“欺负”。重点抓发音钩子：苛める=欺负。",
+    "mergedScene": "校园里弱小的孩子被一击打倒后，被坏学生继续欺负。いじめる就是欺负，现实里应该坚决反对霸凌。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "いじめる - 谐音“伊妹辱” - \"伊妹\"被欺负了 - 欺负",
+    "reviewTip": "いじめる - 谐音“一击没了” - 一击就被打败，任由别人欺负 - 欺负",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -463,24 +463,24 @@
     "partOfSpeech": "自动·一段",
     "elements": [
       {
-        "element": "暮れる",
-        "method": "TYPE A1",
-        "bridgeC": "暮れる 的字面先给出“日暮”这个方向。"
+        "element": "くれる",
+        "method": "TYPE B2",
+        "bridgeC": "くれる像“哭累噜”，哭到天黑。"
       },
       {
-        "element": "くれる",
-        "method": "固定读音",
-        "bridgeC": "读音 くれる 作为固定读法记住"
+        "element": "暮れる",
+        "method": "汉字直觉",
+        "bridgeC": "暮表示日暮、天黑。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 くれる 作为固定读法记住，再用 暮れる 的汉字确认意思，这个小插曲就代表“日暮”。重点抓汉字直觉和读音绑定：暮れる=日暮，天黑。",
+    "mergedScene": "小田伤心地从白天一直哭到天黑，最后哭累了。くれる像“哭累噜”，暮れる就是天黑、日暮。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "暮れる - 汉字直觉 + 固定读音 くれる - 放进生活场景记“日暮” - 日暮，天黑",
+    "reviewTip": "くれる - 谐音“哭累噜” - 从白天哭到天黑，哭累了 - 天黑",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -568,24 +568,24 @@
     "partOfSpeech": "自动·五段",
     "elements": [
       {
-        "element": "気づく",
-        "method": "TYPE A1",
-        "bridgeC": "気づく 的字面先给出“注意到”这个方向。"
+        "element": "きづく",
+        "method": "TYPE B2",
+        "bridgeC": "きづく像“kids哭”，孩子哭了才注意到。"
       },
       {
-        "element": "きづく",
-        "method": "固定读音",
-        "bridgeC": "读音 きづく 作为固定读法记住"
+        "element": "気づく",
+        "method": "汉字直觉",
+        "bridgeC": "気づく表示察觉。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 きづく 作为固定读法记住，再用 気づく 的汉字确认意思，这个小插曲就代表“注意到”。重点抓汉字直觉和读音绑定：気づく=注意到，察觉。",
+    "mergedScene": "教室很吵，老师突然听到 kids 哭，立刻注意到角落的小孩。きづく就是注意到、察觉。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "気づく - 汉字直觉 + 固定读音 きづく - 放进生活场景记“注意到” - 注意到，察觉",
+    "reviewTip": "きづく - 谐音“kids哭” - 突然注意到孩子哭了 - 注意到",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -603,24 +603,24 @@
     "partOfSpeech": "名·他动·サ变",
     "elements": [
       {
-        "element": "操作",
-        "method": "TYPE A1",
-        "bridgeC": "操作 的字面先给出“操纵（机器等驾驶”这个方向。"
+        "element": "そうさ",
+        "method": "TYPE B2",
+        "bridgeC": "そうさ像“手刹”，手刹需要操作。"
       },
       {
-        "element": "そうさ",
-        "method": "固定读音",
-        "bridgeC": "读音 そうさ 作为固定读法记住"
+        "element": "操作",
+        "method": "汉字直觉",
+        "bridgeC": "汉字和中文操作一致。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 そうさ 作为固定读法记住，再用 操作 的汉字确认意思，这个小插曲就代表“操纵（机器等驾驶”。重点抓汉字直觉和读音绑定：操作=操纵（机器等驾驶。",
+    "mergedScene": "新手开车忘了放手刹，教练大喊：“这个要操作！”そうさ像“手刹”，操作机器也要靠手。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "操作 - 汉字直觉 + 固定读音 そうさ - 放进生活场景记“操纵（机器等驾驶” - 操纵（机器等驾驶",
+    "reviewTip": "そうさ - 谐音“手刹” - 手刹需要人来操作 - 操作",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -708,24 +708,24 @@
     "partOfSpeech": "他动·五段",
     "elements": [
       {
-        "element": "考え出す",
-        "method": "TYPE A1",
-        "bridgeC": "考え出す 的字面先给出“想起来”这个方向。"
+        "element": "かんがえ",
+        "method": "固定读音",
+        "bridgeC": "考え读かんがえ，表示思考。"
       },
       {
-        "element": "かんがえだす",
-        "method": "固定读音",
-        "bridgeC": "读音 かんがえだす 作为固定读法记住"
+        "element": "だす",
+        "method": "语法记忆",
+        "bridgeC": "出す有拿出、说出、产生出来的感觉。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 かんがえだす 作为固定读法记住，再用 考え出す 的汉字确认意思，这个小插曲就代表“想起来”。重点抓汉字直觉和读音绑定：考え出す=想起来，想出来。",
+    "mergedScene": "小田盯着题目看了很久，看看、想想，终于把答案“想出来”。かんがえ基本绑定考え，出す表示拿出、说出。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "考え出す - 汉字直觉 + 固定读音 かんがえだす - 放进生活场景记“想起来” - 想起来，想出来",
+    "reviewTip": "かんがえだす - かんがえ=思考 + 出す=想出来 - 想出",
     "difficultyStars": 3,
     "exampleSentences": [
       {
@@ -743,24 +743,19 @@
     "partOfSpeech": "副词·形动",
     "elements": [
       {
-        "element": "随分",
-        "method": "TYPE A1",
-        "bridgeC": "随分 的字面先给出“相当”这个方向。"
-      },
-      {
         "element": "ずいぶん",
-        "method": "固定读音",
-        "bridgeC": "读音 ずいぶん 作为固定读法记住"
+        "method": "TYPE B2",
+        "bridgeC": "ずいぶん像“资本”，资本力量相当大。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ずいぶん 作为固定读法记住，再用 随分 的汉字确认意思，这个小插曲就代表“相当”。重点抓汉字直觉和读音绑定：随分=相当，非常。",
+    "mergedScene": "现代社会里资本力量非常庞大，影响力相当惊人。ずいぶん像“资本”，表示相当、非常。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "随分 - 汉字直觉 + 固定读音 ずいぶん - 放进生活场景记“相当” - 相当，非常",
+    "reviewTip": "ずいぶん - 谐音“资本” - 资本力量相当、十分庞大 - 相当，非常",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -778,24 +773,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "温度",
-        "method": "TYPE A1",
-        "bridgeC": "温度 的字面先给出“热度”这个方向。"
+        "element": "おんど",
+        "method": "TYPE B2",
+        "bridgeC": "おんど像“温动”，温度会上下浮动。"
       },
       {
-        "element": "おんど",
-        "method": "固定读音",
-        "bridgeC": "读音 おんど 作为固定读法记住"
+        "element": "温度",
+        "method": "汉字直觉",
+        "bridgeC": "汉字和中文温度一致。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 おんど 作为固定读法记住，再用 温度 的汉字确认意思，这个小插曲就代表“热度”。重点抓汉字直觉和读音绑定：温度=热度。",
+    "mergedScene": "天气预报里的温度曲线一直上下动，小田看着都晕。おんど像“温动”，就是温度。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "温度 - 汉字直觉 + 固定读音 おんど - 放进生活场景记“热度” - 热度",
+    "reviewTip": "おんど - 谐音“温动” - 温度上下浮动 - 温度",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -848,24 +843,24 @@
     "partOfSpeech": "他动·一段",
     "elements": [
       {
-        "element": "考える",
-        "method": "TYPE A1",
-        "bridgeC": "考える 的字面先给出“想”这个方向。"
+        "element": "かんがえ",
+        "method": "固定读音",
+        "bridgeC": "考え基本绑定かんがえ。"
       },
       {
-        "element": "かんがえる",
-        "method": "固定读音",
-        "bridgeC": "读音 かんがえる 作为固定读法记住"
+        "element": "る",
+        "method": "语法记忆",
+        "bridgeC": "加る变成动词考える。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 かんがえる 作为固定读法记住，再用 考える 的汉字确认意思，这个小插曲就代表“想”。重点抓汉字直觉和读音绑定：考える=想，思。",
+    "mergedScene": "小田遇到难题，先停下来观察、看看，再慢慢思考。かんがえる就是考える，表示想、思考。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "考える - 汉字直觉 + 固定读音 かんがえる - 放进生活场景记“想” - 想，思",
+    "reviewTip": "かんがえる - 考え固定读かんがえ + る动词化 - 思考",
     "difficultyStars": 3,
     "exampleSentences": [
       {
@@ -947,30 +942,30 @@
   {
     "word": "単語",
     "reading": "たんご",
-    "meaning": "词",
+    "meaning": "单词",
     "sourceIndex": 108,
     "sourceMeaningRaw": "[名] 词；词汇，单词，单字",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "単語",
-        "method": "TYPE A1",
-        "bridgeC": "単語 的字面先给出“词”这个方向。"
+        "element": "たんご",
+        "method": "TYPE B2",
+        "bridgeC": "たんご像“糖果”，一个单词一颗糖果。"
       },
       {
-        "element": "たんご",
-        "method": "固定读音",
-        "bridgeC": "读音 たんご 作为固定读法记住"
+        "element": "単語",
+        "method": "汉字直觉",
+        "bridgeC": "単語就是单词。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 たんご 作为固定读法记住，再用 単語 的汉字确认意思，这个小插曲就代表“词”。重点抓汉字直觉和读音绑定：単語=词。",
+    "mergedScene": "背单词时，小田把每个单词想成一颗糖果，背会一颗就像吃到一颗。たんご像“糖果”，就是单词。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "単語 - 汉字直觉 + 固定读音 たんご - 放进生活场景记“词” - 词",
+    "reviewTip": "たんご - 谐音“糖果” - 一个单词就是一颗糖果 - 单词",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -988,24 +983,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "両側",
-        "method": "TYPE A1",
-        "bridgeC": "両側 的字面先给出“两侧”这个方向。"
+        "element": "りょうがわ",
+        "method": "TYPE B2",
+        "bridgeC": "りょうがわ像“两个娃”，左右两侧各一个娃。"
       },
       {
-        "element": "りょうがわ",
-        "method": "固定读音",
-        "bridgeC": "读音 りょうがわ 作为固定读法记住"
+        "element": "両側",
+        "method": "汉字直觉",
+        "bridgeC": "両=两，側=侧。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 りょうがわ 作为固定读法记住，再用 両側 的汉字确认意思，这个小插曲就代表“两侧”。重点抓汉字直觉和读音绑定：両側=两侧，两边。",
+    "mergedScene": "家里两个娃，一个站左边，一个站右边，画面很温馨。りょうがわ像“两个娃”，就是两侧。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "両側 - 汉字直觉 + 固定读音 りょうがわ - 放进生活场景记“两侧” - 两侧，两边",
+    "reviewTip": "りょうがわ - 谐音“两个娃” - 两个娃一个在左侧，一个在右侧 - 两侧",
     "difficultyStars": 3,
     "exampleSentences": [
       {
@@ -1058,24 +1053,24 @@
     "partOfSpeech": "副词·接续",
     "elements": [
       {
-        "element": "代わりに",
-        "method": "TYPE A1",
-        "bridgeC": "代わりに 的字面先给出“代替”这个方向。"
+        "element": "かわりに",
+        "method": "TYPE B2",
+        "bridgeC": "かわりに像“卡哇李宁”，可爱的人代替李宁。"
       },
       {
-        "element": "かわりに",
-        "method": "固定读音",
-        "bridgeC": "读音 かわりに 作为固定读法记住"
+        "element": "代わりに",
+        "method": "汉字直觉",
+        "bridgeC": "代表示替代。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 かわりに 作为固定读法记住，再用 代わりに 的汉字确认意思，这个小插曲就代表“代替”。重点抓汉字直觉和读音绑定：代わりに=代替。",
+    "mergedScene": "广告拍摄现场，原本李宁要上场，结果一个卡哇咿的人临时代替他。かわりに就是代替、替代。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "代わりに - 汉字直觉 + 固定读音 かわりに - 放进生活场景记“代替” - 代替",
+    "reviewTip": "かわりに - 谐音“卡哇李宁” - 可爱的人代替李宁了 - 代替",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1122,30 +1117,30 @@
   {
     "word": "祖母",
     "reading": "そぼ",
-    "meaning": "外",
+    "meaning": "祖母，外祖母",
     "sourceIndex": 113,
     "sourceMeaningRaw": "[名] ; 外；奶奶，；姥姥，外",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "祖母",
-        "method": "TYPE A1",
-        "bridgeC": "祖母 的字面先给出“外”这个方向。"
+        "element": "そぼ",
+        "method": "TYPE B2",
+        "bridgeC": "そぼ像“缩脖”，想到凶祖母就缩脖。"
       },
       {
-        "element": "そぼ",
-        "method": "固定读音",
-        "bridgeC": "读音 そぼ 作为固定读法记住"
+        "element": "祖母",
+        "method": "汉字直觉",
+        "bridgeC": "祖母表示祖母、外祖母。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 そぼ 作为固定读法记住，再用 祖母 的汉字确认意思，这个小插曲就代表“外”。重点抓汉字直觉和读音绑定：祖母=外。",
+    "mergedScene": "别人一提到外祖母，小田立刻缩脖，因为这位祖母特别严厉。そぼ像“缩脖”，就是祖母/外祖母。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "祖母 - 汉字直觉 + 固定读音 そぼ - 放进生活场景记“外” - 外",
+    "reviewTip": "そぼ - 谐音“缩脖” - 一提到凶外祖母就缩脖子 - 祖母",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1199,18 +1194,18 @@
     "elements": [
       {
         "element": "もちろん",
-        "method": "固定读音",
-        "bridgeC": "纯假名词先拆成 もち + ろん，再放进生活场景绑定“当然”。"
+        "method": "TYPE B2",
+        "bridgeC": "もちろん像“吴奇隆”，吴奇隆当然帅。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，把 もちろん 拆成 もち + ろん 慢慢读，这个小插曲就代表“当然”。重点抓假名拆读：もちろん=当然。",
+    "mergedScene": "朋友问吴奇隆帅不帅，小田毫不犹豫：“もちろん！”もちろん像“吴奇隆”，表示当然。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "もちろん - 纯假名拆读 もち + ろん - 用生活场景记住它的用法 - 当然",
+    "reviewTip": "もちろん - 谐音“吴奇隆” - 吴奇隆当然是帅的 - 当然",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1263,24 +1258,24 @@
     "partOfSpeech": "他动·一段",
     "elements": [
       {
-        "element": "調べる",
-        "method": "TYPE A1",
-        "bridgeC": "調べる 的汉字先提示核心意思“调查”。"
-      },
-      {
         "element": "しらべる",
         "method": "TYPE B2",
-        "bridgeC": "谐音\"西路路\" - \"西路路\"调查 - 调查"
+        "bridgeC": "しらべる像“洗了白了”，调查后洗白。"
+      },
+      {
+        "element": "調べる",
+        "method": "汉字直觉",
+        "bridgeC": "調べる表示调查、查找。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，听到 しらべる 像“西路路”，这个小插曲就代表“调查”。重点抓发音钩子：調べる=调查。",
+    "mergedScene": "一个明星被人诬告，经过细致调查后终于洗白。しらべる像“洗了白了”，就是调查、查询。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "しらべる - 谐音“西路路” - \"西路路\"调查 - 调查",
+    "reviewTip": "しらべる - 谐音“洗了白了” - 明星被诬告，调查后洗白 - 调查",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1298,24 +1293,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "蜜柑",
-        "method": "TYPE A1",
-        "bridgeC": "蜜柑 的字面先给出“橘子”这个方向。"
+        "element": "みかん",
+        "method": "TYPE B2",
+        "bridgeC": "みかん像“米缸”，米缸里放橘子。"
       },
       {
-        "element": "みかん",
-        "method": "固定读音",
-        "bridgeC": "读音 みかん 作为固定读法记住"
+        "element": "蜜柑",
+        "method": "固定词",
+        "bridgeC": "蜜柑表示橘子。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 みかん 作为固定读法记住，再用 蜜柑 的汉字确认意思，这个小插曲就代表“橘子”。重点抓汉字直觉和读音绑定：蜜柑=橘子。",
+    "mergedScene": "小田打开米缸，发现里面居然藏了几个橘子，画面很怪但好记。みかん像“米缸”，就是橘子。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "蜜柑 - 汉字直觉 + 固定读音 みかん - 放进生活场景记“橘子” - 橘子",
+    "reviewTip": "みかん - 谐音“米缸” - 米缸里面放几个橘子 - 橘子",
     "difficultyStars": 1,
     "exampleSentences": [
       {

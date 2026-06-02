@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import type { Session } from '@supabase/supabase-js'
-import { useNavigate } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import { lessons } from '../data/lessons'
 import { useProgress } from '../context/ProgressContext'
 import { getUnlockedAchievements, getLockedAchievements, ACHIEVEMENTS } from '../lib/achievements'
@@ -153,6 +153,16 @@ export function AccountPage() {
           <p className="hall-subtitle">你的日语学习成就</p>
         </div>
       </header>
+
+      {/* 会员中心入口 */}
+      <Link className="membership-entry-card" to="/pricing">
+        <div className="membership-entry-icon">会</div>
+        <div className="membership-entry-text">
+          <h3>会员中心</h3>
+          <p>N5 免费 · N4/N3 记忆法包 · 全部通行证</p>
+        </div>
+        <span className="membership-entry-arrow">→</span>
+      </Link>
 
       {/* 等级进度卡片 */}
       <section className="hall-level-section">

@@ -1,0 +1,1232 @@
+  [
+  {
+    "word": "自転車",
+    "reading": "じてんしゃ",
+    "meaning": "自行车",
+    "elements": [
+      {
+        "element": "自",
+        "method": "固定读音",
+        "bridgeC": "自常读じ，表示自己"
+      },
+      {
+        "element": "転",
+        "method": "TYPE A1",
+        "bridgeC": "転=转动，自行车靠车轮转动前进"
+      },
+      {
+        "element": "車",
+        "method": "固定读音",
+        "bridgeC": "車常读しゃ，表示车"
+      }
+    ],
+    "mergedScene": "你自己踩踏板，车轮不停转动，车才往前走。自=自己，転=转，車=车，自転車就是自己骑、轮子转的车。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "自転車：自固定じ，転是转，車固定しゃ；自己骑、轮子转的车=自行车\n🔗 自動車=自己会动的车，区别是動。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "自転車で学校へ行きます。",
+        "zh": "骑自行车去学校。"
+      }
+    ]
+  },
+  {
+    "word": "自動車",
+    "reading": "じどうしゃ",
+    "meaning": "汽车",
+    "elements": [
+      {
+        "element": "自",
+        "method": "固定读音",
+        "bridgeC": "自常读じ，表示自己"
+      },
+      {
+        "element": "動",
+        "method": "固定读音",
+        "bridgeC": "動常读どう，表示动"
+      },
+      {
+        "element": "車",
+        "method": "固定读音",
+        "bridgeC": "車常读しゃ，表示车"
+      }
+    ],
+    "mergedScene": "不用你蹬，发动机一响车自己就动起来。自=自己，動=动，車=车，自動車就是自己会动的车。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "自動車：自固定じ，動固定どう，車固定しゃ；自己会动的车=汽车\n🔗 自転車=自己蹬着转，自動車=自己发动会动。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "自動車で会社へ行きます。",
+        "zh": "开车去公司。"
+      }
+    ]
+  },
+  {
+    "word": "死ぬ",
+    "reading": "しぬ",
+    "meaning": "死",
+    "elements": [
+      {
+        "element": "死",
+        "method": "TYPE A1",
+        "bridgeC": "死=死亡，中日同义"
+      },
+      {
+        "element": "しぬ",
+        "method": "TYPE B2",
+        "bridgeC": "しぬ→死呢；看到死字和读音一起锁定"
+      }
+    ],
+    "mergedScene": "游戏角色血条清空，队友一看：しぬ，死呢！汉字「死」本身就把意思锁死。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "しぬ - 谐音“死呢” - 血条清空，人都死呢 - 死\n⚠️ 过去式是死んだ(しんだ)。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "犬が死にました。",
+        "zh": "狗死了。"
+      }
+    ]
+  },
+  {
+    "word": "字引",
+    "reading": "じびき",
+    "meaning": "词典",
+    "elements": [
+      {
+        "element": "字",
+        "method": "固定读音",
+        "bridgeC": "字常读じ，表示文字"
+      },
+      {
+        "element": "引",
+        "method": "TYPE A1",
+        "bridgeC": "引=引出、拉出；查词典就是把字义引出来"
+      }
+    ],
+    "mergedScene": "你遇到不认识的字，就翻开字引，把这个字的意思从书里引出来。字+引=把字义引出来的工具。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "字引：字固定じ，引=把字义引出来；用来查字义的工具=词典\n🔗 辞書(じしょ)=更常见的词典说法。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "字引で言葉を調べます。",
+        "zh": "用词典查词。"
+      }
+    ]
+  },
+  {
+    "word": "自分",
+    "reading": "じぶん",
+    "meaning": "自己",
+    "elements": [
+      {
+        "element": "自",
+        "method": "TYPE A1",
+        "bridgeC": "自=自己"
+      },
+      {
+        "element": "分",
+        "method": "关联记忆",
+        "bridgeC": "分=一份；属于自己的那一份"
+      }
+    ],
+    "mergedScene": "桌上有很多东西，你把属于自己的那一份分出来。自=自己，分=一份，自分就是自己。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "自分：自=自己，分=属于自己的那一份；合起来就是自己\n例：自分でします=自己做。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "自分でします。",
+        "zh": "自己做。"
+      }
+    ]
+  },
+  {
+    "word": "閉まる",
+    "reading": "しまる",
+    "meaning": "关上（自动）",
+    "elements": [
+      {
+        "element": "閉",
+        "method": "TYPE A1",
+        "bridgeC": "閉=关闭"
+      },
+      {
+        "element": "まる",
+        "method": "语法记忆",
+        "bridgeC": "这组里まる记自动词：门自己关上"
+      }
+    ],
+    "mergedScene": "风一吹，门自己合上了。你没有动手，所以是ドアが閉まる，门关上（自动）。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "閉まる：閉=关闭，まる在这组里记自动词；门自己关上=关上（自动）\n🔗 ドアが閉まる=门自己关；ドアを閉める=把门关上。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "ドアが閉まります。",
+        "zh": "门关上了。"
+      }
+    ]
+  },
+  {
+    "word": "閉める",
+    "reading": "しめる",
+    "meaning": "关上（他动）",
+    "elements": [
+      {
+        "element": "閉",
+        "method": "TYPE A1",
+        "bridgeC": "閉=关闭"
+      },
+      {
+        "element": "める",
+        "method": "语法记忆",
+        "bridgeC": "这组里める记他动词：人把门关上"
+      }
+    ],
+    "mergedScene": "教室太吵，你走过去亲手把门关上。你做动作，所以是ドアを閉める。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "閉める：閉=关闭，める在这组里记他动词；人把门关上=关上（他动）\n⚠️ 閉まる是自动，閉める是他动。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "ドアを閉めます。",
+        "zh": "把门关上。"
+      }
+    ]
+  },
+  {
+    "word": "締める",
+    "reading": "しめる",
+    "meaning": "系紧",
+    "elements": [
+      {
+        "element": "締",
+        "method": "TYPE B1",
+        "bridgeC": "締有糸字旁，和绳子、带子、系紧有关"
+      },
+      {
+        "element": "しめる",
+        "method": "对比记忆",
+        "bridgeC": "同音しめる，但締める看糸字旁，重点是系紧"
+      }
+    ],
+    "mergedScene": "你穿正装时把领带、腰带拉紧。看到締的糸字旁，就记它和线、带子有关：締める=系紧。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "締める：締有糸字旁，和绳子/带子有关；把带子拉紧=系紧\n⚠️ 閉める=关门，締める=系紧，同音不同字。",
+    "difficultyStars": 3,
+    "exampleSentences": [
+      {
+        "ja": "ネクタイを締めます。",
+        "zh": "系领带。"
+      }
+    ]
+  },
+  {
+    "word": "じゃ",
+    "reading": "じゃ",
+    "meaning": "那么",
+    "elements": [
+      {
+        "element": "じゃ",
+        "method": "语气词",
+        "bridgeC": "じゃ用于转换话题、收尾或开始下一步，相当于那么/那"
+      }
+    ],
+    "mergedScene": "朋友说完计划，你点头说：じゃ、行こう！它像把话题推进下一步：那么，走吧。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "じゃ：口语转场词，用来从前一句推进下一步=那么\n🔗 じゃあ是拉长版，更像“那——么”。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "じゃ、また明日。",
+        "zh": "那么，明天见。"
+      }
+    ]
+  },
+  {
+    "word": "じゃあ",
+    "reading": "じゃあ",
+    "meaning": "那么",
+    "elements": [
+      {
+        "element": "じゃあ",
+        "method": "语气词",
+        "bridgeC": "じゃあ是じゃ的拉长版，语气更明显"
+      }
+    ],
+    "mergedScene": "你想了一下，拖长声音说：じゃあ、また明日。这个あ把“那么”的语气拉长。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "じゃあ：じゃ的拉长版，语气更完整；用于转场、决定下一步=那么\n⚠️ じゃ/じゃあ都偏口语。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "じゃあ、行きましょう。",
+        "zh": "那么，走吧。"
+      }
+    ]
+  },
+  {
+    "word": "写真",
+    "reading": "しゃしん",
+    "meaning": "照片",
+    "elements": [
+      {
+        "element": "写",
+        "method": "固定读音",
+        "bridgeC": "写常读しゃ，表示映写、拍下"
+      },
+      {
+        "element": "真",
+        "method": "固定读音",
+        "bridgeC": "真常读しん，表示真实"
+      }
+    ],
+    "mergedScene": "相机把眼前真实的样子拍下来，像把真实写到纸上。写(しゃ)+真(しん)=写真=照片。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "写真：写固定しゃ，真固定しん；把真实的样子拍/写下来=照片\n例：写真を撮る=拍照。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "写真を撮ります。",
+        "zh": "拍照片。"
+      }
+    ]
+  },
+  {
+    "word": "シャツ",
+    "reading": "シャツ",
+    "meaning": "衬衫",
+    "elements": [
+      {
+        "element": "シャツ",
+        "method": "外来语",
+        "bridgeC": "来自 shirt/shirts，表示衬衫"
+      }
+    ],
+    "mergedScene": "衣柜里挂着一件 shirt，日语读成シャツ。外来语直接记：シャツ=衬衫。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "シャツ：外来语 shirt/shirts；衣柜里穿在上身的 shirt=衬衫",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "白いシャツを着ます。",
+        "zh": "穿白衬衫。"
+      }
+    ]
+  },
+  {
+    "word": "シャワー",
+    "reading": "シャワー",
+    "meaning": "淋浴",
+    "elements": [
+      {
+        "element": "シャワー",
+        "method": "外来语",
+        "bridgeC": "来自 shower，表示淋浴"
+      }
+    ],
+    "mergedScene": "浴室喷头打开，水从上面冲下来。シャワー来自 shower，就是淋浴。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "シャワー：外来语 shower；喷头冲水=淋浴",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "シャワーを浴びます。",
+        "zh": "洗淋浴。"
+      }
+    ]
+  },
+  {
+    "word": "十",
+    "reading": "じゅう",
+    "meaning": "十",
+    "elements": [
+      {
+        "element": "十",
+        "method": "TYPE A1",
+        "bridgeC": "十=10，中日同义"
+      },
+      {
+        "element": "じゅう",
+        "method": "固定读音",
+        "bridgeC": "十常读じゅう"
+      }
+    ],
+    "mergedScene": "一个十字就是10。数字十常读じゅう，直接把字形和读音绑定。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": false,
+      "total": 1
+    },
+    "reviewTip": "十：数字10，常读じゅう=十\n⚠️ 十日读とおか，是特殊读法。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "十人います。",
+        "zh": "有十个人。"
+      }
+    ]
+  },
+  {
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "课程",
+    "elements": [
+      {
+        "element": "授",
+        "method": "固定读音",
+        "bridgeC": "授常读じゅ，表示传授"
+      },
+      {
+        "element": "業",
+        "method": "固定读音",
+        "bridgeC": "業常读ぎょう，表示学业"
+      }
+    ],
+    "mergedScene": "老师在讲台上传授学业，学生在下面听课。授(じゅ)+業(ぎょう)=授業=课程。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "授業：授固定じゅ，業固定ぎょう；传授学业的时间=课程\n例：日本語の授業=日语课。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "日本語の授業があります。",
+        "zh": "有日语课。"
+      }
+    ]
+  },
+  {
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "meaning": "作业",
+    "elements": [
+      {
+        "element": "宿",
+        "method": "固定读音",
+        "bridgeC": "宿常读しゅく，表示留宿、带回去"
+      },
+      {
+        "element": "題",
+        "method": "固定读音",
+        "bridgeC": "題常读だい，表示题目"
+      }
+    ],
+    "mergedScene": "老师把题目留给你带回家做。宿=留到家里，題=题目，宿題就是作业。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "宿題：宿固定しゅく，題固定だい；留到家里做的题目=作业\n⚠️ 宿題をする=做作业。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "宿題をします。",
+        "zh": "做作业。"
+      }
+    ]
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning": "擅长、高明",
+    "elements": [
+      {
+        "element": "上",
+        "method": "TYPE A1",
+        "bridgeC": "上=高、在上面"
+      },
+      {
+        "element": "手",
+        "method": "关联记忆",
+        "bridgeC": "手=手艺、技术"
+      },
+      {
+        "element": "じょうず",
+        "method": "TYPE B2",
+        "bridgeC": "じょうず→饺子；一个人包饺子很擅长"
+      }
+    ],
+    "mergedScene": "一个人包饺子包得飞快，皮薄馅大还整整齐齐，大家都说他“饺子”(じょうず)太厉害了。上+手=手艺在上面，所以是擅长、高明。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じょうず - 谐音“饺子” - 一个人包饺子包得特别擅长，手艺在上面 - 擅长/高明\n⚠️ 上手是な形容词：上手な人。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "料理が上手です。",
+        "zh": "擅长做饭。"
+      }
+    ]
+  },
+  {
+    "word": "丈夫",
+    "reading": "じょうぶ",
+    "meaning": "健康、强壮",
+    "elements": [
+      {
+        "element": "丈夫",
+        "method": "对比记忆",
+        "bridgeC": "中文丈夫=老公；日语丈夫=健康、结实、强壮"
+      },
+      {
+        "element": "じょうぶ",
+        "method": "TYPE B2",
+        "bridgeC": "じょうぶ→壮不；问身体壮不壮"
+      }
+    ],
+    "mergedScene": "医生问你身体“壮不”(じょうぶ)？你说很健康。注意日语丈夫不是中文老公，是健康、结实、强壮。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "じょうぶ - 谐音“壮不” - 问身体壮不壮，答案是健康结实 - 健康/强壮\n⚠️ 日语丈夫不是中文的老公。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "祖父は丈夫です。",
+        "zh": "爷爷很健康。"
+      }
+    ]
+  },
+  {
+    "word": "しょうゆ",
+    "reading": "しょうゆ",
+    "meaning": "酱油",
+    "elements": [
+      {
+        "element": "しょうゆ",
+        "method": "关联记忆",
+        "bridgeC": "常见汉字写作醤油，意思就是酱油"
+      }
+    ],
+    "mergedScene": "吃寿司时旁边有一小碟醤油，蘸一下就是しょうゆ。看到しょうゆ就直接绑定酱油这个调料。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "しょうゆ：常写作醤油；吃寿司蘸的小碟调料=酱油",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "しょうゆを少し入れます。",
+        "zh": "放一点酱油。"
+      }
+    ]
+  },
+  {
+    "word": "食堂",
+    "reading": "しょくどう",
+    "meaning": "食堂、餐厅",
+    "elements": [
+      {
+        "element": "食",
+        "method": "固定读音",
+        "bridgeC": "食常读しょく，表示吃"
+      },
+      {
+        "element": "堂",
+        "method": "固定读音",
+        "bridgeC": "堂常读どう，表示大厅、场所"
+      }
+    ],
+    "mergedScene": "一到饭点，大家进入吃饭的大堂。食(しょく)+堂(どう)=食堂=食堂/餐厅。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "食堂：食固定しょく，堂固定どう；吃饭的大堂=食堂/餐厅",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "食堂で昼ご飯を食べます。",
+        "zh": "在食堂吃午饭。"
+      }
+    ]
+  },
+  {
+    "word": "知る",
+    "reading": "しる",
+    "meaning": "知道、认识",
+    "elements": [
+      {
+        "element": "知",
+        "method": "TYPE A1",
+        "bridgeC": "知=知道"
+      }
+    ],
+    "mergedScene": "你学到一个新知识，脑子里亮灯：我知道了。知る就是知道、认识。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "知る：知=知道；学到、认识到某件事=知道/认识\n⚠️ 知っています=知道；知りません=不知道。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "答えを知っています。",
+        "zh": "知道答案。"
+      }
+    ]
+  },
+  {
+    "word": "白",
+    "reading": "しろ",
+    "meaning": "白色",
+    "elements": [
+      {
+        "element": "白",
+        "method": "TYPE A1",
+        "bridgeC": "白=白色，中日同义"
+      }
+    ],
+    "mergedScene": "白纸、白墙、白衬衫，看到「白」直接想白色。白单独作名词读しろ。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "白：汉字直接表示白色；单独作名词读しろ=白色\n🔗 白=名词白色；白い=白色的。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "白が好きです。",
+        "zh": "喜欢白色。"
+      }
+    ]
+  },
+  {
+    "word": "白い",
+    "reading": "しろい",
+    "meaning": "白色的",
+    "elements": [
+      {
+        "element": "白",
+        "method": "TYPE A1",
+        "bridgeC": "白=白色"
+      },
+      {
+        "element": "い",
+        "method": "语法记忆",
+        "bridgeC": "い形容词结尾，白い=白色的"
+      }
+    ],
+    "mergedScene": "你指着一件白衬衫说：白いシャツ。白+い形容词结尾，就是白色的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "白い：白=白色，い是形容词结尾；白い=白色的\n🔗 白(しろ)=白色；白い(しろい)=白色的。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "白い紙に名前を書きます。",
+        "zh": "在白纸上写名字。"
+      }
+    ]
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meaning": "报纸",
+    "elements": [
+      {
+        "element": "新",
+        "method": "固定读音",
+        "bridgeC": "新常读しん，表示新"
+      },
+      {
+        "element": "聞",
+        "method": "固定读音",
+        "bridgeC": "聞在新聞里读ぶん，表示听闻"
+      },
+      {
+        "element": "新聞",
+        "method": "对比记忆",
+        "bridgeC": "中文新闻=消息；日语新聞主要指报纸"
+      }
+    ],
+    "mergedScene": "早上桌上放着一份新聞，不是手机新闻，而是一张纸质报纸。新听闻被印出来，就是報纸。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "新聞：新固定しん，聞在这里读ぶん；新听闻被印成纸=报纸\n⚠️ 日语新聞主要是报纸，不是泛指新闻消息。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "新聞を読みます。",
+        "zh": "读报纸。"
+      }
+    ]
+  },
+  {
+    "word": "水曜日",
+    "reading": "すいようび",
+    "meaning": "周三",
+    "elements": [
+      {
+        "element": "水",
+        "method": "固定读音",
+        "bridgeC": "水在星期词里读すい"
+      },
+      {
+        "element": "曜",
+        "method": "固定读音",
+        "bridgeC": "曜固定读よう"
+      },
+      {
+        "element": "日",
+        "method": "固定读音",
+        "bridgeC": "曜日里的日读び"
+      }
+    ],
+    "mergedScene": "一周中间的星期三像喝一杯水继续撑到周末。水(すい)+曜(よう)+日(び)=水曜日=周三。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "水曜日：水固定すい，曜固定よう，日固定び；水曜日=周三\n🔗 月火水木金土日：げつ/か/すい/もく/きん/ど/にち。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "水曜日に会いましょう。",
+        "zh": "周三见吧。"
+      }
+    ]
+  },
+  {
+    "word": "吸う",
+    "reading": "すう",
+    "meaning": "吸、抽",
+    "elements": [
+      {
+        "element": "吸",
+        "method": "TYPE A1",
+        "bridgeC": "吸=吸入"
+      },
+      {
+        "element": "すう",
+        "method": "TYPE B2",
+        "bridgeC": "すう→嗖；吸管嗖地吸一口"
+      }
+    ],
+    "mergedScene": "你拿吸管嗖(すう)地吸了一口饮料。吸う=吸，也可以说抽烟。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "すう - 谐音“嗖” - 用吸管嗖地吸一口 - 吸/抽\n例：たばこを吸う=抽烟。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "水を吸います。",
+        "zh": "吸水。"
+      }
+    ]
+  },
+  {
+    "word": "スカート",
+    "reading": "スカート",
+    "meaning": "裙子",
+    "elements": [
+      {
+        "element": "スカート",
+        "method": "外来语",
+        "bridgeC": "来自 skirt，表示裙子"
+      }
+    ],
+    "mergedScene": "衣架上挂着一条 skirt，日语读成スカート。外来语直接记：スカート=裙子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "スカート：外来语 skirt；衣架上挂着的 skirt=裙子",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "スカートを買いました。",
+        "zh": "买了裙子。"
+      }
+    ]
+  },
+  {
+    "word": "好き",
+    "reading": "すき",
+    "meaning": "喜欢",
+    "elements": [
+      {
+        "element": "好",
+        "method": "TYPE A1",
+        "bridgeC": "好=喜欢"
+      },
+      {
+        "element": "すき",
+        "method": "关联记忆",
+        "bridgeC": "动漫告白常听到すき，就是喜欢"
+      }
+    ],
+    "mergedScene": "动漫里角色红着脸说：すき。汉字「好」也直接提示喜欢，所以好き=喜欢。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "好き：汉字好=喜欢；动漫告白常听到すき=喜欢\n⚠️ 好き是な形容词：好きな人。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "猫が好きです。",
+        "zh": "喜欢猫。"
+      }
+    ]
+  },
+  {
+    "word": "少ない",
+    "reading": "すくない",
+    "meaning": "少的",
+    "elements": [
+      {
+        "element": "少",
+        "method": "TYPE A1",
+        "bridgeC": "少=少"
+      },
+      {
+        "element": "ない",
+        "method": "关联记忆",
+        "bridgeC": "ない=没有的感觉，数量不够"
+      }
+    ],
+    "mergedScene": "盘子里只剩几块饼干，数量明显不够。少+ない的感觉，就是少的。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "少ない：少=少，ない有不够/没有的感觉；数量不够=少的\n🔗 少し(すこし)=一点，少ない(すくない)=数量少。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "人が少ないです。",
+        "zh": "人很少。"
+      }
+    ]
+  },
+  {
+    "word": "すぐに",
+    "reading": "すぐに",
+    "meaning": "马上",
+    "elements": [
+      {
+        "element": "すぐ",
+        "method": "关联记忆",
+        "bridgeC": "すぐ表示立刻、马上"
+      },
+      {
+        "element": "に",
+        "method": "语法记忆",
+        "bridgeC": "に接在副词后，让动作马上发生"
+      }
+    ],
+    "mergedScene": "老板一催，你马上起身：すぐに行きます。すぐに就是马上做，没有拖延。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すぐに：すぐ=立刻，に把动作接上；一说就立刻做=马上\n例：すぐに行きます=马上去。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "すぐに来てください。",
+        "zh": "请马上来。"
+      }
+    ]
+  },
+  {
+    "word": "少し",
+    "reading": "すこし",
+    "meaning": "一点、稍微",
+    "elements": [
+      {
+        "element": "少",
+        "method": "TYPE A1",
+        "bridgeC": "少=少"
+      },
+      {
+        "element": "し",
+        "method": "关联记忆",
+        "bridgeC": "少し整体记成一点点的少"
+      }
+    ],
+    "mergedScene": "朋友问你还要不要糖，你说少し，只要一点点。少し就是少量、稍微。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "少し：少=少；整体记成一点点的少=一点/稍微\n🔗 少ない=少的；少し=一点点。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "少し待ってください。",
+        "zh": "请稍等一下。"
+      }
+    ]
+  },
+  {
+    "word": "涼しい",
+    "reading": "すずしい",
+    "meaning": "凉的（天气）",
+    "elements": [
+      {
+        "element": "涼",
+        "method": "TYPE A1",
+        "bridgeC": "涼=凉、凉爽"
+      },
+      {
+        "element": "しい",
+        "method": "语法记忆",
+        "bridgeC": "い形容词结尾，表示凉爽的"
+      }
+    ],
+    "mergedScene": "傍晚打开窗，风吹进来，不冷也不热，是舒服的凉爽。涼しい=天气凉爽。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "涼しい：涼=凉爽，い形容词；天气不冷不热很舒服=凉爽的\n⚠️ 寒い=冷，涼しい=凉爽。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "今日は涼しいです。",
+        "zh": "今天很凉爽。"
+      }
+    ]
+  },
+  {
+    "word": "ストーブ",
+    "reading": "ストーブ",
+    "meaning": "取暖器",
+    "elements": [
+      {
+        "element": "ストーブ",
+        "method": "外来语",
+        "bridgeC": "来自 stove，在日语里常指取暖器/火炉"
+      }
+    ],
+    "mergedScene": "冬天你靠近 stove 火炉取暖，日语读成ストーブ。注意日语里常指取暖器。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "ストーブ：外来语 stove；冬天靠近火炉/暖炉取暖=取暖器",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "ストーブをつけます。",
+        "zh": "打开取暖器。"
+      }
+    ]
+  },
+  {
+    "word": "スプーン",
+    "reading": "スプーン",
+    "meaning": "勺子",
+    "elements": [
+      {
+        "element": "スプーン",
+        "method": "外来语",
+        "bridgeC": "来自 spoon，表示勺子"
+      }
+    ],
+    "mergedScene": "你拿 spoon 喝汤，日语读成スプーン。外来语直接记：スプーン=勺子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "スプーン：外来语 spoon；喝汤用的 spoon=勺子",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "スプーンでスープを飲みます。",
+        "zh": "用勺子喝汤。"
+      }
+    ]
+  },
+  {
+    "word": "スポーツ",
+    "reading": "スポーツ",
+    "meaning": "运动",
+    "elements": [
+      {
+        "element": "スポーツ",
+        "method": "外来语",
+        "bridgeC": "来自 sports，表示运动"
+      }
+    ],
+    "mergedScene": "操场上跑步、打球、比赛，这些都是 sports。日语读成スポーツ=运动。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "スポーツ：外来语 sports；跑步打球比赛这些活动=运动",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "スポーツが好きです。",
+        "zh": "喜欢运动。"
+      }
+    ]
+  },
+  {
+    "word": "ズボン",
+    "reading": "ズボン",
+    "meaning": "裤子",
+    "elements": [
+      {
+        "element": "ズボン",
+        "method": "生活场景",
+        "bridgeC": "日常衣物词，直接绑定穿在腿上的裤子"
+      }
+    ],
+    "mergedScene": "早上出门前，你先穿シャツ，再穿ズボン。ズボン直接绑定穿在腿上的裤子。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "ズボン：日常衣物词；穿在腿上的那件衣服=裤子\n🔗 シャツ=衬衫，スカート=裙子，ズボン=裤子。",
+    "difficultyStars": 2,
+    "exampleSentences": [
+      {
+        "ja": "ズボンをはきます。",
+        "zh": "穿裤子。"
+      }
+    ]
+  },
+  {
+    "word": "住む",
+    "reading": "すむ",
+    "meaning": "居住",
+    "elements": [
+      {
+        "element": "住",
+        "method": "TYPE A1",
+        "bridgeC": "住=居住，中日同义"
+      }
+    ],
+    "mergedScene": "你搬进新家，在那里生活。住这个汉字直接提示居住，住む=住、居住。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "住む：住=居住；搬进某个地方生活=居住\n例：東京に住む=住在东京。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "東京に住んでいます。",
+        "zh": "住在东京。"
+      }
+    ]
+  },
+  {
+    "word": "スリッパ",
+    "reading": "スリッパ",
+    "meaning": "拖鞋",
+    "elements": [
+      {
+        "element": "スリッパ",
+        "method": "外来语",
+        "bridgeC": "来自 slipper，表示拖鞋"
+      }
+    ],
+    "mergedScene": "回家进门换上 slipper，日语读成スリッパ。外来语直接记：スリッパ=拖鞋。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "スリッパ：外来语 slipper；进门换上的 slipper=拖鞋",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "スリッパをはきます。",
+        "zh": "穿拖鞋。"
+      }
+    ]
+  },
+  {
+    "word": "する",
+    "reading": "する",
+    "meaning": "做",
+    "elements": [
+      {
+        "element": "する",
+        "method": "基础动词",
+        "bridgeC": "する=做，是最常用动作动词之一"
+      }
+    ],
+    "mergedScene": "看到勉強する、散歩する、コピーする，する都负责把前面的名词变成动作：做这件事。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": false,
+      "personal": true,
+      "total": 2
+    },
+    "reviewTip": "する：基础动词=做；名词+する可以变动作\n🔗 勉強する、散歩する、コピーする。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "勉強をします。",
+        "zh": "学习。"
+      }
+    ]
+  },
+  {
+    "word": "座る",
+    "reading": "すわる",
+    "meaning": "坐",
+    "elements": [
+      {
+        "element": "座",
+        "method": "TYPE A1",
+        "bridgeC": "座=坐、座位"
+      },
+      {
+        "element": "すわる",
+        "method": "TYPE B2",
+        "bridgeC": "すわる→丝袜露；一坐下丝袜露出来了"
+      }
+    ],
+    "mergedScene": "你刚坐下，发现丝袜露(すわる)出来了，赶紧调整坐姿。座这个汉字也直接提示坐，座る=坐。",
+    "sceneScore": {
+      "specific": true,
+      "emotional": true,
+      "personal": true,
+      "total": 3
+    },
+    "reviewTip": "すわる - 谐音“丝袜露” - 一坐下丝袜露出来了，赶紧调整坐姿 - 坐\n例：椅子に座る=坐在椅子上。",
+    "difficultyStars": 1,
+    "exampleSentences": [
+      {
+        "ja": "椅子に座ります。",
+        "zh": "坐在椅子上。"
+      }
+    ]
+  }
+]

@@ -113,24 +113,24 @@
     "partOfSpeech": "名·サ变",
     "elements": [
       {
-        "element": "案内",
-        "method": "TYPE A1",
-        "bridgeC": "案内 的字面先给出“引导”这个方向。"
+        "element": "あんない",
+        "method": "TYPE B2",
+        "bridgeC": "あんない像“按耐”，导游按耐性子引导。"
       },
       {
-        "element": "あんない",
-        "method": "固定读音",
-        "bridgeC": "读音 あんない 作为固定读法记住"
+        "element": "案内",
+        "method": "汉字直觉",
+        "bridgeC": "表示引导、向导、 안내。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 あんない 作为固定读法记住，再用 案内 的汉字确认意思，这个小插曲就代表“引导”。重点抓汉字直觉和读音绑定：案内=引导，向导。",
+    "mergedScene": "游客一路问东问西，导游只能按耐住性子，一步步引导大家往哪走。あんない就是案内、引导。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "案内 - 汉字直觉 + 固定读音 あんない - 放进生活场景记“引导” - 引导，向导",
+    "reviewTip": "あんない - 谐音“按耐” - 导游按耐住性子一步步引导 - 引导，向导",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -142,30 +142,35 @@
   {
     "word": "経済",
     "reading": "けいざい",
-    "meaning": "物资的生产，流通",
+    "meaning": "经济",
     "sourceIndex": 205,
     "sourceMeaningRaw": "[名] 物资的生产、流通、交换、分配及其消费、积累的整个过程以及在以上过程中 所形成的社会各种关系的总体；指关于金钱的收入支出；少花费用或工夫",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "経済",
-        "method": "TYPE A1",
-        "bridgeC": "経済 的字面先给出“物资的生产”这个方向。"
+        "element": "経=けい",
+        "method": "固定读音",
+        "bridgeC": "経在経済里读けい。"
+      },
+      {
+        "element": "済=ざい",
+        "method": "固定读音",
+        "bridgeC": "済在経済里读ざい。"
       },
       {
         "element": "けいざい",
-        "method": "固定读音",
-        "bridgeC": "读音 けいざい 作为固定读法记住"
+        "method": "TYPE B2",
+        "bridgeC": "けいざい可谐音“开宰”，用宰韭菜的经济故事记。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 けいざい 作为固定读法记住，再用 経済 的汉字确认意思，这个小插曲就代表“物资的生产”。重点抓汉字直觉和读音绑定：経済=物资的生产，流通。",
+    "mergedScene": "黑心老板说要搞经济，结果第一步就是“开宰”韭菜，员工听了直冒冷汗。経済读けいざい，表示经济。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "経済 - 汉字直觉 + 固定读音 けいざい - 放进生活场景记“物资的生产” - 物资的生产，流通",
+    "reviewTip": "けいざい - 経=けい，済=ざい；谐音“开宰” - 经济发展别靠开宰韭菜 - 经济",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -183,24 +188,24 @@
     "partOfSpeech": "他动·一段",
     "elements": [
       {
-        "element": "当てる",
-        "method": "TYPE A1",
-        "bridgeC": "当てる 的字面先给出“打”这个方向。"
+        "element": "あてる",
+        "method": "TYPE B2",
+        "bridgeC": "あてる像“啊贴了”，东西贴上去就是碰到、击中。"
       },
       {
-        "element": "あてる",
-        "method": "固定读音",
-        "bridgeC": "读音 あてる 作为固定读法记住"
+        "element": "当てる",
+        "method": "汉字直觉",
+        "bridgeC": "当てる表示碰、击中、猜中。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 あてる 作为固定读法记住，再用 当てる 的汉字确认意思，这个小插曲就代表“打”。重点抓汉字直觉和读音绑定：当てる=打，碰。",
+    "mergedScene": "打球时球“啪”地贴到墙上，小田喊“啊，贴了！”あてる就记成打中、碰到、击中。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "当てる - 汉字直觉 + 固定读音 あてる - 放进生活场景记“打” - 打，碰",
+    "reviewTip": "あてる - 谐音“啊贴了” - 打、碰、击中都像东西贴上去 - 打，碰，击中",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -249,23 +254,23 @@
     "elements": [
       {
         "element": "拝見",
-        "method": "TYPE A1",
-        "bridgeC": "拝見 的字面先给出“拜读”这个方向。"
+        "method": "字形联想",
+        "bridgeC": "字形和“拜见/拜读”很像。"
       },
       {
-        "element": "はいけん",
-        "method": "固定读音",
-        "bridgeC": "读音 はいけん 作为固定读法记住"
+        "element": "拝見する",
+        "method": "敬语记忆",
+        "bridgeC": "見る的谦让表达。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 はいけん 作为固定读法记住，再用 拝見 的汉字确认意思，这个小插曲就代表“拜读”。重点抓汉字直觉和读音绑定：拝見=拜读。",
+    "mergedScene": "收到老师的资料，小田不敢说“我看看”，而是很恭敬地说“拝見します”。字形像拜读、拜见，表示谦逊地看。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "拝見 - 汉字直觉 + 固定读音 はいけん - 放进生活场景记“拜读” - 拜读",
+    "reviewTip": "拝見 - 字形像“拜读/拜见” - 谦虚地看、拜读 - 拜读，看（谦语）",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -277,30 +282,30 @@
   {
     "word": "決まる",
     "reading": "きまる",
-    "meaning": "决定胜负",
+    "meaning": "决定，确定",
     "sourceIndex": 209,
     "sourceMeaningRaw": "[自动·五段] 决定胜负；决定，规定；得体，符合；一定是",
     "partOfSpeech": "自动·五段",
     "elements": [
       {
-        "element": "決まる",
-        "method": "TYPE A1",
-        "bridgeC": "決まる 的字面先给出“决定胜负”这个方向。"
+        "element": "き",
+        "method": "固定联想",
+        "bridgeC": "き可联想到“切”的声音。"
       },
       {
-        "element": "きまる",
-        "method": "固定读音",
-        "bridgeC": "读音 きまる 作为固定读法记住"
+        "element": "決まる",
+        "method": "汉字直觉",
+        "bridgeC": "決表示决定。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 きまる 作为固定读法记住，再用 決まる 的汉字确认意思，这个小插曲就代表“决定胜负”。重点抓汉字直觉和读音绑定：決まる=决定胜负。",
+    "mergedScene": "做重大决定时，小田像拿刀一样把过去的犹豫切开，只留下一个选择。きまる就是决定、确定。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "決まる - 汉字直觉 + 固定读音 きまる - 放进生活场景记“决定胜负” - 决定胜负",
+    "reviewTip": "きまる - き像“切” - 做决定就是和其他选项切开 - 决定",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -318,24 +323,24 @@
     "partOfSpeech": "名·サ变",
     "elements": [
       {
-        "element": "影響",
-        "method": "TYPE A1",
-        "bridgeC": "影響 的字面先给出“影响”这个方向。"
+        "element": "えいきょう",
+        "method": "TYPE B2",
+        "bridgeC": "えいきょう可联想 IQ，IQ影响学习生活。"
       },
       {
-        "element": "えいきょう",
-        "method": "固定读音",
-        "bridgeC": "读音 えいきょう 作为固定读法记住"
+        "element": "影響",
+        "method": "汉字直觉",
+        "bridgeC": "汉字和中文影响一致。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 えいきょう 作为固定读法记住，再用 影響 的汉字确认意思，这个小插曲就代表“影响”。重点抓汉字直觉和读音绑定：影響=影响。",
+    "mergedScene": "小田发现自己的 IQ 会影响学习效率，也会影响日常选择。えいきょう像“IQ”，影響就是影响。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "影響 - 汉字直觉 + 固定读音 えいきょう - 放进生活场景记“影响” - 影响",
+    "reviewTip": "えいきょう - 谐音“IQ” - 一个人的IQ影响学习和生活 - 影响",
     "difficultyStars": 3,
     "exampleSentences": [
       {
@@ -353,24 +358,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "家内",
-        "method": "TYPE A1",
-        "bridgeC": "家内 的字面先给出“家庭”这个方向。"
+        "element": "内=ない",
+        "method": "固定读音",
+        "bridgeC": "内在家内、内容里读ない。"
       },
       {
-        "element": "かない",
-        "method": "固定读音",
-        "bridgeC": "读音 かない 作为固定读法记住"
+        "element": "家内",
+        "method": "词义提醒",
+        "bridgeC": "可表示家里、家人，也可表示妻子。"
       }
     ],
-    "mergedScene": "在小田的房间，小田蹲在地板上在房间里翻找东西，读音 かない 作为固定读法记住，再用 家内 的汉字确认意思，手边的物品自然对应“家庭”。重点抓汉字直觉和读音绑定：家内=家庭，全家。",
+    "mergedScene": "家内这个词抓固定读音：内读ない。它可以表示家里、家人，也可作“妻子”的旧式说法。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "家内 - 汉字直觉 + 固定读音 かない - 放进生活场景记“家庭” - 家庭，全家",
+    "reviewTip": "内=ない - 固定读音 - 家内、内容的内都读ない - 家内",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -388,24 +393,29 @@
     "partOfSpeech": "名·サ变",
     "elements": [
       {
-        "element": "倒産",
-        "method": "TYPE A1",
-        "bridgeC": "倒産 的字面先给出“倒闭”这个方向。"
+        "element": "産=さん",
+        "method": "固定读音",
+        "bridgeC": "産很多时候读さん。"
       },
       {
         "element": "とうさん",
-        "method": "固定读音",
-        "bridgeC": "读音 とうさん 作为固定读法记住"
+        "method": "关联记忆",
+        "bridgeC": "とうさん和父さん同音。"
+      },
+      {
+        "element": "倒産",
+        "method": "汉字直觉",
+        "bridgeC": "倒産表示倒闭、破产。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 とうさん 作为固定读法记住，再用 倒産 的汉字确认意思，这个小插曲就代表“倒闭”。重点抓汉字直觉和读音绑定：倒産=倒闭，破产。",
+    "mergedScene": "富二代总偷家里的东西往外散，父さん气到公司也被拖垮，最后倒産。とうさん和父さん同音，用败家破产记。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "倒産 - 汉字直觉 + 固定读音 とうさん - 放进生活场景记“倒闭” - 倒闭，破产",
+    "reviewTip": "とうさん - 和父さん同音 - 富二代偷家里东西散出去，最后破产 - 倒闭",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -458,24 +468,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "歴史",
-        "method": "TYPE A1",
-        "bridgeC": "歴史 的字面先给出“历史”这个方向。"
+        "element": "れきし",
+        "method": "TYPE B2",
+        "bridgeC": "れきし像“lake溪”，用湖水流动记历史。"
       },
       {
-        "element": "れきし",
-        "method": "固定读音",
-        "bridgeC": "读音 れきし 作为固定读法记住"
+        "element": "歴史",
+        "method": "汉字直觉",
+        "bridgeC": "汉字和中文历史一致。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 れきし 作为固定读法记住，再用 歴史 的汉字确认意思，这个小插曲就代表“历史”。重点抓汉字直觉和读音绑定：歴史=历史。",
+    "mergedScene": "历史像一条流进 lake 的溪水，有些水暂时占据主场，有些随着时间流向大海。れきし就是历史。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "歴史 - 汉字直觉 + 固定读音 れきし - 放进生活场景记“历史” - 历史",
+    "reviewTip": "れきし - 谐音“lake溪” - 历史像湖水，有的留下有的流走 - 历史",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -593,24 +603,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "文房具",
-        "method": "TYPE A1",
-        "bridgeC": "文房具 的字面先给出“文具”这个方向。"
+        "element": "ぶんぼうぐ",
+        "method": "TYPE B2",
+        "bridgeC": "ぶんぼうぐ像“奔波谷”，为谷子奔波。"
       },
       {
-        "element": "ぶんぼうぐ",
-        "method": "固定读音",
-        "bridgeC": "读音 ぶんぼうぐ 作为固定读法记住"
+        "element": "文房具",
+        "method": "汉字直觉",
+        "bridgeC": "文房具表示文具。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ぶんぼうぐ 作为固定读法记住，再用 文房具 的汉字确认意思，这个小插曲就代表“文具”。重点抓汉字直觉和读音绑定：文房具=文具。",
+    "mergedScene": "一个二次元粉为了买各种谷子和周边，在文具店、玩具店奔波来奔波去。ぶんぼうぐ就是文房具。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "文房具 - 汉字直觉 + 固定读音 ぶんぼうぐ - 放进生活场景记“文具” - 文具",
+    "reviewTip": "ぶんぼうぐ - 谐音“奔波谷” - 为了买二次元谷子在店里奔波 - 文具",
     "difficultyStars": 3,
     "exampleSentences": [
       {
@@ -628,24 +638,24 @@
     "partOfSpeech": "名·形动",
     "elements": [
       {
-        "element": "自然",
-        "method": "TYPE A1",
-        "bridgeC": "自然 的字面先给出“自然”这个方向。"
+        "element": "しぜん",
+        "method": "TYPE B2",
+        "bridgeC": "しぜん像 season，用季节变化记自然。"
       },
       {
-        "element": "しぜん",
-        "method": "固定读音",
-        "bridgeC": "读音 しぜん 作为固定读法记住"
+        "element": "自然",
+        "method": "汉字直觉",
+        "bridgeC": "汉字和中文自然一致。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 しぜん 作为固定读法记住，再用 自然 的汉字确认意思，这个小插曲就代表“自然”。重点抓汉字直觉和读音绑定：自然=自然。",
+    "mergedScene": "春夏秋冬的 season 不断变化，大自然也呈现不同样子。しぜん像 season，记住自然。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "自然 - 汉字直觉 + 固定读音 しぜん - 放进生活场景记“自然” - 自然",
+    "reviewTip": "しぜん - 谐音“season” - 大自然有不同节气和季节 - 自然",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -663,24 +673,24 @@
     "partOfSpeech": "他动·五段",
     "elements": [
       {
-        "element": "踏む",
-        "method": "TYPE A1",
-        "bridgeC": "踏む 的字面先给出“踏”这个方向。"
+        "element": "ふむ",
+        "method": "TYPE B2",
+        "bridgeC": "ふむ像“父母”，踩在父母肩上。"
       },
       {
-        "element": "ふむ",
-        "method": "固定读音",
-        "bridgeC": "读音 ふむ 作为固定读法记住"
+        "element": "踏む",
+        "method": "汉字直觉",
+        "bridgeC": "踏表示踩。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ふむ 作为固定读法记住，再用 踏む 的汉字确认意思，这个小插曲就代表“踏”。重点抓汉字直觉和读音绑定：踏む=踏，踩。",
+    "mergedScene": "有些富二代踩在父母资源的肩膀上往上爬。ふむ像“父母”，踏む就是踏、踩。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "踏む - 汉字直觉 + 固定读音 ふむ - 放进生活场景记“踏” - 踏，踩",
+    "reviewTip": "ふむ - 谐音“父母” - 富二代踩在父母肩上成长 - 踏，踩",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -698,24 +708,29 @@
     "partOfSpeech": "名·自动·サ变",
     "elements": [
       {
-        "element": "食事",
-        "method": "TYPE A1",
-        "bridgeC": "食事 的字面先给出“饭”这个方向。"
+        "element": "事=じ",
+        "method": "固定读音",
+        "bridgeC": "事大多数读じ。"
       },
       {
         "element": "しょくじ",
+        "method": "TYPE B2",
+        "bridgeC": "可联想“小菇鸡”，晚饭吃小菇鸡。"
+      },
+      {
+        "element": "食=しょく",
         "method": "固定读音",
-        "bridgeC": "读音 しょくじ 作为固定读法记住"
+        "bridgeC": "食和吃饭有关。"
       }
     ],
-    "mergedScene": "在学校食堂，小田端着餐盘闻到热气和酱汁味，读音 しょくじ 作为固定读法记住，再用 食事 的汉字确认意思，马上想到餐盘里的“饭”。重点抓汉字直觉和读音绑定：食事=饭，餐。",
+    "mergedScene": "晚上小田问妈妈吃什么，妈妈说吃“小菇鸡”。食事里的事大多读じ，しょくじ就是饭、餐。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "食事 - 汉字直觉 + 固定读音 しょくじ - 放进生活场景记“饭” - 饭，餐",
+    "reviewTip": "食事 - 事=じ固定读音；也可谐音“小菇鸡” - 饭，餐",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -727,30 +742,35 @@
   {
     "word": "事故",
     "reading": "じこ",
-    "meaning": "事由",
+    "meaning": "事故",
     "sourceIndex": 222,
     "sourceMeaningRaw": "[名] （意外的）；事由",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "事故",
-        "method": "TYPE A1",
-        "bridgeC": "事故 的字面先给出“事由”这个方向。"
+        "element": "事=じ",
+        "method": "固定读音",
+        "bridgeC": "事大多数读じ。"
       },
       {
         "element": "じこ",
-        "method": "固定读音",
-        "bridgeC": "读音 じこ 作为固定读法记住"
+        "method": "TYPE B2",
+        "bridgeC": "じこ像“忌口”，不忌口导致事故。"
+      },
+      {
+        "element": "事故",
+        "method": "汉字直觉",
+        "bridgeC": "汉字和中文事故一致。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 じこ 作为固定读法记住，再用 事故 的汉字确认意思，这个小插曲就代表“事由”。重点抓汉字直觉和读音绑定：事故=事由。",
+    "mergedScene": "小田明明要忌口，却偷吃不该吃的东西，结果出事故被送医院。じこ像“忌口”，事故就是意外。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "事故 - 汉字直觉 + 固定读音 じこ - 放进生活场景记“事由” - 事由",
+    "reviewTip": "じこ - 事=じ；谐音“忌口” - 吃了忌口食物，出现事故 - 事故",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -762,30 +782,30 @@
   {
     "word": "月",
     "reading": "つき",
-    "meaning": "亮",
+    "meaning": "月亮，月",
     "sourceIndex": 223,
     "sourceMeaningRaw": "[名] 亮；光；份；妊娠期",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "月",
-        "method": "TYPE A1",
-        "bridgeC": "月 的字面先给出“亮”这个方向。"
-      },
-      {
         "element": "つき",
         "method": "固定读音",
-        "bridgeC": "读音 つき 作为固定读法记住"
+        "bridgeC": "月读つき。"
+      },
+      {
+        "element": "月が綺麗ですね",
+        "method": "文化联想",
+        "bridgeC": "月色真美是经典含蓄表达。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 つき 作为固定读法记住，再用 月 的汉字确认意思，这个小插曲就代表“亮”。重点抓汉字直觉和读音绑定：月=亮。",
+    "mergedScene": "夜里和喜欢的人散步，不知道怎么表达，就说“月が綺麗ですね”。つき就是月、月亮。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "月 - 汉字直觉 + 固定读音 つき - 放进生活场景记“亮” - 亮",
+    "reviewTip": "つき - 月色真美 - 月が綺麗ですね 是含蓄表白 - 月亮",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -797,30 +817,30 @@
   {
     "word": "気持ち",
     "reading": "きもち",
-    "meaning": "感，感觉",
+    "meaning": "感觉，心情",
     "sourceIndex": 224,
     "sourceMeaningRaw": "[名] 感，感觉，感受；心情，心绪，情绪；心地，心境；精神状态；胸怀，襟怀； 心神；小意思，心意对于自己的用心表示谦逊时使用的自谦语；点点；稍微，略略",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "気持ち",
-        "method": "TYPE A1",
-        "bridgeC": "気持ち 的字面先给出“感”这个方向。"
+        "element": "きもち",
+        "method": "固定表达",
+        "bridgeC": "気持ち常和いい/悪い搭配，表示感觉好/不好。"
       },
       {
-        "element": "きもち",
+        "element": "気=き",
         "method": "固定读音",
-        "bridgeC": "读音 きもち 作为固定读法记住"
+        "bridgeC": "気常读き。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 きもち 作为固定读法记住，再用 気持ち 的汉字确认意思，这个小插曲就代表“感”。重点抓汉字直觉和读音绑定：気持ち=感，感觉。",
+    "mergedScene": "看日剧或日常对话里，经常会听到気持ちいい、気持ち悪い。きもち就是感觉、心情。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "気持ち - 汉字直觉 + 固定读音 きもち - 放进生活场景记“感” - 感，感觉",
+    "reviewTip": "きもち - 影视和日常里常听到 - 表示感觉、心情 - 感觉",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -838,24 +858,24 @@
     "partOfSpeech": "他动·一段",
     "elements": [
       {
-        "element": "申し上げる",
-        "method": "TYPE A1",
-        "bridgeC": "申し上げる 的字面先给出“说”这个方向。"
+        "element": "申",
+        "method": "汉字直觉",
+        "bridgeC": "申有申诉、上呈的感觉。"
       },
       {
-        "element": "もうしあげる",
-        "method": "固定读音",
-        "bridgeC": "读音 もうしあげる 作为固定读法记住"
+        "element": "申し上げる",
+        "method": "敬语记忆",
+        "bridgeC": "言う的谦让表达，比申す更郑重。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 もうしあげる 作为固定读法记住，再用 申し上げる 的汉字确认意思，这个小插曲就代表“说”。重点抓汉字直觉和读音绑定：申し上げる=说，讲。",
+    "mergedScene": "古代向官位高的人申诉，要低头上呈。申し上げる就是把话往上呈给对方，表示谦逊地说。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "申し上げる - 汉字直觉 + 固定读音 もうしあげる - 放进生活场景记“说” - 说，讲",
+    "reviewTip": "申す/申し上げる - 申有申诉、上呈感 - 向上位者谦逊地说 - 说（谦语）",
     "difficultyStars": 3,
     "exampleSentences": [
       {
@@ -908,24 +928,24 @@
     "partOfSpeech": "名·形动",
     "elements": [
       {
-        "element": "必要",
-        "method": "TYPE A1",
-        "bridgeC": "必要 的字面先给出“必需”这个方向。"
+        "element": "ひつよう",
+        "method": "TYPE B2",
+        "bridgeC": "ひつよう像“he只要”，只要必要的东西。"
       },
       {
-        "element": "ひつよう",
+        "element": "要=よう",
         "method": "固定读音",
-        "bridgeC": "读音 ひつよう 作为固定读法记住"
+        "bridgeC": "要在必要里读よう，和重要的要同音。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ひつよう 作为固定读法记住，再用 必要 的汉字确认意思，这个小插曲就代表“必需”。重点抓汉字直觉和读音绑定：必要=必需，必须。",
+    "mergedScene": "一个人生活极简，he只要几样必要的东西就够了。ひつよう像“he只要”，よう也和重要的要发音接近。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "必要 - 汉字直觉 + 固定读音 ひつよう - 放进生活场景记“必需” - 必需，必须",
+    "reviewTip": "ひつよう - 谐音“he只要” - 清心寡欲的人只要必要的东西 - 必要",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1043,24 +1063,24 @@
     "partOfSpeech": "自动·五段",
     "elements": [
       {
-        "element": "済む",
-        "method": "TYPE A1",
-        "bridgeC": "済む 的字面先给出“完（了”这个方向。"
+        "element": "すむ",
+        "method": "TYPE B2",
+        "bridgeC": "すむ像“私募”，私募资金没了就完蛋。"
       },
       {
-        "element": "すむ",
-        "method": "固定读音",
-        "bridgeC": "读音 すむ 作为固定读法记住"
+        "element": "済む",
+        "method": "汉字直觉",
+        "bridgeC": "済む表示完了、解决。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 すむ 作为固定读法记住，再用 済む 的汉字确认意思，这个小插曲就代表“完（了”。重点抓汉字直觉和读音绑定：済む=完（了，终了。",
+    "mergedScene": "私募基金如果没有充足资金，很快就完蛋了。すむ像“私募”，済む表示事情完了、解决。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "済む - 汉字直觉 + 固定读音 すむ - 放进生活场景记“完（了” - 完（了，终了",
+    "reviewTip": "すむ - 谐音“私募” - 私募没资金就完蛋了 - 完了，终了",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1078,24 +1098,29 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "気候",
-        "method": "TYPE A1",
-        "bridgeC": "気候 的字面先给出“气候”这个方向。"
+        "element": "気=き",
+        "method": "固定读音",
+        "bridgeC": "天气的気也读き。"
       },
       {
-        "element": "きこう",
+        "element": "候=こう",
         "method": "固定读音",
-        "bridgeC": "读音 きこう 作为固定读法记住"
+        "bridgeC": "候在気候里读こう。"
+      },
+      {
+        "element": "気候",
+        "method": "汉字直觉",
+        "bridgeC": "汉字和中文气候一致。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 きこう 作为固定读法记住，再用 気候 的汉字确认意思，这个小插曲就代表“气候”。重点抓汉字直觉和读音绑定：気候=气候。",
+    "mergedScene": "天気里的気读き，気候里的気也读き。看到気候直接按气候理解，记きこう。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "気候 - 汉字直觉 + 固定读音 きこう - 放进生活场景记“气候” - 气候",
+    "reviewTip": "気=き - 天気的気也读き - 気候就是气候 - 气候",
     "difficultyStars": 1,
     "exampleSentences": [
       {

@@ -147,7 +147,7 @@ export function Layout() {
               setNavOpen((open) => !open)
             }}
           >
-            <span className="brand-icon">日</span>
+            <span className="brand-icon">言</span>
             <span className="brand-text">列表</span>
             <span className="nav-shelf-mark" aria-hidden="true">
               <span />

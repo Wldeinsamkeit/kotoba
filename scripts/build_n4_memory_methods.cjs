@@ -17,7 +17,6 @@ const PDFS = [
 const VOCAB_OUT = path.join(ROOT, 'data/n4/n4_vocab.json');
 const MEMORY_DIR = path.join(ROOT, 'data/memory_methods/n4');
 const ALL_MEMORY_OUT = path.join(MEMORY_DIR, 'all_n4_memory_methods.json');
-const FRONTEND_N4_OUT = path.join(ROOT, 'src/data/n4MoatVocab.ts');
 const BATCH_SIZE = 40;
 
 // ============ 假名检测 ============
@@ -1451,43 +1450,6 @@ function buildQualityMemoryMethod(vocab) {
   };
 }
 
-function sceneQualityText(sceneScore) {
-  const parts = [];
-  if (sceneScore?.specific) parts.push('具体化');
-  if (sceneScore?.emotional) parts.push('情绪化');
-  if (sceneScore?.personal) parts.push('生活化');
-  return `${parts.join(' · ')} · ${sceneScore?.total ?? parts.length}/3`;
-}
-
-function toFrontendMoatEntry(entry, index) {
-  return {
-    id: `n4-${String(index + 1).padStart(4, '0')}`,
-    word: entry.word,
-    reading: entry.reading,
-    meaning: entry.meaning,
-    elements: entry.elements,
-    mergedScene: entry.mergedScene,
-    sceneQuality: sceneQualityText(entry.sceneScore),
-    reviewHint: entry.reviewTip,
-    difficultyStars: entry.difficultyStars,
-  };
-}
-
-function writeFrontendN4MoatVocab(memory) {
-  const entries = memory.map((entry, index) => toFrontendMoatEntry(entry, index));
-  const file = [
-    '// Auto-generated from data/memory_methods/n4 via scripts/build_n4_memory_methods.cjs',
-    `// Total: ${entries.length} words`,
-    '',
-    "import type { MoatVocabEntry } from '../types'",
-    '',
-    `export const n4MoatVocab: MoatVocabEntry[] = ${JSON.stringify(entries, null, 2)}`,
-    '',
-  ].join('\n');
-
-  fs.writeFileSync(FRONTEND_N4_OUT, file);
-}
-
 // ============ 主函数 ============
 function main() {
   console.log('Parsing N4 vocabulary...');
@@ -1530,7 +1492,6 @@ function main() {
 
   fs.writeFileSync(VOCAB_OUT, JSON.stringify(vocab, null, 2) + '\n');
   fs.writeFileSync(ALL_MEMORY_OUT, JSON.stringify(memory, null, 2) + '\n');
-  writeFrontendN4MoatVocab(memory);
 
   for (const file of fs.readdirSync(MEMORY_DIR)) {
     if (/^batch_\d+_methods\.json$/.test(file)) {
@@ -1549,7 +1510,6 @@ function main() {
 
   console.log(`✓ Vocab: ${vocab.length}`);
   console.log(`✓ Memory: ${memory.length}`);
-  console.log(`✓ Frontend N4: ${memory.length}`);
   console.log(`✓ Batches: ${Math.ceil(memory.length / BATCH_SIZE)}`);
 }
 

@@ -35,6 +35,9 @@ data/redbook-ocr/pages_ai/*.png
 # 本地整理出的闲置/旧版本文件，不上传 GitHub
 闲置文件夹/
 
+# 本地脚本/数据处理中间产物
+tmp/
+
 # 本地资料库/设计参考，不参与前端部署
 项目资料/
 资源汇总/
@@ -44,3 +47,6 @@ UI设计
 
 # Supertonic 本地模型超过 GitHub 普通仓库单文件限制，后续应迁到 LFS/CDN/对象存储
 public/supertonic/assets/onnx/*.onnx
+
+# iOS SwiftPM 本地工作目录
+ios/App/CapApp-SPM/.swiftpm/

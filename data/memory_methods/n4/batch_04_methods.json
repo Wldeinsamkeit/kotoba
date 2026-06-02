@@ -113,24 +113,34 @@
     "partOfSpeech": "名·サ变",
     "elements": [
       {
-        "element": "発言",
-        "method": "TYPE A1",
-        "bridgeC": "発言 的字面先给出“发言”这个方向。"
+        "element": "は",
+        "method": "拆分谐音",
+        "bridgeC": "は可联想“八”。"
       },
       {
-        "element": "はつげん",
-        "method": "固定读音",
-        "bridgeC": "读音 はつげん 作为固定读法记住"
+        "element": "つ",
+        "method": "拆分谐音",
+        "bridgeC": "つ像“次”。"
+      },
+      {
+        "element": "げん",
+        "method": "拆分谐音",
+        "bridgeC": "げん像“敢”。"
+      },
+      {
+        "element": "発言",
+        "method": "汉字直觉",
+        "bridgeC": "発言表示发言。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 はつげん 作为固定读法记住，再用 発言 的汉字确认意思，这个小插曲就代表“发言”。重点抓汉字直觉和读音绑定：発言=发言。",
+    "mergedScene": "会议上大家都沉默，小田已经发言八次了还敢继续举手。はつげん拆成八次敢，画面直接导向发言。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "発言 - 汉字直觉 + 固定读音 はつげん - 放进生活场景记“发言” - 发言",
+    "reviewTip": "はつげん - は=八 + つ=次 + げん=敢 - 发言八次还敢说话 - 发言",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -283,24 +293,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "火",
-        "method": "TYPE A1",
-        "bridgeC": "火 的字面先给出“火”这个方向。"
+        "element": "ひ",
+        "method": "字形联想",
+        "bridgeC": "ひ倒过来看像一团燃烧的火。"
       },
       {
-        "element": "ひ",
+        "element": "火",
         "method": "固定读音",
-        "bridgeC": "读音 ひ 作为固定读法记住"
+        "bridgeC": "火单独读ひ。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ひ 作为固定读法记住，再用 火 的汉字确认意思，这个小插曲就代表“火”。重点抓汉字直觉和读音绑定：火=火，火焰。",
+    "mergedScene": "把ひ倒过来看，像一团正在燃烧的火焰。看到这个假名的形状，就直接想起火。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "火 - 汉字直觉 + 固定读音 ひ - 放进生活场景记“火” - 火，火焰",
+    "reviewTip": "ひ - 字形联想 - ひ倒过来看像一团燃烧的火 - 火",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -418,24 +428,24 @@
     "partOfSpeech": "名·他动·サ变",
     "elements": [
       {
-        "element": "暖房",
-        "method": "TYPE A1",
-        "bridgeC": "暖房 的字面先给出“供暖”这个方向。"
+        "element": "だんぼう",
+        "method": "TYPE B2",
+        "bridgeC": "だんぼう像“单薄”，穿单薄只能靠暖气。"
       },
       {
-        "element": "だんぼう",
-        "method": "固定读音",
-        "bridgeC": "读音 だんぼう 作为固定读法记住"
+        "element": "暖房",
+        "method": "汉字直觉",
+        "bridgeC": "暖房表示供暖、暖气。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 だんぼう 作为固定读法记住，再用 暖房 的汉字确认意思，这个小插曲就代表“供暖”。重点抓汉字直觉和读音绑定：暖房=供暖。",
+    "mergedScene": "冬天小田穿得太单薄，在教室里冻到发抖，只能抱着暖气续命。だんぼう像“单薄”，反向记住暖房。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "暖房 - 汉字直觉 + 固定读音 だんぼう - 放进生活场景记“供暖” - 供暖",
+    "reviewTip": "だんぼう - 谐音“单薄” - 冬天穿太单薄，全靠暖气续命 - 供暖",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -453,24 +463,19 @@
     "partOfSpeech": "形",
     "elements": [
       {
-        "element": "素晴らしい",
-        "method": "TYPE A1",
-        "bridgeC": "素晴らしい 的字面先给出“出色的”这个方向。"
-      },
-      {
         "element": "すばらしい",
-        "method": "固定读音",
-        "bridgeC": "读音 すばらしい 作为固定读法记住"
+        "method": "TYPE B2",
+        "bridgeC": "常见谐音“斯巴拉西”，表示太棒了。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 すばらしい 作为固定读法记住，再用 素晴らしい 的汉字确认意思，这个小插曲就代表“出色的”。重点抓汉字直觉和读音绑定：素晴らしい=出色的，优秀的。",
+    "mergedScene": "日漫里常听到夸张的“斯巴拉西！”用来夸人太棒了。这个谐音很常见，不必再拆。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "素晴らしい - 汉字直觉 + 固定读音 すばらしい - 放进生活场景记“出色的” - 出色的，优秀的",
+    "reviewTip": "すばらしい - 常见谐音“斯巴拉西” - 不拆分，直接绑定出色 - 出色的",
     "difficultyStars": 3,
     "exampleSentences": [
       {
@@ -548,24 +553,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "元旦",
-        "method": "TYPE A1",
-        "bridgeC": "元旦 的字面先给出“新年”这个方向。"
+        "element": "がんたん",
+        "method": "TYPE B2",
+        "bridgeC": "がんたん像“感叹”，元旦感叹又老一岁。"
       },
       {
-        "element": "がんたん",
-        "method": "固定读音",
-        "bridgeC": "读音 がんたん 作为固定读法记住"
+        "element": "元旦",
+        "method": "汉字直觉",
+        "bridgeC": "元旦就是新年第一天。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 がんたん 作为固定读法记住，再用 元旦 的汉字确认意思，这个小插曲就代表“新年”。重点抓汉字直觉和读音绑定：元旦=新年。",
+    "mergedScene": "元旦早上小田看着镜子感叹：怎么又老一岁了。がんたん像“感叹”，这个情绪正好钉住元旦。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "元旦 - 汉字直觉 + 固定读音 がんたん - 放进生活场景记“新年” - 新年",
+    "reviewTip": "がんたん - 谐音“感叹” - 新年第一天感叹又老一岁 - 元旦，新年",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -648,24 +653,24 @@
     "partOfSpeech": "他动·五段",
     "elements": [
       {
-        "element": "許す",
-        "method": "TYPE A1",
-        "bridgeC": "許す 的字面先给出“允许”这个方向。"
+        "element": "ゆるす",
+        "method": "TYPE B2",
+        "bridgeC": "ゆるす像“有露丝”，出轨不能原谅。"
       },
       {
-        "element": "ゆるす",
-        "method": "固定读音",
-        "bridgeC": "读音 ゆるす 作为固定读法记住"
+        "element": "許す",
+        "method": "汉字直觉",
+        "bridgeC": "許表示允许、原谅。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ゆるす 作为固定读法记住，再用 許す 的汉字确认意思，这个小插曲就代表“允许”。重点抓汉字直觉和读音绑定：許す=允许，准许。",
+    "mergedScene": "朋友发现男朋友有了露丝，气到拍桌：这个绝不原谅。ゆるす像“有露丝”，记住允许、原谅。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "許す - 汉字直觉 + 固定读音 ゆるす - 放进生活场景记“允许” - 允许，准许",
+    "reviewTip": "ゆるす - 谐音“有露丝” - 男朋友有了露丝出轨，绝不原谅 - 允许，原谅",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -683,24 +688,29 @@
     "partOfSpeech": "他动·一段",
     "elements": [
       {
-        "element": "知らせる",
-        "method": "TYPE A1",
-        "bridgeC": "知らせる 的汉字先提示核心意思“通知”。"
+        "element": "知=し",
+        "method": "固定读音",
+        "bridgeC": "知常读し。"
       },
       {
-        "element": "しらせる",
-        "method": "TYPE B2",
-        "bridgeC": "谐音\"西路路\" - \"西路路\"通知 - 通知"
+        "element": "らせ",
+        "method": "语法记忆",
+        "bridgeC": "使别人知道。"
+      },
+      {
+        "element": "る",
+        "method": "语法记忆",
+        "bridgeC": "加る动词化。"
       }
     ],
-    "mergedScene": "在打工店的休息室，店长和小田拿着排班表和收据，听到 しらせる 像“西路路”，紧张又真实的打工场景对应“通知”。重点抓发音钩子：知らせる=通知。",
+    "mergedScene": "老师让班长把考试时间告诉全班。知读し，らせ有“使知道”的感觉，加る动词化，就是知らせる。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "しらせる - 谐音“西路路” - \"西路路\"通知 - 通知",
+    "reviewTip": "知(し)+らせ(使…知道)+る - 让别人知道，动词化 - 通知",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -783,24 +793,24 @@
     "partOfSpeech": "他动·五段",
     "elements": [
       {
-        "element": "割る",
-        "method": "TYPE A1",
-        "bridgeC": "割る 的字面先给出“分”这个方向。"
+        "element": "わる",
+        "method": "TYPE B2",
+        "bridgeC": "わる像“挖路”，把路挖开分成两半。"
       },
       {
-        "element": "わる",
-        "method": "固定读音",
-        "bridgeC": "读音 わる 作为固定读法记住"
+        "element": "割る",
+        "method": "汉字直觉",
+        "bridgeC": "割表示分割、打破。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 わる 作为固定读法记住，再用 割る 的汉字确认意思，这个小插曲就代表“分”。重点抓汉字直觉和读音绑定：割る=分，切。",
+    "mergedScene": "施工队把整条路挖开，马路立刻被分成两半。わる像“挖路”，割る就是切、分、打破。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "割る - 汉字直觉 + 固定读音 わる - 放进生活场景记“分” - 分，切",
+    "reviewTip": "わる - 谐音“挖路” - 把路挖开一下就分成两部分 - 切，分，打破",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -812,30 +822,30 @@
   {
     "word": "是非",
     "reading": "ぜひ",
-    "meaning": "正确与错误，对与不对",
+    "meaning": "务必，一定",
     "sourceIndex": 145,
     "sourceMeaningRaw": "[名·副词] ；正确与错误，对与不对；善恶，好与坏；务必，必须；一定；无 论如何；非……不可",
     "partOfSpeech": "名·副词",
     "elements": [
       {
-        "element": "是非",
-        "method": "TYPE A1",
-        "bridgeC": "是非 的字面先给出“正确与错误”这个方向。"
+        "element": "ぜひ",
+        "method": "TYPE B2",
+        "bridgeC": "ぜひ像“贼 he”，务必让这个贼知道。"
       },
       {
-        "element": "ぜひ",
-        "method": "固定读音",
-        "bridgeC": "读音 ぜひ 作为固定读法记住"
+        "element": "是非",
+        "method": "避坑",
+        "bridgeC": "这里作副词，表示务必、一定。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ぜひ 作为固定读法记住，再用 是非 的汉字确认意思，这个小插曲就代表“正确与错误”。重点抓汉字直觉和读音绑定：是非=正确与错误，对与不对。",
+    "mergedScene": "抓到贼以后，大家说务必让这个贼知道自己错了。ぜひ像“贼he”，⚠️作副词时是务必，不是“是非对错”。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "是非 - 汉字直觉 + 固定读音 ぜひ - 放进生活场景记“正确与错误” - 正确与错误，对与不对",
+    "reviewTip": "ぜひ - 谐音“贼 he” - 务必让这个贼知道他错了 - 务必，一定",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1053,24 +1063,24 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "力",
-        "method": "TYPE A1",
-        "bridgeC": "力 的汉字先提示核心意思“力量，力气”。"
-      },
-      {
         "element": "ちから",
         "method": "TYPE B2",
-        "bridgeC": "谐音\"空气\" - \"空气\"中有力量 - 力量"
+        "bridgeC": "ちから像“气卡啦”，气卡住就没力气。"
+      },
+      {
+        "element": "力",
+        "method": "汉字直觉",
+        "bridgeC": "力表示力量。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，听到 ちから 像“空气”，这个小插曲就代表“力量”。重点抓发音钩子：力=力量，力气。",
+    "mergedScene": "拔河比赛最关键时，小田突然气卡住，一点力气都使不出来。ちから像“气卡啦”，就是力量。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "ちから - 谐音“空气” - \"空气\"中有力量 - 力量，力气",
+    "reviewTip": "ちから - 谐音“气卡啦” - 拔河时气卡住，使不上力 - 力量",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1082,30 +1092,35 @@
   {
     "word": "教育",
     "reading": "きょういく",
-    "meaning": "学校（学校の",
+    "meaning": "教育",
     "sourceIndex": 153,
     "sourceMeaningRaw": "[名·他动·サ变] 学校（学校の）；教养（広義の教養）；文化程度（学 力）",
     "partOfSpeech": "名·他动·サ变",
     "elements": [
       {
-        "element": "教育",
-        "method": "TYPE A1",
-        "bridgeC": "教育 的字面先给出“学校（学校の”这个方向。"
+        "element": "教=きょう",
+        "method": "固定读音",
+        "bridgeC": "教在教育里读きょう；今日的今也读きょう。"
+      },
+      {
+        "element": "育=いく",
+        "method": "固定读音",
+        "bridgeC": "育读いく；行く也读いく。"
       },
       {
         "element": "きょういく",
-        "method": "固定读音",
-        "bridgeC": "读音 きょういく 作为固定读法记住"
+        "method": "关联记忆",
+        "bridgeC": "今日行く学校接受教育。"
       }
     ],
-    "mergedScene": "在语言学校教室，小田坐在第一排在课本边写下 教育，读音 きょういく 作为固定读法记住，再用 教育 的汉字确认意思，老师一点名就能想起“学校（学校の”。重点抓汉字直觉和读音绑定：教育=学校（学校の。",
+    "mergedScene": "妈妈一早喊小田：“今日行く学校！”今天去学校干什么？接受教育。教读きょう，育读いく。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "教育 - 汉字直觉 + 固定读音 きょういく - 放进生活场景记“学校（学校の” - 学校（学校の",
+    "reviewTip": "きょういく - 今日(きょう)+行く(いく) - 今日去学校接受教育 - 教育",
     "difficultyStars": 3,
     "exampleSentences": [
       {
@@ -1188,24 +1203,24 @@
     "partOfSpeech": "自动·一段",
     "elements": [
       {
-        "element": "売れる",
-        "method": "TYPE A1",
-        "bridgeC": "売れる 的字面先给出“畅销”这个方向。"
+        "element": "うれる",
+        "method": "TYPE B2",
+        "bridgeC": "うれる像“呜，来噜”，叫卖把人叫来就卖得多。"
       },
       {
-        "element": "うれる",
-        "method": "固定读音",
-        "bridgeC": "读音 うれる 作为固定读法记住"
+        "element": "売れる",
+        "method": "汉字直觉",
+        "bridgeC": "売表示卖。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 うれる 作为固定读法记住，再用 売れる 的汉字确认意思，这个小插曲就代表“畅销”。重点抓汉字直觉和读音绑定：売れる=畅销，好卖。",
+    "mergedScene": "夜市摊主一直喊“来一来，看一看”，客人真的来了，东西也卖出去了。うれる像“呜，来噜”，就是畅销、好卖。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "売れる - 汉字直觉 + 固定读音 うれる - 放进生活场景记“畅销” - 畅销，好卖",
+    "reviewTip": "うれる - 谐音“呜，来噜！” - 小摊叫卖来一来看一看，所以卖得多 - 畅销",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1288,24 +1303,24 @@
     "partOfSpeech": "副词",
     "elements": [
       {
-        "element": "急に",
-        "method": "TYPE A1",
-        "bridgeC": "急に 的字面先给出“忽然”这个方向。"
+        "element": "急=きゅう",
+        "method": "固定读音",
+        "bridgeC": "急常读きゅう。"
       },
       {
         "element": "きゅうに",
-        "method": "固定读音",
-        "bridgeC": "读音 きゅうに 作为固定读法记住"
+        "method": "TYPE B2",
+        "bridgeC": "像“Q你”，消息突然Q你。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 きゅうに 作为固定读法记住，再用 急に 的汉字确认意思，这个小插曲就代表“忽然”。重点抓汉字直觉和读音绑定：急に=忽然，突然。",
+    "mergedScene": "手机突然弹出消息 Q 你一下，小田毫无准备被吓一跳。きゅうに就是忽然、突然。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "急に - 汉字直觉 + 固定读音 きゅうに - 放进生活场景记“忽然” - 忽然，突然",
+    "reviewTip": "きゅうに - 急(きゅう)+に；谐音“Q你” - 消息突然Q你一下 - 突然",
     "difficultyStars": 1,
     "exampleSentences": [
       {

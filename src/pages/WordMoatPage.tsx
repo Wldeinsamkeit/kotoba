@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react'
+import { useCallback, useEffect, useState, type KeyboardEvent } from 'react'
 import { Link } from 'react-router-dom'
 import { gaokaoMoatVocab } from '../data/gaokaoMoatVocab'
 import type { MoatVocabEntry } from '../types'
@@ -33,6 +33,12 @@ const GENERIC_DISTRACTORS = [
   '光滑的',
   '古老的',
 ]
+
+function shouldToggleCard(event: KeyboardEvent<HTMLElement>) {
+  if (event.key !== 'Enter' && event.key !== ' ') return false
+  event.preventDefault()
+  return true
+}
 
 function buildQuizQuestions(pool: MoatVocabEntry[], count: number): QuizQ[] {
   if (pool.length === 0) return []
@@ -164,10 +170,14 @@ export function WordMoatPage() {
                     打开生词本
                   </Link>
                 </div>
-                <button
-                  type="button"
+                <div
+                  role="button"
+                  tabIndex={0}
                   className={`moat-flip-card ${flipped ? 'is-flipped' : ''}`}
                   onClick={() => setFlipped((f) => !f)}
+                  onKeyDown={(event) => {
+                    if (shouldToggleCard(event)) setFlipped((f) => !f)
+                  }}
                   aria-label={flipped ? '显示正面' : '显示背面'}
                 >
                   {!flipped ? (
@@ -206,7 +216,7 @@ export function WordMoatPage() {
                       )}
                     </div>
                   )}
-                </button>
+                </div>
                 <div className="moat-card-nav">
                   <button type="button" className="moat-nav-btn" onClick={goPrev}>
                     上一词

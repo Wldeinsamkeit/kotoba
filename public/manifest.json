@@ -1,0 +1,44 @@
+{
+  "name": "言葉",
+  "short_name": "言葉",
+  "description": "剧情闯关式日语学习网站，跟随在日留学生小田完成每日课程、基础会话、N5/N4 单词记忆、跟读和智能测试。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4ec",
+  "theme_color": "#f7f4ec",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "zh-CN",
+  "categories": ["education", "language"],
+  "icons": [
+    {
+      "src": "/app-icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon-1024.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "单词记忆",
+      "short_name": "单词",
+      "description": "开始单词记忆复习",
+      "url": "/lessons/words/memory",
+      "icons": [{ "src": "/app-icon-1024.png", "sizes": "1024x1024" }]
+    },
+    {
+      "name": "课程学习",
+      "short_name": "课程",
+      "description": "继续课程学习",
+      "url": "/lessons",
+      "icons": [{ "src": "/app-icon-1024.png", "sizes": "1024x1024" }]
+    }
+  ]
+}

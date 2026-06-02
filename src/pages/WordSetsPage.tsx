@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { BATCH_SIZE, getMemoryMethodCount } from '../data/memoryMethods'
 
 type WordSet = {
   id: string
@@ -22,7 +23,7 @@ export const wordSets: WordSet[] = [
     description: 'JLPT最低级别，适合零基础初学者',
     icon: '五',
     path: '/lessons/words/n5',
-    count: 673,
+    count: getMemoryMethodCount('n5'),
     tag: '热门',
     level: 1,
   },
@@ -33,8 +34,8 @@ export const wordSets: WordSet[] = [
     description: '掌握基本日常交流所需的词汇',
     icon: '四',
     path: '/lessons/words/n4',
-    count: 1175,
-    tag: '新增',
+    count: BATCH_SIZE * 9,
+    tag: '前9组',
     level: 2,
   },
   {
@@ -44,9 +45,11 @@ export const wordSets: WordSet[] = [
     description: '从初级到中级的过渡词汇',
     icon: '三',
     path: '/lessons/words/n3',
-    count: 2691,
-    tag: '新增',
+    count: getMemoryMethodCount('n3'),
+    tag: '更新中',
     level: 3,
+    disabled: true,
+    statusText: '维护更新',
   },
   {
     id: 'n2',
@@ -56,8 +59,10 @@ export const wordSets: WordSet[] = [
     icon: '二',
     path: '/lessons/words/n2',
     count: 0,
-    tag: '待添加',
+    tag: '更新中',
     level: 4,
+    disabled: true,
+    statusText: '维护更新',
   },
   {
     id: 'n1',
@@ -67,8 +72,10 @@ export const wordSets: WordSet[] = [
     icon: '一',
     path: '/lessons/words/n1',
     count: 0,
-    tag: '待添加',
+    tag: '更新中',
     level: 5,
+    disabled: true,
+    statusText: '维护更新',
   },
   {
     id: 'gaokao',
@@ -81,7 +88,7 @@ export const wordSets: WordSet[] = [
     tag: '更新中',
     level: 3,
     disabled: true,
-    statusText: '暂不可用',
+    statusText: '维护更新',
   },
 ]
 
@@ -104,6 +111,8 @@ export function WordSetsList({ compact = false }: { compact?: boolean }) {
     <div className={compact ? 'word-sets-list compact' : 'word-sets-list'}>
       {wordSets.map((set) => {
         const isDisabled = Boolean(set.disabled || set.count === 0)
+        const effectiveTag = set.tag
+        const effectiveStatusText = set.statusText
         const cardContent = (
           <>
           <div className="wsc-left">
@@ -125,10 +134,10 @@ export function WordSetsList({ compact = false }: { compact?: boolean }) {
 
           <div className="wsc-right">
             <span className={`wsc-tag ${isDisabled ? 'tag-locked' : 'tag-active'}`}>
-              {set.tag}
+              {effectiveTag}
             </span>
             <span className="wsc-count">
-              {set.statusText ?? (set.count && set.count > 0 ? `${set.count} 词` : '暂无数据')}
+              {effectiveStatusText ?? (set.count && set.count > 0 ? `${set.count} 词` : '暂无数据')}
             </span>
             <span className="wsc-arrow">→</span>
           </div>

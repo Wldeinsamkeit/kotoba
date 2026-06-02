@@ -10,6 +10,4 @@ export default defineConfig({
     strictPort: false, // Use alternative port if 5173 is taken
   },
   publicDir: 'public',
-  // 确保静态资源可以从根路径访问
-  assetsInclude: ['**/*.json'],
 })

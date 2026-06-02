@@ -1,17 +1,16 @@
 import { useState, useRef } from 'react'
 
-const HIRAGANA_KEYS = [
-  'あ', 'い', 'う', 'え', 'お',
-  'か', 'き', 'く', 'け', 'こ',
-  'さ', 'し', 'す', 'せ', 'そ',
-  'た', 'ち', 'つ', 'て', 'と',
-  'な', 'に', 'ぬ', 'ね', 'の',
-  'は', 'ひ', 'ふ', 'へ', 'ほ',
-  'ま', 'み', 'む', 'め', 'も',
-  'や', 'ゆ', 'よ',
-  'ら', 'り', 'る', 'れ', 'ろ',
-  'わ', 'を', 'ん',
-  'ー', 'っ', '・',
+const HIRAGANA_ROWS: string[][] = [
+  ['あ', 'い', 'う', 'え', 'お'],
+  ['か', 'き', 'く', 'け', 'こ'],
+  ['さ', 'し', 'す', 'せ', 'そ'],
+  ['た', 'ち', 'つ', 'て', 'と'],
+  ['な', 'に', 'ぬ', 'ね', 'の'],
+  ['は', 'ひ', 'ふ', 'へ', 'ほ'],
+  ['ま', 'み', 'む', 'め', 'も'],
+  ['や', 'ゆ', 'よ', '・', ''],
+  ['ら', 'り', 'る', 'れ', 'ろ'],
+  ['わ', 'を', 'ん', 'ー', 'っ'],
 ]
 
 type JapaneseInputProps = {
@@ -89,16 +88,24 @@ export function JapaneseInput({
           {keyboardVisible && (
             <div className="japanese-kana-pad" role="group" aria-label="假名输入面板">
               <div className="japanese-kana-keys">
-                {HIRAGANA_KEYS.map((kana) => (
-                  <button
-                    key={kana}
-                    type="button"
-                    className="japanese-kana-key"
-                    onClick={() => insertKana(kana)}
-                    aria-label={`插入${kana}`}
-                  >
-                    {kana}
-                  </button>
+                {HIRAGANA_ROWS.map((row, ri) => (
+                  <div key={ri} className="japanese-kana-row">
+                    {row.map((kana, ci) =>
+                      kana ? (
+                        <button
+                          key={`${ri}-${ci}-${kana}`}
+                          type="button"
+                          className="japanese-kana-key"
+                          onClick={() => insertKana(kana)}
+                          aria-label={`插入${kana}`}
+                        >
+                          {kana}
+                        </button>
+                      ) : (
+                        <span key={`${ri}-${ci}-empty`} className="japanese-kana-key-spacer" aria-hidden />
+                      ),
+                    )}
+                  </div>
                 ))}
               </div>
             </div>

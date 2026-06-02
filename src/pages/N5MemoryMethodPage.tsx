@@ -1,57 +1,41 @@
 import { useState, useCallback, useMemo, useEffect } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useSearchParams } from 'react-router-dom'
 import { speakJapaneseAsync, stopJapaneseSpeech } from '../lib/japaneseSpeech'
 import { getSRS } from '../lib/srs'
+import {
+  getMemoryMethodBatch,
+  getMemoryMethodBatchCount,
+  getMemoryMethodCount,
+  type MemoryMethodEntry,
+  type WordLevel,
+} from '../data/memoryMethods'
 
-type MemoryMethodEntry = {
-  word: string
-  reading: string
-  meaning: string
-  elements: Array<{
-    element: string
-    method: string
-    bridgeC: string
-  }>
-  mergedScene: string
-  sceneScore: {
-    specific: boolean
-    emotional: boolean
-    personal: boolean
-    total: number
-  }
-  reviewTip: string
-  difficultyStars: number
-  exampleSentences?: Array<{
-    ja: string
-    zh: string
-  }>
-}
-
-type WordLevel = 'n5' | 'n4' | 'n3'
+const MEMORY_LEVEL_STORAGE_KEY = 'kotoba-memory-level'
 
 const WORD_LEVELS: Array<{
   id: WordLevel
   title: string
   subtitle: string
   icon: string
-  batchCount: number
 }> = [
-  { id: 'n5', title: 'N5 词汇', subtitle: '入门基础', icon: '五', batchCount: 17 },
-  { id: 'n4', title: 'N4 词汇', subtitle: '日常会话', icon: '四', batchCount: 30 },
-  { id: 'n3', title: 'N3 词汇', subtitle: '中级进阶', icon: '三', batchCount: 53 },
+  { id: 'n5', title: 'N5 词汇', subtitle: '入门基础', icon: '五' },
+  { id: 'n4', title: 'N4 词汇', subtitle: '日常会话', icon: '四' },
+  { id: 'n3', title: 'N3 词汇', subtitle: '中级进阶', icon: '三' },
 ]
 
-async function loadMemoryMethods(level: WordLevel, batchNum: number): Promise<MemoryMethodEntry[]> {
-  try {
-    const path = level === 'n5'
-      ? `/data/memory_methods/batch_${String(batchNum).padStart(2, '0')}_methods.json`
-      : `/data/memory_methods/${level}/batch_${String(batchNum).padStart(2, '0')}_methods.json`
-    const response = await fetch(path)
-    if (!response.ok) throw new Error('Failed to load')
-    return await response.json()
-  } catch {
-    return []
+function parseWordLevel(value: string | null): WordLevel | null {
+  if (value === 'n5' || value === 'n4' || value === 'n3') return value
+  return null
+}
+
+function readInitialLevel(searchParams: URLSearchParams): WordLevel {
+  const fromQuery = parseWordLevel(searchParams.get('level'))
+  if (fromQuery) return fromQuery
+  if (typeof window !== 'undefined') {
+    const stored = parseWordLevel(window.localStorage.getItem(MEMORY_LEVEL_STORAGE_KEY))
+    if (stored) return stored
   }
+  return 'n5'
 }
 
 function PlayButton({ text, size = 'md' }: { text: string; size?: 'sm' | 'md' | 'lg' }) {
@@ -88,7 +72,8 @@ function PlayButton({ text, size = 'md' }: { text: string; size?: 'sm' | 'md' | 
 }
 
 export function N5MemoryMethodPage() {
-  const [level, setLevel] = useState<WordLevel>('n5')
+  const [searchParams] = useSearchParams()
+  const [level, setLevel] = useState<WordLevel>(() => readInitialLevel(searchParams))
   const [batchNum, setBatchNum] = useState(1)
   const [allWords, setAllWords] = useState<MemoryMethodEntry[]>([])
   const [loading, setLoading] = useState(true)
@@ -99,19 +84,33 @@ export function N5MemoryMethodPage() {
   const srs = useMemo(() => getSRS(), [tick])
 
   const currentLevel = WORD_LEVELS.find((l) => l.id === level)!
+  const batchCount = getMemoryMethodBatchCount(level)
+  const levelWordCount = getMemoryMethodCount(level)
 
-  // 加载批次数据
-  const loadBatch = useCallback(async (lv: WordLevel, num: number) => {
+  const loadBatch = useCallback((lv: WordLevel, num: number) => {
     setLoading(true)
-    const data = await loadMemoryMethods(lv, num)
-    setAllWords(data)
+    setAllWords(getMemoryMethodBatch(lv, num))
     setLoading(false)
   }, [])
 
-  // 初始加载
+  useEffect(() => {
+    const fromQuery = parseWordLevel(searchParams.get('level'))
+    if (fromQuery) {
+      setLevel(fromQuery)
+      setBatchNum(1)
+      setCurrentCardIndex(0)
+    }
+  }, [searchParams])
+
   useEffect(() => {
     loadBatch(level, batchNum)
   }, [level, batchNum, loadBatch])
+
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      window.localStorage.setItem(MEMORY_LEVEL_STORAGE_KEY, level)
+    }
+  }, [level])
 
   // 筛选需要背诵的单词
   const words = useMemo(() => {
@@ -150,6 +149,12 @@ export function N5MemoryMethodPage() {
     setTick((n) => n + 1)
   }
 
+  useEffect(() => {
+    if (batchNum > batchCount && batchCount > 0) {
+      setBatchNum(1)
+    }
+  }, [batchCount, batchNum])
+
   return (
     <div className="page memory-method-page">
       <header className="page-header">
@@ -170,7 +175,9 @@ export function N5MemoryMethodPage() {
             <span className="level-icon">{lv.icon}</span>
             <div className="level-info">
               <span className="level-title">{lv.title}</span>
-              <span className="level-sub">{lv.subtitle}</span>
+              <span className="level-sub">
+                {lv.subtitle} · {getMemoryMethodCount(lv.id)} 词
+              </span>
             </div>
           </button>
         ))}
@@ -179,7 +186,7 @@ export function N5MemoryMethodPage() {
       {/* 批次选择 */}
       <section className="memory-batch-selector">
         <div className="batch-scroll">
-          {Array.from({ length: currentLevel.batchCount }, (_, i) => i + 1).map((n) => (
+          {Array.from({ length: batchCount }, (_, i) => i + 1).map((n) => (
             <button
               key={n}
               className={`batch-chip ${batchNum === n ? 'active' : ''}`}
@@ -255,7 +262,11 @@ export function N5MemoryMethodPage() {
 
       {/* 空状态 */}
       {!loading && words.length === 0 && (
-        <div className="memory-empty">该批次暂无单词数据</div>
+        <div className="memory-empty">
+          {levelWordCount === 0
+            ? `${currentLevel.title} 暂无记忆法数据`
+            : '该批次暂无单词数据'}
+        </div>
       )}
     </div>
   )

@@ -228,7 +228,7 @@ const lessonPool: Lesson[] = [
       { word: 'ぐらい', reading: '', meaning: '左右/大约' },
       { word: 'すみません', reading: '', meaning: '不好意思' },
       { word: 'わかりました', reading: '', meaning: '明白了' },
-      { word: '待ちますか', reading: '', meaning: '要等吗/等多久' },
+      { word: '待ちますか', reading: 'まちますか', meaning: '要等吗/等多久' },
     ],
     grammar:
       '「どのくらい＋动词」询问程度/时长；「～ぐらい」表示大约。',
@@ -835,7 +835,7 @@ const lessonPool: Lesson[] = [
     vocabulary: [
       { word: 'はじめまして', reading: '', meaning: '初次见面' },
       { word: '学生', reading: 'がくせい', meaning: '学生' },
-      { word: 'よろしくお願いします', reading: '', meaning: '请多关照' },
+      { word: 'よろしくお願いします', reading: 'よろしくおねがいします', meaning: '请多关照' },
       { word: 'こちらこそ', reading: '', meaning: '我才是/彼此彼此' },
       { word: 'わたし', reading: '', meaning: '我' },
       { word: '～です', reading: '', meaning: '是…（判断句）' },
@@ -1665,7 +1665,7 @@ const lessonPool: Lesson[] = [
       { word: 'どうぞ', reading: '', meaning: '请' },
       { word: '部屋', reading: 'へや', meaning: '房间' },
       { word: '三階', reading: 'さんがい', meaning: '三楼' },
-      { word: '前台', reading: '', meaning: '前台' },
+      { word: '受付', reading: 'うけつけ', meaning: '接待处/前台' },
     ],
     grammar:
       '「予約しています」表示处于已经预约的状态；酒店前台常用「名词をお願いします」要求出示物品。',

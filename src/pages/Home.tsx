@@ -158,12 +158,26 @@ function WebHome() {
 
       {/* 单词背诵 - 移动端优先入口 */}
       <section className="vocab-mvp-card" aria-label="单词背诵">
-        <Link to="/lessons/words/n5" className="vocab-mvp-link">
+        <Link to="/lessons/words" className="vocab-mvp-link">
           <div className="vocab-mvp-left">
             <span className="vocab-mvp-icon">単</span>
             <div>
               <h2>单词背诵</h2>
               <p>N5 → N4 → 高考，谐音联想记得牢</p>
+            </div>
+          </div>
+          <span className="vocab-mvp-arrow">→</span>
+        </Link>
+      </section>
+
+      {/* 会员中心入口 */}
+      <section className="vocab-mvp-card pricing-entry-card" aria-label="会员中心">
+        <Link to="/pricing" className="vocab-mvp-link">
+          <div className="vocab-mvp-left">
+            <span className="vocab-mvp-icon" style={{ background: 'linear-gradient(135deg, #c96442, #d97757)' }}>会</span>
+            <div>
+              <h2>会员中心</h2>
+              <p>N5 免费体验 · N4/N3 记忆法包即将开放</p>
             </div>
           </div>
           <span className="vocab-mvp-arrow">→</span>

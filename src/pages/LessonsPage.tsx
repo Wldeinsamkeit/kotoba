@@ -73,7 +73,7 @@ export function LessonsPage() {
             <Link className="hero-btn-primary" to={`/lessons/${nextLesson.id}`}>
               继续第 {nextLessonIndex + 1} 集 →
             </Link>
-            <Link className="hero-btn-secondary" to="/lessons/words/memory">
+            <Link className="hero-btn-secondary" to="/lessons/words">
               单词卡复习 →
             </Link>
           </div>

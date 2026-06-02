@@ -120,7 +120,15 @@ export function IosHome() {
         <section className="ios-card ios-path-card" aria-labelledby="ios-today-path">
           <p className="ios-eyebrow" id="ios-today-path">今日路径</p>
           <div className="ios-mini-path">
-            <Link className="ios-path-step primary" to="/lessons">
+            <Link className="ios-path-step primary" to="/lessons/words">
+              <span className="ios-path-node">記</span>
+              <div>
+                <strong>单词背诵</strong>
+                <p>{vocabularyCount} 个生词 · 记忆法复习</p>
+              </div>
+              <span className="ios-tag">Next</span>
+            </Link>
+            <Link className="ios-path-step" to="/lessons">
               <span className="ios-path-node">課</span>
               <div>
                 <strong>课程学习</strong>
@@ -128,13 +136,12 @@ export function IosHome() {
               </div>
               <span className="ios-num">{coursePercent}%</span>
             </Link>
-            <Link className="ios-path-step" to="/lessons/words/memory">
-              <span className="ios-path-node">記</span>
+            <Link className="ios-path-step" to="/pricing">
+              <span className="ios-path-node" style={{ background: 'linear-gradient(135deg, #c96442, #d97757)', color: '#fff' }}>会</span>
               <div>
-                <strong>单词背诵</strong>
-                <p>{vocabularyCount} 个生词 · 记忆法复习</p>
+                <strong>会员中心</strong>
+                <p>N5 免费 · N4/N3 记忆法包</p>
               </div>
-              <span className="ios-tag">Next</span>
             </Link>
           </div>
         </section>
@@ -164,7 +171,7 @@ export function IosHome() {
         <nav className="ios-tabbar" aria-label="iOS 首页导航">
           <Link className="active" to="/">今日</Link>
           <Link to="/lessons">课程</Link>
-          <Link to="/lessons/words/memory">单词</Link>
+          <Link to="/lessons/words">单词</Link>
           <Link to="/account">账户</Link>
         </nav>
       </main>

@@ -3436,57 +3436,50 @@ a:hover {
   font-weight: 500;
 }
 
-/* 横版假名键盘 */
+/* 横版假名键盘 — 宽扁五十音网格 */
 .japanese-kana-pad {
-  padding: var(--space-4);
+  width: 100%;
+  padding: var(--space-3);
   background-color: var(--warm-sand);
   border-radius: var(--radius-generous);
   border: 1px solid var(--border-cream);
+  box-sizing: border-box;
 }
 
 .japanese-kana-keys {
   display: flex;
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  gap: var(--space-2);
-  scroll-behavior: smooth;
-  /* 隐藏滚动条但保持可滚动 */
-  scrollbar-width: thin;
-  scrollbar-color: var(--border-warm) transparent;
+  flex-direction: column;
+  gap: 6px;
+  width: 100%;
 }
 
-.japanese-kana-keys::-webkit-scrollbar {
-  height: 6px;
+.japanese-kana-row {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 6px;
+  width: 100%;
 }
 
-.japanese-kana-keys::-webkit-scrollbar-track {
-  background: transparent;
-  border-radius: 3px;
-}
-
-.japanese-kana-keys::-webkit-scrollbar-thumb {
-  background-color: var(--border-warm);
-  border-radius: 3px;
-}
-
-.japanese-kana-keys::-webkit-scrollbar-thumb:hover {
-  background-color: var(--stone-gray);
+.japanese-kana-key-spacer {
+  display: block;
+  min-height: 0;
 }
 
 .japanese-kana-key {
-  flex-shrink: 0;
-  min-width: 44px;
-  height: 44px;
+  width: 100%;
+  aspect-ratio: 1.15;
+  min-height: 40px;
+  max-height: 52px;
   font-family: var(--font-ja);
   border: 1px solid var(--border-cream);
-  border-radius: var(--radius-generous);
+  border-radius: var(--radius-soft);
   background-color: var(--ivory);
   color: var(--anthropic-near-black);
   cursor: pointer;
   padding: 0;
-  font-size: 1.1rem;
+  font-size: clamp(1rem, 3.8vw, 1.2rem);
   font-weight: 500;
-  transition: all 0.15s;
+  transition: background-color 0.15s, border-color 0.15s, color 0.15s;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -3495,25 +3488,24 @@ a:hover {
 .japanese-kana-key:hover {
   background-color: var(--terracotta-brand);
   border-color: var(--terracotta-brand);
-  color: white;
-  transform: translateY(-1px);
+  color: var(--ivory);
 }
 
 .japanese-kana-key:active {
-  transform: translateY(0);
+  transform: scale(0.96);
 }
 
 /* 触摸设备优化 */
 @media (hover: none) {
   .japanese-kana-key {
-    min-width: 48px;
-    height: 48px;
+    min-height: 44px;
+    max-height: 56px;
   }
 
   .japanese-kana-key:active {
     background-color: var(--terracotta-brand);
     border-color: var(--terracotta-brand);
-    color: white;
+    color: var(--ivory);
   }
 }
 .smart-quiz-intro {
@@ -7996,8 +7988,8 @@ a:hover {
   .vocabulary-grid {
     grid-template-columns: 1fr;
     gap: var(--space-3);
-    padding: 0;
-  }
+  padding: 0;
+}
 
   /* 优化生词卡片 */
   .vocabulary-card {
@@ -8256,6 +8248,759 @@ a:hover {
 .back-link:hover {
   color: var(--terracotta-brand);
 }
+
+/* ============================================================
+   Unified Word Study Flow
+   ============================================================ */
+
+.word-study-page {
+  width: min(100%, 980px);
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: calc(22px + env(safe-area-inset-top)) 20px calc(132px + env(safe-area-inset-bottom));
+  box-sizing: border-box;
+}
+
+.word-study-header {
+  margin-bottom: 28px;
+}
+
+.word-study-header h1 {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: clamp(2.5rem, 10vw, 4rem);
+  line-height: 1.05;
+}
+
+.word-study-dashboard {
+  display: grid;
+  grid-template-columns: 148px 1fr;
+  gap: 28px;
+  padding: 26px;
+  border: 1px solid var(--border-cream);
+  border-radius: 18px;
+  background: #fffefa;
+  box-shadow: 0 18px 54px #14141312;
+}
+
+.word-study-book {
+  aspect-ratio: 0.76;
+  border: 1px solid #e5e0d2;
+  border-radius: 14px;
+  background: linear-gradient(160deg, #f9f7ef, #e8e6dc);
+  display: grid;
+  place-items: center;
+  color: var(--terracotta-brand);
+  font-family: var(--font-ja);
+  font-size: 3.6rem;
+  font-weight: 700;
+}
+
+.word-study-book-n4 {
+  background: linear-gradient(160deg, #c96442, #d97757);
+  color: #fff;
+  border-color: #c96442;
+}
+
+.word-study-summary {
+  min-width: 0;
+}
+
+.word-study-title-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.word-study-title-row h2 {
+  margin: 0;
+  color: var(--anthropic-near-black);
+  font-family: var(--font-serif);
+  font-size: clamp(1.6rem, 4.8vw, 2.5rem);
+}
+
+.word-study-title-row p {
+  margin: 8px 0 0;
+  color: var(--stone-gray);
+}
+
+.word-study-pen {
+  width: 44px;
+  height: 44px;
+  border: 0;
+  border-radius: 10px;
+  background: var(--parchment);
+  color: var(--anthropic-near-black);
+  cursor: pointer;
+  font-size: 1.65rem;
+  line-height: 1;
+}
+
+.word-study-days {
+  width: fit-content;
+  margin: 28px 0 24px;
+  padding: 8px 18px;
+  border: 1px solid var(--border-cream);
+  border-radius: 999px;
+  color: var(--olive-gray);
+  background: #fff;
+  box-shadow: 0 2px 0 #e8e3d5;
+}
+
+.word-study-days strong {
+  color: var(--terracotta-brand);
+  font-size: 1.15em;
+}
+
+.word-study-progress {
+  height: 12px;
+  border-radius: 999px;
+  background: #ece8dc;
+  overflow: hidden;
+}
+
+.word-study-progress span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #b42112, var(--terracotta-brand));
+  transition: width 0.3s ease;
+}
+
+.word-study-statline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  color: var(--olive-gray);
+  font-size: 0.96rem;
+}
+
+.word-study-statline span {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.word-study-statline .dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.word-study-statline .mastered {
+  background: #d41d10;
+}
+
+.word-study-statline .learned {
+  background: #eadbdd;
+}
+
+.word-study-list-note {
+  margin-left: auto;
+}
+
+.word-study-actions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  margin-top: 42px;
+}
+
+.word-study-actions button,
+.word-study-start,
+.word-recall-actions button,
+.word-quiz-options button {
+  min-height: 58px;
+  border: 1px solid #e0ddd1;
+  border-radius: 12px;
+  background: #fff;
+  color: var(--anthropic-near-black);
+  cursor: pointer;
+  font-weight: 700;
+  transition: transform 0.15s, border-color 0.15s, background 0.15s;
+}
+
+.word-study-actions button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
+
+.word-study-actions button small {
+  color: var(--stone-gray);
+  font-weight: 500;
+}
+
+.word-study-actions button.active {
+  border-color: #c9644266;
+  box-shadow: 0 0 0 3px #c9644214;
+}
+
+.word-study-actions .primary,
+.word-study-start {
+  background: var(--terracotta-brand);
+  color: #fff;
+  border-color: var(--terracotta-brand);
+}
+
+.word-study-actions .primary small {
+  color: #fff8;
+}
+
+.word-study-start {
+  width: 100%;
+  margin-top: 18px;
+  font-size: 1.05rem;
+}
+
+.word-settings-page,
+.word-session-page,
+.word-detail-page {
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.word-settings-header,
+.word-session-header {
+  min-height: 52px;
+  display: grid;
+  grid-template-columns: 52px 1fr 52px;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.word-settings-header h1 {
+  margin: 0;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.word-settings-header button,
+.word-session-header button {
+  min-height: 44px;
+  border: 0;
+  border-radius: 10px;
+  background: transparent;
+  color: var(--anthropic-near-black);
+  cursor: pointer;
+  font-size: 1.35rem;
+}
+
+.word-settings-header .word-settings-save {
+  color: var(--terracotta-brand);
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.word-settings-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 36px;
+  margin-bottom: 36px;
+}
+
+.word-settings-tabs button {
+  border: 0;
+  background: transparent;
+  color: var(--stone-gray);
+  cursor: pointer;
+  padding: 0 0 8px;
+  font-weight: 700;
+}
+
+.word-settings-tabs .active {
+  color: var(--anthropic-near-black);
+  border-bottom: 4px solid var(--terracotta-brand);
+}
+
+.word-settings-section + .word-settings-section {
+  margin-top: 42px;
+}
+
+.word-settings-section h2 {
+  margin: 0 0 18px;
+  font-size: 1.05rem;
+}
+
+.word-size-picker {
+  min-height: 290px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 42px;
+  align-items: center;
+  gap: 12px;
+}
+
+.word-size-wheel {
+  grid-column: 1;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-height: 260px;
+  padding: 100px 0;
+  overflow-y: auto;
+  scroll-snap-type: y mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.word-size-wheel::-webkit-scrollbar {
+  display: none;
+}
+
+.word-size-wheel button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 64px;
+  width: 88px;
+  margin: 0 auto;
+  min-height: 64px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: #a1a09a;
+  cursor: pointer;
+  font-size: 1.15rem;
+  scroll-snap-align: center;
+}
+
+.word-size-wheel button.active {
+  width: 104px;
+  color: #fff;
+  font-size: 1.7rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, #b98a3f, #d2a85b);
+  box-shadow: 0 10px 24px #b98a3f45;
+  text-shadow: 0 1px 8px #0002;
+}
+
+.word-size-wheel button.active::after {
+  content: "词";
+  margin-left: 5px;
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.word-size-pointer {
+  grid-column: 2;
+  width: 0;
+  height: 0;
+  border-top: 9px solid transparent;
+  border-bottom: 9px solid transparent;
+  border-right: 13px solid #8b887e;
+  justify-self: center;
+  align-self: center;
+}
+
+.word-mode-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.word-mode-grid button {
+  min-height: 132px;
+  padding: 18px;
+  border: 1px solid var(--border-cream);
+  border-radius: 14px;
+  background: #fff;
+  cursor: pointer;
+  display: grid;
+  justify-items: center;
+  align-content: center;
+  gap: 8px;
+}
+
+.word-mode-grid button.active {
+  border-color: #c9644266;
+  background: #fff8f4;
+}
+
+.word-mode-grid .mode-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  background: var(--parchment);
+  display: grid;
+  place-items: center;
+  color: var(--terracotta-brand);
+  font-family: var(--font-ja);
+  font-size: 1.35rem;
+}
+
+.word-mode-grid small,
+.word-settings-footnote {
+  color: var(--stone-gray);
+  text-align: center;
+  line-height: 1.45;
+}
+
+.word-settings-footnote {
+  margin-top: 28px;
+}
+
+.word-session-progress {
+  display: grid;
+  gap: 7px;
+}
+
+.word-session-progress strong {
+  text-align: center;
+}
+
+.word-session-progress span {
+  height: 7px;
+  border-radius: 999px;
+  background: #e9e5d9;
+  overflow: hidden;
+}
+
+.word-session-progress i {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: var(--terracotta-brand);
+}
+
+.word-session-detail {
+  font-family: var(--font-ja);
+}
+
+.word-study-card {
+  width: 100%;
+  min-height: min(56vh, 540px);
+  border: 1px solid #e0ddd1;
+  border-radius: 18px;
+  background: #fffefa;
+  box-shadow: 0 18px 48px #14141310;
+  cursor: pointer;
+  padding: 24px;
+  text-align: center;
+}
+
+.word-card-face {
+  min-height: calc(min(56vh, 540px) - 50px);
+  display: grid;
+  place-items: center;
+  align-content: center;
+  gap: 18px;
+}
+
+.word-card-pill {
+  justify-self: start;
+  min-height: 34px;
+  padding: 6px 14px;
+  border-radius: 999px;
+  background: var(--parchment);
+  color: var(--terracotta-brand);
+  font-weight: 700;
+}
+
+.word-sound-orb {
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  background: #e8e6dc;
+  display: grid;
+  place-items: center;
+  color: var(--anthropic-near-black);
+  font-family: var(--font-ja);
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.word-card-main-word,
+.word-detail-main-word {
+  color: var(--anthropic-near-black);
+  font-family: var(--font-ja);
+  font-size: clamp(3.9rem, 19vw, 7rem);
+  font-weight: 700;
+  line-height: 1.05;
+}
+
+.word-card-main-word {
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", var(--font-ja), serif;
+  font-size: clamp(4.4rem, 20vw, 7.4rem);
+  font-weight: 600;
+  justify-self: center;
+  text-align: center;
+}
+
+.word-card-main-word rt,
+.word-detail-main-word rt {
+  color: var(--stone-gray);
+  font-size: 0.24em;
+  font-weight: 500;
+}
+
+.word-card-reading,
+.word-detail-reading {
+  color: var(--stone-gray);
+  font-family: var(--font-ja);
+  font-size: 1.35rem;
+}
+
+.word-answer-ok {
+  color: var(--sage-deep);
+}
+
+.word-answer-ng {
+  color: #b53333;
+}
+
+.word-quiz-options {
+  margin-top: 18px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.word-quiz-options p {
+  grid-column: 1 / -1;
+  color: var(--stone-gray);
+  text-align: center;
+}
+
+.word-quiz-options button {
+  padding: 14px 16px;
+  min-height: 64px;
+  font-size: 1rem;
+}
+
+.word-quiz-options button.correct {
+  border-color: #6b9080;
+  background: #6b90801f;
+  color: #476f5f;
+}
+
+.word-quiz-options button.wrong {
+  border-color: #b53333;
+  background: #b5333318;
+  color: #b53333;
+}
+
+.word-card-back {
+  text-align: left;
+  place-items: stretch;
+}
+
+.word-card-back strong {
+  font-size: 1.8rem;
+}
+
+.word-card-back p,
+.word-card-back small {
+  color: var(--olive-gray);
+  line-height: 1.75;
+}
+
+.word-recall-actions {
+  margin-top: 18px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.word-recall-actions .primary {
+  background: var(--terracotta-brand);
+  border-color: var(--terracotta-brand);
+  color: #fff;
+}
+
+.word-detail-card {
+  padding: 26px;
+  border: 1px solid var(--border-cream);
+  border-radius: 18px;
+  background: #fffefa;
+  box-shadow: 0 18px 48px #14141310;
+  text-align: left;
+}
+
+.word-detail-main-word {
+  display: block;
+  width: 100%;
+  text-align: left;
+  font-size: clamp(3.4rem, 16vw, 6rem);
+}
+
+.word-detail-reading,
+.word-detail-meaning {
+  display: block;
+  text-align: left;
+}
+
+.word-detail-meaning {
+  color: var(--olive-gray);
+  font-size: 1.4rem;
+  margin: 14px 0 28px;
+}
+
+.word-detail-card section + section {
+  margin-top: 28px;
+}
+
+.word-detail-card h2 {
+  margin: 0 0 12px;
+  color: var(--terracotta-brand);
+  font-size: 1rem;
+}
+
+.word-example-list,
+.word-memory-elements {
+  display: grid;
+  gap: 10px;
+}
+
+.word-example-item,
+.word-memory-elements li {
+  padding: 14px;
+  border: 1px solid var(--border-cream);
+  border-radius: 10px;
+  background: var(--parchment);
+}
+
+.word-example-item p {
+  margin: 0 0 8px;
+  font-family: var(--font-ja);
+  color: var(--anthropic-near-black);
+}
+
+.word-example-item span,
+.word-detail-muted,
+.word-memory-scene,
+.word-memory-tip,
+.word-memory-elements span {
+  color: var(--olive-gray);
+  line-height: 1.7;
+}
+
+.word-memory-elements {
+  padding: 0;
+  list-style: none;
+}
+
+.word-memory-elements strong {
+  color: var(--anthropic-near-black);
+  margin-right: 8px;
+}
+
+.word-study-actions button:hover,
+.word-study-start:hover,
+.word-recall-actions button:hover,
+.word-quiz-options button:hover:not(:disabled) {
+  transform: translateY(-1px);
+  border-color: var(--ring-warm);
+}
+
+@media (max-width: 760px) {
+  .word-study-page {
+    width: 100%;
+    padding: calc(14px + env(safe-area-inset-top)) 18px calc(118px + env(safe-area-inset-bottom));
+  }
+
+  .word-study-dashboard {
+    grid-template-columns: 1fr;
+    gap: 18px;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  .word-study-book {
+    display: none;
+  }
+
+  .word-study-summary {
+    padding: 18px;
+    border: 1px solid var(--border-cream);
+    border-radius: 18px;
+    background: #fffefa;
+    box-shadow: 0 16px 42px #14141310;
+  }
+
+  .word-study-title-row {
+    align-items: flex-start;
+  }
+
+  .word-study-days {
+    margin: 24px 0 22px;
+  }
+
+  .word-study-actions {
+    gap: 12px;
+    margin-top: 32px;
+  }
+
+  .word-study-actions button {
+    min-height: 58px;
+  }
+
+  .word-size-picker {
+    grid-template-columns: 1fr 42px;
+    min-height: 250px;
+  }
+
+  .word-size-wheel {
+    max-height: 230px;
+    padding: 82px 0;
+  }
+
+  .word-study-card {
+    min-height: 52vh;
+  }
+
+  .word-card-face {
+    min-height: calc(52vh - 50px);
+  }
+}
+
+@media (max-width: 430px) {
+  .word-study-page {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .word-study-header h1 {
+    font-size: 2.7rem;
+  }
+
+  .word-study-title-row h2 {
+    font-size: 1.8rem;
+  }
+
+  .word-study-statline {
+    gap: 10px;
+  }
+
+  .word-study-list-note {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .word-quiz-options {
+    grid-template-columns: 1fr;
+  }
+
+  .word-recall-actions {
+    grid-template-columns: 1fr;
+  }
+
+  .word-mode-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .lesson-back-link {
   min-height: 40px;
   padding: 0 var(--space-3);
@@ -11263,7 +12008,7 @@ a:hover {
 
 .japanese-input-guide-footer {
   padding: var(--space-6) var(--space-8);
-  border-top: 1px solid var(--border-cream);
+    border-top: 1px solid var(--border-cream);
   text-align: center;
 }
 
@@ -12106,6 +12851,92 @@ a:hover {
   }
 }
 
+/* 会员入口卡片 */
+.membership-entry-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 20px;
+  background: linear-gradient(135deg, rgba(201, 100, 66, 0.08), rgba(201, 100, 66, 0.03));
+  border: 1px solid rgba(201, 100, 66, 0.2);
+  border-radius: 14px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  margin-bottom: 16px;
+}
+
+.membership-entry-card:hover {
+  border-color: var(--terracotta-brand);
+  box-shadow: 0 2px 12px rgba(201, 100, 66, 0.1);
+}
+
+.membership-entry-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  background: var(--terracotta-brand);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.membership-entry-text h3 {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  margin: 0 0 2px;
+  color: var(--anthropic-near-black);
+}
+
+.membership-entry-text p {
+  font-size: 0.75rem;
+  color: var(--stone-gray);
+  margin: 0;
+}
+
+.membership-entry-arrow {
+  margin-left: auto;
+  color: var(--stone-gray);
+  font-size: 1.25rem;
+}
+
+/* 神秘角色节点 */
+.relationship-node.locked {
+  opacity: 0.55;
+  border-style: dashed;
+  border-color: var(--border-warm);
+  filter: grayscale(0.4);
+}
+
+.relationship-node.locked .relationship-node-info strong {
+  color: var(--stone-gray);
+}
+
+.relationship-node-mystery {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--ivory);
+  border: 2px dashed var(--border-warm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  color: var(--stone-gray);
+  font-family: var(--font-serif);
+}
+
+.mystery-hint {
+  font-size: 0.75rem;
+  color: var(--stone-gray);
+  font-style: italic;
+  margin-top: 4px;
+}
+
 /* 小屏手机适配 */
 @media (max-width: 375px) {
   .trophy-grid {
@@ -12137,4 +12968,277 @@ a:hover {
   .stat-value {
     font-size: 1.25rem;
   }
+}
+
+/* ======================== Pricing Page ======================== */
+.pricing-page {
+  max-width: 640px;
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
+
+.pricing-hero {
+  text-align: center;
+  padding: 32px 0 24px;
+}
+
+.pricing-hero h1 {
+  font-family: var(--font-serif);
+  font-size: 1.75rem;
+  color: var(--anthropic-near-black);
+  margin: 0 0 8px;
+}
+
+.pricing-hero .page-sub {
+  color: var(--stone-gray);
+  font-size: 0.875rem;
+}
+
+.pricing-section {
+  margin-bottom: 28px;
+}
+
+.pricing-section-title {
+  font-family: var(--font-serif);
+  font-size: 1.125rem;
+  color: var(--anthropic-near-black);
+  margin: 0 0 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pricing-coming-badge {
+  font-size: 0.6875rem;
+  font-family: var(--font-sans);
+  background: var(--warm-sand);
+  color: var(--stone-gray);
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+.pricing-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.pricing-tier {
+  background: var(--ivory);
+  border: 1px solid var(--border-warm);
+  border-radius: 14px;
+  padding: 20px;
+  position: relative;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.pricing-tier:hover:not(.disabled) {
+  border-color: var(--terracotta-brand);
+  box-shadow: 0 2px 12px rgba(201, 100, 66, 0.1);
+}
+
+.pricing-tier.highlight {
+  border-color: var(--terracotta-brand);
+  background: linear-gradient(135deg, var(--ivory) 0%, #fdf5f0 100%);
+}
+
+.pricing-tier.disabled {
+  opacity: 0.65;
+  cursor: default;
+}
+
+.pricing-badge {
+  position: absolute;
+  top: -8px;
+  right: 16px;
+  background: var(--terracotta-brand);
+  color: #fff;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+
+.pricing-maintenance-tag {
+  position: absolute;
+  top: -8px;
+  left: 16px;
+  background: var(--warm-sand);
+  color: var(--stone-gray);
+  font-size: 0.6875rem;
+  font-weight: 500;
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+
+.pricing-tier-header {
+  margin-bottom: 12px;
+}
+
+.pricing-tier-name {
+  font-family: var(--font-serif);
+  font-size: 1.125rem;
+  color: var(--anthropic-near-black);
+  margin: 0 0 4px;
+}
+
+.pricing-tier-desc {
+  font-size: 0.8125rem;
+  color: var(--stone-gray);
+  margin: 0;
+}
+
+.pricing-price-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.pricing-price {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--terracotta-brand);
+}
+
+.pricing-original-price {
+  font-size: 0.875rem;
+  color: var(--stone-gray);
+  text-decoration: line-through;
+}
+
+.pricing-features {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 16px;
+}
+
+.pricing-features li {
+  font-size: 0.8125rem;
+  color: var(--charcoal-warm);
+  padding: 4px 0;
+  padding-left: 18px;
+  position: relative;
+}
+
+.pricing-features li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: var(--terracotta-brand);
+  font-weight: 600;
+  font-size: 0.75rem;
+}
+
+.pricing-btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  background: var(--terracotta-brand);
+  color: #fff;
+  transition: background 0.15s, opacity 0.15s;
+}
+
+.pricing-btn:hover:not(.disabled) {
+  background: #b5553a;
+}
+
+.pricing-btn.disabled {
+  background: var(--warm-sand);
+  color: var(--stone-gray);
+  cursor: not-allowed;
+}
+
+.pricing-note {
+  background: var(--ivory);
+  border: 1px solid var(--border-warm);
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin-top: 8px;
+}
+
+.pricing-note h3 {
+  font-family: var(--font-serif);
+  font-size: 0.9375rem;
+  margin: 0 0 8px;
+  color: var(--anthropic-near-black);
+}
+
+.pricing-note ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pricing-note li {
+  font-size: 0.8125rem;
+  color: var(--charcoal-warm);
+  padding: 3px 0;
+  padding-left: 16px;
+  position: relative;
+}
+
+.pricing-note li::before {
+  content: '·';
+  position: absolute;
+  left: 4px;
+  color: var(--terracotta-brand);
+  font-weight: 700;
+}
+
+/* ======================== Relationships Mystery ======================== */
+.relationships-page .mystery-hint {
+  text-align: center;
+  padding: 24px 16px;
+  margin: 16px 0;
+  background: linear-gradient(135deg, #f8f5f0 0%, #f0ebe4 100%);
+  border: 1px dashed var(--border-warm);
+  border-radius: 12px;
+}
+
+.relationships-page .mystery-hint p {
+  font-size: 0.875rem;
+  color: var(--stone-gray);
+  margin: 0;
+  line-height: 1.6;
+}
+
+.relationships-page .mystery-hint .mystery-icon {
+  font-size: 1.5rem;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.mystery-locked-node {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 12px;
+}
+
+.mystery-locked-icon {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #e8e2da 0%, #d9d2c8 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  border: 2px dashed var(--border-warm);
+}
+
+.mystery-locked-label {
+  font-size: 0.75rem;
+  color: var(--stone-gray);
+  font-style: italic;
 }

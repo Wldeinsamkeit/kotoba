@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { n3MoatVocab } from '../data/n3MoatVocab'
+import { n3MoatVocab } from '../data/memoryMethods'
 import type { MoatVocabEntry } from '../types'
 import { getSRS } from '../lib/srs'
 import type { SRSReviewResult } from '../lib/srs'
