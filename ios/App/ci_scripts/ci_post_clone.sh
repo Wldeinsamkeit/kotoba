@@ -25,6 +25,30 @@ ensure_node_22
 
 echo "Node $(node -v), npm $(npm -v)"
 
+run_with_retry() {
+  label="$1"
+  max_attempts="$2"
+  delay_seconds="$3"
+  shift 3
+  attempt=1
+
+  while [ "$attempt" -le "$max_attempts" ]; do
+    echo "🔁 $label attempt $attempt/$max_attempts"
+    if "$@"; then
+      return 0
+    fi
+
+    if [ "$attempt" -eq "$max_attempts" ]; then
+      echo "❌ $label failed after $max_attempts attempts"
+      return 1
+    fi
+
+    echo "⏳ $label failed; retrying in ${delay_seconds}s"
+    sleep "$delay_seconds"
+    attempt=$((attempt + 1))
+  done
+}
+
 echo "📦 npm ci"
 npm ci
 
@@ -32,7 +56,7 @@ echo "🏗️ npm run build"
 npm run build
 
 echo "🔄 npx cap sync ios"
-npx cap sync ios
+run_with_retry "npx cap sync ios" 3 30 npx cap sync ios
 
 echo "🔍 Verify Capacitor iOS assets"
 test -d ios/App/App/public
