@@ -523,23 +523,23 @@
     "elements": [
       {
         "element": "遊",
-        "method": "TYPE A1",
-        "bridgeC": "遊（ユウ/あそ）→汉字'游/遊'就是游玩、玩耍的意思"
+        "method": "TYPE B2",
+        "bridgeC": "あ=啊！孩子兴奋叫出来；そ≈そと（外面）；ぶ≈ぶんぶん（嗡嗡乱跑）"
       },
       {
-        "element": "ぶ",
-        "method": "TYPE B1",
-        "bridgeC": "ぶ的形状像一个人歪着脑袋在哼歌→悠闲地玩"
+        "element": "遊ぶ→遊び",
+        "method": "词形派生",
+        "bridgeC": "遊び是遊ぶ的名词形，先记动词“玩”，后续名词直接接这个故事"
       }
     ],
-    "mergedScene": "周末到了，你跑到'游'乐场，歪着脑袋(ぶ)快乐地哼着歌——遊ぶ就是'玩'。想象你在游乐场里玩得不亦乐乎，连走路都歪歪扭扭的。",
+    "mergedScene": "小孩一听能去外面玩，立刻“啊！”地叫出来，冲到そと（外面）ぶんぶん乱跑，兴奋得停不下来。あそぶ就是去外面开心乱跑地玩；后面的遊び只是它的名词形。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "遊→游玩 + ぶ→歪头哼歌(开心玩) = 遊ぶ→玩",
+    "reviewTip": "あそぶ - あ=啊！+ そ≈外面 + ぶ≈ぶんぶん乱跑 - 小孩兴奋跑到外面乱跑 - 玩\n🔗 遊び是遊ぶ的名词形。",
     "difficultyStars": 1,
     "exampleSentences": [
       {

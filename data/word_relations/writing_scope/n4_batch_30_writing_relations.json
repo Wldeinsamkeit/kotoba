@@ -1,0 +1,820 @@
+{
+  "metadata": {
+    "description": "当前待编写批次的按词关系（已去掉尚未编写记忆法的目标词）。",
+    "writingLevel": "n4",
+    "writingBatch": 30,
+    "allowedLevels": [
+      "n5",
+      "n4"
+    ],
+    "relationIndexes": [
+      "data/word_relations/all_word_relation_index.json"
+    ],
+    "writtenKeysFile": "data/word_relations/writing_scope/n4_through_batch_29_written_keys.json",
+    "writtenKeyCount": 1808,
+    "includeSameBatchTargets": true,
+    "generatedAt": "2026-06-09T08:46:04.079Z",
+    "targetWordCount": 15,
+    "relationsRawTotal": 32,
+    "relationsFilteredTotal": 32,
+    "relationsDroppedTotal": 0
+  },
+  "words": {
+    "ずっと::ずっと": {
+      "id": "n4-word-1161",
+      "word": "ずっと",
+      "reading": "ずっと",
+      "meaning": "一直，远远地",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 2,
+      "relations": [
+        {
+          "edgeId": "all-rel-156428",
+          "type": "kana_similarity",
+          "targetWord": "きっと",
+          "targetReading": "きっと",
+          "targetReadingRomaji": "kitto",
+          "targetMeaning": "一定，必定",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.82,
+          "suggestedStrategy": "相似假名 + 多一点/少一点/换一笔对比",
+          "note": "きっと 和 ずっと 只差一个假名/长音/促音，适合对比记。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-156658",
+          "type": "kana_similarity",
+          "targetWord": "ぐっと",
+          "targetReading": "ぐっと",
+          "targetReadingRomaji": "gutto",
+          "targetMeaning": "使劲儿，一（口气地……",
+          "targetLevels": [
+            "N4",
+            "N1"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.82,
+          "suggestedStrategy": "相似假名 + 多一点/少一点/换一笔对比",
+          "note": "ぐっと 和 ずっと 只差一个假名/长音/促音，适合对比记。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 2,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": [
+        "相似假名 + 多一点/少一点/换一笔对比"
+      ]
+    },
+    "土曜::どよう": {
+      "id": "n4-word-1162",
+      "word": "土曜",
+      "reading": "どよう",
+      "meaning": "星期六",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 10,
+      "relations": [
+        {
+          "edgeId": "all-rel-21856",
+          "type": "same_kanji_different_reading",
+          "targetWord": "お土産",
+          "targetReading": "おみやげ",
+          "targetReadingRomaji": "omiyage",
+          "targetMeaning": "特产，土特产",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「土」：お土産(おみやげ) / 土曜(どよう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-31041",
+          "type": "same_kanji_different_reading",
+          "targetWord": "火曜",
+          "targetReading": "かよう",
+          "targetReadingRomaji": "kayou",
+          "targetMeaning": "星期二",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「曜」：火曜(かよう) / 土曜(どよう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-31180",
+          "type": "same_kanji_different_reading",
+          "targetWord": "火曜日",
+          "targetReading": "かようび",
+          "targetReadingRomaji": "kayoubi",
+          "targetMeaning": "周二",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「曜」：火曜日(かようび) / 土曜(どよう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-41020",
+          "type": "same_kanji_different_reading",
+          "targetWord": "金曜",
+          "targetReading": "きんよう",
+          "targetReadingRomaji": "kinyou",
+          "targetMeaning": "星期五，礼拜五",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「曜」：金曜(きんよう) / 土曜(どよう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-41137",
+          "type": "same_kanji_different_reading",
+          "targetWord": "金曜日",
+          "targetReading": "きんようび",
+          "targetReadingRomaji": "kinyoubi",
+          "targetMeaning": "星期五",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「曜」：金曜日(きんようび) / 土曜(どよう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-45351",
+          "type": "same_kanji_different_reading",
+          "targetWord": "月曜",
+          "targetReading": "げつよう",
+          "targetReadingRomaji": "getsuyou",
+          "targetMeaning": "星期一",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「曜」：月曜(げつよう) / 土曜(どよう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-45441",
+          "type": "same_kanji_different_reading",
+          "targetWord": "月曜日",
+          "targetReading": "げつようび",
+          "targetReadingRomaji": "getsuyoubi",
+          "targetMeaning": "周一",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「曜」：月曜日(げつようび) / 土曜(どよう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-52074",
+          "type": "same_kanji_different_reading",
+          "targetWord": "国土",
+          "targetReading": "こくど",
+          "targetReadingRomaji": "kokudo",
+          "targetMeaning": "领土，国家的土地",
+          "targetLevels": [
+            "N4",
+            "N2"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「土」：国土(こくど) / 土曜(どよう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-75739",
+          "type": "same_kanji_different_reading",
+          "targetWord": "水曜",
+          "targetReading": "すいよう",
+          "targetReadingRomaji": "suiyou",
+          "targetMeaning": "星期三",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「曜」：水曜(すいよう) / 土曜(どよう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-75854",
+          "type": "same_kanji_different_reading",
+          "targetWord": "水曜日",
+          "targetReading": "すいようび",
+          "targetReadingRomaji": "suiyoubi",
+          "targetMeaning": "周三",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「曜」：水曜日(すいようび) / 土曜(どよう)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 10,
+        "dropped": 0,
+        "highValue": 10
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "規模::きぼ": {
+      "id": "n4-word-1163",
+      "word": "規模",
+      "reading": "きぼ",
+      "meaning": "规模",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-35501",
+          "type": "same_kanji_different_reading",
+          "targetWord": "規則",
+          "targetReading": "きそく",
+          "targetReadingRomaji": "kisoku",
+          "targetMeaning": "规则，规章",
+          "targetLevels": [
+            "N4",
+            "N3"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「規」：規則(きそく) / 規模(きぼ)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "迷惑::めいわく": {
+      "id": "n4-word-1164",
+      "word": "迷惑",
+      "reading": "めいわく",
+      "meaning": "麻烦，烦扰",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "主::おも": {
+      "id": "n4-word-1165",
+      "word": "主",
+      "reading": "おも",
+      "meaning": "主要，重要",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "パスポート::ぱすぽーと": {
+      "id": "n4-word-1166",
+      "word": "パスポート",
+      "reading": "ぱすぽーと",
+      "meaning": "护照",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "掛ける::かける": {
+      "id": "n4-word-1167",
+      "word": "掛ける",
+      "reading": "かける",
+      "meaning": "挂上，打电话，花费",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 2,
+      "relations": [
+        {
+          "edgeId": "all-rel-00357",
+          "type": "same_reading_different_writing",
+          "targetWord": "かける",
+          "targetReading": "かける",
+          "targetReadingRomaji": "kakeru",
+          "targetMeaning": "戴上、放上、打电话",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.95,
+          "confidence": 0.98,
+          "suggestedStrategy": "同音不同字（罗马音归一） + 汉字/场景区分",
+          "note": "kakeru 完全同音：かける(かける)=戴上、放上、打电话，掛ける(かける)=挂上，打电话，花费，必须成对区分。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-25964",
+          "type": "same_kanji_different_reading",
+          "targetWord": "掛かる",
+          "targetReading": "かかる",
+          "targetReadingRomaji": "kakaru",
+          "targetMeaning": "花费；挂上；覆盖；着手；发动；陷入",
+          "targetLevels": [
+            "N4",
+            "N3"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「掛」：掛かる(かかる) / 掛ける(かける)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 2,
+        "dropped": 0,
+        "highValue": 2
+      },
+      "suggestedPrimaryStrategies": [
+        "同音不同字（罗马音归一） + 汉字/场景区分",
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "情報::じょうほう": {
+      "id": "n4-word-1168",
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaning": "情报，信息",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "全て::すべて": {
+      "id": "n4-word-1169",
+      "word": "全て",
+      "reading": "すべて",
+      "meaning": "一切，所有",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 2,
+      "relations": [
+        {
+          "edgeId": "all-rel-06884",
+          "type": "same_kanji_different_reading",
+          "targetWord": "安全",
+          "targetReading": "あんぜん",
+          "targetReadingRomaji": "anzen",
+          "targetMeaning": "安全",
+          "targetLevels": [
+            "N4",
+            "N3"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「全」：安全(あんぜん) / 全て(すべて)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-06919",
+          "type": "same_kanji_different_reading",
+          "targetWord": "安全ベルト",
+          "targetReading": "あんぜんべると",
+          "targetReadingRomaji": "anzenberuto",
+          "targetMeaning": "安全带",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「全」：安全ベルト(あんぜんべると) / 全て(すべて)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 2,
+        "dropped": 0,
+        "highValue": 2
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "日記::にっき": {
+      "id": "n4-word-1170",
+      "word": "日記",
+      "reading": "にっき",
+      "meaning": "日记，日记本",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 12,
+      "relations": [
+        {
+          "edgeId": "all-rel-05259",
+          "type": "same_kanji_different_reading",
+          "targetWord": "明日",
+          "targetReading": "あした",
+          "targetReadingRomaji": "ashita",
+          "targetMeaning": "明天",
+          "targetLevels": [
+            "N5",
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「日」：明日(あした) / 日記(にっき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-05506",
+          "type": "same_kanji_different_reading",
+          "targetWord": "明日",
+          "targetReading": "あす",
+          "targetReadingRomaji": "asu",
+          "targetMeaning": "明天（正式）",
+          "targetLevels": [
+            "N4",
+            "N3"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「日」：明日(あす) / 日記(にっき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-10375",
+          "type": "same_kanji_different_reading",
+          "targetWord": "一日",
+          "targetReading": "いちにち",
+          "targetReadingRomaji": "ichinichi",
+          "targetMeaning": "一天",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「日」：一日(いちにち) / 日記(にっき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-10814",
+          "type": "same_kanji_different_reading",
+          "targetWord": "五日",
+          "targetReading": "いつか",
+          "targetReadingRomaji": "itsuka",
+          "targetMeaning": "五号、五天",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「日」：五日(いつか) / 日記(にっき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-20955",
+          "type": "same_kanji_different_reading",
+          "targetWord": "一昨日",
+          "targetReading": "おととい",
+          "targetReadingRomaji": "ototoi",
+          "targetMeaning": "前天",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「日」：一昨日(おととい) / 日記(にっき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-31100",
+          "type": "same_kanji_different_reading",
+          "targetWord": "火曜日",
+          "targetReading": "かようび",
+          "targetReadingRomaji": "kayoubi",
+          "targetMeaning": "周二",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「日」：火曜日(かようび) / 日記(にっき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-36274",
+          "type": "same_kanji_different_reading",
+          "targetWord": "記念",
+          "targetReading": "きねん",
+          "targetReadingRomaji": "kinen",
+          "targetMeaning": "纪念，留念为今后唤起回忆而把某物保存下来",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「記」：記念(きねん) / 日記(にっき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-36323",
+          "type": "same_kanji_different_reading",
+          "targetWord": "昨日",
+          "targetReading": "きのう",
+          "targetReadingRomaji": "kinou",
+          "targetMeaning": "昨天",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「日」：昨日(きのう) / 日記(にっき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-37770",
+          "type": "same_kanji_different_reading",
+          "targetWord": "休日",
+          "targetReading": "きゅうじつ",
+          "targetReadingRomaji": "kyuujitsu",
+          "targetMeaning": "休息日，假日",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「日」：休日(きゅうじつ) / 日記(にっき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-38105",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今日",
+          "targetReading": "きょう",
+          "targetReadingRomaji": "kyou",
+          "targetMeaning": "今天",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「日」：今日(きょう) / 日記(にっき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-41041",
+          "type": "same_kanji_different_reading",
+          "targetWord": "金曜日",
+          "targetReading": "きんようび",
+          "targetReadingRomaji": "kinyoubi",
+          "targetMeaning": "星期五",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「日」：金曜日(きんようび) / 日記(にっき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-45382",
+          "type": "same_kanji_different_reading",
+          "targetWord": "月曜日",
+          "targetReading": "げつようび",
+          "targetReadingRomaji": "getsuyoubi",
+          "targetMeaning": "周一",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「日」：月曜日(げつようび) / 日記(にっき)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 12,
+        "dropped": 0,
+        "highValue": 12
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "伺う::うかがう": {
+      "id": "n4-word-1171",
+      "word": "伺う",
+      "reading": "うかがう",
+      "meaning": "请教，打听",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "行き先::いきさき": {
+      "id": "n4-word-1172",
+      "word": "行き先",
+      "reading": "いきさき",
+      "meaning": "去的地方，目的地",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "夢::ゆめ": {
+      "id": "n4-word-1173",
+      "word": "夢",
+      "reading": "ゆめ",
+      "meaning": "梦",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "連れる::つれる": {
+      "id": "n4-word-1174",
+      "word": "連れる",
+      "reading": "つれる",
+      "meaning": "带，领",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "運動::うんどう": {
+      "id": "n4-word-1175",
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "运动",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 3,
+      "relations": [
+        {
+          "edgeId": "all-rel-14630",
+          "type": "same_kanji_different_reading",
+          "targetWord": "動く",
+          "targetReading": "うごく",
+          "targetReadingRomaji": "ugoku",
+          "targetMeaning": "动、移动",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「動」：動く(うごく) / 運動(うんどう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-16603",
+          "type": "same_kanji_different_reading",
+          "targetWord": "運転",
+          "targetReading": "うんてん",
+          "targetReadingRomaji": "unten",
+          "targetMeaning": "开，驾驶",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「運」：運転(うんてん) / 運動(うんどう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-16711",
+          "type": "same_kanji_different_reading",
+          "targetWord": "運転手",
+          "targetReading": "うんてんしゅ",
+          "targetReadingRomaji": "untenshu",
+          "targetMeaning": "司机，驾驶员从事驾驶电车",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「運」：運転手(うんてんしゅ) / 運動(うんどう)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 3,
+        "dropped": 0,
+        "highValue": 3
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    }
+  }
+}

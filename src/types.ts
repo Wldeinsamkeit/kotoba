@@ -80,6 +80,20 @@ export type VocabItem = {
   meaning: string
 }
 
+/** 课程词卡背包：按词性分类，供羁绊系统与后续造句玩法使用 */
+export type WordCardCategory = 'phrase' | 'noun' | 'verb' | 'adjective' | 'particle'
+
+export type CollectedWordCard = {
+  id: string
+  word: string
+  reading: string
+  meaning: string
+  category: WordCardCategory
+  lessonId: string
+  lessonTitle: string
+  collectedAt: string
+}
+
 /** 高考单词护城河：单条记忆档案里的元素拆分 */
 export type MoatMemoryElement = {
   element: string
@@ -158,4 +172,6 @@ export type StoredProgress = {
   completedDailyTasks: Record<string, string[]>
   /** 角色好感度 */
   characterAffinity: Record<string, CharacterAffinity>
+  /** 课程词卡背包（lessonId::word -> 卡牌） */
+  collectedWordCards: Record<string, CollectedWordCard>
 }

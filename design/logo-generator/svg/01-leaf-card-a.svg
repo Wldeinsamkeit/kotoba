@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kotoba leaf card logo">
+  <rect x="18" y="17" width="64" height="66" rx="15" fill="none" stroke="#6f966e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M72 20 C86 21 91 31 88 43 C80 43 72 35 72 20Z" fill="none" stroke="#6f966e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M78 27 C81 31 83 36 84 42" fill="none" stroke="#6f966e" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72 20 C68 28 65 35 62 42" fill="none" stroke="#6f966e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M74 49 L80 54" fill="none" stroke="#a8794a" stroke-width="4" stroke-linecap="round"/>
+  <text x="50" y="62" text-anchor="middle" font-family="'Hiragino Mincho ProN', 'Yu Mincho', serif" font-size="38" font-weight="500" fill="#6f966e">あ</text>
+</svg>

@@ -4,7 +4,7 @@ import type {
   SmartQuizQuestion,
   VocabItem,
 } from '../types'
-import { getLessonVocabulary } from './lessonVocabulary'
+import { appearsInDialogue, getLessonVocabulary } from './lessonVocabulary'
 
 type SentenceDrill = {
   ja: string
@@ -196,7 +196,7 @@ export class SmartQuizGenerator {
         const word = this.stripJapanesePunctuation(item.word)
         if (!word || WORD_QUESTION_EXCLUDES.has(word)) return false
         if (word.length <= 1) return false
-        return dialogueText.includes(item.word)
+        return appearsInDialogue(item, dialogueText)
       })
       .slice(0, 10)
   }
@@ -237,7 +237,7 @@ export class SmartQuizGenerator {
 
         return {
           id: `grammar-${pattern.id}-${index}`,
-          type: 'grammar',
+        type: 'grammar',
           question: `「${pattern.label}」在本课中的语法作用是什么？`,
           coreSentence: example?.ja ?? pattern.label,
           coreSentenceZh: example

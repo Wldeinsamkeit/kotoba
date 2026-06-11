@@ -1,4 +1,5 @@
-import type { StoredProgress, CharacterAffinity } from '../types'
+import type { CollectedWordCard, StoredProgress, CharacterAffinity, VocabItem } from '../types'
+import { createCollectedWordCard } from './wordCards'
 import { todayLocal, yesterdayLocal } from './dates'
 
 const KEY = 'nihongo-daily-progress-v1'
@@ -21,6 +22,7 @@ const defaultProgress: StoredProgress = {
   unlockedAchievements: [],
   completedDailyTasks: {},
   characterAffinity: {},
+  collectedWordCards: {},
 }
 
 export function loadProgress(): StoredProgress {
@@ -40,6 +42,7 @@ export function loadProgress(): StoredProgress {
       bookmarks: parsed.bookmarks ?? {},
       vocabularyBook: parsed.vocabularyBook ?? {},
       characterAffinity: parsed.characterAffinity ?? {},
+      collectedWordCards: parsed.collectedWordCards ?? {},
     }
   } catch {
     return { ...defaultProgress }
@@ -227,6 +230,30 @@ export function addVocabulary(
         addedAt: new Date().toISOString(),
       },
     },
+  }
+}
+
+/** 收入课程词卡到羁绊背包 */
+export function collectWordCard(
+  p: StoredProgress,
+  lessonId: string,
+  lessonTitle: string,
+  vocab: VocabItem,
+): { progress: StoredProgress; isNew: boolean; card: CollectedWordCard } {
+  const card = createCollectedWordCard(lessonId, lessonTitle, vocab)
+  if (p.collectedWordCards[card.id]) {
+    return { progress: p, isNew: false, card: p.collectedWordCards[card.id] }
+  }
+  return {
+    progress: {
+      ...p,
+      collectedWordCards: {
+        ...p.collectedWordCards,
+        [card.id]: card,
+      },
+    },
+    isNew: true,
+    card,
   }
 }
 

@@ -1,10 +1,13 @@
 import { Link } from 'react-router-dom'
+import { useMemo } from 'react'
 import { useProgress } from '../context/ProgressContext'
+import { listCollectedWordCards } from '../lib/wordCards'
 import { getCoreCharacterRoster, AFFINITY_GREETINGS } from '../data/characters'
 import { getAffinityLevel, AFFINITY_LEVELS } from '../lib/progress'
 
 export function RelationshipsPage() {
   const { progress } = useProgress()
+  const collectedCards = useMemo(() => listCollectedWordCards(progress), [progress])
   const roster = getCoreCharacterRoster()
   const oda = roster[0]
 
@@ -105,6 +108,21 @@ export function RelationshipsPage() {
         </div>
       </section>
 
+      <section className="card-backpack-entry">
+        <div>
+          <p className="unit-kicker">羁绊系统</p>
+          <h2>卡牌背包</h2>
+          <p>在课程里点击词汇即可收入背包，按词性分类，后续可用于造句玩法。</p>
+        </div>
+        <div className="card-backpack-entry-meta">
+          <strong>{collectedCards.length}</strong>
+          <span>张卡牌</span>
+          <Link className="btn btn-primary" to="/relationships/cards">
+            打开背包 →
+          </Link>
+        </div>
+      </section>
+
       <section className="mystery-hint">
         <span className="mystery-icon">🔮</span>
         <p>更多的羁绊等待你在旅途中发现……</p>
@@ -127,7 +145,7 @@ export function RelationshipsPage() {
         <h3>好感度获取方式</h3>
         <ul className="affinity-sources-list">
           <li>完成角色参与的课程对话 <strong>+20 点</strong></li>
-          <li>在对话中点击角色说的词汇 <strong>+2 点/词</strong></li>
+          <li>在课程词汇区点击词卡收入背包 <strong>+2 点/词</strong></li>
           <li>跟读角色的台词 <strong>+5 点/次</strong></li>
           <li>每日首次互动 <strong>+5 点</strong></li>
         </ul>

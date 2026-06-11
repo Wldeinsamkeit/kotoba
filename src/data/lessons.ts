@@ -834,13 +834,11 @@ const lessonPool: Lesson[] = [
     ],
     vocabulary: [
       { word: 'はじめまして', reading: '', meaning: '初次见面' },
-      { word: '学生', reading: 'がくせい', meaning: '学生' },
+      { word: '留学生', reading: 'りゅうがくせい', meaning: '留学生' },
       { word: 'よろしくお願いします', reading: 'よろしくおねがいします', meaning: '请多关照' },
       { word: 'こちらこそ', reading: '', meaning: '我才是/彼此彼此' },
       { word: 'わたし', reading: '', meaning: '我' },
       { word: '～です', reading: '', meaning: '是…（判断句）' },
-      { word: 'タナカ', reading: '', meaning: '田中（姓）' },
-      { word: 'よろしく', reading: '', meaning: '请多关照（口语简略）' },
     ],
     grammar:
       '「AはBです」判断句；「わたしは～」明确主语；「よろしくお願いします」是固定寒暄语。',
@@ -932,9 +930,8 @@ const lessonPool: Lesson[] = [
       { word: '話す', reading: 'はなす', meaning: '说话' },
       { word: 'わかりました', reading: '', meaning: '明白了' },
       { word: 'すみません', reading: '', meaning: '不好意思' },
-      { word: 'もう', reading: '', meaning: '再/已经' },
-      { word: '一度', reading: 'いちど', meaning: '一次' },
       { word: '話します', reading: 'はなします', meaning: '我来说（礼貌）' },
+      { word: 'ありがとうございます', reading: '', meaning: '谢谢' },
     ],
     grammar:
       '「～てください」礼貌请求；副词「ゆっくり」修饰动作；「もう一度」表示重复。',
@@ -957,6 +954,54 @@ const lessonPool: Lesson[] = [
         id: 'q3',
         prompt: '下列哪个更礼貌、适合对陌生人？',
         options: ['～てください', '～ろ', '～な', '命令式直接说'],
+        correctIndex: 0,
+      },
+    ],
+  },
+  {
+    id: 'language-school-registration',
+    title: '语言学校报到：受付はどこですか',
+    level: 'N5',
+    tags: ['校园', '初次见面', '交际'],
+    scenario:
+      '刚到语言学校办理入学登记，找不到受理处。不同班的同学小师主动帮忙指路，两人由此认识。',
+    dialogue: [
+      { speaker: '你', ja: 'すみません。受付はどこですか。', zh: '不好意思，受理处在哪里？' },
+      { speaker: '同学', ja: '新入生？ 受付はあそこだよ。案内するね。', zh: '新生？受理处在那边。我带你去。' },
+      { speaker: '你', ja: 'ありがとうございます。はじめまして、小田です。', zh: '谢谢。初次见面，我是小田。' },
+      { speaker: '同学', ja: '小师だよ。クラスは違うけど、困ったら声かけて。', zh: '我是小师。虽然不同班，有困难就跟我说。' },
+    ],
+    vocabulary: [
+      { word: '受付', reading: 'うけつけ', meaning: '受理处、前台' },
+      { word: '新入生', reading: 'しんにゅうせい', meaning: '新生' },
+      { word: '案内', reading: 'あんない', meaning: '引导、带路' },
+      { word: 'クラス', reading: '', meaning: '班级' },
+      { word: '困る', reading: 'こまる', meaning: '为难、遇到困难' },
+      { word: '声をかける', reading: 'こえをかける', meaning: '搭话、打招呼' },
+      { word: 'はじめまして', reading: '', meaning: '初次见面' },
+      { word: '留学生', reading: 'りゅうがくせい', meaning: '留学生' },
+    ],
+    grammar:
+      '「～はどこですか」询问地点；「～てください」礼貌请求；「～けど」表示转折（虽然…但是…）。',
+    examTip:
+      '入学、办事场景里「受付」和「すみません」几乎必考。听到「新入生」要想到报到/登记语境。',
+    quizzes: [
+      {
+        id: 'q1',
+        prompt: '「受付はどこですか」是在问？',
+        options: ['受理处在哪里', '教室几点上课', '作业交了吗', '老师叫什么名字'],
+        correctIndex: 0,
+      },
+      {
+        id: 'q2',
+        prompt: '小师说「クラスは違うけど」，意思是？',
+        options: ['虽然不同班', '我们同班', '今天没课', '教室很远'],
+        correctIndex: 0,
+      },
+      {
+        id: 'q3',
+        prompt: '「困ったら声かけて」更接近哪种意思？',
+        options: ['有困难就跟我说', '请不要说话', '作业自己做', '放学后再见'],
         correctIndex: 0,
       },
     ],
@@ -1072,7 +1117,6 @@ const lessonPool: Lesson[] = [
       { word: '入れないでください', reading: 'いれないでください', meaning: '请不要放/不要加入' },
       { word: 'わさび', reading: '', meaning: '芥末' },
       { word: 'すみません', reading: '', meaning: '不好意思' },
-      { word: 'ください', reading: '', meaning: '请…（请求）' },
       { word: 'はい', reading: '', meaning: '好的/是' },
       { word: 'ありがとう', reading: '', meaning: '谢谢（口语）' },
       { word: 'わかりました', reading: '', meaning: '明白了' },
@@ -1658,7 +1702,6 @@ const lessonPool: Lesson[] = [
       { speaker: '前台', ja: 'お部屋は三階です。', zh: '您的房间在三楼。' },
     ],
     vocabulary: [
-      { word: '予約', reading: 'よやく', meaning: '预约' },
       { word: '予約しています', reading: 'よやくしています', meaning: '已经预约了' },
       { word: 'パスポート', reading: '', meaning: '护照' },
       { word: 'お願いします', reading: 'おねがいします', meaning: '请/麻烦' },
@@ -2332,7 +2375,7 @@ const lessonPool: Lesson[] = [
     vocabulary: [
       { word: '週', reading: 'しゅう', meaning: '周/星期' },
       { word: '何回', reading: 'なんかい', meaning: '几次' },
-      { word: '入れる', reading: 'はいれる', meaning: '能排班/能进入' },
+      { word: '入れます', reading: 'はいれます', meaning: '能排班/能上班' },
       { word: '平日', reading: 'へいじつ', meaning: '工作日/平日' },
       { word: '難しい', reading: 'むずかしい', meaning: '困难的' },
       { word: '週末', reading: 'しゅうまつ', meaning: '周末' },
@@ -2366,10 +2409,11 @@ const lessonPool: Lesson[] = [
   },
 ]
 
-const lessonLifeOrder = [
+export const lessonLifeOrder = [
   'self-introduction',
   'where-are-you-from',
   'please-speak-slowly',
+  'language-school-registration',
   'campus-greeting',
   'borrow-pen-in-class',
   'morning-combini-breakfast',

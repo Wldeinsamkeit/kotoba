@@ -54,6 +54,14 @@ export function Layout() {
   const [speechMode, setSpeechMode] = useState<SpeechEngine>(() => getSpeechEngine())
   const isIosNative = isIosNativeApp()
   const isIosHome = isIosNative && location.pathname === '/'
+  const isLinkMapPage = location.pathname === '/lessons/words/link-map'
+  const isWordStudyPage = /^\/lessons\/words\/(n5|n4|n3)$/.test(location.pathname)
+  const isLessonFlowPage =
+    /^\/lessons\/[^/]+$/.test(location.pathname) &&
+    !location.pathname.startsWith('/lessons/words')
+  const isLessonQuizPage = /^\/lessons\/[^/]+\/quiz$/.test(location.pathname)
+  const isImmersiveShell =
+    isLinkMapPage || isWordStudyPage || isLessonFlowPage || isLessonQuizPage
 
   const wordsActive =
     location.pathname === '/vocabulary' ||
@@ -129,6 +137,8 @@ export function Layout() {
         'app-shell',
         isIosNative ? 'ios-native-shell' : '',
         isIosHome ? 'ios-home-shell' : '',
+        isLinkMapPage ? 'link-map-immersive-shell' : '',
+        !isLinkMapPage && isImmersiveShell ? 'immersive-dock-hidden-shell' : '',
       ].filter(Boolean).join(' ')}
     >
       <XPToastContainer />
@@ -224,6 +234,7 @@ export function Layout() {
                       {wordsOpen ? (
                         <div id="word-navigation" className="nav-word-links">
                           <NavLink to={to}>单词库</NavLink>
+                          <NavLink to="/lessons/words/link-map">链路图</NavLink>
                           <NavLink to="/vocabulary">生词本</NavLink>
                         </div>
                       ) : null}
@@ -349,25 +360,6 @@ export function Layout() {
           <span>登录</span>
         </button>
       </div>
-      <footer className="site-footer">
-        <div className="footer-content">
-          <div className="footer-stats">
-            <Link to="/account" className="footer-link">
-              <span className="footer-icon">戶</span>
-              <span>账户</span>
-            </Link>
-            <Link to="/progress" className="footer-link">
-              <span className="footer-icon">進</span>
-              <span>学习进度</span>
-            </Link>
-            <Link to="/relationships" className="footer-link">
-              <span className="footer-icon">絆</span>
-              <span>角色羁绊</span>
-            </Link>
-          </div>
-          <p className="footer-text">每天进步一点点 · 本地保存进度</p>
-        </div>
-      </footer>
     </div>
   )
 }

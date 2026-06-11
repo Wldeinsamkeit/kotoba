@@ -17,14 +17,14 @@ type PricingTier = {
 
 const FREE_TIER: PricingTier = {
   id: 'free',
-  name: 'N5 词汇记忆法',
+  name: '免费层',
   price: '免费',
-  description: '完整体验"记忆法真的有用"',
+  description: '零门槛体验记忆法与 N5 核心内容',
   features: [
-    `N5 全部 ${getMemoryMethodCount('n5')} 词 · 谐音联想记忆法`,
-    '前 10 课免费体验（故事线 + 练习闭环）',
-    '间隔重复复习系统',
-    '假名学习 + 基础阅读',
+    `N5 记忆法免费（${getMemoryMethodCount('n5')} 词 · 谐音联想）`,
+    'N5 课程免费',
+    'N5 链路图免费',
+    'N5 前 25 课',
   ],
   badge: '入门推荐',
   status: 'available',
@@ -39,8 +39,9 @@ const MEMORY_PACKS: PricingTier[] = [
     description: `日常会话词汇 · ${getMemoryMethodCount('n4')} 词`,
     features: [
       `N4 全部 ${getMemoryMethodCount('n4')} 词 · 谐音联想记忆法`,
-      'N4 课程全部解锁',
-      '词汇测验 + 错词强化',
+      'N4 链路图',
+      '阅读功能',
+      'N5 + N4 全部课程',
     ],
     status: 'coming-soon',
   },
@@ -51,6 +52,7 @@ const MEMORY_PACKS: PricingTier[] = [
     description: `中级进阶词汇 · ${getMemoryMethodCount('n3')} 词`,
     features: [
       `N3 全部 ${getMemoryMethodCount('n3')} 词 · 谐音联想记忆法`,
+      'N3 链路图',
       'N3 课程全部解锁',
       '词汇测验 + 错词强化',
     ],
@@ -58,16 +60,17 @@ const MEMORY_PACKS: PricingTier[] = [
   },
   {
     id: 'all-pass',
-    name: '全部通行证',
-    price: '¥58',
-    originalPrice: '¥66',
-    description: 'N5 + N4 + N3 全部解锁',
+    name: '全部词库通行证',
+    price: '¥88',
+    originalPrice: '¥98',
+    description: '一次买断 N5 + N4 + N3，最适合长期学习者',
     features: [
       'N5 + N4 + N3 全部词汇记忆法',
+      '全部链路图 + 阅读功能',
       '全部课程解锁',
-      '后续更新免费获取',
+      '后续词库更新免费获取',
     ],
-    badge: '最划算',
+    badge: '核心卖点',
     highlight: true,
     status: 'coming-soon',
   },
@@ -78,28 +81,29 @@ const MEMBERSHIP_TIERS: PricingTier[] = [
     id: 'monthly',
     name: '月卡',
     price: '¥15/月',
-    description: '灵活体验全部功能',
+    description: '灵活订阅，随时取消',
     features: [
       '全部词库无限学习',
-      '每日智能复习计划',
+      '每日复习计划',
       '错词强化训练',
-      'AI 个性化联想',
-      '云端同步',
+      '云同步进度',
+      'AI 个性化记忆法',
+      '后续新增内容',
     ],
     status: 'coming-soon',
   },
   {
     id: 'yearly',
     name: '年卡',
-    price: '¥108/年',
+    price: '¥118/年',
     originalPrice: '¥180',
-    description: '省 40%，长期学习首选',
+    description: '长期学习首选，折合约 ¥10/月',
     badge: '推荐',
     features: [
       '月卡全部权益',
+      '支持 7 天或 14 天免费试用（以 App Store 配置为准）',
       '后续新课程优先解锁',
       '专属学习报告',
-      '优先客服支持',
     ],
     highlight: true,
     status: 'coming-soon',
@@ -122,15 +126,15 @@ export function PricingPage() {
         <p className="page-sub">用谐音联想让单词过目不忘</p>
       </header>
 
-      {/* 免费层 */}
       <section className="pricing-section">
-        <h2 className="pricing-section-title">免费体验</h2>
+        <h2 className="pricing-section-title">免费层</h2>
+        <p className="pricing-section-lead">零门槛体验，确认「记忆法真的有用」</p>
         <TierCard tier={FREE_TIER} isIOS={isIOS} />
       </section>
 
-      {/* 记忆法包 */}
       <section className="pricing-section">
         <h2 className="pricing-section-title">记忆法包 · 一次性购买</h2>
+        <p className="pricing-section-lead">买断层，作为主收入</p>
         <div className="pricing-grid">
           {MEMORY_PACKS.map((tier) => (
             <TierCard key={tier.id} tier={tier} isIOS={isIOS} />
@@ -138,12 +142,14 @@ export function PricingPage() {
         </div>
       </section>
 
-      {/* 会员 */}
       <section className="pricing-section">
         <h2 className="pricing-section-title">
-          会员
+          会员 · 高级入口
           <span className="pricing-coming-badge">即将推出</span>
         </h2>
+        <p className="pricing-section-lead">
+          订阅解锁全部词库与 AI 能力；免费试用时长可在 App Store Connect 设为 7 天或 14 天
+        </p>
         <div className="pricing-grid">
           {MEMBERSHIP_TIERS.map((tier) => (
             <TierCard key={tier.id} tier={tier} isIOS={isIOS} />
@@ -151,13 +157,13 @@ export function PricingPage() {
         </div>
       </section>
 
-      {/* 课程说明 */}
       <section className="pricing-note">
-        <h3>课程说明</h3>
+        <h3>权益说明</h3>
         <ul>
-          <li>N5 课程完全免费，完整体验故事线和练习闭环</li>
-          <li>N4 课程前几课免费，后续随 N4 词汇包解锁</li>
-          <li>高级剧情课程将作为会员权益陆续开放</li>
+          <li>免费层含 N5 记忆法、N5 链路图与前 25 课，足够完整体验记忆法闭环</li>
+          <li>N4 记忆法包解锁 N4 链路图、阅读功能，以及 N5 + N4 全部课程</li>
+          <li>全部词库通行证适合想一次买断 N5–N3 的学习者，是平台核心卖点</li>
+          <li>会员在买断包之上提供云同步、AI 个性化记忆法与后续新增内容</li>
         </ul>
       </section>
     </div>

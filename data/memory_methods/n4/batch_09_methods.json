@@ -48,7 +48,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "アラーム - 外来语alarm（警报） - 早上alarm响吓醒 - 警报，闹钟",
+    "reviewTip": "アラーム - 外来语alarm（警报） - 早上alarm响吓醒",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -79,7 +79,7 @@
       "personal": true,
       "total": 2
     },
-    "reviewTip": "だいぶぶん - 谐音'大部分' - 发音几乎和中文'大部分'一样 - 大部分，多半",
+    "reviewTip": "だいぶぶん - だい=大，ぶぶん像“部分” - 披萨被同桌拿走大部分，只剩你一小角 - 大部分。",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -203,7 +203,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "みやげ - 谐音'米呀给' - 给你米呀，当土产 - 特产，土产",
+    "reviewTip": "みやげ - 谐音'米呀给' - 给你米呀，当土产",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -265,7 +265,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "やく - 谐音'呀哭' - 烤烧烤太热，呀哭了 - 烤，烧",
+    "reviewTip": "やく - 谐音'呀哭' - 烤烧烤太热，呀哭了",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -296,7 +296,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "こめ - 谐音'口米' - 一口一口吃米饭 - 大米",
+    "reviewTip": "こめ - 谐音'口米' - 一口一口吃米饭",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -327,7 +327,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "よる - 谐音'有路' - 靠近才发现有路了 - 靠近，顺路去",
+    "reviewTip": "よる - 谐音'有路' - 靠近才发现有路了",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -405,7 +405,7 @@
   {
     "word": "これでは",
     "reading": "これでは",
-    "meaning":：这样的话",
+    "meaning": "这样的话",
     "elements": [
       {
         "element": "これでは",
@@ -451,7 +451,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "やせる - 谐音'晒噜' - 晒太阳晒得瘦了 - 变瘦",
+    "reviewTip": "やせる - 谐音'晒噜' - 晒太阳晒得瘦了",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -482,7 +482,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "せわ - 谐音'鞋袜' - 照顾病人的时候，要帮助洗鞋袜 - 照顾，帮助",
+    "reviewTip": "せわ - 谐音'鞋袜' - 照顾病人的时候，要帮助洗鞋袜",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -699,7 +699,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "おこさん - 谐音'噢哭桑' - 小孩噢哭桑地哭 - 孩子，令郎",
+    "reviewTip": "おこさん - 谐音'噢哭桑' - 小孩噢哭桑地哭",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -730,7 +730,7 @@
       "personal": true,
       "total": 2
     },
-    "reviewTip": "ゴミ箱 - ゴミ（垃圾）+ 箱=ばこ（⚠️はこ在后面浊音化成ばこ） - 垃圾箱",
+    "reviewTip": "ゴミ箱 - ゴミ（垃圾）+ 箱=ばこ（⚠️はこ在后面浊音化成ばこ）",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -792,7 +792,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "かんじ - 谐音'砍自' - 自己砍的感觉疼 - 感觉",
+    "reviewTip": "かんじ - 谐音'砍自' - 自己砍的感觉疼",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -854,7 +854,7 @@
       "personal": false,
       "total": 2
     },
-    "reviewTip": "せいじ - 谐音'涉及' - 政治涉及国家生活的方方面面 - 政治",
+    "reviewTip": "せいじ - 谐音'涉及' - 政治涉及国家生活的方方面面",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -885,7 +885,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "しょくぶつ - しょく谐音'小枯'+ぶつ谐音'不吃' - 植物枯萎了就不想吃 - 植物",
+    "reviewTip": "しょくぶつ - しょく谐音'小枯'+ぶつ谐音'不吃' - 植物枯萎了就不想吃",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -916,7 +916,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "くさい - 谐音'裤晒' - 裤子晒了好久臭了 - 臭",
+    "reviewTip": "くさい - 谐音'裤晒' - 裤子晒了好久臭了",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1009,7 +1009,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "はこぶ - 谐音'哈口不' - 哈口不喘气地搬运 - 搬运，运送",
+    "reviewTip": "はこぶ - 谐音'哈口不' - 哈口不喘气地搬运",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1040,7 +1040,7 @@
       "personal": true,
       "total": 2
     },
-    "reviewTip": "りよう - 谐音'里哟' - 里面有哟可以利用 - 利用，使用",
+    "reviewTip": "りよう - 谐音'里哟' - 里面有哟可以利用",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1102,7 +1102,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "ろうじん - 谐音'老金' - 以前有一个很洗脑的广告就是老了就喝老白金 - 老人",
+    "reviewTip": "ろうじん - 谐音'老金' - 以前有一个很洗脑的广告就是老了就喝老白金",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1133,7 +1133,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "やめる - 谐音'呀灭' - 蚊香呀的一声被风吹灭，停止冒烟 - 停止，放弃",
+    "reviewTip": "やめる - 谐音'呀灭' - 蚊香呀的一声被风吹灭，停止冒烟",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1195,7 +1195,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "うっとり - 谐音'乌托里' - 乌托邦里的美景让人陶醉发呆 - 发呆，陶醉",
+    "reviewTip": "うっとり - 谐音'乌托里' - 乌托邦里的美景让人陶醉发呆",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1226,7 +1226,7 @@
       "personal": false,
       "total": 2
     },
-    "reviewTip": "せんそう - 谐音'僧扫' - 僧侣也不得不去扫战场 - 战争",
+    "reviewTip": "せんそう - 谐音'僧扫' - 僧侣也不得不去扫战场",
     "difficultyStars": 2,
     "exampleSentences": [
       {

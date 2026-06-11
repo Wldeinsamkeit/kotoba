@@ -265,6 +265,123 @@ const courseMemoryPresets: Record<string, CourseMemoryPreset> = {
     mergedScene: '老师讲完操作步骤，小田在脑子里盖章：わかりました，明白了。',
     reviewHint: 'わかりました - わかる + ました - 已经明白并礼貌回应 - 明白了。',
   },
+  ある: {
+    reading: 'ある',
+    elements: [
+      { element: 'ある', method: '语法记忆', bridgeC: 'ある 表示无生命事物“有/存在”，也可用于活动“会有/会举行”。' },
+      { element: '有一件事', method: '联想记忆', bridgeC: '看见日程表上有一个活动，就说 コンサートがある。' },
+    ],
+    mergedScene: '学校公告栏上贴着演唱会海报，小田看到“有这件事发生”：コンサートがある。',
+    reviewHint: 'ある - 有一件事存在 - 东西存在或活动会举行 - 有/举行。',
+  },
+  あります: {
+    reading: 'あります',
+    elements: [
+      { element: 'ある', method: '语法记忆', bridgeC: 'ある 是“有/存在”。' },
+      { element: 'ます', method: '礼貌结尾', bridgeC: 'ます 让表达变成礼貌形。' },
+    ],
+    mergedScene: '店员回答「あります」时，就是礼貌地告诉小田：有货。',
+    reviewHint: 'あります - ある + ます - 礼貌地说“有” - 有。',
+  },
+  ありますか: {
+    reading: 'ありますか',
+    elements: [
+      { element: 'あります', method: '语法记忆', bridgeC: 'あります 是礼貌地说“有”。' },
+      { element: 'か', method: '疑问结尾', bridgeC: '句尾加 か，变成“有吗？”' },
+    ],
+    mergedScene: '小田在店里找护身符，句尾按下问号开关：お守りはありますか。',
+    reviewHint: 'ありますか - あります + か - 礼貌询问有没有 - 有吗？',
+  },
+  ありません: {
+    reading: 'ありません',
+    elements: [
+      { element: 'ある', method: '语法记忆', bridgeC: 'ある 是有/存在。' },
+      { element: 'ません', method: '礼貌否定', bridgeC: 'ません 像礼貌刹车，表示没有。' },
+    ],
+    mergedScene: '药店店员摇摇头，说「ありません」，像给“有”踩下刹车：没有。',
+    reviewHint: 'ありません - ある + ません - 礼貌否定“有” - 没有。',
+  },
+  なるほど: {
+    reading: 'なるほど',
+    elements: [
+      { element: 'なるほど', method: '固定表达', bridgeC: '听懂解释后说 なるほど，表示“原来如此”。' },
+      { element: '脑中灯亮', method: '联想记忆', bridgeC: '一听懂操作步骤，脑袋里的灯突然亮起来。' },
+    ],
+    mergedScene: '老师讲完复印机步骤，小田脑袋里灯一亮：なるほど，原来是这样。',
+    reviewHint: 'なるほど - 脑中灯亮 - 听懂解释后的反应 - 原来如此。',
+  },
+  どうやって: {
+    reading: 'どうやって',
+    elements: [
+      { element: 'どう', method: '固定疑问', bridgeC: 'どう 问“怎么样/如何”。' },
+      { element: 'やって', method: '动作方式', bridgeC: 'やって 来自动作“做”，合起来问“怎么做”。' },
+    ],
+    mergedScene: '小田站在复印机前不会操作，只能问：どうやって？到底怎么做？',
+    reviewHint: 'どうやって - どう=如何 + やって=做 - 问做法 - 怎么/如何。',
+  },
+  どうですか: {
+    reading: 'どうですか',
+    elements: [
+      { element: 'どう', method: '固定疑问', bridgeC: 'どう 问状态或意见：怎么样。' },
+      { element: 'ですか', method: '礼貌疑问', bridgeC: 'です 加 か，礼貌地询问。' },
+    ],
+    mergedScene: '田中提出周六见面，问小田「土曜日はどうですか」：这个方案怎么样？',
+    reviewHint: 'どうですか - どう + 礼貌疑问 - 问对方觉得怎么样 - 怎么样？',
+  },
+  どうぞ: {
+    reading: 'どうぞ',
+    elements: [
+      { element: 'どうぞ', method: '固定表达', bridgeC: '让对方先做、请对方拿、请对方进入时都可用。' },
+      { element: '让路手势', method: '联想记忆', bridgeC: '像侧身伸手让对方先走。' },
+    ],
+    mergedScene: '前台要护照，小田递过去说「はい、どうぞ」，手势就是“请”。',
+    reviewHint: 'どうぞ - 让路/递出手势 - 请对方做或拿 - 请。',
+  },
+  どういたしまして: {
+    reading: 'どういたしまして',
+    elements: [
+      { element: 'どういたしまして', method: '固定寒暄', bridgeC: '别人道谢后整块回答，表示“不客气”。' },
+      { element: '把感谢推回去', method: '联想记忆', bridgeC: '像轻轻把感谢推回去：不用谢。' },
+    ],
+    mergedScene: '路人帮小田指完路，小田道谢，对方摆摆手：どういたしまして。',
+    reviewHint: 'どういたしまして - 固定回应 - 别人说谢谢后回答 - 不客气。',
+  },
+  お願いします: {
+    reading: 'おねがいします',
+    elements: [
+      { element: '願い', method: '汉字直觉', bridgeC: '願い 有愿望、请求的意思。' },
+      { element: 'します', method: '固定礼貌', bridgeC: '整块表达“拜托/麻烦您”。' },
+    ],
+    mergedScene: '小田把请求认真递给对方：お願いします，麻烦您了。',
+    reviewHint: 'お願いします - 願い=请求 + 礼貌表达 - 把事情拜托给对方 - 拜托/麻烦。',
+  },
+  よろしく: {
+    reading: 'よろしく',
+    elements: [
+      { element: 'よろしく', method: '固定表达', bridgeC: 'よろしく 是よろしくお願いします的口语简略版。' },
+      { element: '关系交给你', method: '联想记忆', bridgeC: '把以后相处这件事交给对方照顾。' },
+    ],
+    mergedScene: '田中熟悉一点后不说完整长句，只说「よろしく」，意思仍是请多关照。',
+    reviewHint: 'よろしく - 简略寒暄 - 把未来关系交给对方照顾 - 请多关照。',
+  },
+  円: {
+    reading: 'えん',
+    elements: [
+      { element: '円', method: '汉字直觉', bridgeC: '价格场景里 円 是日元单位，不按“圆形/圆周”理解。' },
+      { element: 'えん', method: '固定读音', bridgeC: '看到价格数字后面的 円，读作 えん。' },
+    ],
+    mergedScene: '店员说「三千円です」，小田脑中立刻把 円 当成钱包里的日元单位。',
+    reviewHint: '円 - 价格单位 + 固定读音 えん - 钱包里的日元 - 日元。',
+  },
+  入れます: {
+    reading: 'はいれます',
+    elements: [
+      { element: '入る', method: '语法记忆', bridgeC: '这里来自 入る 的可能形，表示能进入、能排进班。' },
+      { element: 'ます', method: '礼貌结尾', bridgeC: '面试时用礼貌形回答店长。' },
+    ],
+    mergedScene: '店长问一周能来几次班，小田把自己的周末时间排进班表：週末なら入れます。',
+    reviewHint: '入れます - 入る的可能礼貌形 - 能排进班表/能上班 - 能来上班。',
+  },
   受付: {
     reading: 'うけつけ',
     elements: [
@@ -378,7 +495,7 @@ export function getLessonMemory(vocab: VocabItem): LessonMemory {
   const exact = exactIndex.get(key(vocab.word, vocab.reading))
   const word = wordIndex.get(normalizeWord(vocab.word))
   const reading = shouldUseReadingFallback(vocab) && vocab.reading
-    ? normalizedIndex.get(normalizeWord(vocab.reading))
+    ? normalizedIndex.get(normalizeWord(vocab.reading ?? ''))
     : undefined
   const hit = exact ?? word ?? reading
 

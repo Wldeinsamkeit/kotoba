@@ -337,37 +337,6 @@ function WebHome() {
           </Link>
         </div>
       </section>
-
-      {/* 学习路径 */}
-      <section className="learning-path">
-        <h2 className="section-title-modern">学习路径</h2>
-        <div className="path-preview">
-          {lessons.slice(0, 5).map((lesson, index) => {
-            const isCompleted = hasLessonPassed(progress, lesson.id)
-            const isCurrent = !isCompleted && (
-              index === 0 ||
-              hasLessonPassed(progress, lessons[index - 1].id)
-            )
-            return (
-              <Link
-                key={lesson.id}
-                to={`/lessons/${lesson.id}`}
-                className={`path-node ${isCompleted ? 'completed' : ''} ${isCurrent ? 'current' : ''}`}
-              >
-                <div className="path-node-icon">
-                  {isCompleted ? '✓' : index + 1}
-                </div>
-                <span className="path-node-label">{lesson.title}</span>
-              </Link>
-            )
-          })}
-          {lessons.length > 5 && (
-            <Link to="/lessons" className="path-node path-more">
-              <span>查看全部 {lessons.length} 课</span>
-            </Link>
-          )}
-        </div>
-      </section>
     </div>
   )
 }

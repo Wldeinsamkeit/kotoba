@@ -50,3 +50,7 @@ public/supertonic/assets/onnx/*.onnx
 
 # iOS SwiftPM 本地工作目录
 ios/App/CapApp-SPM/.swiftpm/
+data/word_relations/all_relation_edges.json
+data/word_relations/all_word_relations_graph.json
+data/word_relations/all_relation_edges.json
+data/word_relations/all_word_relations_graph.json

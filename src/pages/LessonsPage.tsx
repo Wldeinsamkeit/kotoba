@@ -5,12 +5,14 @@ import { lessons } from '../data/lessons'
 import { useProgress } from '../context/ProgressContext'
 import { parseLessonTitle } from '../lib/lessonTitle'
 import { getLessonStory } from '../lib/lessonStory'
+import { useLessonCheckMode } from '../lib/lessonCheckMode'
 import { hasLessonPassed } from '../lib/progress'
 import type { LessonLevel } from '../types'
 import { WordSetsList } from './WordSetsPage'
 
 export function LessonsPage() {
   const { progress } = useProgress()
+  const [checkMode] = useLessonCheckMode()
   const [searchParams] = useSearchParams()
   const [wordPanelOpen, setWordPanelOpen] = useState(
     searchParams.get('words') === 'open',
@@ -46,22 +48,25 @@ export function LessonsPage() {
   return (
     <div className="page">
       <header className="page-header lesson-hub-header">
-        <div className="lesson-course-column">
-          <h1>课程学习</h1>
-          <p className="page-sub">
-            已完成 {filteredCompletedCount} / {filteredLessons.length} 课
-          </p>
+        <Link to="/" className="back-link">← 返回首页</Link>
+        <div className="lesson-hub-header-row">
+          <div className="lesson-course-column">
+            <h1>课程学习</h1>
+            <p className="page-sub">
+              已完成 {filteredCompletedCount} / {filteredLessons.length} 课
+            </p>
+          </div>
+          <button
+            type="button"
+            className="lesson-word-trigger lesson-word-trigger-inline"
+            onClick={() => setWordPanelOpen((open) => !open)}
+            aria-expanded={wordPanelOpen}
+            aria-controls="lesson-word-panel"
+          >
+            <span className="lesson-word-trigger-icon">記</span>
+            <span>{wordPanelOpen ? '收起单词' : '单词副交互'}</span>
+          </button>
         </div>
-        <button
-          type="button"
-          className="lesson-word-trigger lesson-word-trigger-inline"
-          onClick={() => setWordPanelOpen((open) => !open)}
-          aria-expanded={wordPanelOpen}
-          aria-controls="lesson-word-panel"
-        >
-          <span className="lesson-word-trigger-icon">記</span>
-          <span>{wordPanelOpen ? '收起单词' : '单词副交互'}</span>
-        </button>
       </header>
 
       <section className="lesson-command-center" aria-label="今日课程驾驶舱">
@@ -122,6 +127,7 @@ export function LessonsPage() {
           const previousLesson = lessons[lessonIndex - 1]
           const done = hasLessonPassed(progress, lesson.id)
           const unlocked =
+            checkMode ||
             lessonIndex <= 0 ||
             done ||
             (previousLesson ? hasLessonPassed(progress, previousLesson.id) : true)

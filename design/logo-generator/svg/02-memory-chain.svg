@@ -1,0 +1,9 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kotoba memory chain logo">
+  <path d="M24 67 C35 50 45 50 52 58 C60 67 73 56 78 36" fill="none" stroke="#668a78" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="24" cy="67" r="7" fill="#f7f2e8" stroke="#668a78" stroke-width="4"/>
+  <circle cx="52" cy="58" r="8" fill="#f7f2e8" stroke="#668a78" stroke-width="4"/>
+  <circle cx="78" cy="36" r="7" fill="#f7f2e8" stroke="#668a78" stroke-width="4"/>
+  <path d="M67 24 C80 22 88 30 88 42 C78 42 69 35 67 24Z" fill="none" stroke="#668a78" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M74 28 C78 32 81 36 83 41" fill="none" stroke="#668a78" stroke-width="3" stroke-linecap="round"/>
+  <text x="52" y="63" text-anchor="middle" font-family="'Hiragino Mincho ProN', 'Yu Mincho', serif" font-size="20" font-weight="600" fill="#668a78">あ</text>
+</svg>

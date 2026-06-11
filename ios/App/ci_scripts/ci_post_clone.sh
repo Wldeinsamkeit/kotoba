@@ -1,25 +1,33 @@
 #!/bin/sh
-set -e
+set -euxo pipefail
 
 export HOMEBREW_NO_INSTALL_CLEANUP=TRUE
+export HOMEBREW_NO_AUTO_UPDATE=TRUE
+export PATH="/opt/homebrew/bin:/opt/homebrew/opt/node@20/bin:/usr/local/bin:$PATH"
 
-echo "📦 Install Node.js (Xcode Cloud)"
+echo "📍 CI_PRIMARY_REPOSITORY_PATH=$CI_PRIMARY_REPOSITORY_PATH"
+cd "$CI_PRIMARY_REPOSITORY_PATH"
+
 if ! command -v node >/dev/null 2>&1; then
-  brew install node@22
-  brew link node@22
+  echo "📦 Installing Node.js via Homebrew"
+  brew install node@20
+  export PATH="/opt/homebrew/opt/node@20/bin:$PATH"
 fi
 
 echo "Node $(node -v), npm $(npm -v)"
 
-cd "$CI_PRIMARY_REPOSITORY_PATH"
-
-echo "📦 Install npm dependencies"
+echo "📦 npm ci"
 npm ci
 
-echo "🏗️ Build web app (dist/)"
+echo "🏗️ npm run build"
 npm run build
 
-echo "🔄 Sync Capacitor iOS bundle (public + capacitor.config.json)"
+echo "🔄 npx cap sync ios"
 npx cap sync ios
 
+echo "🔍 Verify Capacitor iOS assets"
+test -d ios/App/App/public
+test -f ios/App/App/config.xml
+test -f ios/App/App/capacitor.config.json
+ls -la ios/App/App/public | head -20
 echo "✅ Capacitor sync complete"

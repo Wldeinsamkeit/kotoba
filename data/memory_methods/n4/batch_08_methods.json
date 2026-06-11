@@ -22,7 +22,7 @@
       "personal": true,
       "total": 2
     },
-    "reviewTip": "飲食店 - 汉字直觉：飲食=吃喝，店=店铺 - 吃喝的店就是餐馆",
+    "reviewTip": "いんしょくてん - いん像饮，しょく像食，てん像店 - 能饮能食的店，中午筷子声点餐声挤满 - 餐馆。",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -53,7 +53,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "むぎ - 谐音'母鸡' - 母鸡最喜欢吃麦子 - 麦子",
+    "reviewTip": "むぎ - 谐音'母鸡' - 母鸡最喜欢吃麦子",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -84,7 +84,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "たけ - 谐音'他可' - 对于熊猫来说，他可是竹子 - 竹子",
+    "reviewTip": "たけ - 谐音'他可' - 对于熊猫来说，他可是竹子",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -151,7 +151,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "もどる - 谐音'某得路' - 探险发现没路了，原路返回 - 回去，返回",
+    "reviewTip": "もどる - 谐音'某得路' - 探险发现没路了，原路返回",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -182,7 +182,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "かつ - 谐音'咔哧' - 拳击选手咔哧一下打倒对方 - 胜，赢",
+    "reviewTip": "かつ - 谐音'咔哧' - 拳击选手咔哧一下打倒对方",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -213,7 +213,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "むかし - 谐音'母开心' - 从前家里穷，母开心最重要 - 从前",
+    "reviewTip": "むかし - 谐音'母开心' - 从前家里穷，母开心最重要",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -244,7 +244,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "けっきょく - 谐音'开口苦' - 开口说话很苦，最后沉默 - 最后，结果",
+    "reviewTip": "けっきょく - 谐音'开口苦' - 开口说话很苦，最后沉默",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -280,7 +280,7 @@
       "personal": true,
       "total": 2
     },
-    "reviewTip": "四角 - 汉字直觉：四=四，角=かく - 四个角就是方形",
+    "reviewTip": "しかく - 谐音“细卡壳” - 拼积木时一个细方块卡壳，四个角都顶住拔不出 - 方形、四角。",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -342,7 +342,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "むすめ - 谐音'思暮' - 日暮时思念女儿 - 女儿，闺女",
+    "reviewTip": "むすめ - 谐音'思暮' - 日暮时思念女儿",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -373,7 +373,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "おどろく - 谐音'哦多哭' - 吓得只会'哦哦'地哭，哭得停不下来 - 惊恐，惊讶",
+    "reviewTip": "おどろく - 谐音'哦多哭' - 吓得只会'哦哦'地哭，哭得停不下来",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -466,7 +466,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "そだてる - 谐音'手打铁' - 像铁匠一样手把手教育 - 培育，抚育",
+    "reviewTip": "そだてる - 谐音'手打铁' - 像铁匠一样手把手教育",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -497,7 +497,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "もも - 谐音'摸摸' - 桃子软软的，想摸摸 - 桃子",
+    "reviewTip": "もも - 谐音'摸摸' - 桃子软软的，想摸摸",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -528,7 +528,7 @@
       "personal": true,
       "total": 2
     },
-    "reviewTip": "コンピュータ - 外来语computer - 日本小孩从小用电脑 - 电脑",
+    "reviewTip": "コンピュータ - 外来语computer - 日本小孩从小用电脑",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -590,7 +590,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "あつい - 谐音'啊 滋滋' - 烧烤时滋滋响，好热 - 热",
+    "reviewTip": "あつい - 谐音'啊 滋滋' - 烧烤时滋滋响，好热",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -621,7 +621,7 @@
       "personal": true,
       "total": 2
     },
-    "reviewTip": "れい - 谐音'来' - 老师说'来，看这个例子' - 例子，事例",
+    "reviewTip": "れい - 谐音'来' - 老师说'来，看这个例子'",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -652,7 +652,7 @@
       "personal": false,
       "total": 1
     },
-    "reviewTip": "或る - 和'有'同音但意思不同 - 或る=ある人（某人），不是'有' - 某",
+    "reviewTip": "或る - 和'有'同音但意思不同 - 或る=ある人（某人），不是'有'",
     "difficultyStars": 3,
     "exampleSentences": [
       {
@@ -683,7 +683,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "かじ - 谐音'卡机' - 电脑卡机引发火灾 - 火灾，失火",
+    "reviewTip": "かじ - 谐音'卡机' - 电脑卡机引发火灾",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -714,7 +714,7 @@
       "personal": true,
       "total": 2
     },
-    "reviewTip": "ゲーム - 外来语game - 大家都爱玩游戏 - 游戏",
+    "reviewTip": "ゲーム - 外来语game - 大家都爱玩游戏",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -745,7 +745,7 @@
       "personal": false,
       "total": 2
     },
-    "reviewTip": "いのち - 谐音'一诺千' - 一诺千金，生命宝贵 - 生命",
+    "reviewTip": "いのち - 谐音'一诺千' - 一诺千金，生命宝贵",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -776,7 +776,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "おおどおり - 谐音'大路偶变得很多哩' - 运载牛的车翻了，路上跑出来很多牛 - 大道，大路",
+    "reviewTip": "おおどおり - 谐音'大路偶变得很多哩' - 运载牛的车翻了，路上跑出来很多牛",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -838,7 +838,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "しょうかい - 谐音'小楷' - 用小楷字体来介绍自己 - 介绍",
+    "reviewTip": "しょうかい - 谐音'小楷' - 用小楷字体来介绍自己",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -869,7 +869,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "こたえ - 谐音'可太爱' - 答案可太爱了 - 回答，答案",
+    "reviewTip": "こたえ - 谐音'可太爱' - 答案可太爱了",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -900,7 +900,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "気が付く - 🔗気づく同一个意思 - 気が付く是惯用形式 - 注意到，察觉",
+    "reviewTip": "気が付く - 🔗気づく同一个意思 - 気が付く是惯用形式",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -931,7 +931,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "びん - 谐音'冰' - 用冰做的瓶子装饮料 - 瓶子",
+    "reviewTip": "びん - 谐音'冰' - 用冰做的瓶子装饮料",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -962,7 +962,7 @@
       "personal": true,
       "total": 2
     },
-    "reviewTip": "ええと - 思考时发出的声音 - 和中文'嗯...'一样 - 啊，嗯",
+    "reviewTip": "ええと - 被老师点名时嘴里一直ええと，脑子疯狂找答案 - 啊、嗯。",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -993,7 +993,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "しけん - 谐音'细啃' - 考试要细啃书籍 - 考试",
+    "reviewTip": "しけん - 谐音'细啃' - 考试要细啃书籍",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1024,7 +1024,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "かんしん - 谐音'看心' - 真正佩服是发自内心的 - 佩服，赞佩",
+    "reviewTip": "かんしん - 谐音'看心' - 真正佩服是发自内心的",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1043,19 +1043,21 @@
     "meaning": "做法，方法",
     "elements": [
       {
-        "element": "仕方",
-        "method": "汉字直觉",
-        "bridgeC": "仕=し（做），方=かた（方法）- 仕方=做法，方法"
+        "part": "仕",
+        "association": "读し，表示做事、处理事情的动作。"
+      },
+      {
+        "part": "方",
+        "association": "固定读かた，表示方法、做法。"
+      },
+      {
+        "part": "仕方ない",
+        "association": "ない=没有；没有方法就是没办法。"
       }
     ],
-    "mergedScene": "买新家电，看不懂使い方（使用方法），找店员教。仕方=做法，方法。",
-    "sceneScore": {
-      "specific": true,
-      "emotional": false,
-      "personal": true,
-      "total": 2
-    },
-    "reviewTip": "仕方 - 仕=し（做），方=かた（方法）- 仕方=做法 - 做法，方法",
+    "mergedScene": "小田遇到一道题不会做，老师提醒他先看「仕=し」是做事，「方=かた」是方法。把做事的方法合在一起就是仕方；如果后面加ない，就变成没有方法、没办法。",
+    "sceneScore": null,
+    "reviewTip": "仕方 - 仕=し（做）+ 方=かた（方法） - 做事的方法就是仕方；仕方ない=没有方法=没办法 - 做法、方法。",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1086,7 +1088,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "け - 谐音'咳' - 毛发卡喉咙里，咳嗽 - 毛发",
+    "reviewTip": "け - 谐音'咳' - 毛发卡喉咙里，咳嗽",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1148,7 +1150,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "ひさしぶり - 谐音'恰洗释放' - 洗个澡释放一下，好久不见 - 好久不见",
+    "reviewTip": "ひさしぶり - 谐音'恰洗释放' - 洗个澡释放一下，好久不见",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1179,7 +1181,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "すり - 谐音'是你' - 抓小偷发现是熟人，惊讶背叛 - 扒手，小偷",
+    "reviewTip": "すり - 谐音'是你' - 抓小偷发现是熟人，惊讶背叛",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1210,7 +1212,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "わかれる - 谐音'我靠，累噜' - 一段感情走到最后，我靠太累了 - 离别，分手",
+    "reviewTip": "わかれる - 谐音'我靠，累噜' - 一段感情走到最后，我靠太累了",
     "difficultyStars": 2,
     "exampleSentences": [
       {

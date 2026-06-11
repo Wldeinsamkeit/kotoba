@@ -1,0 +1,2599 @@
+{
+  "metadata": {
+    "description": "当前待编写批次的按词关系（已去掉尚未编写记忆法的目标词）。",
+    "writingLevel": "n4",
+    "writingBatch": 29,
+    "allowedLevels": [
+      "n5",
+      "n4"
+    ],
+    "relationIndexes": [
+      "data/word_relations/all_word_relation_index.json"
+    ],
+    "writtenKeysFile": "data/word_relations/writing_scope/n4_through_batch_28_written_keys.json",
+    "writtenKeyCount": 1768,
+    "includeSameBatchTargets": true,
+    "generatedAt": "2026-06-09T08:38:51.465Z",
+    "targetWordCount": 40,
+    "relationsRawTotal": 111,
+    "relationsFilteredTotal": 111,
+    "relationsDroppedTotal": 0
+  },
+  "words": {
+    "今度::こんど": {
+      "id": "n4-word-1121",
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "这回，这次",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 12,
+      "relations": [
+        {
+          "edgeId": "all-rel-10221",
+          "type": "same_kanji_different_reading",
+          "targetWord": "一度",
+          "targetReading": "いちど",
+          "targetReadingRomaji": "ichido",
+          "targetMeaning": "一回，一次",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「度」：一度(いちど) / 今度(こんど)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-12777",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今",
+          "targetReading": "いま",
+          "targetReadingRomaji": "ima",
+          "targetMeaning": "现在、当前",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今(いま) / 今度(こんど)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-12908",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今すぐ",
+          "targetReading": "いますぐ",
+          "targetReadingRomaji": "imasugu",
+          "targetMeaning": "现在立即，现在立刻",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今すぐ(いますぐ) / 今度(こんど)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-12935",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今でも",
+          "targetReading": "いまでも",
+          "targetReadingRomaji": "imademo",
+          "targetMeaning": "現在の状態が過去と同じであるさま",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今でも(いまでも) / 今度(こんど)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-12980",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今にも",
+          "targetReading": "いまにも",
+          "targetReadingRomaji": "imanimo",
+          "targetMeaning": "马上，不久",
+          "targetLevels": [
+            "N4",
+            "N2",
+            "N1"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今にも(いまにも) / 今度(こんど)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-23217",
+          "type": "same_kanji_different_reading",
+          "targetWord": "温度",
+          "targetReading": "おんど",
+          "targetReadingRomaji": "ondo",
+          "targetMeaning": "热度",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「度」：温度(おんど) / 今度(こんど)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-38167",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今日",
+          "targetReading": "きょう",
+          "targetReadingRomaji": "kyou",
+          "targetMeaning": "今天",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今日(きょう) / 今度(こんど)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-44303",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今朝",
+          "targetReading": "けさ",
+          "targetReadingRomaji": "kesa",
+          "targetMeaning": "今天早上",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今朝(けさ) / 今度(こんど)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-53792",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今年",
+          "targetReading": "ことし",
+          "targetReadingRomaji": "kotoshi",
+          "targetMeaning": "今年",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今年(ことし) / 今度(こんど)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-54655",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今",
+          "targetReading": "こん",
+          "targetReadingRomaji": "kon",
+          "targetMeaning": "～现……，本……",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今(こん) / 今度(こんど)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-54674",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今回",
+          "targetReading": "こんかい",
+          "targetReadingRomaji": "konkai",
+          "targetMeaning": "此次，此番",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今回(こんかい) / 今度(こんど)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-54774",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今月",
+          "targetReading": "こんげつ",
+          "targetReadingRomaji": "kongetsu",
+          "targetMeaning": "这个月",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今月(こんげつ) / 今度(こんど)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 12,
+        "dropped": 0,
+        "highValue": 12
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "酒::さけ": {
+      "id": "n4-word-1122",
+      "word": "酒",
+      "reading": "さけ",
+      "meaning": "酒",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 4,
+      "relations": [
+        {
+          "edgeId": "all-rel-02705",
+          "type": "dakuten_or_handakuten_difference",
+          "targetWord": "下げる",
+          "targetReading": "さげる",
+          "targetReadingRomaji": "sageru",
+          "targetMeaning": "降低，降下",
+          "targetLevels": [
+            "N4",
+            "N3"
+          ],
+          "memoryValue": 0.88,
+          "confidence": 0.84,
+          "suggestedStrategy": "浊点/半浊点差异 + 字形变化故事",
+          "note": "さげる 和 さけ 的核心读音「さげ / さけ」只差 げ/け 这个浊点变化，适合把浊点当成记忆开关。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-19897",
+          "type": "same_kanji_different_reading",
+          "targetWord": "お酒",
+          "targetReading": "おさけ",
+          "targetReadingRomaji": "osake",
+          "targetMeaning": "酒",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「酒」：お酒(おさけ) / 酒(さけ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-56370",
+          "type": "same_kanji_different_reading",
+          "targetWord": "酒屋",
+          "targetReading": "さかや",
+          "targetReadingRomaji": "sakaya",
+          "targetMeaning": "酒铺，卖酒的（人",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「酒」：酒屋(さかや) / 酒(さけ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-147588",
+          "type": "reading_prefix_chunk",
+          "targetWord": "叫ぶ",
+          "targetReading": "さけぶ",
+          "targetReadingRomaji": "sakebu",
+          "targetMeaning": "大声喊叫，呼喊",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "さけぶ 从开头包含已学读音块「さけ」：酒(さけ) / 叫ぶ(さけぶ)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 4,
+        "dropped": 0,
+        "highValue": 3
+      },
+      "suggestedPrimaryStrategies": [
+        "浊点/半浊点差异 + 字形变化故事",
+        "同字不同音 + 固定读音提醒",
+        "读音前缀/假名词块 + 拆分谐音故事"
+      ]
+    },
+    "それとも::それとも": {
+      "id": "n4-word-1123",
+      "word": "それとも",
+      "reading": "それとも",
+      "meaning": "还是，或者",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-150699",
+          "type": "reading_prefix_chunk",
+          "targetWord": "それ",
+          "targetReading": "それ",
+          "targetReadingRomaji": "sore",
+          "targetMeaning": "那个",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "それとも 从开头包含已学读音块「それ」：それ(それ) / それとも(それとも)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": [
+        "读音前缀/假名词块 + 拆分谐音故事"
+      ]
+    },
+    "空港::くうこう": {
+      "id": "n4-word-1124",
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "机场",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 3,
+      "relations": [
+        {
+          "edgeId": "all-rel-04330",
+          "type": "same_kanji_different_reading",
+          "targetWord": "青空",
+          "targetReading": "あおぞら",
+          "targetReadingRomaji": "aozora",
+          "targetMeaning": "蓝天，青天",
+          "targetLevels": [
+            "N4",
+            "N3"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「空」：青空(あおぞら) / 空港(くうこう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-04627",
+          "type": "same_kanji_different_reading",
+          "targetWord": "空く",
+          "targetReading": "あく",
+          "targetReadingRomaji": "aku",
+          "targetMeaning": "出现空隙或者空隙变大",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「空」：空く(あく) / 空港(くうこう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-41340",
+          "type": "same_kanji_different_reading",
+          "targetWord": "空気",
+          "targetReading": "くうき",
+          "targetReadingRomaji": "kuuki",
+          "targetMeaning": "空气",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「空」：空気(くうき) / 空港(くうこう)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 3,
+        "dropped": 0,
+        "highValue": 3
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "下がる::さがる": {
+      "id": "n4-word-1125",
+      "word": "下がる",
+      "reading": "さがる",
+      "meaning": "下降",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 6,
+      "relations": [
+        {
+          "edgeId": "all-rel-02697",
+          "type": "dakuten_or_handakuten_difference",
+          "targetWord": "坂",
+          "targetReading": "さか",
+          "targetReadingRomaji": "saka",
+          "targetMeaning": "坡，坡道",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.88,
+          "confidence": 0.84,
+          "suggestedStrategy": "浊点/半浊点差异 + 字形变化故事",
+          "note": "さか 和 さがる 的核心读音「さか / さが」只差 か/が 这个浊点变化，适合把浊点当成记忆开关。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-07794",
+          "type": "same_kanji_different_reading",
+          "targetWord": "以下",
+          "targetReading": "いか",
+          "targetReadingRomaji": "ika",
+          "targetMeaning": "以下、在……以下",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「下」：以下(いか) / 下がる(さがる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-22880",
+          "type": "same_kanji_different_reading",
+          "targetWord": "下りる",
+          "targetReading": "おりる",
+          "targetReadingRomaji": "oriru",
+          "targetMeaning": "下，降",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「下」：下りる(おりる) / 下がる(さがる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-41803",
+          "type": "same_kanji_different_reading",
+          "targetWord": "下さる",
+          "targetReading": "くださる",
+          "targetReadingRomaji": "kudasaru",
+          "targetMeaning": "给、赐予",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「下」：下さる(くださる) / 下がる(さがる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-42409",
+          "type": "same_kanji_different_reading",
+          "targetWord": "靴下",
+          "targetReading": "くつした",
+          "targetReadingRomaji": "kutsushita",
+          "targetMeaning": "袜子",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「下」：靴下(くつした) / 下がる(さがる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-44409",
+          "type": "same_kanji_different_reading",
+          "targetWord": "下宿",
+          "targetReading": "げしゅく",
+          "targetReadingRomaji": "geshuku",
+          "targetMeaning": "供膳宿的公寓",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「下」：下宿(げしゅく) / 下がる(さがる)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 6,
+        "dropped": 0,
+        "highValue": 6
+      },
+      "suggestedPrimaryStrategies": [
+        "浊点/半浊点差异 + 字形变化故事",
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "ワイン::わいん": {
+      "id": "n4-word-1126",
+      "word": "ワイン",
+      "reading": "わいん",
+      "meaning": "葡萄酒",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "触る::さわる": {
+      "id": "n4-word-1127",
+      "word": "触る",
+      "reading": "さわる",
+      "meaning": "触摸",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "缶::かん": {
+      "id": "n4-word-1128",
+      "word": "缶",
+      "reading": "かん",
+      "meaning": "罐，桶",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 2,
+      "relations": [
+        {
+          "edgeId": "all-rel-145149",
+          "type": "reading_prefix_chunk",
+          "targetWord": "漢字",
+          "targetReading": "かんじ",
+          "targetReadingRomaji": "kanji",
+          "targetMeaning": "汉字",
+          "targetLevels": [
+            "N5",
+            "N4"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "かんじ 从开头包含已学读音块「かん」：缶(かん) / 漢字(かんじ)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-145154",
+          "type": "reading_prefix_chunk",
+          "targetWord": "韓国語",
+          "targetReading": "かんこくご",
+          "targetReadingRomaji": "kankokugo",
+          "targetMeaning": "韩语",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "かんこくご 从开头包含已学读音块「かん」：缶(かん) / 韓国語(かんこくご)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 2,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": [
+        "读音前缀/假名词块 + 拆分谐音故事"
+      ]
+    },
+    "嬉しい::うれしい": {
+      "id": "n4-word-1129",
+      "word": "嬉しい",
+      "reading": "うれしい",
+      "meaning": "高兴，快活",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "ガソリン::がそりん": {
+      "id": "n4-word-1130",
+      "word": "ガソリン",
+      "reading": "がそりん",
+      "meaning": "汽油",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-144802",
+          "type": "reading_prefix_chunk",
+          "targetWord": "ガソリンスタンド",
+          "targetReading": "がそりんすたんど",
+          "targetReadingRomaji": "gasorinsutando",
+          "targetMeaning": "加油站",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "がそりんすたんど 从开头包含已学读音块「がそりん」：ガソリン(がそりん) / ガソリンスタンド(がそりんすたんど)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": [
+        "读音前缀/假名词块 + 拆分谐音故事"
+      ]
+    },
+    "見物::けんぶつ": {
+      "id": "n4-word-1131",
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "参观，旁观",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 9,
+      "relations": [
+        {
+          "edgeId": "all-rel-06320",
+          "type": "same_kanji_different_reading",
+          "targetWord": "編み物",
+          "targetReading": "あみもの",
+          "targetReadingRomaji": "amimono",
+          "targetMeaning": "编织物品",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「物」：編み物(あみもの) / 見物(けんぶつ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-08858",
+          "type": "same_kanji_different_reading",
+          "targetWord": "意見",
+          "targetReading": "いけん",
+          "targetReadingRomaji": "iken",
+          "targetMeaning": "意见，见解",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：意見(いけん) / 見物(けんぶつ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-19656",
+          "type": "same_kanji_different_reading",
+          "targetWord": "贈り物",
+          "targetReading": "おくりもの",
+          "targetReadingRomaji": "okurimono",
+          "targetMeaning": "礼物，礼品",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「物」：贈り物(おくりもの) / 見物(けんぶつ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-21788",
+          "type": "same_kanji_different_reading",
+          "targetWord": "お見舞い",
+          "targetReading": "おみまい",
+          "targetReadingRomaji": "omimai",
+          "targetMeaning": "探望病人、慰问",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：お見舞い(おみまい) / 見物(けんぶつ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-25286",
+          "type": "same_kanji_different_reading",
+          "targetWord": "買い物",
+          "targetReading": "かいもの",
+          "targetReadingRomaji": "kaimono",
+          "targetMeaning": "购物、买东西",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「物」：買い物(かいもの) / 見物(けんぶつ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-37324",
+          "type": "same_kanji_different_reading",
+          "targetWord": "着物",
+          "targetReading": "きもの",
+          "targetReadingRomaji": "kimono",
+          "targetMeaning": "和服",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「物」：着物(きもの) / 見物(けんぶつ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-40202",
+          "type": "same_kanji_different_reading",
+          "targetWord": "着る物",
+          "targetReading": "きるもの",
+          "targetReadingRomaji": "kirumono",
+          "targetMeaning": "穿的衣服",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「物」：着る物(きるもの) / 見物(けんぶつ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-41871",
+          "type": "same_kanji_different_reading",
+          "targetWord": "果物",
+          "targetReading": "くだもの",
+          "targetReadingRomaji": "kudamono",
+          "targetMeaning": "水果",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「物」：果物(くだもの) / 見物(けんぶつ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-45776",
+          "type": "same_kanji_different_reading",
+          "targetWord": "見学",
+          "targetReading": "けんがく",
+          "targetReadingRomaji": "kengaku",
+          "targetMeaning": "参观，参观学习",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：見学(けんがく) / 見物(けんぶつ)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 9,
+        "dropped": 0,
+        "highValue": 9
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "暮らす::くらす": {
+      "id": "n4-word-1132",
+      "word": "暮らす",
+      "reading": "くらす",
+      "meaning": "生活，度日",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 6,
+      "relations": [
+        {
+          "edgeId": "all-rel-00584",
+          "type": "same_reading_different_writing",
+          "targetWord": "クラス",
+          "targetReading": "クラス",
+          "targetReadingRomaji": "kurasu",
+          "targetMeaning": "班级",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.95,
+          "confidence": 0.98,
+          "suggestedStrategy": "同音不同字（罗马音归一） + 汉字/场景区分",
+          "note": "kurasu 完全同音：クラス(クラス)=班级，暮らす(くらす)=生活，度日，必须成对区分。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-02033",
+          "type": "dakuten_or_handakuten_difference",
+          "targetWord": "グラス",
+          "targetReading": "ぐらす",
+          "targetReadingRomaji": "gurasu",
+          "targetMeaning": "玻璃杯",
+          "targetLevels": [
+            "N4",
+            "N3"
+          ],
+          "memoryValue": 0.9,
+          "confidence": 0.9,
+          "suggestedStrategy": "浊点/半浊点差异 + 字形变化故事",
+          "note": "ぐらす 和 くらす 只差一个浊点/半浊点，优先把这个点编进故事。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-42795",
+          "type": "same_kanji_different_reading",
+          "targetWord": "暮らし",
+          "targetReading": "くらし",
+          "targetReadingRomaji": "kurashi",
+          "targetMeaning": "生活",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「暮」：暮らし(くらし) / 暮らす(くらす)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-42928",
+          "type": "same_kanji_different_reading",
+          "targetWord": "暮れる",
+          "targetReading": "くれる",
+          "targetReadingRomaji": "kureru",
+          "targetMeaning": "日暮，天黑",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「暮」：暮れる(くれる) / 暮らす(くらす)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-146264",
+          "type": "reading_prefix_chunk",
+          "targetWord": "クラスメート",
+          "targetReading": "くらすめーと",
+          "targetReadingRomaji": "kurasumeeto",
+          "targetMeaning": "同班同学",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "くらすめーと 从开头包含已学读音块「くらす」：暮らす(くらす) / クラスメート(くらすめーと)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-156689",
+          "type": "kana_similarity",
+          "targetWord": "暮らし",
+          "targetReading": "くらし",
+          "targetReadingRomaji": "kurashi",
+          "targetMeaning": "生活",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.82,
+          "suggestedStrategy": "相似假名 + 多一点/少一点/换一笔对比",
+          "note": "くらし 和 くらす 只差一个假名/长音/促音，适合对比记。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 6,
+        "dropped": 0,
+        "highValue": 4
+      },
+      "suggestedPrimaryStrategies": [
+        "同音不同字（罗马音归一） + 汉字/场景区分",
+        "浊点/半浊点差异 + 字形变化故事",
+        "同字不同音 + 固定读音提醒",
+        "读音前缀/假名词块 + 拆分谐音故事"
+      ]
+    },
+    "少子化::しょうしか": {
+      "id": "n4-word-1133",
+      "word": "少子化",
+      "reading": "しょうしか",
+      "meaning": "少子化",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 9,
+      "relations": [
+        {
+          "edgeId": "all-rel-19323",
+          "type": "same_kanji_different_reading",
+          "targetWord": "お菓子",
+          "targetReading": "おかし",
+          "targetReadingRomaji": "okashi",
+          "targetMeaning": "点心、糕点",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：お菓子(おかし) / 少子化(しょうしか)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-19738",
+          "type": "same_kanji_different_reading",
+          "targetWord": "お子さん",
+          "targetReading": "おこさん",
+          "targetReadingRomaji": "okosan",
+          "targetMeaning": "孩子，令郎",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：お子さん(おこさん) / 少子化(しょうしか)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-20826",
+          "type": "same_kanji_different_reading",
+          "targetWord": "男の子",
+          "targetReading": "おとこのこ",
+          "targetReadingRomaji": "otokonoko",
+          "targetMeaning": "男孩",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：男の子(おとこのこ) / 少子化(しょうしか)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-23173",
+          "type": "same_kanji_different_reading",
+          "targetWord": "温暖化",
+          "targetReading": "おんだんか",
+          "targetReadingRomaji": "ondanka",
+          "targetMeaning": "温室效应",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「化」：温暖化(おんだんか) / 少子化(しょうしか)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-23263",
+          "type": "same_kanji_different_reading",
+          "targetWord": "女の子",
+          "targetReading": "おんなのこ",
+          "targetReadingRomaji": "onnanoko",
+          "targetMeaning": "女孩",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：女の子(おんなのこ) / 少子化(しょうしか)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-25882",
+          "type": "same_kanji_different_reading",
+          "targetWord": "化学",
+          "targetReading": "かがく",
+          "targetReadingRomaji": "kagaku",
+          "targetMeaning": "化学",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「化」：化学(かがく) / 少子化(しょうしか)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-47702",
+          "type": "same_kanji_different_reading",
+          "targetWord": "子",
+          "targetReading": "こ",
+          "targetReadingRomaji": "ko",
+          "targetMeaning": "面，表示具有那种状态·性质的孩",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：子(こ) / 少子化(しょうしか)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-54001",
+          "type": "same_kanji_different_reading",
+          "targetWord": "子供",
+          "targetReading": "こども",
+          "targetReadingRomaji": "kodomo",
+          "targetMeaning": "孩子",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：子供(こども) / 少子化(しょうしか)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-69551",
+          "type": "same_kanji_different_reading",
+          "targetWord": "唐辛子",
+          "targetReading": "とうがらし",
+          "targetReadingRomaji": "tougarashi",
+          "targetMeaning": "辣椒茄科一年生草本原产于南美热带，高60左右",
+          "targetLevels": [
+            "N4",
+            "N2"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：少子化(しょうしか) / 唐辛子(とうがらし)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 9,
+        "dropped": 0,
+        "highValue": 9
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "従兄弟::いとこ": {
+      "id": "n4-word-1134",
+      "word": "従兄弟",
+      "reading": "いとこ",
+      "meaning": "堂兄弟，堂姊妹，表兄弟，表姊妹",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 2,
+      "relations": [
+        {
+          "edgeId": "all-rel-06174",
+          "type": "same_kanji_different_reading",
+          "targetWord": "兄",
+          "targetReading": "あに",
+          "targetReadingRomaji": "ani",
+          "targetMeaning": "哥哥",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「兄」：兄(あに) / 従兄弟(いとこ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-20805",
+          "type": "same_kanji_different_reading",
+          "targetWord": "弟",
+          "targetReading": "おとうと",
+          "targetReadingRomaji": "otouto",
+          "targetMeaning": "弟弟",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「弟」：弟(おとうと) / 従兄弟(いとこ)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 2,
+        "dropped": 0,
+        "highValue": 2
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "矢っ張り::やっぱり": {
+      "id": "n4-word-1135",
+      "word": "矢っ張り",
+      "reading": "やっぱり",
+      "meaning": "还是，果然",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-32907",
+          "type": "same_kanji_different_reading",
+          "targetWord": "頑張る",
+          "targetReading": "がんばる",
+          "targetReadingRomaji": "ganbaru",
+          "targetMeaning": "坚持己见，硬主张",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「張」：頑張る(がんばる) / 矢っ張り(やっぱり)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "あのね::あのね": {
+      "id": "n4-word-1136",
+      "word": "あのね",
+      "reading": "あのね",
+      "meaning": "唉，喂，我说",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-143375",
+          "type": "reading_prefix_chunk",
+          "targetWord": "あの",
+          "targetReading": "あの",
+          "targetReadingRomaji": "ano",
+          "targetMeaning": "那个",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "あのね 从开头包含已学读音块「あの」：あの(あの) / あのね(あのね)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": [
+        "读音前缀/假名词块 + 拆分谐音故事"
+      ]
+    },
+    "敬語::けいご": {
+      "id": "n4-word-1137",
+      "word": "敬語",
+      "reading": "けいご",
+      "meaning": "敬语，敬辞",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 3,
+      "relations": [
+        {
+          "edgeId": "all-rel-16890",
+          "type": "same_kanji_different_reading",
+          "targetWord": "英語",
+          "targetReading": "えいご",
+          "targetReadingRomaji": "eigo",
+          "targetMeaning": "英语",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「語」：英語(えいご) / 敬語(けいご)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-25385",
+          "type": "same_kanji_different_reading",
+          "targetWord": "外来語",
+          "targetReading": "がいらいご",
+          "targetReadingRomaji": "gairaigo",
+          "targetMeaning": "外来语",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「語」：外来語(がいらいご) / 敬語(けいご)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-32153",
+          "type": "same_kanji_different_reading",
+          "targetWord": "韓国語",
+          "targetReading": "かんこくご",
+          "targetReadingRomaji": "kankokugo",
+          "targetMeaning": "韩语",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「語」：韓国語(かんこくご) / 敬語(けいご)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 3,
+        "dropped": 0,
+        "highValue": 3
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "増える::ふえる": {
+      "id": "n4-word-1138",
+      "word": "増える",
+      "reading": "ふえる",
+      "meaning": "增加，增多",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "重たい::おもたい": {
+      "id": "n4-word-1139",
+      "word": "重たい",
+      "reading": "おもたい",
+      "meaning": "重，沉",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-21962",
+          "type": "same_kanji_different_reading",
+          "targetWord": "重い",
+          "targetReading": "おもい",
+          "targetReadingRomaji": "omoi",
+          "targetMeaning": "重的",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「重」：重い(おもい) / 重たい(おもたい)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "特に::とくに": {
+      "id": "n4-word-1140",
+      "word": "特に",
+      "reading": "とくに",
+      "meaning": "特别，尤其",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-103117",
+          "type": "same_kanji_different_reading",
+          "targetWord": "特別",
+          "targetReading": "とくべつ",
+          "targetReadingRomaji": "tokubetsu",
+          "targetMeaning": "特别，格外",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「特」：特別(とくべつ) / 特に(とくに)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "腹::はら": {
+      "id": "n4-word-1141",
+      "word": "腹",
+      "reading": "はら",
+      "meaning": "肚子",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-153076",
+          "type": "reading_prefix_chunk",
+          "targetWord": "払う",
+          "targetReading": "はらう",
+          "targetReadingRomaji": "harau",
+          "targetMeaning": "支付",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "はらう 从开头包含已学读音块「はら」：腹(はら) / 払う(はらう)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": [
+        "读音前缀/假名词块 + 拆分谐音故事"
+      ]
+    },
+    "寺::てら": {
+      "id": "n4-word-1142",
+      "word": "寺",
+      "reading": "てら",
+      "meaning": "寺庙",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "贈る::おくる": {
+      "id": "n4-word-1143",
+      "word": "贈る",
+      "reading": "おくる",
+      "meaning": "赠送，送礼",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 4,
+      "relations": [
+        {
+          "edgeId": "all-rel-00245",
+          "type": "same_reading_different_writing",
+          "targetWord": "送る",
+          "targetReading": "おくる",
+          "targetReadingRomaji": "okuru",
+          "targetMeaning": "送行，送走",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.95,
+          "confidence": 0.98,
+          "suggestedStrategy": "同音不同字（罗马音归一） + 汉字/场景区分",
+          "note": "okuru 完全同音：送る(おくる)=送行，送走，贈る(おくる)=赠送，送礼，必须成对区分。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-19707",
+          "type": "same_kanji_different_reading",
+          "targetWord": "贈り物",
+          "targetReading": "おくりもの",
+          "targetReadingRomaji": "okurimono",
+          "targetMeaning": "礼物，礼品",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「贈」：贈り物(おくりもの) / 贈る(おくる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-144142",
+          "type": "reading_prefix_chunk",
+          "targetWord": "置く",
+          "targetReading": "おく",
+          "targetReadingRomaji": "oku",
+          "targetMeaning": "放置",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "おくる 从开头包含已学读音块「おく」：置く(おく) / 贈る(おくる)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-144157",
+          "type": "reading_prefix_chunk",
+          "targetWord": "億",
+          "targetReading": "おく",
+          "targetReadingRomaji": "oku",
+          "targetMeaning": "亿，万万",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "おくる 从开头包含已学读音块「おく」：億(おく) / 贈る(おくる)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 4,
+        "dropped": 0,
+        "highValue": 2
+      },
+      "suggestedPrimaryStrategies": [
+        "同音不同字（罗马音归一） + 汉字/场景区分",
+        "同字不同音 + 固定读音提醒",
+        "读音前缀/假名词块 + 拆分谐音故事"
+      ]
+    },
+    "容器::ようき": {
+      "id": "n4-word-1144",
+      "word": "容器",
+      "reading": "ようき",
+      "meaning": "容器，器皿",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-68240",
+          "type": "same_kanji_different_reading",
+          "targetWord": "受話器",
+          "targetReading": "じゅわき",
+          "targetReadingRomaji": "juwaki",
+          "targetMeaning": "听筒，耳机",
+          "targetLevels": [
+            "N4",
+            "N2"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「器」：受話器(じゅわき) / 容器(ようき)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "言葉遣い::ことばづかい": {
+      "id": "n4-word-1145",
+      "word": "言葉遣い",
+      "reading": "ことばづかい",
+      "meaning": "措辞，说法",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 3,
+      "relations": [
+        {
+          "edgeId": "all-rel-07658",
+          "type": "same_kanji_different_reading",
+          "targetWord": "言う",
+          "targetReading": "いう",
+          "targetReadingRomaji": "iu",
+          "targetMeaning": "说",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「言」：言う(いう) / 言葉遣い(ことばづかい)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-46084",
+          "type": "same_kanji_different_reading",
+          "targetWord": "言語",
+          "targetReading": "げんご",
+          "targetReadingRomaji": "gengo",
+          "targetMeaning": "语言",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「言」：言語(げんご) / 言葉遣い(ことばづかい)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-53898",
+          "type": "same_kanji_different_reading",
+          "targetWord": "言葉",
+          "targetReading": "ことば",
+          "targetReadingRomaji": "kotoba",
+          "targetMeaning": "语言、话语、词语",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「言」：言葉(ことば) / 言葉遣い(ことばづかい)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 3,
+        "dropped": 0,
+        "highValue": 3
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "見つかる::みつかる": {
+      "id": "n4-word-1146",
+      "word": "見つかる",
+      "reading": "みつかる",
+      "meaning": "被看到，被发现",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 10,
+      "relations": [
+        {
+          "edgeId": "all-rel-08859",
+          "type": "same_kanji_different_reading",
+          "targetWord": "意見",
+          "targetReading": "いけん",
+          "targetReadingRomaji": "iken",
+          "targetMeaning": "意见，见解",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：意見(いけん) / 見つかる(みつかる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-21789",
+          "type": "same_kanji_different_reading",
+          "targetWord": "お見舞い",
+          "targetReading": "おみまい",
+          "targetReadingRomaji": "omimai",
+          "targetMeaning": "探望病人、慰问",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：お見舞い(おみまい) / 見つかる(みつかる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-45777",
+          "type": "same_kanji_different_reading",
+          "targetWord": "見学",
+          "targetReading": "けんがく",
+          "targetReadingRomaji": "kengaku",
+          "targetMeaning": "参观，参观学习",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：見学(けんがく) / 見つかる(みつかる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-47231",
+          "type": "same_kanji_different_reading",
+          "targetWord": "見物",
+          "targetReading": "けんぶつ",
+          "targetReadingRomaji": "kenbutsu",
+          "targetMeaning": "旁观",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：見物(けんぶつ) / 見つかる(みつかる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-47417",
+          "type": "same_kanji_different_reading",
+          "targetWord": "見物人",
+          "targetReading": "けんぶつにん",
+          "targetReadingRomaji": "kenbutsunin",
+          "targetMeaning": "游客，观众",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：見物人(けんぶつにん) / 見つかる(みつかる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-111156",
+          "type": "same_kanji_different_reading",
+          "targetWord": "拝見",
+          "targetReading": "はいけん",
+          "targetReadingRomaji": "haiken",
+          "targetMeaning": "拜读",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：拝見(はいけん) / 見つかる(みつかる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-113349",
+          "type": "same_kanji_different_reading",
+          "targetWord": "花見",
+          "targetReading": "はなみ",
+          "targetReadingRomaji": "hanami",
+          "targetMeaning": "赏花，观樱",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：花見(はなみ) / 見つかる(みつかる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-128701",
+          "type": "same_kanji_different_reading",
+          "targetWord": "見える",
+          "targetReading": "みえる",
+          "targetReadingRomaji": "mieru",
+          "targetMeaning": "看见，看得见",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：見える(みえる) / 見つかる(みつかる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-129274",
+          "type": "same_kanji_different_reading",
+          "targetWord": "見込む",
+          "targetReading": "みこむ",
+          "targetReadingRomaji": "mikomu",
+          "targetMeaning": "预料，估计，看好",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：見込む(みこむ) / 見つかる(みつかる)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-129559",
+          "type": "same_kanji_different_reading",
+          "targetWord": "見せる",
+          "targetReading": "みせる",
+          "targetReadingRomaji": "miseru",
+          "targetMeaning": "给…看",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「見」：見せる(みせる) / 見つかる(みつかる)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 10,
+        "dropped": 0,
+        "highValue": 10
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "フルーツ::ふるーつ": {
+      "id": "n4-word-1147",
+      "word": "フルーツ",
+      "reading": "ふるーつ",
+      "meaning": "水果",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-153715",
+          "type": "reading_prefix_chunk",
+          "targetWord": "降る",
+          "targetReading": "ふる",
+          "targetReadingRomaji": "furu",
+          "targetMeaning": "下（雨雪）",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "ふるーつ 从开头包含已学读音块「ふる」：降る(ふる) / フルーツ(ふるーつ)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": [
+        "读音前缀/假名词块 + 拆分谐音故事"
+      ]
+    },
+    "それほど::それほど": {
+      "id": "n4-word-1148",
+      "word": "それほど",
+      "reading": "それほど",
+      "meaning": "那么，那种程度",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-150700",
+          "type": "reading_prefix_chunk",
+          "targetWord": "それ",
+          "targetReading": "それ",
+          "targetReadingRomaji": "sore",
+          "targetMeaning": "那个",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "それほど 从开头包含已学读音块「それ」：それ(それ) / それほど(それほど)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": [
+        "读音前缀/假名词块 + 拆分谐音故事"
+      ]
+    },
+    "屋上::おくじょう": {
+      "id": "n4-word-1149",
+      "word": "屋上",
+      "reading": "おくじょう",
+      "meaning": "屋顶",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 5,
+      "relations": [
+        {
+          "edgeId": "all-rel-04455",
+          "type": "same_kanji_different_reading",
+          "targetWord": "上がる",
+          "targetReading": "あがる",
+          "targetReadingRomaji": "agaru",
+          "targetMeaning": "上升，提高，长进",
+          "targetLevels": [
+            "N4",
+            "N3",
+            "N2"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「上」：上がる(あがる) / 屋上(おくじょう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-04921",
+          "type": "same_kanji_different_reading",
+          "targetWord": "上げる",
+          "targetReading": "あげる",
+          "targetReadingRomaji": "ageru",
+          "targetMeaning": "举起、抬高",
+          "targetLevels": [
+            "N5",
+            "N3"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「上」：上げる(あげる) / 屋上(おくじょう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-09223",
+          "type": "same_kanji_different_reading",
+          "targetWord": "以上",
+          "targetReading": "いじょう",
+          "targetReadingRomaji": "ijou",
+          "targetMeaning": "不少于，不止",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「上」：以上(いじょう) / 屋上(おくじょう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-13941",
+          "type": "same_kanji_different_reading",
+          "targetWord": "上",
+          "targetReading": "うえ",
+          "targetReadingRomaji": "ue",
+          "targetMeaning": "上面、上方",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「上」：上(うえ) / 屋上(おくじょう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-16352",
+          "type": "same_kanji_different_reading",
+          "targetWord": "上着",
+          "targetReading": "うわぎ",
+          "targetReadingRomaji": "uwagi",
+          "targetMeaning": "上衣",
+          "targetLevels": [
+            "N5",
+            "N3"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「上」：上着(うわぎ) / 屋上(おくじょう)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 5,
+        "dropped": 0,
+        "highValue": 5
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "唐辛子::とうがらし": {
+      "id": "n4-word-1150",
+      "word": "唐辛子",
+      "reading": "とうがらし",
+      "meaning": "辣椒",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 9,
+      "relations": [
+        {
+          "edgeId": "all-rel-19324",
+          "type": "same_kanji_different_reading",
+          "targetWord": "お菓子",
+          "targetReading": "おかし",
+          "targetReadingRomaji": "okashi",
+          "targetMeaning": "点心、糕点",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：お菓子(おかし) / 唐辛子(とうがらし)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-19739",
+          "type": "same_kanji_different_reading",
+          "targetWord": "お子さん",
+          "targetReading": "おこさん",
+          "targetReadingRomaji": "okosan",
+          "targetMeaning": "孩子，令郎",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：お子さん(おこさん) / 唐辛子(とうがらし)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-20827",
+          "type": "same_kanji_different_reading",
+          "targetWord": "男の子",
+          "targetReading": "おとこのこ",
+          "targetReadingRomaji": "otokonoko",
+          "targetMeaning": "男孩",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：男の子(おとこのこ) / 唐辛子(とうがらし)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-23264",
+          "type": "same_kanji_different_reading",
+          "targetWord": "女の子",
+          "targetReading": "おんなのこ",
+          "targetReadingRomaji": "onnanoko",
+          "targetMeaning": "女孩",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：女の子(おんなのこ) / 唐辛子(とうがらし)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-31209",
+          "type": "same_kanji_different_reading",
+          "targetWord": "辛い",
+          "targetReading": "からい",
+          "targetReadingRomaji": "karai",
+          "targetMeaning": "辣的",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「辛」：辛い(からい) / 唐辛子(とうがらし)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-47703",
+          "type": "same_kanji_different_reading",
+          "targetWord": "子",
+          "targetReading": "こ",
+          "targetReadingRomaji": "ko",
+          "targetMeaning": "面，表示具有那种状态·性质的孩",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：子(こ) / 唐辛子(とうがらし)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-54002",
+          "type": "same_kanji_different_reading",
+          "targetWord": "子供",
+          "targetReading": "こども",
+          "targetReadingRomaji": "kodomo",
+          "targetMeaning": "孩子",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：子供(こども) / 唐辛子(とうがらし)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-69551",
+          "type": "same_kanji_different_reading",
+          "targetWord": "少子化",
+          "targetReading": "しょうしか",
+          "targetReadingRomaji": "shoushika",
+          "targetMeaning": "新生儿越来越少的现象出生率降低，儿童人数日渐减少的现象或倾向",
+          "targetLevels": [
+            "N4",
+            "N2"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：少子化(しょうしか) / 唐辛子(とうがらし)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-100214",
+          "type": "same_kanji_different_reading",
+          "targetWord": "電子辞書",
+          "targetReading": "でんしじしょ",
+          "targetReadingRomaji": "denshijisho",
+          "targetMeaning": "电子词典",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「子」：電子辞書(でんしじしょ) / 唐辛子(とうがらし)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 9,
+        "dropped": 0,
+        "highValue": 9
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "表す::あらわす": {
+      "id": "n4-word-1151",
+      "word": "表す",
+      "reading": "あらわす",
+      "meaning": "表现，表示",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "目薬::めぐすり": {
+      "id": "n4-word-1152",
+      "word": "目薬",
+      "reading": "めぐすり",
+      "meaning": "眼药水",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 5,
+      "relations": [
+        {
+          "edgeId": "all-rel-21893",
+          "type": "same_kanji_different_reading",
+          "targetWord": "お目にかかる",
+          "targetReading": "おめにかかる",
+          "targetReadingRomaji": "omenikakaru",
+          "targetMeaning": "拜见，见到",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「目」：お目にかかる(おめにかかる) / 目薬(めぐすり)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-41753",
+          "type": "same_kanji_different_reading",
+          "targetWord": "薬",
+          "targetReading": "くすり",
+          "targetReadingRomaji": "kusuri",
+          "targetMeaning": "药",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「薬」：薬(くすり) / 目薬(めぐすり)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-87995",
+          "type": "same_kanji_different_reading",
+          "targetWord": "駄目",
+          "targetReading": "だめ",
+          "targetReadingRomaji": "dame",
+          "targetMeaning": "白费，无用",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「目」：駄目(だめ) / 目薬(めぐすり)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-127405",
+          "type": "same_kanji_different_reading",
+          "targetWord": "真面目",
+          "targetReading": "まじめ",
+          "targetReadingRomaji": "majime",
+          "targetMeaning": "认真，老实，正经",
+          "targetLevels": [
+            "N4",
+            "N3"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「目」：真面目(まじめ) / 目薬(めぐすり)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-132653",
+          "type": "same_kanji_different_reading",
+          "targetWord": "目",
+          "targetReading": "め",
+          "targetReadingRomaji": "me",
+          "targetMeaning": "眼睛",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「目」：目(め) / 目薬(めぐすり)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 5,
+        "dropped": 0,
+        "highValue": 5
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "相談::そうだん": {
+      "id": "n4-word-1153",
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "商量，咨询",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 2,
+      "relations": [
+        {
+          "edgeId": "all-rel-70053",
+          "type": "same_kanji_different_reading",
+          "targetWord": "冗談",
+          "targetReading": "じょうだん",
+          "targetReadingRomaji": "joudan",
+          "targetMeaning": "玩笑",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「談」：冗談(じょうだん) / 相談(そうだん)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-81737",
+          "type": "same_kanji_different_reading",
+          "targetWord": "可哀相",
+          "targetReading": "かわいそう",
+          "targetReadingRomaji": "kawaisou",
+          "targetMeaning": "可怜",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「相」：相談(そうだん) / 可哀相(かわいそう)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 2,
+        "dropped": 0,
+        "highValue": 2
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "列::れつ": {
+      "id": "n4-word-1154",
+      "word": "列",
+      "reading": "れつ",
+      "meaning": "队，行，列",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-141854",
+          "type": "same_kanji_different_reading",
+          "targetWord": "列車",
+          "targetReading": "れっしゃ",
+          "targetReadingRomaji": "ressha",
+          "targetMeaning": "列车、火车",
+          "targetLevels": [
+            "N4",
+            "N3"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「列」：列車(れっしゃ) / 列(れつ)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "スクリーン::すくりーん": {
+      "id": "n4-word-1155",
+      "word": "スクリーン",
+      "reading": "すくりーん",
+      "meaning": "屏幕",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-149457",
+          "type": "reading_prefix_chunk",
+          "targetWord": "空く",
+          "targetReading": "すく",
+          "targetReadingRomaji": "suku",
+          "targetMeaning": "稀疏，空旷",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.84,
+          "confidence": 0.84,
+          "suggestedStrategy": "读音前缀/假名词块 + 拆分谐音故事",
+          "note": "すくりーん 从开头包含已学读音块「すく」：空く(すく) / スクリーン(すくりーん)，适合先拆出开头词块再编故事。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": [
+        "读音前缀/假名词块 + 拆分谐音故事"
+      ]
+    },
+    "木の葉::このは": {
+      "id": "n4-word-1156",
+      "word": "木の葉",
+      "reading": "このは",
+      "meaning": "树叶",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 3,
+      "relations": [
+        {
+          "edgeId": "all-rel-33200",
+          "type": "same_kanji_different_reading",
+          "targetWord": "木",
+          "targetReading": "き",
+          "targetReadingRomaji": "ki",
+          "targetMeaning": "树、木",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「木」：木(き) / 木の葉(このは)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-53939",
+          "type": "same_kanji_different_reading",
+          "targetWord": "言葉",
+          "targetReading": "ことば",
+          "targetReadingRomaji": "kotoba",
+          "targetMeaning": "语言、话语、词语",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「葉」：言葉(ことば) / 木の葉(このは)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "all-rel-53981",
+          "type": "same_kanji_different_reading",
+          "targetWord": "言葉遣い",
+          "targetReading": "ことばづかい",
+          "targetReadingRomaji": "kotobazukai",
+          "targetMeaning": "说法",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「葉」：言葉遣い(ことばづかい) / 木の葉(このは)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 3,
+        "dropped": 0,
+        "highValue": 3
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "複雑::ふくざつ": {
+      "id": "n4-word-1157",
+      "word": "複雑",
+      "reading": "ふくざつ",
+      "meaning": "复杂",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-57992",
+          "type": "same_kanji_different_reading",
+          "targetWord": "雑誌",
+          "targetReading": "ざっし",
+          "targetReadingRomaji": "zasshi",
+          "targetMeaning": "杂志",
+          "targetLevels": [
+            "N5"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「雑」：雑誌(ざっし) / 複雑(ふくざつ)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "可哀相::かわいそう": {
+      "id": "n4-word-1158",
+      "word": "可哀相",
+      "reading": "かわいそう",
+      "meaning": "可怜",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "all-rel-19361",
+          "type": "same_kanji_different_reading",
+          "targetWord": "可笑しい",
+          "targetReading": "おかしい",
+          "targetReadingRomaji": "okashii",
+          "targetMeaning": "可笑的，滑稽的",
+          "targetLevels": [
+            "N4"
+          ],
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「可」：可笑しい(おかしい) / 可哀相(かわいそう)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "ワサビ::わさび": {
+      "id": "n4-word-1159",
+      "word": "ワサビ",
+      "reading": "わさび",
+      "meaning": "芥末",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "製造::せいぞう": {
+      "id": "n4-word-1160",
+      "word": "製造",
+      "reading": "せいぞう",
+      "meaning": "制造，生产",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kotoba kana garden logo">
+  <path d="M29 74 C43 55 56 42 72 26" fill="none" stroke="#6f966e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M68 22 C82 20 89 29 86 42 C77 42 70 35 68 22Z" fill="none" stroke="#6f966e" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M28 72 C19 61 21 48 34 41 C39 51 38 63 28 72Z" fill="none" stroke="#6f966e" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="50" cy="50" r="25" fill="none" stroke="#d6cdbd" stroke-width="3" stroke-dasharray="2 8" stroke-linecap="round"/>
+  <text x="51" y="61" text-anchor="middle" font-family="'Hiragino Mincho ProN', 'Yu Mincho', serif" font-size="34" fill="#6f966e">あ</text>
+</svg>

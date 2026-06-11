@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kotoba JP card logo">
+  <rect x="17" y="18" width="66" height="64" rx="20" fill="#fffaf1" stroke="#789579" stroke-width="4"/>
+  <path d="M26 31 H58" stroke="#789579" stroke-width="4" stroke-linecap="round"/>
+  <path d="M26 71 H48" stroke="#d4b48b" stroke-width="4" stroke-linecap="round"/>
+  <text x="50" y="61" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="600" fill="#2f3430">JP</text>
+  <path d="M66 25 C80 24 87 32 85 44 C75 44 68 37 66 25Z" fill="none" stroke="#789579" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M73 30 C77 34 80 38 82 43" fill="none" stroke="#789579" stroke-width="3" stroke-linecap="round"/>
+</svg>

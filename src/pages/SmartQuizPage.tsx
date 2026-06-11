@@ -29,6 +29,7 @@ const LESSON_LIFE_ORDER = [
   'self-introduction',
   'where-are-you-from',
   'please-speak-slowly',
+  'language-school-registration',
   'campus-greeting',
   'borrow-pen-in-class',
   'morning-combini-breakfast',

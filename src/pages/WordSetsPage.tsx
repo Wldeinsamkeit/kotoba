@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { BATCH_SIZE, getMemoryMethodCount } from '../data/memoryMethods'
+import { getMemoryMethodBatchCount, getMemoryMethodCount } from '../data/memoryMethods'
 
 type WordSet = {
   id: string
@@ -34,8 +34,8 @@ export const wordSets: WordSet[] = [
     description: '掌握基本日常交流所需的词汇',
     icon: '四',
     path: '/lessons/words/n4',
-    count: BATCH_SIZE * 9,
-    tag: '前9组',
+    count: getMemoryMethodCount('n4'),
+    tag: `前${getMemoryMethodBatchCount('n4')}组`,
     level: 2,
   },
   {

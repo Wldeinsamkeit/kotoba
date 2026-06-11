@@ -25,7 +25,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "ふくしゅう - 谐音“服输” - 考前不想服输，只能把错题重新学一遍 - 复习",
+    "reviewTip": "ふくしゅう - 谐音“服输” - 考前不想服输，只能把错题重新学一遍",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -64,7 +64,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "こうじょうちょう - 拆音“工场长” - 读音一路对应工厂里的长官 - 厂长",
+    "reviewTip": "こうじょうちょう - 拆音“工场长” - 读音一路对应工厂里的长官",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -142,7 +142,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "はなみ - 谐音“哈拿米” - 赏花时哈哈笑着拿米饭团吃 - 赏花，观樱",
+    "reviewTip": "はなみ - 谐音“哈拿米” - 赏花时哈哈笑着拿米饭团吃",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -244,7 +244,7 @@
       {
         "element": "せんしゅ",
         "method": "TYPE B2",
-        “bridgeC”: “せんしゅ谐音'先週'，上周才竞选通过的选手。也可以写作'先週'（上周），两个一起记忆。”
+        "bridgeC": "せんしゅ谐音'先週'，上周才竞选通过的选手。也可以写作'先週'（上周），两个一起记忆。"
       },
       {
         "element": "選=せん / 手=しゅ",
@@ -252,14 +252,14 @@
         "bridgeC": "選是被选出来，手是做这件事的人。"
       }
     ],
-    “mergedScene”: “上周（先週）才竞选通过的选手（せんしゅ），终于站上了赛场。せんしゅ谐音'先週'，上周当选的选手。”,
+    "mergedScene": "上周（先週）才竞选通过的选手（せんしゅ），终于站上了赛场。せんしゅ谐音'先週'，上周当选的选手。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “せんしゅ - 谐音'先週' - 上周竞选通过的选手。也可以写作'先週'（上周） - 选手”,
+    "reviewTip": "せんしゅ - 谐音'先週' - 上周竞选通过的选手。也可以写作'先週'（上周） - 选手",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -283,7 +283,7 @@
       {
         "element": "しゅっせき",
         "method": "TYPE B2",
-        “bridgeC”: “しゅっせき谐音'休赛'，休赛的时候没有人要出席，而ki却单单出现了，发现没有一个人，也没有人通知他，感到很尴尬。席在日语中大多数都发'せき'这个音。”
+        "bridgeC": "しゅっせき谐音'休赛'，休赛的时候没有人要出席，而ki却单单出现了，发现没有一个人，也没有人通知他，感到很尴尬。席在日语中大多数都发'せき'这个音。"
       },
       {
         "element": "出=しゅっ / 席=せき",
@@ -291,14 +291,14 @@
         "bridgeC": "出席里出读しゅっ，有促音；席表示座位。"
       }
     ],
-    “mergedScene”: “休赛的时候没有人要出席，而ki却单单出现了，发现没有一个人，也没有人通知他，感到很尴尬。席在日语中大多数都发'せき'这个音。”,
+    "mergedScene": "休赛的时候没有人要出席，而ki却单单出现了，发现没有一个人，也没有人通知他，感到很尴尬。席在日语中大多数都发'せき'这个音。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “しゅっせき - 谐音'休赛' - 休赛时没人出席，ki却单独出现感到尴尬。席=せき（固定读音） - 出席”,
+    "reviewTip": "しゅっせき - 谐音“休赛席” - 休赛日大家仍坐到席位签到，点名才算出席 - 出席。",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -337,7 +337,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "パソコン - 谐音“怕搜空” - 怕电脑一搜资料结果空空如也 - 电脑",
+    "reviewTip": "パソコン - 谐音“怕搜空” - 怕电脑一搜资料结果空空如也",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -361,7 +361,7 @@
       {
         "element": "ぶんけい",
         "method": "TYPE B2",
-        “bridgeC”: “ぶんけい谐音'绷开'，想象一个句型的各个成分突然绷开。前面'文具房'的时候也见过这个'文'，那里也发'ぶん'这个音，文法的文也发这个音。”
+        "bridgeC": "ぶんけい谐音'绷开'，想象一个句型的各个成分突然绷开。前面'文具房'的时候也见过这个'文'，那里也发'ぶん'这个音，文法的文也发这个音。"
       },
       {
         "element": "文=ぶん / 型=けい",
@@ -369,14 +369,14 @@
         "bridgeC": "文是句子，型是模板、类型。"
       }
     ],
-    “mergedScene”: “句型的各个成分突然绷开（ぶんけい），老师说'文=ぶん，型=けい'。前面'文具房'也见过'文'发'ぶん'这个音。”,
+    "mergedScene": "句型的各个成分突然绷开（ぶんけい），老师说'文=ぶん，型=けい'。前面'文具房'也见过'文'发'ぶん'这个音。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “ぶんけい - 谐音'绷开' - 句型成分绷开。文=ぶん（固定读音） - 句型”,
+    "reviewTip": "ぶんけい - 谐音“绷开” - 老师把长句子绷开成固定框架，这个框架就是句型 - 句型。",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -400,7 +400,7 @@
       {
         "element": "ちゅうしん",
         "method": "TYPE B2",
-        “bridgeC”: “ちゅうしん谐音'球心'，球心是地球的中心。所以'中心'。中国的'中'也读'ちゅう'，这个发音十分常见。”
+        "bridgeC": "ちゅうしん谐音'球心'，球心是地球的中心。所以'中心'。中国的'中'也读'ちゅう'，这个发音十分常见。"
       },
       {
         "element": "中=ちゅう / 心=しん",
@@ -408,14 +408,14 @@
         "bridgeC": "中间的核心就是中心。"
       }
     ],
-    “mergedScene”: “球心（ちゅうしん）是地球的中心。ちゅうしん谐音'球心'，中国的'中'也读'ちゅう'，这个发音十分常见。”,
+    "mergedScene": "球心（ちゅうしん）是地球的中心。ちゅうしん谐音'球心'，中国的'中'也读'ちゅう'，这个发音十分常见。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “ちゅうしん - 谐音'球心' - 球心是地球的中心。中=ちゅう（常见发音） - 中心”,
+    "reviewTip": "ちゅうしん - 谐音'球心' - 球心是地球的中心。中=ちゅう（常见发音） - 中心",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -439,7 +439,7 @@
       {
         "element": "ごちそう",
         "method": "TYPE B2",
-        “bridgeC”: “ごちそう谐音'go急走'，主人为了宴请客人，来回急着走来走去，显得十分忙碌。”
+        "bridgeC": "ごちそう谐音'go急走'，主人为了宴请客人，来回急着走来走去，显得十分忙碌。"
       },
       {
         "element": "ごちそうさまでした",
@@ -447,14 +447,14 @@
         "bridgeC": "饭后固定说法，表示多谢款待。"
       }
     ],
-    “mergedScene”: “主人为了宴请客人，来回急着走来走去（ごちそう），显得十分忙碌。ごちそう谐音'go急走'。”,
+    "mergedScene": "主人为了宴请客人，来回急着走来走去（ごちそう），显得十分忙碌。ごちそう谐音'go急走'。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “ごちそう - 谐音'go急走' - 主人为了宴请客人来回急走 - 款待，请客”,
+    "reviewTip": "ごちそう - 谐音'go急走' - 主人为了宴请客人来回急走",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -481,14 +481,14 @@
         "bridgeC": "やっと像“压脱”，被压力压了很久终于脱身。"
       }
     ],
-    “mergedScene”: “孙悟空被压了五百年终于脱身了（やっと），可想而之这个时候的心情多么的愉快。やっと谐音'压脱'。”,
+    "mergedScene": "孙悟空被压了五百年终于脱身了（やっと），可想而之这个时候的心情多么的愉快。やっと谐音'压脱'。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “やっと - 谐音'压脱' - 孙悟空被压了五百年终于脱身 - 好不容易，终于”,
+    "reviewTip": "やっと - 谐音'压脱' - 孙悟空被压了五百年终于脱身",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -512,7 +512,7 @@
       {
         "element": "てがる",
         "method": "TYPE B2",
-        “bridgeC”: “手=て + 軽=がる；てがる谐音'太尬了'，想象一件大家觉得很简单很容易的事，你自己做怎么做都做不好，这种感觉特别让人尴尬。”
+        "bridgeC": "手=て + 軽=がる；てがる谐音'太尬了'，想象一件大家觉得很简单很容易的事，你自己做怎么做都做不好，这种感觉特别让人尴尬。"
       },
       {
         "element": "手=て / 軽=軽い",
@@ -520,14 +520,14 @@
         "bridgeC": "手上很轻，表示轻松、简便。"
       }
     ],
-    “mergedScene”: “手=て + 軽=がる；てがる谐音'太尬了'，想象一件大家觉得很简单很容易的事，你自己做怎么做都做不好，这种感觉特别让人尴尬。”,
+    "mergedScene": "手=て + 軽=がる；てがる谐音'太尬了'，想象一件大家觉得很简单很容易的事，你自己做怎么做都做不好，这种感觉特别让人尴尬。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “てがる - 谐音'太尬了' - 做不好的时候感觉太尴尬 - 简单，简便”,
+    "reviewTip": "てがる - 谐音'太尬了' - 做不好的时候感觉太尴尬",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -551,7 +551,7 @@
       {
         "element": "せき",
         "method": "TYPE B2",
-        “bridgeC”: “せき谐音'塞咳'，喉咙像被塞住一样咳。前面讲过'席'也有'せき'的发音，意思是座位，两个单词可以一起记忆，在自己的座位上咳嗽。”
+        "bridgeC": "せき谐音'塞咳'，喉咙像被塞住一样咳。前面讲过'席'也有'せき'的发音，意思是座位，两个单词可以一起记忆，在自己的座位上咳嗽。"
       }
     ],
     "mergedScene": "在自己的座位（せき）上突然咳嗽（せき）起来，旁边人都默默后退一步。席=せき（座位），咳=せき（咳嗽），两个一起记。",
@@ -561,7 +561,7 @@
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “せき - 谐音'塞咳' - 喉咙塞住咳嗽。🔗席=せき（座位），两个一起记 - 咳嗽”,
+    "reviewTip": "せき - 谐音'塞咳' - 喉咙塞住咳嗽。🔗席=せき（座位），两个一起记",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -600,7 +600,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "チェックイン - 谐音“切客进” - 前台把客人切进入住名单 - 办理入住，办理登记",
+    "reviewTip": "チェックイン - 谐音“切客进” - 前台把客人切进入住名单",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -702,7 +702,7 @@
       {
         "element": "まもる",
         "method": "TYPE B2",
-        “bridgeC”: “まも谐音'妈沫'，妈沫老的时候，需要儿女们来守护。”
+        "bridgeC": "まも谐音'妈沫'，妈沫老的时候，需要儿女们来守护。"
       },
       {
         "element": "守る",
@@ -710,14 +710,14 @@
         "bridgeC": "守表示守护、守住规则。"
       }
     ],
-    “mergedScene”: “妈沫（まも）老的时候，需要儿女们来守护（まもる）。まも谐音'妈沫'，妈沫老了要守护。”,
+    "mergedScene": "妈沫（まも）老的时候，需要儿女们来守护（まもる）。まも谐音'妈沫'，妈沫老了要守护。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “まもる - 谐音'妈沫' - 妈沫老了需要儿女守护 - 守护，遵守”,
+    "reviewTip": "まもる - 谐音'妈沫' - 妈沫老了需要儿女守护 - 守护，遵守",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -795,7 +795,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "しょうせつ - 谐音“笑着说” - 小说精彩到边笑边说给别人听 - 小说",
+    "reviewTip": "しょうせつ - 谐音“笑着说” - 小说精彩到边笑边说给别人听",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -873,7 +873,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "あした - 谐音“啊，是他” - 啊，是他明天要来 - 明天（日常口语）",
+    "reviewTip": "あした - 谐音“啊，是他” - 啊，是他明天要来",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -912,7 +912,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "あす - 谐音“啊速” - 啊，这么快就到明天了 - 明天（正式）",
+    "reviewTip": "あす - 谐音“啊速” - 啊，这么快就到明天了",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -936,7 +936,7 @@
       {
         "element": "ぐっすり",
         "method": "TYPE B2",
-        “bridgeC”: “ぐっすり谐音'good sleep'，前面有讲过药是'くすり'，可以和这个联系一起记忆，喝了'くすり'之后，就变得头脑昏昏，然后'good sleep'。”
+        "bridgeC": "ぐっすり谐音'good sleep'，前面有讲过药是'くすり'，可以和这个联系一起记忆，喝了'くすり'之后，就变得头脑昏昏，然后'good sleep'。"
       },
       {
         "element": "っ",
@@ -944,14 +944,14 @@
         "bridgeC": "促音っ像睡着后突然断电。"
       }
     ],
-    “mergedScene”: “喝了药（くすり）之后，就变得头脑昏昏，然后'good sleep'（ぐっすり）。ぐっすり谐音'good sleep'，联系くすり（药）一起记。”,
+    "mergedScene": "喝了药（くすり）之后，就变得头脑昏昏，然后'good sleep'（ぐっすり）。ぐっすり谐音'good sleep'，联系くすり（药）一起记。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “ぐっすり - 谐音'good sleep' - 喝了くすり（药）后good sleep - 熟睡”,
+    "reviewTip": "ぐっすり - 谐音'good sleep' - 喝了くすり（药）后good sleep - 熟睡",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1063,7 +1063,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "ピアノ - 外来语 piano - 发音几乎就是 piano - 钢琴",
+    "reviewTip": "ピアノ - 外来语 piano - 发音几乎就是 piano",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1087,7 +1087,7 @@
       {
         "element": "ばら",
         "method": "TYPE B2",
-        “bridgeC”: “ばら谐音'拔啦'，玫瑰花都凋谢了，然后把他们都给拔啦。”
+        "bridgeC": "ばら谐音'拔啦'，玫瑰花都凋谢了，然后把他们都给拔啦。"
       },
       {
         "element": "薔薇",
@@ -1102,7 +1102,7 @@
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “ばら - 谐音'拔啦' - 玫瑰花凋谢了都给拔啦 - 玫瑰”,
+    "reviewTip": "ばら - 谐音'拔啦' - 玫瑰花凋谢了都给拔啦",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1126,7 +1126,7 @@
       {
         "element": "みこむ",
         "method": "TYPE B2",
-        “bridgeC”: “見=み + 込む=こむ；みこむ谐音'眯抠拇'，算命的老人在算命的时候总是神神叨叨的，要么眯着眼睛手指上按按拇指，食指来回掐算来预测未来，所以这个单词就是预测。”
+        "bridgeC": "見=み + 込む=こむ；みこむ谐音'眯抠拇'，算命的老人在算命的时候总是神神叨叨的，要么眯着眼睛手指上按按拇指，食指来回掐算来预测未来，所以这个单词就是预测。"
       },
       {
         "element": "見=み / 込む=こむ",
@@ -1134,14 +1134,14 @@
         "bridgeC": "見是看，込む有深入进去的感觉。"
       }
     ],
-    “mergedScene”: “算命的老人在算命的时候总是神神叨叨的，要么眯着眼睛（み）手指上按按拇指（こむ），食指来回掐算来预测未来。みこむ谐音'眯抠拇'。”,
+    "mergedScene": "算命的老人在算命的时候总是神神叨叨的，要么眯着眼睛（み）手指上按按拇指（こむ），食指来回掐算来预测未来。みこむ谐音'眯抠拇'。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “みこむ - 谐音'眯抠拇' - 算命老人眯眼抠拇指预测未来 - 预料，估计”,
+    "reviewTip": "みこむ - 谐音'眯抠拇' - 算命老人眯眼抠拇指预测未来 - 预料，估计",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1165,7 +1165,7 @@
       {
         "element": "あげる",
         "method": "TYPE B2",
-        “bridgeC”: “あげる也有'上げる'，这个意思上举起，抬起。可以和这个联系记忆。想象一个学生上课回答问题，把手抬起来的时候，就开始举各种例子来证明自己的观点，所以是举例。”
+        "bridgeC": "あげる也有'上げる'，这个意思上举起，抬起。可以和这个联系记忆。想象一个学生上课回答问题，把手抬起来的时候，就开始举各种例子来证明自己的观点，所以是举例。"
       },
       {
         "element": "挙",
@@ -1173,14 +1173,14 @@
         "bridgeC": "挙有举起、列举的意思。"
       }
     ],
-    “mergedScene”: “想象一个学生上课回答问题，把手抬起来（あげる）的时候，就开始举各种例子来证明自己的观点，所以是举例。あげる也有'上げる'（举起）的意思。”,
+    "mergedScene": "想象一个学生上课回答问题，把手抬起来（あげる）的时候，就开始举各种例子来证明自己的观点，所以是举例。あげる也有'上げる'（举起）的意思。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “あげる - 🔗上げる=举起，举起来就开始举例子 - 举例，列举”,
+    "reviewTip": "あげる - 🔗上げる=举起，举起来就开始举例子 - 举例，列举",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1219,7 +1219,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "じんこう - 谐音“进几口” - 统计一个城市进了几口人 - 人口",
+    "reviewTip": "じんこう - 谐音“进几口” - 统计一个城市进了几口人",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1243,7 +1243,7 @@
       {
         "element": "かいがん",
         "method": "TYPE B2",
-        “bridgeC”: “海=かい，岸=がん，可以谐音为'海港'，海港一般都在海滨旁边。”
+        "bridgeC": "海=かい，岸=がん，可以谐音为'海港'，海港一般都在海滨旁边。"
       },
       {
         "element": "海=かい / 岸=がん",
@@ -1251,14 +1251,14 @@
         "bridgeC": "海和岸相接的地方就是海岸。"
       }
     ],
-    “mergedScene”: “海=かい，岸=がん，可以谐音为'海港'（かいがん），海港一般都在海滨旁边。”,
+    "mergedScene": "海=かい，岸=がん，可以谐音为'海港'（かいがん），海港一般都在海滨旁边。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “かいがん - 谐音'海港' - 海港一般都在海滨旁边 - 海岸，海边”,
+    "reviewTip": "かいがん - 谐音'海港' - 海港一般都在海滨旁边",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1282,7 +1282,7 @@
       {
         "element": "しまう",
         "method": "TYPE B2",
-        “bridgeC”: “しまう谐音'洗马屋'，想象马场的清洁工，每周下班前的任务就是洗干净马屋就可以结束工作。”
+        "bridgeC": "しまう谐音'洗马屋'，想象马场的清洁工，每周下班前的任务就是洗干净马屋就可以结束工作。"
       },
       {
         "element": "てしまう",
@@ -1290,14 +1290,14 @@
         "bridgeC": "接て形时表示做完了，或带有“不小心/遗憾”的语气。"
       }
     ],
-    “mergedScene”: “马场的清洁工，每周下班前的任务就是洗干净马屋（しまう）就可以结束工作。しまう谐音'洗马屋'。”,
+    "mergedScene": "马场的清洁工，每周下班前的任务就是洗干净马屋（しまう）就可以结束工作。しまう谐音'洗马屋'。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “しまう - 谐音'洗马屋' - 洗干净马屋就可以结束工作 - 收拾，结束”,
+    "reviewTip": "しまう - 谐音'洗马屋' - 洗干净马屋就可以结束工作 - 收拾，结束",
     "difficultyStars": 3,
     "exampleSentences": [
       {
@@ -1336,7 +1336,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "じんじ - 谐音“人急” - 公司里人的急事都找人事 - 人事，人力资源",
+    "reviewTip": "じんじ - 谐音“人急” - 公司里人的急事都找人事",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1407,14 +1407,14 @@
         "bridgeC": "壊れる是东西自己坏；壊す是人为弄坏。"
       }
     ],
-    “mergedScene”: “可想而之这个建筑物多么脆弱，是豆腐渣工程，一下子就壊れる（こわれる）了。”,
+    "mergedScene": "可想而之这个建筑物多么脆弱，是豆腐渣工程，一下子就壊れる（こわれる）了。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “こわれる - 豆腐渣工程，可想而知多么脆弱 - 坏，破碎”,
+    "reviewTip": "こわれる - 豆腐渣工程，可想而知多么脆弱 - 坏，破碎",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -1453,7 +1453,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "サンダル - 谐音“三打路” - 穿凉鞋走三步就被热沙打脚 - 凉鞋，拖鞋",
+    "reviewTip": "サンダル - 谐音“三打路” - 穿凉鞋走三步就被热沙打脚",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -1516,7 +1516,7 @@
       {
         "element": "へんか",
         "method": "TYPE B2",
-        “bridgeC”: “へんか谐音'很卡'，想象明明玩着网络游戏，结果网速突然变化了，游戏就变得异常的卡顿，导致游戏体验极差。”
+        "bridgeC": "へんか谐音'很卡'，想象明明玩着网络游戏，结果网速突然变化了，游戏就变得异常的卡顿，导致游戏体验极差。"
       },
       {
         "element": "変=へん / 化=か",
@@ -1524,14 +1524,14 @@
         "bridgeC": "変表示变化、奇怪，化表示变成。"
       }
     ],
-    “mergedScene”: “想象明明玩着网络游戏，结果网速突然变化了（へんか），游戏就变得异常的卡顿，导致游戏体验极差。へんか谐音'很卡'。”,
+    "mergedScene": "想象明明玩着网络游戏，结果网速突然变化了（へんか），游戏就变得异常的卡顿，导致游戏体验极差。へんか谐音'很卡'。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    “reviewTip”: “へんか - 谐音'很卡' - 网速突然变化，游戏变得很卡 - 变化”,
+    "reviewTip": "へんか - 谐音'很卡' - 网速突然变化，游戏变得很卡 - 变化",
     "difficultyStars": 1,
     "exampleSentences": [
       {

@@ -50751,24 +50751,24 @@ export const n3MoatVocab: MoatVocabEntry[] = [
   },
   {
     "id": "n3-2341",
-    "word": "《海贼王》",
+    "word": "「海贼王」",
     "reading": "すス",
-    "meaning": "す ス 《海贼王》",
+    "meaning": "す ス 「海贼王」",
     "elements": [
       {
-        "element": "《海贼王》",
+        "element": "「海贼王」",
         "method": "TYPE A1",
-        "bridgeC": "汉字\"《海贼王》\"可理解为\"す ス 《海贼王》\"，读音すス"
+        "bridgeC": "汉字\"「海贼王」\"可理解为\"す ス 「海贼王」\"，读音すス"
       },
       {
         "element": "すス",
         "method": "TYPE B2",
-        "bridgeC": "读音すス对应汉字\"《海贼王》\"，意思是\"す ス 《海贼王》\""
+        "bridgeC": "读音すス对应汉字\"「海贼王」\"，意思是\"す ス 「海贼王」\""
       }
     ],
-    "mergedScene": "《海贼王》 这个汉字看起来就像\"す ス 《海贼王》\"，记住读音是すス。",
+    "mergedScene": "「海贼王」 这个汉字看起来就像\"す ス 「海贼王」\"，记住读音是すス。",
     "sceneQuality": "具体化 · 情绪化 · 生活化 · 3/3",
-    "reviewHint": "すス - 《海贼王》（汉字） - す ス 《海贼王》",
+    "reviewHint": "すス - 「海贼王」（汉字） - す ス 「海贼王」",
     "difficultyStars": 2
   },
   {

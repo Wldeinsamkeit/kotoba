@@ -5,29 +5,29 @@
     "meaning": "自行车",
     "elements": [
       {
-        "element": "自",
+        "element": "自=じ",
         "method": "固定读音",
-        "bridgeC": "自常读じ，表示自己"
+        "bridgeC": "前面的じ很像汉字「自」的发音。"
       },
       {
-        "element": "転",
-        "method": "TYPE A1",
-        "bridgeC": "転=转动，自行车靠车轮转动前进"
+        "element": "車=しゃ",
+        "method": "固定读音",
+        "bridgeC": "后面的車在复合词里固定读しゃ。"
       },
       {
-        "element": "車",
-        "method": "固定读音",
-        "bridgeC": "車常读しゃ，表示车"
+        "element": "じてんしゃ",
+        "method": "TYPE B2",
+        "bridgeC": "じてんしゃ谐音「自蹬车」，自己脚蹬的车。"
       }
     ],
-    "mergedScene": "你自己踩踏板，车轮不停转动，车才往前走。自=自己，転=转，車=车，自転車就是自己骑、轮子转的车。",
+    "mergedScene": "じてんしゃ谐音「自蹬车」——不是别人推，得自己脚蹬才走。前面じ像「自」，后面車读しゃ，合起来就是自転車、自行车。",
     "sceneScore": {
       "specific": true,
-      "emotional": false,
+      "emotional": true,
       "personal": true,
-      "total": 2
+      "total": 3
     },
-    "reviewTip": "自転車：自固定じ，転是转，車固定しゃ；自己骑、轮子转的车=自行车\n🔗 自動車=自己会动的车，区别是動。",
+    "reviewTip": "じてんしゃ - 谐音「自蹬车」；自=じ，車=しゃ - 自己脚蹬的车 - 自行车\n🔗 自動車=自己会动的车，区别是動。",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -180,19 +180,19 @@
         "bridgeC": "閉=关闭"
       },
       {
-        "element": "まる",
-        "method": "语法记忆",
-        "bridgeC": "这组里まる记自动词：门自己关上"
+        "element": "しまった",
+        "method": "关联记忆",
+        "bridgeC": "しまった像事情已经完结、门已经关上，和しまる同词根"
       }
     ],
-    "mergedScene": "风一吹，门自己合上了。你没有动手，所以是ドアが閉まる，门关上（自动）。",
+    "mergedScene": "小田出门忘带钥匙，回头一看门已经自己閉まる了，他当场喊：“しまった！！” 关了就回不去了。しまった本来就从しまる来：事情完结了，门也关上了；閉まる是自动关上，閉める才是人主动关。",
     "sceneScore": {
       "specific": true,
       "emotional": false,
       "personal": true,
       "total": 2
     },
-    "reviewTip": "閉まる：閉=关闭，まる在这组里记自动词；门自己关上=关上（自动）\n🔗 ドアが閉まる=门自己关；ドアを閉める=把门关上。",
+    "reviewTip": "しまる - しまった！！ - 出门忘带钥匙，门已经自己关上，事情完结回不去了 - 关上（自动）\n🔗 閉まる是自动关；閉める是主动关。",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -674,7 +674,7 @@
       "personal": true,
       "total": 2
     },
-    "reviewTip": "白：汉字直接表示白色；单独作名词读しろ=白色\n🔗 白=名词白色；白い=白色的。",
+    "reviewTip": "しろ - 谐音“洗了” - 脏衣服一洗了，突然变白 - 白色。",
     "difficultyStars": 1,
     "exampleSentences": [
       {

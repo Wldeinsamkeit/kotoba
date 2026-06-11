@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kotoba Japanese learning app icon">
+  <rect x="0" y="0" width="100" height="100" rx="22" fill="#fffdf8"/>
+  <path d="M28 76 V29 C28 24.5 31.5 21 36 21 H65" fill="none" stroke="#6f966e" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M79 47 V70 C79 76 76 79 70 79 H36 C31.5 79 28 75.5 28 71" fill="none" stroke="#6f966e" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M69 19 C80 19 88 27 88 39 C79 39 71 31 69 19Z" fill="none" stroke="#6f966e" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M75 26 C79 30 81 34 82 39" fill="none" stroke="#6f966e" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M82 40 C83 44 83 47 82 51" fill="none" stroke="#a8794a" stroke-width="3.3" stroke-linecap="round"/>
+  <path d="M25 78 C19 76 16 71 16 65 C22 66 26 70 28 76" fill="none" stroke="#6f966e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 76 C31 70 36 68 42 69 C39 75 35 79 28 80" fill="none" stroke="#6f966e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="51" y="63" text-anchor="middle" font-family="'Hiragino Mincho ProN', 'Yu Mincho', serif" font-size="36" font-weight="500" fill="#5f8d63">あ</text>
+</svg>

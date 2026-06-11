@@ -281,24 +281,17 @@
     "meaning": "白天、中午",
     "elements": [
       {
-        "element": "昼",
-        "method": "TYPE A1",
-        "bridgeC": "昼=白天/中午；汉字可直接积累"
+        "part": "ひる",
+        "association": "谐音“黑路”，用反差记：白天太阳亮，没有漆黑的路。"
       },
       {
-        "element": "ひる",
-        "method": "TYPE B2",
-        "bridgeC": "ひる→一热；中午太阳一热起来，就是昼"
+        "part": "昼間",
+        "association": "昼間（ひるま）可接“黑路马”，沿用昼=ひる。"
       }
     ],
-    "mergedScene": "中午太阳一热(ひる)起来，街上亮得刺眼；昼就是白天、中午。",
-    "sceneScore": {
-      "specific": true,
-      "emotional": true,
-      "personal": true,
-      "total": 3
-    },
-    "reviewTip": "ひる - 谐音“一热” - 中午太阳一热起来 - 白天、中午。",
+    "mergedScene": "白天太阳很耀眼，小田走在路上发现怎么也找不到一条漆黑的路，于是用“黑路”的反差记住ひる。到了昼間（ひるま）时，可以继续想成“黑路马”在白天路上跑。",
+    "sceneScore": null,
+    "reviewTip": "ひる - 谐音“黑路” - 白天太阳很耀眼，所以没有漆黑的路 - 白天、中午。🔗 昼間（ひるま）可接“黑路马”。",
     "difficultyStars": 2,
     "exampleSentences": [
       {

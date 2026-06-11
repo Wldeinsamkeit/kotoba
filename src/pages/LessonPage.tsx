@@ -1,14 +1,17 @@
-import { useCallback, useEffect, useMemo, useState, type MouseEvent } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { useCallback, useEffect, useMemo, useState, type MouseEvent, type ReactNode } from 'react'
+import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { useStreamingDialogue } from '../hooks/useStreamingDialogue'
-import { getLesson, lessons } from '../data/lessons'
+import { getLesson, lessonLifeOrder, lessons } from '../data/lessons'
 import { useProgress } from '../context/ProgressContext'
 import { getCharacterProfile, getCoreCharacterRoster, AFFINITY_GREETINGS, type CharacterProfile } from '../data/characters'
 import type { CharacterAffinity, DialogueChoice, Lesson, VocabItem } from '../types'
 import { getLessonMemory, type LessonMemory } from '../lib/lessonMemory'
-import { getLessonVocabulary } from '../lib/lessonVocabulary'
+import { findVocabSpansInSentence, getLessonVocabulary } from '../lib/lessonVocabulary'
+import { getLessonVocabGroupId } from '../lib/wordCardCategory'
+import { hasCollectedWordCard } from '../lib/wordCards'
 import { getLessonStory, getStorySpeakerName, type LessonStory } from '../lib/lessonStory'
 import { parseLessonTitle } from '../lib/lessonTitle'
+import { useLessonCheckMode } from '../lib/lessonCheckMode'
 import { hasLessonPassed } from '../lib/progress'
 import { toDialogueRomaji } from '../lib/romaji'
 import { anchorFromElement } from '../lib/vocabPopupPosition'
@@ -16,59 +19,6 @@ import { ShadowingButton } from '../components/ShadowingButton'
 import { AffinityBar } from '../components/AffinityBar'
 import { DialogueChoicePanel } from '../components/DialogueChoice'
 import { triggerXPToast } from '../components/XPToast'
-
-// 导入课程学习顺序，用于正确获取上一课和下一课
-const LESSON_LIFE_ORDER = [
-  'self-introduction',
-  'where-are-you-from',
-  'please-speak-slowly',
-  'campus-greeting',
-  'borrow-pen-in-class',
-  'morning-combini-breakfast',
-  'how-to-do-it',
-  'cafeteria-find-seat',
-  'what-is-this',
-  'asking-directions',
-  'which-train-to-ikebukuro',
-  'train-transfer',
-  'n4_wait_how_long',
-  'restaurant-order-lunch',
-  'restaurant-waiting-list',
-  'dont-put-wasabi',
-  'how-much-is-it',
-  'pay-by-card',
-  'atm-withdraw-cash',
-  'i-want-gloves',
-  'exchange-size',
-  'hair-salon-cut',
-  'do-you-have-omamori',
-  'can-i-take-a-photo',
-  'invite-photo',
-  'invite-go-together',
-  'meet-at-what-time',
-  'late-apology',
-  'library-books',
-  'i-have-read-it',
-  'n4_reason_because_first_time',
-  'n4_compare_outside_better',
-  'weather-plan-change',
-  'what-time-is-the-bath',
-  'hotel-check-in',
-  'laundry-machine-how-to-use',
-  'garbage-sorting',
-  'post-office-package',
-  'delivery-redelivery',
-  'throat-hurts',
-  'pharmacy-cold-medicine',
-  'clinic-reception',
-  'lost-wallet',
-  'absence-note',
-  'refuse-invitation',
-  'n3_hearsay_concert',
-  'n3_plan_intend_to_give',
-  'part-time-interview',
-  'n2_polite_request_check_japanese',
-] as const
 
 const ROMAJI_STORAGE_KEY = 'nihongo-dialogue-romaji'
 const ROMAJI_DEFAULT_LESSON_COUNT = 5
@@ -84,56 +34,6 @@ type VocabGroup = {
   title: string
   hint: string
   items: VocabItem[]
-}
-
-const GRAMMAR_TOKENS = new Set([
-  'は',
-  'が',
-  'を',
-  'に',
-  'で',
-  'と',
-  'へ',
-  'も',
-  'の',
-  'か',
-  'ね',
-  'よ',
-  'です',
-  'ます',
-  'ました',
-  'ません',
-  'から',
-  'まで',
-  'より',
-  '～です',
-])
-
-function escapeRegExp(value: string) {
-  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-}
-
-function getVocabGroupId(vocab: VocabItem): string {
-  const word = vocab.word
-  const meaning = vocab.meaning
-  if (
-    /初次见面|请多关照|一起加油|当然|谢谢|不好意思|没关系|明白|固定|口语/.test(meaning)
-  ) {
-    return 'core-phrases'
-  }
-  if (/来|学习|正在|做|说|住|习惯|见面|帮助|休息|使用|到达|加油/.test(meaning)) {
-    return 'actions'
-  }
-  if (/姓|中国|日本|东京|教室|图书馆|学生|留学生|老师|地点|时间|哪里|几点/.test(meaning)) {
-    return 'people-places'
-  }
-  if (
-    GRAMMAR_TOKENS.has(word) ||
-    /提示|表示|礼貌|疑问|语气|判断|主题|主语|对象|所属|连接|过去式|结尾/.test(meaning)
-  ) {
-    return 'grammar-particles'
-  }
-  return 'descriptors'
 }
 
 function groupVocabulary(items: VocabItem[]): VocabGroup[] {
@@ -167,7 +67,7 @@ function groupVocabulary(items: VocabItem[]): VocabGroup[] {
 
   const grouped = new Map<string, VocabItem[]>()
   items.forEach((item) => {
-    const id = getVocabGroupId(item)
+    const id = getLessonVocabGroupId(item)
     grouped.set(id, [...(grouped.get(id) ?? []), item])
   })
 
@@ -178,12 +78,15 @@ function groupVocabulary(items: VocabItem[]): VocabGroup[] {
 
 export function LessonPage() {
   const { lessonId } = useParams<{ lessonId: string }>()
+  const [searchParams] = useSearchParams()
+  const [checkMode] = useLessonCheckMode()
   const lesson = lessonId ? getLesson(lessonId) : undefined
-  const { progress: storedProgress, addAffinity, completeDailyTask } = useProgress()
+  const { progress: storedProgress, addAffinity, completeDailyTask, collectLessonWordCard } = useProgress()
 
   const [selectedVocab, setSelectedVocab] = useState<VocabItem | null>(null)
   const [vocabAnchor, setVocabAnchor] = useState<VocabAnchor | null>(null)
-  const [collectedWords, setCollectedWords] = useState<Set<string>>(new Set())
+  const [expandedVocabWord, setExpandedVocabWord] = useState<string | null>(null)
+  const [sessionCollectedCount, setSessionCollectedCount] = useState(0)
   const [shadowCount, setShadowCount] = useState(0)
   const [dialogueCompleted, setDialogueCompleted] = useState(false)
   const [pendingChoice, setPendingChoice] = useState<number | null>(null)
@@ -193,10 +96,10 @@ export function LessonPage() {
   )
 
   // 使用预定义的学习顺序来获取上一课和下一课，而不是依赖数组索引
-  const currentOrderIndex = lesson ? LESSON_LIFE_ORDER.indexOf(lesson.id as any) : -1
-  const previousLessonId = currentOrderIndex > 0 ? LESSON_LIFE_ORDER[currentOrderIndex - 1] : null
-  const nextLessonId = currentOrderIndex >= 0 && currentOrderIndex < LESSON_LIFE_ORDER.length - 1
-    ? LESSON_LIFE_ORDER[currentOrderIndex + 1]
+  const currentOrderIndex = lesson ? lessonLifeOrder.indexOf(lesson.id as (typeof lessonLifeOrder)[number]) : -1
+  const previousLessonId = currentOrderIndex > 0 ? lessonLifeOrder[currentOrderIndex - 1] : null
+  const nextLessonId = currentOrderIndex >= 0 && currentOrderIndex < lessonLifeOrder.length - 1
+    ? lessonLifeOrder[currentOrderIndex + 1]
     : null
   const previousLesson = previousLessonId ? getLesson(previousLessonId) : null
   const nextLesson = nextLessonId ? getLesson(nextLessonId) : null
@@ -214,6 +117,8 @@ export function LessonPage() {
   const showRomaji = romajiPreference ?? romajiDefaultOn
 
   const isUnlocked =
+    checkMode ||
+    searchParams.get('check') === '1' ||
     currentOrderIndex <= 0 ||
     currentLessonPassed ||
     previousLessonPassed
@@ -221,6 +126,15 @@ export function LessonPage() {
   const dialogue = lesson?.dialogue ?? []
   const lessonVocabulary = useMemo(() => getLessonVocabulary(lesson), [lesson])
   const vocabGroups = useMemo(() => groupVocabulary(lessonVocabulary), [lessonVocabulary])
+  const collectedInLessonCount = useMemo(
+    () =>
+      lesson && lessonVocabulary.length > 0
+        ? lessonVocabulary.filter((item) =>
+            hasCollectedWordCard(storedProgress, lesson.id, item.word),
+          ).length
+        : 0,
+    [lesson, lessonVocabulary, storedProgress.collectedWordCards],
+  )
   const {
     visibleLines,
     playState,
@@ -236,18 +150,34 @@ export function LessonPage() {
     setVocabAnchor(null)
   }, [])
 
+  const collectVocabCard = useCallback(
+    (vocab: VocabItem) => {
+      if (!lesson) return
+      const isNew = collectLessonWordCard(lesson.id, lesson.title, vocab)
+      if (isNew) {
+        setSessionCollectedCount((count) => count + 1)
+      }
+    },
+    [lesson, collectLessonWordCard],
+  )
+
+  const toggleVocabCard = useCallback(
+    (vocab: VocabItem) => {
+      collectVocabCard(vocab)
+      setExpandedVocabWord((current) => (current === vocab.word ? null : vocab.word))
+      closeVocab()
+    },
+    [collectVocabCard, closeVocab],
+  )
+
   const openVocab = useCallback(
     (vocab: VocabItem, target: HTMLElement) => {
       if (selectedVocab?.word === vocab.word && vocabAnchor) {
         closeVocab()
         return
       }
-      setCollectedWords((prev) => {
-        if (prev.has(vocab.word)) return prev
-        const next = new Set(prev)
-        next.add(vocab.word)
-        return next
-      })
+      collectVocabCard(vocab)
+      setExpandedVocabWord(null)
       // Add affinity to the current speaker
       if (pendingChoice !== null || visibleLines > 0) {
         const currentLine = dialogue[Math.min(visibleLines - 1, dialogue.length - 1)]
@@ -262,12 +192,22 @@ export function LessonPage() {
       const anchor = anchorFromElement(target.getBoundingClientRect())
       setVocabAnchor(anchor)
     },
-    [selectedVocab, vocabAnchor, closeVocab, dialogue, visibleLines, pendingChoice, addAffinity],
+    [
+      selectedVocab,
+      vocabAnchor,
+      closeVocab,
+      collectVocabCard,
+      dialogue,
+      visibleLines,
+      pendingChoice,
+      addAffinity,
+    ],
   )
 
   useEffect(() => {
     closeVocab()
-    setCollectedWords(new Set())
+    setExpandedVocabWord(null)
+    setSessionCollectedCount(0)
     setShadowCount(0)
     setDialogueCompleted(false)
     setPendingChoice(null)
@@ -307,10 +247,10 @@ export function LessonPage() {
 
   // Track vocab collection daily task
   useEffect(() => {
-    if (collectedWords.size >= 5) {
+    if (sessionCollectedCount >= 5) {
       completeDailyTask('daily-vocab')
     }
-  }, [collectedWords.size, completeDailyTask])
+  }, [sessionCollectedCount, completeDailyTask])
 
   // Track shadow daily task
   useEffect(() => {
@@ -433,32 +373,37 @@ export function LessonPage() {
 
   function renderInteractiveSentence(sentence: string) {
     if (!lesson) return sentence
-    const vocab = [...lessonVocabulary]
-      .filter((v) => v.word)
-      .sort((a, b) => b.word.length - a.word.length)
-    if (vocab.length === 0) return sentence
+    const spans = findVocabSpansInSentence(sentence, lessonVocabulary)
+    if (spans.length === 0) return sentence
 
-    const pattern = new RegExp(`(${vocab.map((v) => escapeRegExp(v.word)).join('|')})`, 'g')
-    return sentence.split(pattern).map((part, index) => {
-      const hit = vocab.find((v) => v.word === part)
-      if (!hit) return part
-      const isActive = selectedVocab?.word === hit.word
-      return (
+    const nodes: Array<string | ReactNode> = []
+    let cursor = 0
+    spans.forEach((span, index) => {
+      if (span.start > cursor) {
+        nodes.push(sentence.slice(cursor, span.start))
+      }
+      const isActive = selectedVocab?.word === span.item.word
+      nodes.push(
         <button
-          key={`${part}-${index}`}
+          key={`${span.item.word}-${span.start}-${index}`}
           type="button"
           className={`dialogue-word-hit${isActive ? ' is-active' : ''}`}
           onClick={(e: MouseEvent<HTMLButtonElement>) => {
             e.stopPropagation()
-            openVocab(hit, e.currentTarget)
+            openVocab(span.item, e.currentTarget)
           }}
           aria-expanded={isActive}
-          aria-label={`查看「${hit.word}」释义`}
+          aria-label={`查看「${span.item.word}」释义`}
         >
-          {part}
-        </button>
+          {span.text}
+        </button>,
       )
+      cursor = span.end
     })
+    if (cursor < sentence.length) {
+      nodes.push(sentence.slice(cursor))
+    }
+    return nodes
   }
 
   // Get a greeting based on highest affinity character
@@ -519,7 +464,7 @@ export function LessonPage() {
             level={storedProgress.level}
             totalXP={storedProgress.totalXP}
             questProgress={questProgress}
-            collectedCount={collectedWords.size}
+            collectedCount={collectedInLessonCount}
             vocabularyCount={lessonVocabulary.length}
             affinityGreeting={affinityGreeting}
           />
@@ -547,7 +492,7 @@ export function LessonPage() {
             </div>
             <div>
               <span>词卡</span>
-              <strong>{collectedWords.size}/{lessonVocabulary.length}</strong>
+              <strong>{collectedInLessonCount}/{lessonVocabulary.length}</strong>
             </div>
             <div>
               <span>跟读</span>
@@ -720,13 +665,18 @@ export function LessonPage() {
             <h2 id="vocab-heading">本单元词汇</h2>
           </div>
           <div className="vocab-collection-status">
-            词卡收集 {collectedWords.size}/{lessonVocabulary.length}
+            卡牌背包 {collectedInLessonCount}/{lessonVocabulary.length}
+            <Link className="vocab-collection-link" to="/relationships/cards">
+              查看全部 →
+            </Link>
           </div>
         </div>
         <div className="vocab-group-stack" aria-label="本课词汇分类">
           {vocabGroups.map((group) => {
             const isOpen = openVocabGroups.has(group.id)
-            const collectedInGroup = group.items.filter((v) => collectedWords.has(v.word)).length
+            const collectedInGroup = lesson
+              ? group.items.filter((v) => hasCollectedWordCard(storedProgress, lesson.id, v.word)).length
+              : 0
             return (
               <section
                 key={group.id}
@@ -756,28 +706,48 @@ export function LessonPage() {
                     aria-label={`${group.title}词卡`}
                   >
                     {group.items.map((v) => {
-                      const collected = collectedWords.has(v.word)
+                      const collected = lesson
+                        ? hasCollectedWordCard(storedProgress, lesson.id, v.word)
+                        : false
+                      const isExpanded = expandedVocabWord === v.word
+                      const memory = getLessonMemory(v)
                       return (
-                        <button
+                        <article
                           key={v.word + v.meaning}
-                          type="button"
                           className={[
                             'vocab-card',
-                            selectedVocab?.word === v.word ? 'is-active' : '',
+                            isExpanded ? 'is-expanded' : '',
                             collected ? 'is-collected' : '',
                           ].filter(Boolean).join(' ')}
-                          onClick={(e) => {
-                            e.stopPropagation()
-                            openVocab(v, e.currentTarget)
-                          }}
                         >
-                          <span className="vocab-card-token">
-                            {collected ? '已收集' : '可收集'}
-                          </span>
-                          <div className="vocab-ja">{v.word}</div>
-                          <div className="vocab-reading">{v.reading || '—'}</div>
-                          <p className="vocab-meaning">{v.meaning}</p>
-                        </button>
+                          <button
+                            type="button"
+                            className="vocab-card-hit"
+                            aria-expanded={isExpanded}
+                            onClick={() => toggleVocabCard(v)}
+                          >
+                            <span className="vocab-card-token">
+                              {collected ? '已入卡牌' : '收入卡牌'}
+                            </span>
+                            <div className="vocab-ja">{v.word}</div>
+                            <div className="vocab-reading">{v.reading || '—'}</div>
+                            <p className="vocab-meaning">{v.meaning}</p>
+                            <span className="vocab-card-expand-hint">
+                              {isExpanded ? '点击收起' : '点击展开记忆法'}
+                            </span>
+                          </button>
+                          {isExpanded && (
+                            <div className="vocab-card-detail">
+                              <p className="vocab-card-detail-label">单词意思</p>
+                              <p className="vocab-card-detail-meaning">{v.meaning}</p>
+                              <VocabMemoryBlock memory={memory} />
+                              <p className="vocab-card-collected">
+                                已收入羁绊「卡牌背包」。
+                                <Link to="/relationships/cards">去查看 →</Link>
+                              </p>
+                            </div>
+                          )}
+                        </article>
                       )
                     })}
                   </div>
@@ -869,7 +839,10 @@ export function LessonPage() {
               {selectedVocab.reading || '读音待补充'}
             </div>
             <p className="vocab-popover-meaning">{selectedVocab.meaning}</p>
-            <p className="vocab-popover-collected">记忆卡已收入本集词库</p>
+            <p className="vocab-popover-collected">
+              已收入羁绊「卡牌背包」。
+              <Link to="/relationships/cards">去查看 →</Link>
+            </p>
             {selectedMemory && <VocabMemoryBlock memory={selectedMemory} compact />}
           </div>
         </>

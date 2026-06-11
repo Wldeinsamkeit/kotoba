@@ -1,0 +1,1626 @@
+{
+  "metadata": {
+    "description": "当前待编写批次的按词关系（已去掉尚未编写记忆法的目标词）。",
+    "writingLevel": "n4",
+    "writingBatch": 15,
+    "allowedLevels": [
+      "n5",
+      "n4"
+    ],
+    "relationIndexes": [
+      "data/word_relations/n5_word_relation_index.json",
+      "data/word_relations/n4_word_relation_index.json"
+    ],
+    "writtenKeysFile": "data/word_relations/writing_scope/n4_through_batch_14_written_keys.json",
+    "writtenKeyCount": 1134,
+    "includeSameBatchTargets": true,
+    "generatedAt": "2026-06-04T06:32:12.017Z",
+    "targetWordCount": 40,
+    "relationsRawTotal": 151,
+    "relationsFilteredTotal": 71,
+    "relationsDroppedTotal": 80
+  },
+  "words": {
+    "少::しょうしょう": {
+      "id": "n4-word-0561",
+      "word": "少",
+      "reading": "しょうしょう",
+      "meaning": "々许，一点",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 3,
+      "relations": [
+        {
+          "edgeId": "n4-rel-01422",
+          "type": "same_kanji_different_reading",
+          "targetWord": "少なくとも",
+          "targetReading": "すくなくとも",
+          "targetMeaning": "少说也要，保守估计也要…",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「少」：少なくとも(すくなくとも) / 少(しょうしょう)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 2,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "メニュー::めにゅー": {
+      "id": "n4-word-0562",
+      "word": "メニュー",
+      "reading": "めにゅー",
+      "meaning": "菜单",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "今でも::いまでも": {
+      "id": "n4-word-0563",
+      "word": "今でも",
+      "reading": "いまでも",
+      "meaning": "現在の状態が過去と同じであるさま",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 9,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00187",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今すぐ",
+          "targetReading": "いますぐ",
+          "targetMeaning": "现在立即，现在立刻",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今すぐ(いますぐ) / 今でも(いまでも)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00199",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今にも",
+          "targetReading": "いまにも",
+          "targetMeaning": "马上，不久",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今にも(いまにも) / 今でも(いまでも)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01010",
+          "type": "same_kanji_different_reading",
+          "targetWord": "今",
+          "targetReading": "こん",
+          "targetMeaning": "～现……，本……",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「今」：今(こん) / 今でも(いまでも)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-02386",
+          "type": "kana_similarity",
+          "targetWord": "今にも",
+          "targetReading": "いまにも",
+          "targetMeaning": "马上，不久",
+          "memoryValue": 0.84,
+          "confidence": 0.82,
+          "suggestedStrategy": "相似假名 + 多一点/少一点/换一笔对比",
+          "note": "いまにも 和 いまでも 只差一个假名/长音/促音，适合对比记。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 4,
+        "dropped": 5,
+        "highValue": 3
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒",
+        "相似假名 + 多一点/少一点/换一笔对比"
+      ]
+    },
+    "経験::けいけん": {
+      "id": "n4-word-0564",
+      "word": "経験",
+      "reading": "けいけん",
+      "meaning": "经验，经历",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 3,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00790",
+          "type": "same_kanji_different_reading",
+          "targetWord": "経営",
+          "targetReading": "けいえい",
+          "targetMeaning": "经营，运营",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「経」：経営(けいえい) / 経験(けいけん)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00792",
+          "type": "same_kanji_different_reading",
+          "targetWord": "経済",
+          "targetReading": "けいざい",
+          "targetMeaning": "经济",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「経」：経済(けいざい) / 経験(けいけん)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01104",
+          "type": "same_kanji_different_reading",
+          "targetWord": "試験",
+          "targetReading": "しけん",
+          "targetMeaning": "试验，检验",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「験」：試験(しけん) / 経験(けいけん)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 3,
+        "dropped": 0,
+        "highValue": 3
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "比べる::くらべる": {
+      "id": "n4-word-0565",
+      "word": "比べる",
+      "reading": "くらべる",
+      "meaning": "比，比较",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "鳴く::なく": {
+      "id": "n4-word-0566",
+      "word": "鳴く",
+      "reading": "なく",
+      "meaning": "啼，鸣叫",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 2,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 2,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "出来たら::できたら": {
+      "id": "n4-word-0567",
+      "word": "出来たら",
+      "reading": "できたら",
+      "meaning": "如果可以的话……",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 12,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00364",
+          "type": "same_kanji_different_reading",
+          "targetWord": "思い出す",
+          "targetReading": "おもいだす",
+          "targetMeaning": "记起回忆起",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「出」：思い出す(おもいだす) / 出来たら(できたら)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00561",
+          "type": "same_kanji_different_reading",
+          "targetWord": "貸出",
+          "targetReading": "かしだし",
+          "targetMeaning": "放款，贷款",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「出」：貸出(かしだし) / 出来たら(できたら)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00623",
+          "type": "same_kanji_different_reading",
+          "targetWord": "考え出す",
+          "targetReading": "かんがえだす",
+          "targetMeaning": "想起来，想出来",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「出」：考え出す(かんがえだす) / 出来たら(できたら)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01234",
+          "type": "same_kanji_different_reading",
+          "targetWord": "出席",
+          "targetReading": "しゅっせき",
+          "targetMeaning": "参加，出席",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「出」：出席(しゅっせき) / 出来たら(できたら)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01245",
+          "type": "same_kanji_different_reading",
+          "targetWord": "出発",
+          "targetReading": "しゅっぱつ",
+          "targetMeaning": "出发，动身",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「出」：出発(しゅっぱつ) / 出来たら(できたら)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01298",
+          "type": "same_kanji_different_reading",
+          "targetWord": "将来",
+          "targetReading": "しょうらい",
+          "targetMeaning": "未来，前途",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「来」：将来(しょうらい) / 出来たら(できたら)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01697",
+          "type": "same_kanji_different_reading",
+          "targetWord": "出入り口",
+          "targetReading": "でいりぐち",
+          "targetMeaning": "出入口",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「出」：出入り口(でいりぐち) / 出来たら(できたら)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 7,
+        "dropped": 5,
+        "highValue": 7
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "カーテン::かーてん": {
+      "id": "n4-word-0568",
+      "word": "カーテン",
+      "reading": "かーてん",
+      "meaning": "幕",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "足す::たす": {
+      "id": "n4-word-0569",
+      "word": "足す",
+      "reading": "たす",
+      "meaning": "加",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "n4-rel-01593",
+          "type": "same_kanji_different_reading",
+          "targetWord": "足りる",
+          "targetReading": "たりる",
+          "targetMeaning": "足以，可以",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「足」：足りる(たりる) / 足す(たす)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "助ける::たすける": {
+      "id": "n4-word-0570",
+      "word": "助ける",
+      "reading": "たすける",
+      "meaning": "助，帮助",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 2,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 2,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "乱暴::らんぼう": {
+      "id": "n4-word-0571",
+      "word": "乱暴",
+      "reading": "らんぼう",
+      "meaning": "粗暴",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "記念::きねん": {
+      "id": "n4-word-0572",
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "纪念，留念为今后唤起回忆而把某物保存下来",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 2,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00700",
+          "type": "same_kanji_different_reading",
+          "targetWord": "残念",
+          "targetReading": "ざんねん",
+          "targetMeaning": "遗憾，可惜",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「念」：記念(きねん) / 残念(ざんねん)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 1,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "忘れ物::わすれもの": {
+      "id": "n4-word-0573",
+      "word": "忘れ物",
+      "reading": "わすれもの",
+      "meaning": "遗忘的东西，遗失品",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 11,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00722",
+          "type": "same_kanji_different_reading",
+          "targetWord": "着物",
+          "targetReading": "きもの",
+          "targetMeaning": "和服",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「物」：着物(きもの) / 忘れ物(わすれもの)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01317",
+          "type": "same_kanji_different_reading",
+          "targetWord": "植物",
+          "targetReading": "しょくぶつ",
+          "targetMeaning": "植物",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「物」：植物(しょくぶつ) / 忘れ物(わすれもの)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01876",
+          "type": "same_kanji_different_reading",
+          "targetWord": "乗り物",
+          "targetReading": "のりもの",
+          "targetMeaning": "乘坐物，交通工具",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「物」：乗り物(のりもの) / 忘れ物(わすれもの)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 3,
+        "dropped": 8,
+        "highValue": 3
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "大変::たいへん": {
+      "id": "n4-word-0574",
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "重大，严重",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 12,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00247",
+          "type": "same_kanji_different_reading",
+          "targetWord": "大型",
+          "targetReading": "おおがた",
+          "targetMeaning": "大型，大号",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「大」：大型(おおがた) / 大変(たいへん)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00257",
+          "type": "same_kanji_different_reading",
+          "targetWord": "大声",
+          "targetReading": "おおごえ",
+          "targetMeaning": "高声",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「大」：大声(おおごえ) / 大変(たいへん)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00274",
+          "type": "same_kanji_different_reading",
+          "targetWord": "大通り",
+          "targetReading": "おおどおり",
+          "targetMeaning": "大道，大路",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「大」：大通り(おおどおり) / 大変(たいへん)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00336",
+          "type": "same_kanji_different_reading",
+          "targetWord": "大人",
+          "targetReading": "おとな",
+          "targetMeaning": "成人，成年人",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「大」：大人(おとな) / 大変(たいへん)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01558",
+          "type": "same_kanji_different_reading",
+          "targetWord": "大部分",
+          "targetReading": "だいぶぶん",
+          "targetMeaning": "大致，多半",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「大」：大部分(だいぶぶん) / 大変(たいへん)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01571",
+          "type": "same_kanji_different_reading",
+          "targetWord": "大事",
+          "targetReading": "だいじ",
+          "targetMeaning": "重要，要紧",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「大」：大変(たいへん) / 大事(だいじ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01576",
+          "type": "same_kanji_different_reading",
+          "targetWord": "大勢",
+          "targetReading": "おおぜい",
+          "targetMeaning": "大批（的人，众多（的人",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「大」：大変(たいへん) / 大勢(おおぜい)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 7,
+        "dropped": 5,
+        "highValue": 7
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "有料::ゆうりょう": {
+      "id": "n4-word-0575",
+      "word": "有料",
+      "reading": "ゆうりょう",
+      "meaning": "收费",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 5,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00738",
+          "type": "same_kanji_different_reading",
+          "targetWord": "給料",
+          "targetReading": "きゅうりょう",
+          "targetMeaning": "工资，薪金",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「料」：給料(きゅうりょう) / 有料(ゆうりょう)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 4,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "正解::せいかい": {
+      "id": "n4-word-0576",
+      "word": "正解",
+      "reading": "せいかい",
+      "meaning": "正确的解释",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 2,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 2,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "飾る::かざる": {
+      "id": "n4-word-0577",
+      "word": "飾る",
+      "reading": "かざる",
+      "meaning": "粉饰，使自己表面上看起来很好",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "幾つか::いくつか": {
+      "id": "n4-word-0578",
+      "word": "幾つか",
+      "reading": "いくつか",
+      "meaning": "几个，一些",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 2,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00141",
+          "type": "same_kanji_different_reading",
+          "targetWord": "幾ら",
+          "targetReading": "いくら",
+          "targetMeaning": "无论怎么……（也",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「幾」：幾ら(いくら) / 幾つか(いくつか)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 1,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "教科書::きょうかしょ": {
+      "id": "n4-word-0579",
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "教科书，教材",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 6,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00385",
+          "type": "same_kanji_different_reading",
+          "targetWord": "科",
+          "targetReading": "か",
+          "targetMeaning": "专业，系",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「科」：科(か) / 教科書(きょうかしょ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00477",
+          "type": "same_kanji_different_reading",
+          "targetWord": "科学",
+          "targetReading": "かがく",
+          "targetMeaning": "[名·サ变]",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「科」：科学(かがく) / 教科書(きょうかしょ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00742",
+          "type": "same_kanji_different_reading",
+          "targetWord": "教育",
+          "targetReading": "きょういく",
+          "targetMeaning": "教育",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「教」：教育(きょういく) / 教科書(きょうかしょ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01740",
+          "type": "same_kanji_different_reading",
+          "targetWord": "電子辞書",
+          "targetReading": "でんしじしょ",
+          "targetMeaning": "电子词典",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「書」：電子辞書(でんしじしょ) / 教科書(きょうかしょ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01793",
+          "type": "same_kanji_different_reading",
+          "targetWord": "読書",
+          "targetReading": "どくしょ",
+          "targetMeaning": "看书，读书",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「書」：読書(どくしょ) / 教科書(きょうかしょ)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 5,
+        "dropped": 1,
+        "highValue": 5
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "飛行場::ひこうじょう": {
+      "id": "n4-word-0580",
+      "word": "飛行場",
+      "reading": "ひこうじょう",
+      "meaning": "机场",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 12,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00232",
+          "type": "same_kanji_different_reading",
+          "targetWord": "売り場",
+          "targetReading": "うりば",
+          "targetMeaning": "出售处，售品处",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「場」：売り場(うりば) / 飛行場(ひこうじょう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00310",
+          "type": "same_kanji_different_reading",
+          "targetWord": "行う",
+          "targetReading": "おこなう",
+          "targetMeaning": "行，做",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「行」：行う(おこなう) / 飛行場(ひこうじょう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00423",
+          "type": "same_kanji_different_reading",
+          "targetWord": "会場",
+          "targetReading": "かいじょう",
+          "targetMeaning": "会场，承载会议等集体活动的物理地点",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「場」：会場(かいじょう) / 飛行場(ひこうじょう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00903",
+          "type": "same_kanji_different_reading",
+          "targetWord": "工場",
+          "targetReading": "こうじょう",
+          "targetMeaning": "工厂，工场",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「場」：工場(こうじょう) / 飛行場(ひこうじょう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00910",
+          "type": "same_kanji_different_reading",
+          "targetWord": "工場長",
+          "targetReading": "こうじょうちょう",
+          "targetMeaning": "厂长",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「場」：工場長(こうじょうちょう) / 飛行場(ひこうじょう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01908",
+          "type": "same_kanji_different_reading",
+          "targetWord": "場所",
+          "targetReading": "ばしょ",
+          "targetMeaning": "场所，地方",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「場」：場所(ばしょ) / 飛行場(ひこうじょう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-02428",
+          "type": "kana_similarity",
+          "targetWord": "工場",
+          "targetReading": "こうじょう",
+          "targetMeaning": "工厂，工场",
+          "memoryValue": 0.84,
+          "confidence": 0.82,
+          "suggestedStrategy": "相似假名 + 多一点/少一点/换一笔对比",
+          "note": "こうじょう 和 ひこうじょう 只差一个假名/长音/促音，适合对比记。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 7,
+        "dropped": 5,
+        "highValue": 6
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒",
+        "相似假名 + 多一点/少一点/换一笔对比"
+      ]
+    },
+    "電灯::でんとう": {
+      "id": "n4-word-0581",
+      "word": "電灯",
+      "reading": "でんとう",
+      "meaning": "电灯依靠电能发光的灯",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 4,
+      "relations": [
+        {
+          "edgeId": "n4-rel-01741",
+          "type": "same_kanji_different_reading",
+          "targetWord": "電子辞書",
+          "targetReading": "でんしじしょ",
+          "targetMeaning": "电子词典",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「電」：電子辞書(でんしじしょ) / 電灯(でんとう)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 3,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "方法::ほうほう": {
+      "id": "n4-word-0582",
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "法子",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 9,
+      "relations": [
+        {
+          "edgeId": "n4-rel-01094",
+          "type": "same_kanji_different_reading",
+          "targetWord": "仕方",
+          "targetReading": "しかた",
+          "targetMeaning": "做法，做的方法",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「方」：仕方(しかた) / 方法(ほうほう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-02016",
+          "type": "same_kanji_different_reading",
+          "targetWord": "文法",
+          "targetReading": "ぶんぽう",
+          "targetMeaning": "语法",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「法」：文法(ぶんぽう) / 方法(ほうほう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-02045",
+          "type": "same_kanji_different_reading",
+          "targetWord": "方向",
+          "targetReading": "ほうこう",
+          "targetMeaning": "方针",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「方」：方向(ほうこう) / 方法(ほうほう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-02205",
+          "type": "same_kanji_different_reading",
+          "targetWord": "やり方",
+          "targetReading": "やりかた",
+          "targetMeaning": "做法，方法",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「方」：やり方(やりかた) / 方法(ほうほう)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-02506",
+          "type": "kana_similarity",
+          "targetWord": "方向",
+          "targetReading": "ほうこう",
+          "targetMeaning": "方针",
+          "memoryValue": 0.84,
+          "confidence": 0.82,
+          "suggestedStrategy": "相似假名 + 多一点/少一点/换一笔对比",
+          "note": "ほうこう 和 ほうほう 只差一个假名/长音/促音，适合对比记。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 5,
+        "dropped": 4,
+        "highValue": 4
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒",
+        "相似假名 + 多一点/少一点/换一笔对比"
+      ]
+    },
+    "可笑しい::おかしい": {
+      "id": "n4-word-0583",
+      "word": "可笑しい",
+      "reading": "おかしい",
+      "meaning": "可笑的，滑稽的",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 3,
+      "relations": [
+        {
+          "edgeId": "n4-rel-02354",
+          "type": "same_kanji_different_reading",
+          "targetWord": "笑う",
+          "targetReading": "わらう",
+          "targetMeaning": "笑",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「笑」：笑う(わらう) / 可笑しい(おかしい)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-02356",
+          "type": "same_kanji_different_reading",
+          "targetWord": "笑わせる",
+          "targetReading": "わらわせる",
+          "targetMeaning": "逗人笑",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「笑」：笑わせる(わらわせる) / 可笑しい(おかしい)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 2,
+        "dropped": 1,
+        "highValue": 2
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "精神::せいしん": {
+      "id": "n4-word-0584",
+      "word": "精神",
+      "reading": "せいしん",
+      "meaning": "心灵",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 1,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "うまい::うまい": {
+      "id": "n4-word-0585",
+      "word": "うまい",
+      "reading": "うまい",
+      "meaning": "美味的",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "いらっしゃる::いらっしゃる": {
+      "id": "n4-word-0586",
+      "word": "いらっしゃる",
+      "reading": "いらっしゃる",
+      "meaning": "等的尊敬语",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "自信::じしん": {
+      "id": "n4-word-0587",
+      "word": "自信",
+      "reading": "じしん",
+      "meaning": "信心，把握",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 5,
+      "relations": [
+        {
+          "edgeId": "n4-rel-01125",
+          "type": "same_kanji_different_reading",
+          "targetWord": "自然",
+          "targetReading": "しぜん",
+          "targetMeaning": "自然",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「自」：自然(しぜん) / 自信(じしん)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 4,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "釣る::つる": {
+      "id": "n4-word-0588",
+      "word": "釣る",
+      "reading": "つる",
+      "meaning": "购买周边，或在演出中给予特别回应等方式与宅粉互动",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00324",
+          "type": "same_kanji_different_reading",
+          "targetWord": "お釣り",
+          "targetReading": "おつり",
+          "targetMeaning": "有剩余",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「釣」：お釣り(おつり) / 釣る(つる)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 0,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "金色::こんじき": {
+      "id": "n4-word-0589",
+      "word": "金色",
+      "reading": "こんじき",
+      "meaning": "金黄色",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 9,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00759",
+          "type": "same_kanji_different_reading",
+          "targetWord": "金曜",
+          "targetReading": "きんよう",
+          "targetMeaning": "星期五，礼拜五",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「金」：金曜(きんよう) / 金色(こんじき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00800",
+          "type": "same_kanji_different_reading",
+          "targetWord": "景色",
+          "targetReading": "けしき",
+          "targetMeaning": "风景",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「色」：景色(けしき) / 金色(こんじき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01099",
+          "type": "same_kanji_different_reading",
+          "targetWord": "敷金",
+          "targetReading": "しききん",
+          "targetMeaning": "押金，保证金",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「金」：敷金(しききん) / 金色(こんじき)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-02311",
+          "type": "same_kanji_different_reading",
+          "targetWord": "礼金",
+          "targetReading": "れいきん",
+          "targetMeaning": "酬谢金",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「金」：礼金(れいきん) / 金色(こんじき)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 4,
+        "dropped": 5,
+        "highValue": 4
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "技術::ぎじゅつ": {
+      "id": "n4-word-0590",
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "meaning": "技术",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 1,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "サツマイモ::さつまいも": {
+      "id": "n4-word-0591",
+      "word": "サツマイモ",
+      "reading": "さつまいも",
+      "meaning": "红薯",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "学部::がくぶ": {
+      "id": "n4-word-0592",
+      "word": "学部",
+      "reading": "がくぶ",
+      "meaning": "系，学院",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 12,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00461",
+          "type": "same_kanji_different_reading",
+          "targetWord": "科学",
+          "targetReading": "かがく",
+          "targetMeaning": "[名·サ变]",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「学」：科学(かがく) / 学部(がくぶ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00486",
+          "type": "same_kanji_different_reading",
+          "targetWord": "学習",
+          "targetReading": "がくしゅう",
+          "targetMeaning": "学习",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「学」：学習(がくしゅう) / 学部(がくぶ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00502",
+          "type": "same_kanji_different_reading",
+          "targetWord": "学習者",
+          "targetReading": "がくしゅうしゃ",
+          "targetMeaning": "学习者",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「学」：学習者(がくしゅうしゃ) / 学部(がくぶ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00523",
+          "type": "same_kanji_different_reading",
+          "targetWord": "学年",
+          "targetReading": "がくねん",
+          "targetMeaning": "学校的年度〔年度〕",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「学」：学年(がくねん) / 学部(がくぶ)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 4,
+        "dropped": 8,
+        "highValue": 4
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "先ず::まず": {
+      "id": "n4-word-0593",
+      "word": "先ず",
+      "reading": "まず",
+      "meaning": "先，首先最初",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 3,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 3,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "作品::さくひん": {
+      "id": "n4-word-0594",
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "创作，著作",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 3,
+      "relations": [
+        {
+          "edgeId": "n4-rel-01486",
+          "type": "same_kanji_different_reading",
+          "targetWord": "操作",
+          "targetReading": "そうさ",
+          "targetMeaning": "操纵（机器等驾驶",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「作」：操作(そうさ) / 作品(さくひん)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 2,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "ストレス::すとれす": {
+      "id": "n4-word-0595",
+      "word": "ストレス",
+      "reading": "すとれす",
+      "meaning": "压力",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "ジャム::じゃむ": {
+      "id": "n4-word-0596",
+      "word": "ジャム",
+      "reading": "じゃむ",
+      "meaning": "果酱",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "為さる::なさる": {
+      "id": "n4-word-0597",
+      "word": "為さる",
+      "reading": "なさる",
+      "meaning": "为，做",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 1,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 1,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "些とも::ちっとも": {
+      "id": "n4-word-0598",
+      "word": "些とも",
+      "reading": "ちっとも",
+      "meaning": "一点(也不毫(无",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 0,
+      "relations": [],
+      "relationSummary": {
+        "total": 0,
+        "dropped": 0,
+        "highValue": 0
+      },
+      "suggestedPrimaryStrategies": []
+    },
+    "残念::ざんねん": {
+      "id": "n4-word-0599",
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "遗憾，可惜",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 3,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00700",
+          "type": "same_kanji_different_reading",
+          "targetWord": "記念",
+          "targetReading": "きねん",
+          "targetMeaning": "纪念，留念为今后唤起回忆而把某物保存下来",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「念」：記念(きねん) / 残念(ざんねん)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 1,
+        "dropped": 2,
+        "highValue": 1
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    },
+    "大事::だいじ": {
+      "id": "n4-word-0600",
+      "word": "大事",
+      "reading": "だいじ",
+      "meaning": "重要，要紧",
+      "sourceLevels": [
+        "n4"
+      ],
+      "relationsRaw": 12,
+      "relations": [
+        {
+          "edgeId": "n4-rel-00248",
+          "type": "same_kanji_different_reading",
+          "targetWord": "大型",
+          "targetReading": "おおがた",
+          "targetMeaning": "大型，大号",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「大」：大型(おおがた) / 大事(だいじ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00258",
+          "type": "same_kanji_different_reading",
+          "targetWord": "大声",
+          "targetReading": "おおごえ",
+          "targetMeaning": "高声",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「大」：大声(おおごえ) / 大事(だいじ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00275",
+          "type": "same_kanji_different_reading",
+          "targetWord": "大通り",
+          "targetReading": "おおどおり",
+          "targetMeaning": "大道，大路",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「大」：大通り(おおどおり) / 大事(だいじ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00337",
+          "type": "same_kanji_different_reading",
+          "targetWord": "大人",
+          "targetReading": "おとな",
+          "targetMeaning": "成人，成年人",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「大」：大人(おとな) / 大事(だいじ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00552",
+          "type": "same_kanji_different_reading",
+          "targetWord": "火事",
+          "targetReading": "かじ",
+          "targetMeaning": "火灾，失火",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「事」：火事(かじ) / 大事(だいじ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00894",
+          "type": "same_kanji_different_reading",
+          "targetWord": "工事",
+          "targetReading": "こうじ",
+          "targetMeaning": "工程",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「事」：工事(こうじ) / 大事(だいじ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-00993",
+          "type": "same_kanji_different_reading",
+          "targetWord": "事",
+          "targetReading": "こと",
+          "targetMeaning": "情，实",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「事」：事(こと) / 大事(だいじ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01109",
+          "type": "same_kanji_different_reading",
+          "targetWord": "事故",
+          "targetReading": "じこ",
+          "targetMeaning": "事故",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「事」：事故(じこ) / 大事(だいじ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01310",
+          "type": "same_kanji_different_reading",
+          "targetWord": "食事",
+          "targetReading": "しょくじ",
+          "targetMeaning": "饭，餐",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「事」：食事(しょくじ) / 大事(だいじ)。",
+          "targetWritten": true
+        },
+        {
+          "edgeId": "n4-rel-01366",
+          "type": "same_kanji_different_reading",
+          "targetWord": "人事",
+          "targetReading": "じんじ",
+          "targetMeaning": "人事，人力资源",
+          "memoryValue": 0.86,
+          "confidence": 0.88,
+          "suggestedStrategy": "同字不同音 + 固定读音提醒",
+          "note": "共享汉字「事」：人事(じんじ) / 大事(だいじ)。",
+          "targetWritten": true
+        }
+      ],
+      "relationSummary": {
+        "total": 10,
+        "dropped": 2,
+        "highValue": 10
+      },
+      "suggestedPrimaryStrategies": [
+        "同字不同音 + 固定读音提醒"
+      ]
+    }
+  }
+}

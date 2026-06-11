@@ -22,6 +22,9 @@ import { WordSetsPage } from './pages/WordSetsPage'
 import { RelationshipsPage } from './pages/RelationshipsPage'
 import { PricingPage } from './pages/PricingPage'
 import { LandingPage } from './pages/LandingPage'
+import { LessonCheckPage } from './pages/LessonCheckPage'
+import { CardCollectionPage } from './pages/CardCollectionPage'
+import { WordLinkMapPage } from './pages/WordLinkMapPage'
 import { isIosNativeApp } from './lib/platform'
 import { Seo } from './components/Seo'
 
@@ -67,6 +70,7 @@ export default function App() {
           <Route path="/landing" element={<LandingPage />} />
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
+            <Route path="lesson-check" element={<LessonCheckPage />} />
             <Route path="lessons" element={<LessonsPage />} />
             <Route path="lessons/:lessonId" element={<LessonPage />} />
             <Route path="lessons/:lessonId/quiz" element={<SmartQuizPage />} />
@@ -80,6 +84,7 @@ export default function App() {
             <Route path="lessons/words" element={<WordSetsPage />} />
             <Route path="lessons/words/n5" element={<N5VocabPage />} />
             <Route path="lessons/words/n4" element={<N4VocabPage />} />
+            <Route path="lessons/words/link-map" element={<WordLinkMapPage />} />
             <Route path="lessons/words/n3" element={<N3VocabPage />} />
             <Route path="lessons/words/memory" element={<Navigate to="/lessons/words" replace />} />
             <Route path="lessons/words/gaokao" element={<WordMoatPage />} />
@@ -89,6 +94,7 @@ export default function App() {
             <Route path="word-moat/n3" element={<Navigate to="/lessons/words/n3" replace />} />
             <Route path="word-moat/gaokao" element={<Navigate to="/lessons/words/gaokao" replace />} />
             <Route path="relationships" element={<RelationshipsPage />} />
+            <Route path="relationships/cards" element={<CardCollectionPage />} />
             <Route path="pricing" element={<PricingPage />} />
             <Route path="progress" element={<ProgressPage />} />
             <Route path="account" element={<AccountPage />} />

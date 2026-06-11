@@ -1,12 +1,12 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import {
-  BATCH_SIZE,
   memoryMethodsByLevel,
   type MemoryMethodEntry,
   type WordLevel,
 } from '../data/memoryMethods'
 import { getSpeechEngine, speakJapaneseAsync, speakWordAsync } from '../lib/japaneseSpeech'
+import { buildRubySegments } from '../lib/wordRuby'
 import { getSRS, type SRSReviewResult } from '../lib/srs'
 import {
   playCorrect,
@@ -24,7 +24,6 @@ type ViewMode = 'overview' | 'settings' | 'study' | 'detail'
 type QuizPhase = 'audio' | 'question' | 'answered'
 
 const GROUP_SIZE_OPTIONS = [10, 20, 30, 40, 50, 60, 70, 80]
-const N4_READY_BATCHES = 9
 
 const LEVEL_META: Record<SupportedWordLevel, {
   title: string
@@ -42,14 +41,12 @@ const LEVEL_META: Record<SupportedWordLevel, {
     title: 'N4 词汇',
     subtitle: '日常会话',
     icon: '四',
-    description: '先开放前 9 组，使用已整理过的记忆法',
+    description: '前 23 组日常词汇，配套谐音联想记忆法',
   },
 }
 
 function getLevelWords(level: SupportedWordLevel) {
-  const words = memoryMethodsByLevel[level]
-  if (level === 'n4') return words.slice(0, BATCH_SIZE * N4_READY_BATCHES)
-  return words
+  return memoryMethodsByLevel[level]
 }
 
 function hasKanji(text: string) {
@@ -80,11 +77,23 @@ async function speakStudyAudio(entry: MemoryMethodEntry) {
 
 function WordRuby({ entry, className = '' }: { entry: MemoryMethodEntry; className?: string }) {
   if (entry.reading && hasKanji(entry.word) && entry.reading !== entry.word) {
+    const segments = buildRubySegments(entry.word, entry.reading, entry.elements)
+
     return (
-      <ruby className={className}>
-        {entry.word}
-        <rt>{entry.reading}</rt>
-      </ruby>
+      <span className={`word-ruby-stack ${className}`.trim()}>
+        {segments.map((segment, index) => (
+          segment.reading ? (
+            <ruby key={`${segment.base}-${index}`}>
+              {segment.base}
+              <rt>{segment.reading}</rt>
+            </ruby>
+          ) : (
+            <span key={`${segment.base}-${index}`} className="word-ruby-plain">
+              {segment.base}
+            </span>
+          )
+        ))}
+      </span>
     )
   }
 
@@ -124,6 +133,14 @@ function buildMeaningOptions(entry: MemoryMethodEntry, pool: MemoryMethodEntry[]
 function clampIndex(index: number, length: number) {
   if (length <= 0) return 0
   return Math.min(Math.max(index, 0), length - 1)
+}
+
+function buildLinkMapHref(entry: MemoryMethodEntry) {
+  const params = new URLSearchParams({
+    word: entry.word,
+    reading: entry.reading,
+  })
+  return `/lessons/words/link-map?${params.toString()}`
 }
 
 export function WordStudyPage({ level }: { level: SupportedWordLevel }) {
@@ -299,10 +316,15 @@ export function WordStudyPage({ level }: { level: SupportedWordLevel }) {
       {view === 'settings' && (
         <SettingsView
           groupSize={groupSize}
+          intent={intent}
           levelMeta={levelMeta}
           mode={mode}
           onBack={() => setView('overview')}
           onGroupSizeChange={changeGroupSize}
+          onIntentChange={(nextIntent) => {
+            setIntent(nextIntent)
+            playSelect()
+          }}
           onModeChange={(nextMode) => {
             setMode(nextMode)
             playSelect()
@@ -459,18 +481,22 @@ function OverviewView({
 
 function SettingsView({
   groupSize,
+  intent,
   levelMeta,
   mode,
   onBack,
   onGroupSizeChange,
+  onIntentChange,
   onModeChange,
   onSave,
 }: {
   groupSize: number
+  intent: StudyIntent
   levelMeta: typeof LEVEL_META[SupportedWordLevel]
   mode: StudyMode
   onBack: () => void
   onGroupSizeChange: (size: number) => void
+  onIntentChange: (intent: StudyIntent) => void
   onModeChange: (mode: StudyMode) => void
   onSave: () => void
 }) {
@@ -520,8 +546,24 @@ function SettingsView({
       </header>
 
       <div className="word-settings-tabs" role="tablist" aria-label="学习方向">
-        <button type="button" className="active">新学</button>
-        <button type="button">复习</button>
+        <button
+          type="button"
+          role="tab"
+          className={intent === 'new' ? 'active' : ''}
+          aria-selected={intent === 'new'}
+          onClick={() => onIntentChange('new')}
+        >
+          新学
+        </button>
+        <button
+          type="button"
+          role="tab"
+          className={intent === 'review' ? 'active' : ''}
+          aria-selected={intent === 'review'}
+          onClick={() => onIntentChange('review')}
+        >
+          复习
+        </button>
       </div>
 
       <div className="word-settings-section">
@@ -621,7 +663,17 @@ function StudyView({
           <strong>{currentIndex + 1}/{sessionTotal}</strong>
           <span><i style={{ width: `${Math.min(sessionPct, 100)}%` }} /></span>
         </div>
-        <button type="button" className="word-session-detail" onClick={onDetail}>記</button>
+        <div className="word-session-actions">
+          <Link
+            to={buildLinkMapHref(entry)}
+            className="word-session-linkmap"
+            aria-label="查看链路图"
+            title="链路图"
+          >
+            链
+          </Link>
+          <button type="button" className="word-session-detail" onClick={onDetail}>記</button>
+        </div>
       </header>
 
       <button
@@ -754,7 +806,17 @@ function DetailView({
       <header className="word-session-header">
         <button type="button" onClick={onBack}>←</button>
         <strong>单词档案</strong>
-        <button type="button" onClick={() => void speakStudyWord(entry).catch(() => undefined)}>♪</button>
+        <div className="word-session-actions">
+          <Link
+            to={buildLinkMapHref(entry)}
+            className="word-session-linkmap"
+            aria-label="查看链路图"
+            title="链路图"
+          >
+            链
+          </Link>
+          <button type="button" onClick={() => void speakStudyWord(entry).catch(() => undefined)}>♪</button>
+        </div>
       </header>
 
       <article className="word-detail-card">
@@ -778,18 +840,20 @@ function DetailView({
           )}
         </section>
 
-        <section>
+        <section className="word-memory-panel">
           <h2>记忆方法</h2>
-          <p className="word-memory-scene">{entry.mergedScene}</p>
-          {entry.reviewTip && <p className="word-memory-tip">{entry.reviewTip}</p>}
-          <ul className="word-memory-elements">
-            {entry.elements.map((element, index) => (
-              <li key={`${element.element}-${index}`}>
-                <strong>{element.element}</strong>
-                <span>{element.bridgeC}</span>
-              </li>
-            ))}
-          </ul>
+          {entry.reviewTip && (
+            <div className="word-memory-block">
+              <h3>记忆技巧</h3>
+              <p>{entry.reviewTip}</p>
+            </div>
+          )}
+          {entry.mergedScene && (
+            <div className="word-memory-block">
+              <h3>场景故事</h3>
+              <p>{entry.mergedScene}</p>
+            </div>
+          )}
         </section>
       </article>
 

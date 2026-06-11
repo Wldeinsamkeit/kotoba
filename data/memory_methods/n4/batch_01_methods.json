@@ -8,24 +8,24 @@
     "partOfSpeech": "自动·五段",
     "elements": [
       {
-        "element": "合う",
-        "method": "TYPE A1",
-        "bridgeC": "合う 的汉字先提示核心意思“合适，适合”。"
+        "element": "あう",
+        "method": "谐音",
+        "bridgeC": "あう贴近“啊”，两个人见面互喊“啊”，合适就握手。"
       },
       {
-        "element": "あう",
-        "method": "TYPE B2",
-        "bridgeC": "谐音\"啊\" - 两个人见面互喊\"啊\"，合适就握手 - 合适"
+        "element": "合う",
+        "method": "汉字直觉",
+        "bridgeC": "合表示合适、相合。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，听到 あう 像“啊”，这个小插曲就代表“合适”。重点抓发音钩子：合う=合适，适合。",
+    "mergedScene": "两个人第一次见面，互相喊了一声“啊！”，觉得挺合适，立刻握手。あう像“啊”，合う就是合适、适合。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "あう - 谐音“啊” - 两个人见面互喊\"啊\"，合适就握手 - 合适，适合",
+    "reviewTip": "あう - 谐音“啊” - 两个人见面互喊“啊”，合适就握手 - 合适，适合",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -60,7 +60,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "すべる - 谐音“四白楼” - 想象从四百楼滑下来，摔死了 - 滑行滑动",
+    "reviewTip": "すべる - 谐音“四白楼” - 想象从四百楼滑下来，摔死了",
     "difficultyStars": 2,
     "exampleSentences": [
       {
@@ -100,7 +100,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "きせつ - 谐音“ki四次” - ki像刀切声，一年被切成四次 - 季节",
+    "reviewTip": "きせつ - 谐音“ki四次” - ki像刀切声，一年被切成四次",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -214,8 +214,8 @@
     "difficultyStars": 3,
     "exampleSentences": [
       {
-        "ja": "おいでになることがあります。",
-        "zh": "有时会去。"
+        "ja": "先生がおいでになります。",
+        "zh": "老师来/去。"
       }
     ]
   },
@@ -245,12 +245,12 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "犯=はん，人=にん - 固定读音 - 犯人就是犯人，读はんにん",
+    "reviewTip": "はんにん - 谐音“喊人” - 警察看到监控立刻喊人来抓，抓到的就是犯人 - 犯人。",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "犯人を使います。",
-        "zh": "使用犯人。"
+        "ja": "犯人を見つけました。",
+        "zh": "找到了犯人。"
       }
     ]
   },
@@ -298,29 +298,29 @@
     "partOfSpeech": "名·副词",
     "elements": [
       {
-        "element": "途中",
-        "method": "TYPE A1",
-        "bridgeC": "途中 的字面先给出“路上”这个方向。"
+        "element": "とちゅう",
+        "method": "谐音",
+        "bridgeC": "とちゅう贴近“偷球”，在路上偷球被抓。"
       },
       {
-        "element": "とちゅう",
-        "method": "固定读音",
-        "bridgeC": "读音 とちゅう 作为固定读法记住"
+        "element": "途中",
+        "method": "汉字直觉",
+        "bridgeC": "途中就是路上、中途。"
       }
     ],
-    "mergedScene": "在东京车站，小田拖着行李箱盯着车站指示牌，读音 とちゅう 作为固定读法记住，再用 途中 的汉字确认意思，人群和广播声一起把“路上”钉住。重点抓汉字直觉和读音绑定：途中=路上。",
+    "mergedScene": "小田在路上走着，突然有人偷球被抓个正着，围观的人喊“途中就敢偷！”とちゅう像“偷球”，记住路上、途中。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "途中 - 汉字直觉 + 固定读音 とちゅう - 放进生活场景记“路上” - 路上",
+    "reviewTip": "とちゅう - 谐音“偷球” - 路上偷球被抓个正着 - 路上，途中",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "途中へ行きます。",
-        "zh": "去路上。"
+        "ja": "途中で休みます。",
+        "zh": "在途中休息。"
       }
     ]
   },
@@ -350,12 +350,12 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "もれる - 谐音“莫了噜” - 因为漏水漏太多，最后一点都没了 - 漏，漏出",
+    "reviewTip": "もれる - 谐音“莫了噜” - 因为漏水漏太多，最后一点都没了",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "漏れることがあります。",
-        "zh": "有时会漏。"
+        "ja": "水が漏れています。",
+        "zh": "水在漏。"
       }
     ]
   },
@@ -368,29 +368,29 @@
     "partOfSpeech": "",
     "elements": [
       {
-        "element": "点",
-        "method": "TYPE A1",
-        "bridgeC": "点 的字面先给出“断句处”这个方向。"
-      },
-      {
         "element": "てん",
         "method": "固定读音",
-        "bridgeC": "读音 てん 作为固定读法记住"
+        "bridgeC": "文章里标点的“点”就是断句处、逗号。"
+      },
+      {
+        "element": "点",
+        "method": "汉字直觉",
+        "bridgeC": "点表示标点、点位。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 てん 作为固定读法记住，再用 点 的汉字确认意思，这个小插曲就代表“断句处”。重点抓汉字直觉和读音绑定：点=断句处，为了好读而的符号逗号。",
+    "mergedScene": "小田读长句读不下去，老师在旁边点上逗号：“这里打个点，断句处就清楚了。”てん就是标点里的“点”，断句处。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "点 - 汉字直觉 + 固定读音 てん - 放进生活场景记“断句处” - 断句处，为了好读而的符号逗号",
+    "reviewTip": "てん - 谐音“停” - 读文章碰到小点就停一拍，用来断句 - 标点、逗号。",
     "difficultyStars": 2,
     "exampleSentences": [
       {
-        "ja": "点を使います。",
-        "zh": "使用断句处。"
+        "ja": "点を打ちます。",
+        "zh": "打标点。"
       }
     ]
   },
@@ -405,22 +405,22 @@
       {
         "element": "マナー",
         "method": "外来语",
-        "bridgeC": "マナー 来自 manner(s)（礼貌、规矩），先用来源词绑定意思“礼貌，规矩”。"
+        "bridgeC": "来自英语 manner，礼貌、规矩。"
       }
     ],
-    "mergedScene": "在打工店的休息室，店长和小田拿着排班表和收据，看到片假名 マナー，马上联想到 manner(s)（礼貌、规矩），紧张又真实的打工场景对应“礼貌”。重点抓外来语来源：マナー=礼貌，规矩。",
+    "mergedScene": "进餐厅前，店员提醒“请注意マナー”。一想到 manner 就是礼貌和规矩，小田立刻收起大声说话的习惯。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "マナー - 外来语 manner(s)（礼貌、规矩） - 从来源词直接联想到礼貌的使用场景 - 礼貌，规矩",
+    "reviewTip": "マナー - 外来语 manner - 英语 manner 就是礼貌规矩 - 礼貌，规矩",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "マナーについて話します。",
-        "zh": "谈论礼貌。"
+        "ja": "マナーを守ります。",
+        "zh": "遵守礼貌。"
       }
     ]
   },
@@ -443,19 +443,19 @@
         "bridgeC": "隅表示角落。"
       }
     ],
-    "mergedScene": "小田把零食藏在房间最私密的角落，谁也找不到。すみ像“私密”，角落就是隅。⚠️ 不要谐音成发音不符的“扫地”。",
+    "mergedScene": "小田把零食藏在房间最私密的角落，谁也找不到。すみ像“私密”，角落就是隅。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "すみ - 谐音“私密” - 私密的角落，所以记住角落 - 角落",
+    "reviewTip": "すみ - 谐音“私密” - 私密的角落，所以记住角落",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "隅を使います。",
-        "zh": "使用角落。"
+        "ja": "部屋の隅を掃除します。",
+        "zh": "打扫房间角落。"
       }
     ]
   },
@@ -489,8 +489,8 @@
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "御陰を使います。",
-        "zh": "使用保佑。"
+        "ja": "おかげさまで元気です。",
+        "zh": "托您的福，我很健康。"
       }
     ]
   },
@@ -520,12 +520,12 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "せなか - せ谐音“赛” + なか固定读“中/里面” - 比赛谁的背大 - 背中",
+    "reviewTip": "せなか - せ像“塞”，なか=中 - 电车里书包塞在背后中间，压得背疼 - 背、脊背。",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "背中を使います。",
-        "zh": "使用背。"
+        "ja": "背中が痛いです。",
+        "zh": "背痛。"
       }
     ]
   },
@@ -555,12 +555,12 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "さか - 关联さかな(鱼) - 鱼少了な却逆流爬坡 - 坡，坡道",
+    "reviewTip": "さか - 关联さかな(鱼) - 鱼少了な却逆流爬坡",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "坂を使います。",
-        "zh": "使用坡。"
+        "ja": "坂を登ります。",
+        "zh": "爬坡。"
       }
     ]
   },
@@ -573,29 +573,29 @@
     "partOfSpeech": "他动·五段",
     "elements": [
       {
-        "element": "除く",
-        "method": "TYPE A1",
-        "bridgeC": "除く 的字面先给出“消除”这个方向。"
+        "element": "のぞく",
+        "method": "谐音",
+        "bridgeC": "のぞく贴近“挪走”，把东西挪走就是消除。"
       },
       {
-        "element": "のぞく",
-        "method": "固定读音",
-        "bridgeC": "读音 のぞく 作为固定读法记住"
+        "element": "除く",
+        "method": "汉字直觉",
+        "bridgeC": "除表示去掉、消除。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 のぞく 作为固定读法记住，再用 除く 的汉字确认意思，这个小插曲就代表“消除”。重点抓汉字直觉和读音绑定：除く=消除，去掉。",
+    "mergedScene": "名单上有个名字不对，小田把它“挪走”划掉。のぞく像“挪走”，除く就是消除、去掉。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "除く - 汉字直觉 + 固定读音 のぞく - 放进生活场景记“消除” - 消除，去掉",
+    "reviewTip": "のぞく - 谐音“挪走” - 把东西挪走就是消除 - 消除，去掉",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "除くことがあります。",
-        "zh": "有时会消除。"
+        "ja": "名前を除きます。",
+        "zh": "去掉名字。"
       }
     ]
   },
@@ -608,29 +608,29 @@
     "partOfSpeech": "自动·一段",
     "elements": [
       {
-        "element": "分かれる",
-        "method": "TYPE A1",
-        "bridgeC": "分かれる 的汉字先提示核心意思“分开，分手”。"
+        "element": "わかれる",
+        "method": "谐音",
+        "bridgeC": "わかれる贴近“挖坑路”，一条路挖坑分成两条。"
       },
       {
-        "element": "わかれる",
-        "method": "TYPE B2",
-        "bridgeC": "谐音\"挖坑路\" - \"挖坑路\"分开 - 分开"
+        "element": "分かれる",
+        "method": "汉字直觉",
+        "bridgeC": "分表示分开。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，听到 わかれる 像“挖坑路”，这个小插曲就代表“分开”。重点抓发音钩子：分かれる=分开，分手。",
+    "mergedScene": "前面修路挖了大坑，原来的路一下子分成两条。“挖坑路”分开了，わかれる就是分开、分手。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "わかれる - 谐音“挖坑路” - \"挖坑路\"分开 - 分开，分手",
+    "reviewTip": "わかれる - 谐音“挖坑路” - “挖坑路”分开两条路 - 分开，分手",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "分かれることがあります。",
-        "zh": "有时会分开。"
+        "ja": "道が分かれます。",
+        "zh": "路分岔。"
       }
     ]
   },
@@ -655,7 +655,7 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "ゆび - 谐音“有病” - 用手指着别人喊有病 - 手指，脚趾",
+    "reviewTip": "ゆび - 谐音“有病” - 用手指着别人喊有病",
     "difficultyStars": 1,
     "exampleSentences": [
       {
@@ -685,12 +685,12 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "えんりょ - 谐音“恩礼” - 关系不熟的人给恩礼，要客气地拒绝 - 客气，婉谢",
+    "reviewTip": "えんりょ - 谐音“恩礼” - 关系不熟的人给恩礼，要客气地拒绝",
     "difficultyStars": 2,
     "exampleSentences": [
       {
-        "ja": "遠慮しました。",
-        "zh": "远虑了。"
+        "ja": "遠慮なく食べてください。",
+        "zh": "别客气，请吃。"
       }
     ]
   },
@@ -724,8 +724,8 @@
     "difficultyStars": 2,
     "exampleSentences": [
       {
-        "ja": "ところでを使います。",
-        "zh": "使用话说回来。"
+        "ja": "ところで、雨が降っています。",
+        "zh": "话说回来，下雨了。"
       }
     ]
   },
@@ -755,12 +755,12 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "とっきゅう - 谐音“头Q” - 小孩吃QQ糖后头转得特别快 - 特快，特别快车",
+    "reviewTip": "とっきゅう - 谐音“头Q” - 小孩吃QQ糖后头转得特别快",
     "difficultyStars": 3,
     "exampleSentences": [
       {
-        "ja": "特急へ行きます。",
-        "zh": "去特快。"
+        "ja": "特急に乗ります。",
+        "zh": "坐特快。"
       }
     ]
   },
@@ -773,64 +773,64 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "銀色",
-        "method": "TYPE A1",
-        "bridgeC": "銀色 的字面先给出“银色”这个方向。"
+        "element": "ぎん",
+        "method": "固定读音",
+        "bridgeC": "銀读ぎん。"
       },
       {
-        "element": "ぎんいろ",
+        "element": "いろ",
         "method": "固定读音",
-        "bridgeC": "读音 ぎんいろ 作为固定读法记住"
+        "bridgeC": "色读いろ，表示颜色。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ぎんいろ 作为固定读法记住，再用 銀色 的汉字确认意思，这个小插曲就代表“银色”。重点抓汉字直觉和读音绑定：銀色=银色，银白色。",
+    "mergedScene": "小田指着停车场里那辆闪着金属光的车说：“ぎん是银，いろ是色，合起来就是银色。”",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "銀色 - 汉字直觉 + 固定读音 ぎんいろ - 放进生活场景记“银色” - 银色，银白色",
+    "reviewTip": "ぎんいろ - ぎん=银 + いろ=色 - 银色就是银的颜色 - 银色，银白色",
     "difficultyStars": 2,
     "exampleSentences": [
       {
-        "ja": "銀色を使います。",
-        "zh": "使用银色。"
+        "ja": "銀色の車。",
+        "zh": "银色的车。"
       }
     ]
   },
   {
     "word": "学年",
     "reading": "がくねん",
-    "meaning": "学校的年度〔年度〕",
+    "meaning": "学年，年级",
     "sourceIndex": 24,
     "sourceMeaningRaw": "[名] ，学校的年度〔年度〕；年级〔年次〕",
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "学年",
-        "method": "TYPE A1",
-        "bridgeC": "学年 的字面先给出“学校的年度〔年度〕”这个方向。"
+        "element": "がく",
+        "method": "固定读音",
+        "bridgeC": "学读がく。"
       },
       {
-        "element": "がくねん",
+        "element": "ねん",
         "method": "固定读音",
-        "bridgeC": "读音 がくねん 作为固定读法记住"
+        "bridgeC": "年读ねん。"
       }
     ],
-    "mergedScene": "在语言学校教室，小田坐在第一排在课本边写下 学年，读音 がくねん 作为固定读法记住，再用 学年 的汉字确认意思，老师一点名就能想起“学校的年度〔年度〕”。重点抓汉字直觉和读音绑定：学年=学校的年度〔年度〕。",
+    "mergedScene": "开学第一天，老师问：“がく是学，ねん是年，大家是同一个学年吗？”两个固定音拼起来就是がくねん，学年、年级。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "学年 - 汉字直觉 + 固定读音 がくねん - 放进生活场景记“学校的年度〔年度〕” - 学校的年度〔年度〕",
+    "reviewTip": "がくねん - がく=学 + ねん=年 - 学年和年级 - 学年，年级",
     "difficultyStars": 2,
     "exampleSentences": [
       {
-        "ja": "学年を勉強します。",
-        "zh": "学习学校的年度〔年度〕。"
+        "ja": "同じ学年です。",
+        "zh": "同年级。"
       }
     ]
   },
@@ -843,29 +843,29 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "味噌",
-        "method": "TYPE A1",
-        "bridgeC": "味噌 的字面先给出“酱”这个方向。"
+        "element": "みそ",
+        "method": "谐音",
+        "bridgeC": "みそ贴近“米嗖”，大米嗖嗖地发酵。"
       },
       {
-        "element": "みそ",
-        "method": "固定读音",
-        "bridgeC": "读音 みそ 作为固定读法记住"
+        "element": "味噌",
+        "method": "汉字直觉",
+        "bridgeC": "味噌就是酱、黄酱。"
       }
     ],
-    "mergedScene": "在学校食堂，小田端着餐盘闻到热气和酱汁味，读音 みそ 作为固定读法记住，再用 味噌 的汉字确认意思，马上想到餐盘里的“酱”。重点抓汉字直觉和读音绑定：味噌=酱，黄酱。",
+    "mergedScene": "食堂里大桶黄酱咕嘟咕嘟冒泡，小田说像“米嗖嗖”发酵出来的。みそ谐音“米嗖”，味噌就是酱、黄酱。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "味噌 - 汉字直觉 + 固定读音 みそ - 放进生活场景记“酱” - 酱，黄酱",
+    "reviewTip": "みそ - 谐音“米嗖” - 用大米嗖嗖地发酵做成的黄酱 - 酱，黄酱",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "味噌を使います。",
-        "zh": "使用酱。"
+        "ja": "味噌汁を飲みます。",
+        "zh": "喝味噌汤。"
       }
     ]
   },
@@ -880,22 +880,22 @@
       {
         "element": "ガム",
         "method": "外来语",
-        "bridgeC": "ガム 来自 gum（口香糖），先用来源词绑定意思“口香糖”。"
+        "bridgeC": "来自英语 gum，口香糖。"
       }
     ],
-    "mergedScene": "在学校食堂，小田端着餐盘闻到热气和酱汁味，看到片假名 ガム，马上联想到 gum（口香糖），马上想到餐盘里的“口香糖”。重点抓外来语来源：ガム=口香糖。",
+    "mergedScene": "小田饭后从口袋掏出一颗ガム，想到 gum 就是口香糖，立刻嚼起来清新口气。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "ガム - 外来语 gum（口香糖） - 从来源词直接联想到口香糖的使用场景 - 口香糖",
+    "reviewTip": "ガム - 外来语 gum - 英语 gum 就是口香糖 - 口香糖",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "ガムを食べます。",
-        "zh": "吃口香糖。"
+        "ja": "ガムを噛みます。",
+        "zh": "嚼口香糖。"
       }
     ]
   },
@@ -908,29 +908,29 @@
     "partOfSpeech": "自动·五段",
     "elements": [
       {
-        "element": "悲しがる",
-        "method": "TYPE A1",
-        "bridgeC": "悲しがる 的字面先给出“悲痛”这个方向。"
+        "element": "かなし",
+        "method": "词块",
+        "bridgeC": "かなし表示悲伤。"
       },
       {
-        "element": "かなしがる",
-        "method": "固定读音",
-        "bridgeC": "读音 かなしがる 作为固定读法记住"
+        "element": "がる",
+        "method": "词尾",
+        "bridgeC": "がる表示显露出来、表现出……的样子。"
       }
     ],
-    "mergedScene": "在下课后的走廊，小田和同学在走廊里夸张表演刚才的心情，读音 かなしがる 作为固定读法记住，再用 悲しがる 的汉字确认意思，表情越夸张越容易记住“悲痛”。重点抓汉字直觉和读音绑定：悲しがる=悲痛，露出难过的表情。",
+    "mergedScene": "同学失恋后一直低着头，脸上明显露出难过的表情。かなし是悲伤，がる是显露出来，悲しがる就是悲痛、露出难过样子。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "悲しがる - 汉字直觉 + 固定读音 かなしがる - 放进生活场景记“悲痛” - 悲痛，露出难过的表情",
+    "reviewTip": "かなしがる - かなし=悲伤 + がる=显露 - 显露出悲伤的样子 - 悲痛",
     "difficultyStars": 3,
     "exampleSentences": [
       {
-        "ja": "悲しがるです。",
-        "zh": "很悲痛。"
+        "ja": "彼女は悲しがっています。",
+        "zh": "她很悲伤。"
       }
     ]
   },
@@ -943,29 +943,29 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "遊園地",
-        "method": "TYPE A1",
-        "bridgeC": "遊園地 的字面先给出“游园地”这个方向。"
+        "element": "ゆうえんち",
+        "method": "谐音",
+        "bridgeC": "ゆうえんち贴近“悠远吃”，游园太远只能一路吃零食。"
       },
       {
-        "element": "ゆうえんち",
-        "method": "固定读音",
-        "bridgeC": "读音 ゆうえんち 作为固定读法记住"
+        "element": "遊園地",
+        "method": "汉字直觉",
+        "bridgeC": "遊園地就是游乐园。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 ゆうえんち 作为固定读法记住，再用 遊園地 的汉字确认意思，这个小插曲就代表“游园地”。重点抓汉字直觉和读音绑定：遊園地=游园地，娱乐场地为了游览。",
+    "mergedScene": "去遊園地排队太久，小田一路“悠远吃”零食才撑到门口。ゆうえんち像“悠远吃”，遊園地就是游乐园。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "遊園地 - 汉字直觉 + 固定读音 ゆうえんち - 放进生活场景记“游园地” - 游园地，娱乐场地为了游览",
+    "reviewTip": "ゆうえんち - 谐音“悠远吃” - 游园太悠远只能吃零食 - 游乐园",
     "difficultyStars": 3,
     "exampleSentences": [
       {
-        "ja": "遊園地を使います。",
-        "zh": "使用游园地。"
+        "ja": "遊園地へ行きます。",
+        "zh": "去游乐园。"
       }
     ]
   },
@@ -978,29 +978,29 @@
     "partOfSpeech": "",
     "elements": [
       {
-        "element": "今",
-        "method": "TYPE A1",
-        "bridgeC": "今 的字面先给出“～现……”这个方向。"
-      },
-      {
         "element": "こん",
         "method": "固定读音",
-        "bridgeC": "读音 こん 作为固定读法记住"
+        "bridgeC": "作接头词时今读こん，如今月、今週、今年。"
+      },
+      {
+        "element": "今",
+        "method": "汉字直觉",
+        "bridgeC": "今表示现在、本。"
       }
     ],
-    "mergedScene": "在房间里的日历前，小田拿着红笔在日历上圈出日期，读音 こん 作为固定读法记住，再用 今 的汉字确认意思，时间格子直接提醒“～现……”。重点抓汉字直觉和读音绑定：今=～现……，本……。",
+    "mergedScene": "日历上写着今月、今週、今年，小田发现这些词里的“今”都读こん，表示“现在的、本……”。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "今 - 汉字直觉 + 固定读音 こん - 放进生活场景记“～现……” - ～现……，本……",
+    "reviewTip": "こん - 谐音“啃” - 这周这月都在啃同一堆任务，今週/今月的今读こん - 本、现在的。",
     "difficultyStars": 2,
     "exampleSentences": [
       {
-        "ja": "今を使います。",
-        "zh": "使用～现……。"
+        "ja": "今月（こんげつ）。",
+        "zh": "这个月。"
       }
     ]
   },
@@ -1030,12 +1030,12 @@
       "personal": true,
       "total": 3
     },
-    "reviewTip": "社=しゃ，会=かい - 固定读音 - 社会就是社会，记住しゃかい",
+    "reviewTip": "しゃかい - 谐音“傻开” - 初入社会傻傻推开公司门，马上被人情世故上一课 - 社会。",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "社会について話します。",
-        "zh": "谈论社会。"
+        "ja": "社会に出ます。",
+        "zh": "进入社会。"
       }
     ]
   },
@@ -1050,27 +1050,32 @@
       {
         "element": "始=はじ",
         "method": "固定读音",
-        "bridgeC": "始在始める、始まる中大多读はじ。"
+        "bridgeC": "始在始まる、始める中都读はじ。"
       },
       {
-        "element": "める",
-        "method": "语法记忆",
-        "bridgeC": "める常见一段动词结尾。"
+        "element": "始まる",
+        "method": "对比记忆",
+        "bridgeC": "🔗 N5 学过始まる：はじまる/はじめ「哈尔滨吉林都开始修马路了」= 开始。"
+      },
+      {
+        "element": "始める",
+        "method": "自他对比",
+        "bridgeC": "始まる=自动（事情自己开始）；始める=他动（人去开始某事）。"
       }
     ],
-    "mergedScene": "看到始める，先抓住始=はじ。就像起跑线上的“开始”按钮，一按はじまる，事情开始。",
+    "mergedScene": "复习 N5 学过的始まる：新闻里哈尔滨、吉林都开始修马路了——はじまる/はじめ 都是「开始」。区别在于：始まる 是自动，课自己开始了；始める 是他动，小田要「把学习开始起来」。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "始=はじ - 固定读音 - 日语里“始”大多读はじ - 开始",
+    "reviewTip": "はじめる - 🔗 复习 N5 始まる：はじまる/はじめ「哈尔滨吉林都开始修马路了」= 开始。始まる=自动，始める=他动（人去开始某事）。",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "始めることがあります。",
-        "zh": "有时会开始。"
+        "ja": "勉強を始めます。",
+        "zh": "开始学习。"
       }
     ]
   },
@@ -1083,29 +1088,29 @@
     "partOfSpeech": "名·副词",
     "elements": [
       {
-        "element": "近頃",
-        "method": "TYPE A1",
-        "bridgeC": "近頃 的字面先给出“近来”这个方向。"
+        "element": "ちか",
+        "method": "固定读音",
+        "bridgeC": "近读ちか。"
       },
       {
-        "element": "ちかごろ",
+        "element": "ごろ",
         "method": "固定读音",
-        "bridgeC": "读音 ちかごろ 作为固定读法记住"
+        "bridgeC": "頃读ごろ，表示左右、前后时间段。"
       }
     ],
-    "mergedScene": "在房间里的日历前，小田拿着红笔在日历上圈出日期，读音 ちかごろ 作为固定读法记住，再用 近頃 的汉字确认意思，时间格子直接提醒“近来”。重点抓汉字直觉和读音绑定：近頃=近来，近日。",
+    "mergedScene": "小田翻日历说：“ちか是近，ごろ是左右这段时间，合起来近頃就是近来、近日。”",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "近頃 - 汉字直觉 + 固定读音 ちかごろ - 放进生活场景记“近来” - 近来，近日",
+    "reviewTip": "ちかごろ - ちか=近 + ごろ=左右 - 最近左右就是近来 - 近来，近日",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "近頃を使います。",
-        "zh": "使用近来。"
+        "ja": "近頃忙しいです。",
+        "zh": "最近很忙。"
       }
     ]
   },
@@ -1118,29 +1123,29 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "両方",
-        "method": "TYPE A1",
-        "bridgeC": "両方 的字面先给出“双方”这个方向。"
+        "element": "りょう",
+        "method": "固定读音",
+        "bridgeC": "両读りょう，表示两。"
       },
       {
-        "element": "りょうほう",
+        "element": "ほう",
         "method": "固定读音",
-        "bridgeC": "读音 りょうほう 作为固定读法记住"
+        "bridgeC": "方读ほう，表示方向、方面。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 りょうほう 作为固定读法记住，再用 両方 的汉字确认意思，这个小插曲就代表“双方”。重点抓汉字直觉和读音绑定：両方=双方，两者。",
+    "mergedScene": "争论时老师举手说：“りょう是两，ほう是方，両方就是双方、两者都要看。”",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "両方 - 汉字直觉 + 固定读音 りょうほう - 放进生活场景记“双方” - 双方，两者",
+    "reviewTip": "りょうほう - りょう=两 + ほう=方 - 两方就是双方 - 双方，两者",
     "difficultyStars": 3,
     "exampleSentences": [
       {
-        "ja": "両方を使います。",
-        "zh": "使用双方。"
+        "ja": "両方を見ます。",
+        "zh": "看双方。"
       }
     ]
   },
@@ -1174,8 +1179,8 @@
     "difficultyStars": 2,
     "exampleSentences": [
       {
-        "ja": "黙ることがあります。",
-        "zh": "有时会不说话。"
+        "ja": "黙って食べます。",
+        "zh": "默默吃饭。"
       }
     ]
   },
@@ -1188,29 +1193,29 @@
     "partOfSpeech": "代名",
     "elements": [
       {
-        "element": "何処か",
-        "method": "TYPE A1",
-        "bridgeC": "何処か 的字面先给出“哪里”这个方向。"
+        "element": "どこか",
+        "method": "谐音",
+        "bridgeC": "どこか贴近“何处”，就是哪里。"
       },
       {
-        "element": "どこか",
-        "method": "固定读音",
-        "bridgeC": "读音 どこか 作为固定读法记住"
+        "element": "何処か",
+        "method": "汉字直觉",
+        "bridgeC": "何処就是哪里。"
       }
     ],
-    "mergedScene": "在便利店门口，小田和朋友把刚发生的小事演了一遍，读音 どこか 作为固定读法记住，再用 何処か 的汉字确认意思，这个小插曲就代表“哪里”。重点抓汉字直觉和读音绑定：何処か=哪里，哪儿。",
+    "mergedScene": "朋友问周末去哪，小田反问：“どこか？何处？”どこか谐音“何处”，何処か就是哪里、哪儿。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "何処か - 汉字直觉 + 固定读音 どこか - 放进生活场景记“哪里” - 哪里，哪儿",
+    "reviewTip": "どこか - 谐音“何处” - 就是“哪里”的意思 - 哪里，哪儿",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "何処かを使います。",
-        "zh": "使用哪里。"
+        "ja": "どこかへ行きます。",
+        "zh": "去某处。"
       }
     ]
   },
@@ -1244,8 +1249,8 @@
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "致すことがあります。",
-        "zh": "有时会做。"
+        "ja": "よろしく致します。",
+        "zh": "请多关照。"
       }
     ]
   },
@@ -1258,29 +1263,29 @@
     "partOfSpeech": "名·形动·自动·サ变",
     "elements": [
       {
-        "element": "適当",
-        "method": "TYPE A1",
-        "bridgeC": "適当 的字面先给出“适当”这个方向。"
+        "element": "てきとう",
+        "method": "谐音",
+        "bridgeC": "てきとう贴近“铁桶”，大小正适合铁桶。"
       },
       {
-        "element": "てきとう",
-        "method": "固定读音",
-        "bridgeC": "读音 てきとう 作为固定读法记住"
+        "element": "適当",
+        "method": "汉字直觉",
+        "bridgeC": "適当表示适当、适合。"
       }
     ],
-    "mergedScene": "在打工店的休息室，店长和小田拿着排班表和收据，读音 てきとう 作为固定读法记住，再用 適当 的汉字确认意思，紧张又真实的打工场景对应“适当”。重点抓汉字直觉和读音绑定：適当=适当，适合。",
+    "mergedScene": "买收纳盒时，小田拿了一个“铁桶”大小的箱子：“这个尺寸てきとう，正合适。”適当就是适当、适合。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "適当 - 汉字直觉 + 固定读音 てきとう - 放进生活场景记“适当” - 适当，适合",
+    "reviewTip": "てきとう - 谐音“铁桶” - 大小正适合铁桶 - 适当，适合",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "適当しました。",
-        "zh": "适当了。"
+        "ja": "適当な価格。",
+        "zh": "适当的价格。"
       }
     ]
   },
@@ -1293,29 +1298,29 @@
     "partOfSpeech": "副词",
     "elements": [
       {
-        "element": "到頭",
-        "method": "TYPE A1",
-        "bridgeC": "到頭 的字面先给出“终于”这个方向。"
+        "element": "とうとう",
+        "method": "谐音",
+        "bridgeC": "とうとう贴近“偷偷”，偷偷等了半天终于等到。"
       },
       {
-        "element": "とうとう",
-        "method": "固定读音",
-        "bridgeC": "读音 とうとう 作为固定读法记住"
+        "element": "到頭",
+        "method": "汉字直觉",
+        "bridgeC": "到頭表示终于、到底。"
       }
     ],
-    "mergedScene": "在房间里的日历前，小田拿着红笔在日历上圈出日期，读音 とうとう 作为固定读法记住，再用 到頭 的汉字确认意思，时间格子直接提醒“终于”。重点抓汉字直觉和读音绑定：到頭=终于，到底。",
+    "mergedScene": "小田在车站偷偷等了半天，车终于进站，他长舒一口气：“とうとう来了！”到頭就是终于、到底。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "到頭 - 汉字直觉 + 固定读音 とうとう - 放进生活场景记“终于” - 终于，到底",
+    "reviewTip": "とうとう - 谐音“偷偷” - 偷偷等了半天，终于等到 - 终于，到底",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "到頭を使います。",
-        "zh": "使用终于。"
+        "ja": "とうとう来ました。",
+        "zh": "终于来了。"
       }
     ]
   },
@@ -1330,22 +1335,22 @@
       {
         "element": "ビル",
         "method": "外来语",
-        "bridgeC": "ビル 来自 building 的缩略（大楼），先用来源词绑定意思“大楼，高楼”。"
+        "bridgeC": "来自 building 的缩略，大楼。"
       }
     ],
-    "mergedScene": "在东京车站，小田拖着行李箱盯着车站指示牌，看到片假名 ビル，马上联想到 building 的缩略（大楼），人群和广播声一起把“大楼”钉住。重点抓外来语来源：ビル=大楼，高楼。",
+    "mergedScene": "小田抬头看东京街头高耸的ビル，想到 building 缩写成ビル，就是大楼、高楼。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "ビル - 外来语 building 的缩略（大楼） - 从来源词直接联想到大楼的使用场景 - 大楼，高楼",
+    "reviewTip": "ビル - 外来语 building - building 就是大楼 - 大楼，高楼",
     "difficultyStars": 1,
     "exampleSentences": [
       {
-        "ja": "ビルへ行きます。",
-        "zh": "去大楼。"
+        "ja": "高いビル。",
+        "zh": "高楼。"
       }
     ]
   },
@@ -1358,29 +1363,29 @@
     "partOfSpeech": "名",
     "elements": [
       {
-        "element": "真ん中",
-        "method": "TYPE A1",
-        "bridgeC": "真ん中 的字面先给出“正中”这个方向。"
+        "element": "まんなか",
+        "method": "谐音",
+        "bridgeC": "まんなか贴近“慢那卡”，慢慢卡在正中间。"
       },
       {
-        "element": "まんなか",
-        "method": "固定读音",
-        "bridgeC": "读音 まんなか 作为固定读法记住"
+        "element": "真ん中",
+        "method": "汉字直觉",
+        "bridgeC": "真ん中就是正中、正中间。"
       }
     ],
-    "mergedScene": "在小田的房间，小田蹲在地板上在房间里翻找东西，读音 まんなか 作为固定读法记住，再用 真ん中 的汉字确认意思，手边的物品自然对应“正中”。重点抓汉字直觉和读音绑定：真ん中=正中，正中间。",
+    "mergedScene": "排队时小田被挤到队伍正中间，动弹不得，像“慢那卡”在中间卡住。まんなか就是真ん中，正中。",
     "sceneScore": {
       "specific": true,
       "emotional": true,
       "personal": true,
       "total": 3
     },
-    "reviewTip": "真ん中 - 汉字直觉 + 固定读音 まんなか - 放进生活场景记“正中” - 正中，正中间",
+    "reviewTip": "まんなか - 谐音“慢那卡” - 慢慢卡在正中间 - 正中间",
     "difficultyStars": 2,
     "exampleSentences": [
       {
-        "ja": "真ん中を使います。",
-        "zh": "使用正中。"
+        "ja": "真ん中に座ります。",
+        "zh": "坐在正中间。"
       }
     ]
   }

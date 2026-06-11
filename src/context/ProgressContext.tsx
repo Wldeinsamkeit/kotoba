@@ -25,8 +25,10 @@ import {
   toggleBookmark,
   addVocabulary,
   removeVocabulary,
+  collectWordCard,
   addAffinityPoints,
 } from '../lib/progress'
+import type { VocabItem } from '../types'
 import { checkAchievements, getAchievementById } from '../lib/achievements'
 import { getXPReward, getLevelFromXP, checkLevelUp } from '../lib/xpSystem'
 import { triggerXPToast } from '../components/XPToast'
@@ -60,6 +62,11 @@ type ProgressContextValue = {
   removeVocabulary: (word: string) => void
   addXP: (amount: number, source: string) => void
   addAffinity: (characterId: string, points: number) => void
+  collectLessonWordCard: (
+    lessonId: string,
+    lessonTitle: string,
+    vocab: VocabItem,
+  ) => boolean
   checkAndUnlockAchievements: () => void
   completeDailyTask: (taskId: string) => void
   showLevelUpNotification: boolean
@@ -78,6 +85,7 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
       unlockedAchievements: loaded.unlockedAchievements ?? [],
       completedDailyTasks: loaded.completedDailyTasks ?? {},
       characterAffinity: loaded.characterAffinity ?? {},
+      collectedWordCards: loaded.collectedWordCards ?? {},
     }
   })
   const [showLevelUpNotification, setShowLevelUpNotification] = useState(false)
@@ -301,6 +309,19 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
     })
   }, [])
 
+  const collectLessonWordCard = useCallback(
+    (lessonId: string, lessonTitle: string, vocab: VocabItem) => {
+      let isNew = false
+      setProgress((p) => {
+        const result = collectWordCard(p, lessonId, lessonTitle, vocab)
+        isNew = result.isNew
+        return result.progress
+      })
+      return isNew
+    },
+    [],
+  )
+
   const checkAndUnlockAchievementsCallback = useCallback(() => {
     setProgress((p) => {
       const newAchievements = checkAchievements(p)
@@ -363,6 +384,7 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
       removeVocabulary: removeVocabularyCallback,
       addXP: addXPCallback,
       addAffinity: addAffinityCallback,
+      collectLessonWordCard,
       checkAndUnlockAchievements: checkAndUnlockAchievementsCallback,
       completeDailyTask,
       showLevelUpNotification,
@@ -384,6 +406,7 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
       removeVocabularyCallback,
       addXPCallback,
       addAffinityCallback,
+      collectLessonWordCard,
       checkAndUnlockAchievementsCallback,
       completeDailyTask,
       showLevelUpNotification,
